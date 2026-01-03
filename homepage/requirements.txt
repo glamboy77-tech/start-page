@@ -1,0 +1,4 @@
+billboard
+requests
+beautifulsoup4
+lxml
