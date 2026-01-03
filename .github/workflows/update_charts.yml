@@ -19,7 +19,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 # trends_engine.py에 필요한 라이브러리들 적기
+          pip install -r requirements.txt
 
       - name: Run trends engine
         run: python homepage/trends_engine.py
@@ -31,4 +31,3 @@ jobs:
           git add .
           git commit -m "Auto-update charts" || exit 0
           git push
-          
