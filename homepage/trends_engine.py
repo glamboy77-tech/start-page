@@ -1,4 +1,4 @@
-import billboard
+from billboard import ChartData
 import requests
 import json
 import re
@@ -77,7 +77,7 @@ def fetch_youtube_data(query):
 def fetch_billboard(chart_name='hot-100', limit=10):
     print(f"Billboard {chart_name} 차트 데이터를 가져오는 중...")
     try:
-        chart = billboard.ChartData(chart_name)
+        chart = ChartData(chart_name)
         chart_data = []
         for song in chart[:limit]:
             # 쌍따옴표 제거로 JSON 깨짐 방지
