@@ -1,4 +1,6 @@
-billboard
-requests
 beautifulsoup4
 lxml
+billboard.py
+melon-chart.py
+requests
+youtube-search-python
