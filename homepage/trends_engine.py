@@ -3,7 +3,11 @@ import requests
 import json
 import re
 from datetime import datetime, timedelta, timezone
+from pathlib import Path
 import sys
+
+# 현재 파일 기준 베이스 디렉터리 (homepage 폴더)
+BASE_DIR = Path(__file__).resolve().parent
 
 # 멜론 라이브러리 임포트 시도
 try:
@@ -37,8 +41,14 @@ def fetch_youtube_data(query):
     유튜브에서 검색하여 재생 가능한(임베드 허용) 비디오 ID와 썸네일을 가져옵니다.
     차단된 경우 [Audio], [Lyric Video] 순으로 대체 영상을 검색합니다.
     """
-    # 검색 순서: 공식 뮤직비디오 -> 가사 비디오 -> 오피셜 오디오
-    search_types = ["official music video", "lyric video", "official audio"]
+    # 검색 순서: official video -> mv -> lyrics (오디오는 마지막)
+    search_types = [
+        "official video",
+        "official music video",
+        "mv",
+        "lyric video",
+        "official audio",
+    ]
     
     clean_query = query.replace('"', '').replace("'", "")
     
@@ -208,7 +218,11 @@ def load_json_chart(filepath, json_key, chart_name):
     print(f"{chart_name} 차트 데이터를 로드하는 중...")
     chart_data = []
     try:
-        with open(filepath, 'r', encoding='utf-8') as f:
+        file_path = Path(filepath)
+        if not file_path.is_absolute():
+            file_path = BASE_DIR / file_path
+
+        with open(file_path, 'r', encoding='utf-8') as f:
             json_data = json.load(f)
         
         items = json_data.get(json_key, [])
