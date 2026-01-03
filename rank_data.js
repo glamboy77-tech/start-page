@@ -1,12 +1,12 @@
 const rankData = {
-    "last_updated": "2026-01-04 02:55:49",
+    "last_updated": "2026-01-04 03:16:25",
     "billboard": [
         {
             "rank": 1,
             "title": "All I Want For Christmas Is You",
             "artist": "Mariah Carey",
-            "image": "https://i.ytimg.com/vi/aAkMkVFwAoo/hqdefault.jpg",
-            "videoId": "aAkMkVFwAoo"
+            "image": "https://i.ytimg.com/vi/yXQViqx6GMY/hqdefault.jpg",
+            "videoId": "yXQViqx6GMY"
         },
         {
             "rank": 2,
@@ -126,8 +126,8 @@ const rankData = {
             "rank": 8,
             "title": "It Feels Like Christmas",
             "artist": "Fall Out Boy",
-            "image": "https://i.ytimg.com/vi/TRtY2sp-hsQ/hqdefault.jpg",
-            "videoId": "TRtY2sp-hsQ"
+            "image": "https://i.ytimg.com/vi/CLP15B43uNA/hqdefault.jpg",
+            "videoId": "CLP15B43uNA"
         },
         {
             "rank": 9,
