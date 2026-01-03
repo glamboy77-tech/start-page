@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trend Hub</title>
+    <!-- Google Fonts: Outfit -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@200;300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #050505;
+            --surface-color: rgba(255, 255, 255, 0.03);
+            --surface-hover: rgba(255, 255, 255, 0.08);
+            --card-bg: rgba(20, 20, 20, 0.6);
+            --text-primary: #ffffff;
+            --text-secondary: #a0a0a0;
+            --accent-blue: #4facfe;
+            --accent-purple: #a18cd1;
+            --accent-green: #00f260;
+            --accent-red: #ff5f6d;
+            --glass-border: rgba(255, 255, 255, 0.08);
+            --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            min-height: 100vh;
+            background: radial-gradient(circle at 50% 0%, #1a1a2e 0%, #050505 60%);
+            padding: 40px 20px;
+        }
+
+        header {
+            max-width: 1400px;
+            margin: 0 auto 60px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            opacity: 0;
+            animation: fadeInDown 0.8s forwards;
+        }
+
+        .header-title h1 {
+            font-size: 3rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, #fff 0%, #a0a0a0 100%);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 10px;
+        }
+
+        .header-info {
+            text-align: right;
+            color: var(--text-secondary);
+        }
+
+        .back-btn {
+            padding: 12px 24px;
+            background: var(--surface-color);
+            border: 1px solid var(--glass-border);
+            border-radius: 100px;
+            color: white;
+            text-decoration: none;
+            backdrop-filter: blur(10px);
+            transition: var(--transition);
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            font-weight: 500;
+        }
+
+        .back-btn:hover {
+            background: var(--surface-hover);
+            transform: translateX(-5px);
+            border-color: rgba(255, 255, 255, 0.2);
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 30px;
+            max-width: 1600px;
+            margin: 0 auto;
+        }
+
+        .category-column {
+            background: var(--surface-color);
+            border-radius: 24px;
+            padding: 24px;
+            border: 1px solid var(--glass-border);
+            backdrop-filter: blur(20px);
+            opacity: 0;
+            transform: translateY(20px);
+        }
+
+        .category-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 24px;
+            padding-bottom: 16px;
+            border-bottom: 1px solid var(--glass-border);
+        }
+
+        .category-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+        }
+
+        .icon-billboard {
+            background: linear-gradient(135deg, #FF5F6D 0%, #FFC371 100%);
+            box-shadow: 0 8px 16px rgba(255, 95, 109, 0.2);
+        }
+
+        .icon-melon {
+            background: linear-gradient(135deg, #00f260 0%, #0575e6 100%);
+            box-shadow: 0 8px 16px rgba(0, 242, 96, 0.2);
+        }
+
+        .icon-google-kr {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            box-shadow: 0 8px 16px rgba(79, 172, 254, 0.2);
+        }
+
+        .icon-google-us {
+            background: linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%);
+            box-shadow: 0 8px 16px rgba(161, 140, 209, 0.2);
+        }
+
+        .icon-spotify {
+            background: linear-gradient(135deg, #1DB954 0%, #191414 100%);
+            box-shadow: 0 8px 16px rgba(29, 185, 84, 0.2);
+        }
+
+        .icon-youtube {
+            background: linear-gradient(135deg, #FF0000 0%, #282828 100%);
+            box-shadow: 0 8px 16px rgba(255, 0, 0, 0.2);
+        }
+
+        .icon-shorts {
+            background: linear-gradient(135deg, #FF0000 0%, #FF8C00 100%);
+            box-shadow: 0 8px 16px rgba(255, 0, 0, 0.2);
+        }
+
+        .icon-apple {
+            background: linear-gradient(135deg, #A2AAAD 0%, #000000 100%);
+            box-shadow: 0 8px 16px rgba(162, 170, 173, 0.2);
+        }
+
+        .icon-tiktok {
+            background: linear-gradient(135deg, #EE1D52 0%, #69C9D0 100%);
+            box-shadow: 0 8px 16px rgba(238, 29, 82, 0.2);
+        }
+
+        .category-title {
+            font-size: 1.4rem;
+            font-weight: 600;
+        }
+
+        .ranking-list {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .rank-item {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            padding: 12px;
+            background: var(--card-bg);
+            border-radius: 16px;
+            border: 1px solid transparent;
+            transition: var(--transition);
+        }
+
+        .rank-item:hover {
+            background: var(--surface-hover);
+            border-color: rgba(255, 255, 255, 0.1);
+            transform: translateX(5px);
+        }
+
+        .rank-number {
+            font-size: 1.2rem;
+            font-weight: 700;
+            width: 30px;
+            text-align: center;
+            color: var(--text-secondary);
+        }
+
+        .rank-item:nth-child(1) .rank-number {
+            color: #FFD700;
+        }
+
+        .rank-item:nth-child(2) .rank-number {
+            color: #C0C0C0;
+        }
+
+        .rank-item:nth-child(3) .rank-number {
+            color: #CD7F32;
+        }
+
+        .item-image {
+            width: 48px;
+            height: 48px;
+            border-radius: 10px;
+            object-fit: cover;
+            background: #333;
+        }
+
+        .item-info {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .item-title {
+            font-weight: 500;
+            margin-bottom: 4px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .item-subtitle {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        /* Animations */
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInUp {
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Mini Player */
+        .mini-player {
+            position: fixed;
+            bottom: -400px;
+            /* Hidden initially */
+            right: 30px;
+            width: 360px;
+            height: 240px;
+            background: rgba(20, 20, 20, 0.95);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--glass-border);
+            border-radius: 16px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6);
+            transition: bottom 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+            z-index: 1000;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .mini-player.active {
+            bottom: 30px;
+        }
+
+        .player-header {
+            padding: 12px 16px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: rgba(255, 255, 255, 0.03);
+            border-bottom: 1px solid var(--glass-border);
+        }
+
+        .playing-info {
+            font-size: 0.9rem;
+            color: var(--accent-blue);
+            font-weight: 500;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: 280px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .close-btn {
+            background: none;
+            border: none;
+            color: var(--text-secondary);
+            font-size: 1.2rem;
+            cursor: pointer;
+            padding: 4px;
+            border-radius: 50%;
+            transition: var(--transition);
+            line-height: 1;
+        }
+
+        .close-btn:hover {
+            color: white;
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        .iframe-container {
+            flex: 1;
+            background: #000;
+            position: relative;
+        }
+
+        /* Loading State */
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+        }
+
+        /* Music Item Cursor */
+        .music-item {
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div class="header-title">
+            <h1>Trend Hub</h1>
+            <div id="last-updated" style="font-size: 0.9rem; color: var(--text-secondary); letter-spacing: 1px;">
+                WAITING FOR DATA...
+            </div>
+        </div>
+        <a href="../dashboard.html" class="back-btn">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M19 12H5M12 19l-7-7 7-7" />
+            </svg>
+            Dashboard
+        </a>
+    </header>
+
+    <div class="grid-container" id="content-grid">
+        <div class="loading">데이터를 불러오는 중입니다...</div>
+    </div>
+
+    <!-- YouTube Mini Player -->
+    <div id="mini-player" class="mini-player">
+        <div class="player-header">
+            <div class="playing-info" id="playing-info">
+                <span>🎵</span> Ready to play
+            </div>
+            <button onclick="closePlayer()" class="close-btn" title="Close">✕</button>
+        </div>
+        <div class="iframe-container">
+            <iframe id="yt-iframe" width="100%" height="100%" src="" frameborder="0" allow="autoplay; encrypted-media"
+                allowfullscreen></iframe>
+        </div>
+    </div>
+
+    <script src="rank_data.js"></script>
+    <script>
+        // Player Control Functions
+        function playMusic(artist, title, videoId) {
+            const player = document.getElementById('mini-player');
+            const iframe = document.getElementById('yt-iframe');
+            const info = document.getElementById('playing-info');
+
+            // Clean up strings for display
+            // Note: Arguments are already escaped in HTML, so here they are normal strings
+            const displayTitle = title;
+            const displayArtist = artist;
+
+            // Show player
+            player.classList.add('active');
+            info.innerHTML = `<span>▶</span> ${displayTitle} - ${displayArtist}`;
+
+            if (videoId && videoId !== 'null' && videoId !== 'undefined') {
+                iframe.src = `https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1`;
+            } else {
+                // Fallback to search query
+                const query = encodeURIComponent(`${displayArtist} ${displayTitle} official audio`);
+                iframe.src = `https://www.youtube.com/embed?listType=search&list=${query}&autoplay=1`;
+            }
+        }
+
+        function closePlayer() {
+            const player = document.getElementById('mini-player');
+            const iframe = document.getElementById('yt-iframe');
+
+            player.classList.remove('active');
+            // Stop video after animation
+            setTimeout(() => {
+                iframe.src = "";
+                document.getElementById('playing-info').innerHTML = `<span>🎵</span> Ready to play`;
+            }, 500);
+        }
+
+        async function fetchLiveTrends(geo) {
+            const hl = geo === 'KR' ? 'ko' : 'en-US';
+            const timestamp = new Date().getTime();
+            const rssUrl = `https://trends.google.com/trending/rss?geo=${geo}&hl=${hl}&gl=${geo}&_t=${timestamp}`;
+
+            const proxyConfigs = [
+                {
+                    url: (url) => `https://corsproxy.io/?${encodeURIComponent(url)}`,
+                    handle: res => res.text()
+                },
+                {
+                    url: (url) => `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`,
+                    handle: async res => {
+                        const json = await res.json();
+                        return json.contents;
+                    }
+                }
+            ];
+
+            for (const proxy of proxyConfigs) {
+                try {
+                    const targetUrl = proxy.url(rssUrl);
+                    const response = await fetch(targetUrl);
+                    if (!response.ok) continue;
+
+                    const xmlString = await proxy.handle(response);
+                    if (!xmlString) continue;
+
+                    const parser = new DOMParser();
+                    const xmlDoc = parser.parseFromString(xmlString, "text/xml");
+                    const items = xmlDoc.querySelectorAll("item");
+
+                    if (items && items.length > 0) {
+                        const trends = [];
+                        items.forEach((item, index) => {
+                            if (index < 10) {
+                                const titleNode = item.querySelector("title");
+                                if (titleNode) trends.push(titleNode.textContent);
+                            }
+                        });
+                        if (trends.length > 0) return trends;
+                    }
+                } catch (e) {
+                    console.warn(`Proxy failed for ${geo}:`, e);
+                }
+            }
+            return ["실시간 데이터 로딩 실패", "잠시 후 새로고침 해주세요"];
+        }
+
+        function renderColumn(colId, title, iconClass, iconSymbol, items, type) {
+            const colDiv = document.createElement('div');
+            colDiv.className = 'category-column';
+            colDiv.id = `col-${colId}`; // ID for potential updates
+
+            // Animation delay based on column index
+            const columns = [
+                'billboard', 'melon', 'billboard_rock',
+                'shazam_korea', 'spotify_global', 'youtube_shorts_korea', 'youtube_shorts_global',
+                'google_kr', 'google_us'
+            ];
+            const index = columns.indexOf(colId) !== -1 ? columns.indexOf(colId) : columns.length;
+            colDiv.style.animation = `fadeInUp 0.6s ease forwards ${index * 0.1}s`;
+
+            let listHtml = '';
+
+            if (type === 'music') {
+                // Music Chart Items
+                items.forEach(item => {
+                    const imgUrl = item.image ? item.image : 'https://via.placeholder.com/48/333/888?text=♪';
+                    // Escape quotes for HTML attribute injection
+                    const safeTitle = item.title.replace(/'/g, "\\'").replace(/"/g, "&quot;");
+                    const safeArtist = item.artist.replace(/'/g, "\\'").replace(/"/g, "&quot;");
+                    const videoId = item.videoId || null;
+
+                    listHtml += `
+                        <div class="rank-item music-item" onclick="playMusic('${safeArtist}', '${safeTitle}', '${videoId}')" title="Click to play">
+                            <div class="rank-number">${item.rank}</div>
+                            <img src="${imgUrl}" class="item-image" alt="art" onerror="this.style.display='none'">
+                            <div class="item-info">
+                                <div class="item-title">${item.title}</div>
+                                <div class="item-subtitle">${item.artist}</div>
+                            </div>
+                        </div>
+                    `;
+                });
+            } else if (type === 'keyword') {
+                // Keyword Items (initially empty or loading)
+                if (items.length === 0) {
+                    listHtml = `
+                        <div class="loading" style="padding: 20px 0;">
+                            <div class="spinner"></div>
+                            실시간 트렌드 분석 중...
+                        </div>
+                    `;
+                } else {
+                    items.forEach((keyword, idx) => {
+                        const encodedKeyword = encodeURIComponent(keyword);
+                        listHtml += `
+                            <div class="rank-item" onclick="window.open('https://www.google.com/search?q=${encodedKeyword}', '_blank')" style="cursor: pointer;" title="Search on Google">
+                                <div class="rank-number">${idx + 1}</div>
+                                <div class="item-info">
+                                    <div class="item-title">${keyword}</div>
+                                </div>
+                            </div>
+                        `;
+                    });
+                }
+            }
+
+            colDiv.innerHTML = `
+        <div class="category-header">
+            <div class="category-icon ${iconClass}">${iconSymbol}</div>
+            <div class="category-title">${title}</div>
+        </div>
+        <div class="ranking-list" id="list-${colId}">
+            ${listHtml}
+        </div>
+        `;
+
+            return colDiv;
+        }
+
+        async function updateTrendColumn(colId, geo) {
+            const listContainer = document.getElementById(`list-${colId}`);
+            if (!listContainer) return;
+
+            const trends = await fetchLiveTrends(geo);
+            let listHtml = '';
+
+            trends.forEach((keyword, idx) => {
+                const encodedKeyword = encodeURIComponent(keyword);
+                listHtml += `
+        <div class="rank-item" onclick="window.open('https://www.google.com/search?q=${encodedKeyword}', '_blank')" style="cursor: pointer;" title="Search on Google">
+            <div class="rank-number">${idx + 1}</div>
+            <div class="item-info">
+                <div class="item-title">${keyword}</div>
+            </div>
+        </div>
+        `;
+            });
+
+            // Fade out loading, fade in content
+            listContainer.style.opacity = 0;
+            setTimeout(() => {
+                listContainer.innerHTML = listHtml;
+                listContainer.style.opacity = 1;
+                listContainer.style.transition = 'opacity 0.5s ease';
+            }, 300);
+        }
+
+        async function init() {
+            const grid = document.getElementById('content-grid');
+            grid.innerHTML = '';
+
+            let billboardData = [];
+            let billboardRockData = [];
+            let melonData = [];
+            let shazamKoreaData = [];
+            let spotifyGlobalData = [];
+            let youtubeShortsKoreaData = [];
+            let youtubeShortsGlobalData = [];
+            let lastUpdated = '';
+
+            try {
+                if (typeof rankData !== 'undefined') {
+                    billboardData = rankData.billboard || [];
+                    billboardRockData = rankData.billboard_rock || [];
+                    melonData = rankData.melon || [];
+                    shazamKoreaData = rankData.shazam_korea || [];
+                    spotifyGlobalData = rankData.spotify_global || [];
+                    youtubeShortsKoreaData = rankData.youtube_shorts_korea || [];
+                    youtubeShortsGlobalData = rankData.youtube_shorts_global || [];
+                    lastUpdated = rankData.last_updated || '';
+
+                    document.getElementById('last-updated').textContent = `Music Chart Updated: ${lastUpdated}`;
+                }
+            } catch (e) {
+                console.error(e);
+            }
+
+            // 2. Render Columns
+            grid.appendChild(renderColumn('billboard', 'Billboard Hot 100', 'icon-billboard', '🎵', billboardData, 'music'));
+            grid.appendChild(renderColumn('melon', 'Melon Top 100', 'icon-melon', '🍈', melonData, 'music'));
+            grid.appendChild(renderColumn('billboard_rock', 'Billboard Hot Rock', 'icon-billboard', '🎸', billboardRockData, 'music'));
+
+            grid.appendChild(renderColumn('shazam_korea', 'Shazam Korea Top 100', 'icon-shazam', '🔍', shazamKoreaData, 'music'));
+            grid.appendChild(renderColumn('spotify_global', 'Spotify Global Top 50', 'icon-spotify', '🎧', spotifyGlobalData, 'music'));
+            grid.appendChild(renderColumn('youtube_shorts_korea', 'YouTube Shorts Korea', 'icon-shorts', '🇰🇷', youtubeShortsKoreaData, 'music'));
+            grid.appendChild(renderColumn('youtube_shorts_global', 'YouTube Shorts Global', 'icon-shorts', '🌍', youtubeShortsGlobalData, 'music'));
+
+            grid.appendChild(renderColumn('google_kr', 'KR Trends (Live)', 'icon-google-kr', '🇰🇷', [], 'keyword'));
+            grid.appendChild(renderColumn('google_us', 'US Trends (Live)', 'icon-google-us', '🇺🇸', [], 'keyword'));
+
+            // 3. Trigger Async Fetch for Trends
+            updateTrendColumn('google_kr', 'KR');
+            updateTrendColumn('google_us', 'US');
+        }
+
+        // Initialize on load
+        init();
+
+        // Optional: Manual refresh of trends every 10 min without reloading page
+        setInterval(() => {
+            updateTrendColumn('google_kr', 'KR');
+            updateTrendColumn('google_us', 'US');
+        }, 600000);
+
+    </script>
+</body>
+
+</html>
