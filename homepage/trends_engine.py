@@ -1,4 +1,4 @@
-import billboard
+import billboardpy as billboard
 import requests
 import json
 import re
