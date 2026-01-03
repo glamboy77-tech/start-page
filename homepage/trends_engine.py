@@ -37,8 +37,8 @@ def fetch_youtube_data(query):
     유튜브에서 검색하여 재생 가능한(임베드 허용) 비디오 ID와 썸네일을 가져옵니다.
     차단된 경우 [Audio], [Lyric Video] 순으로 대체 영상을 검색합니다.
     """
-    # 검색 순서: 가급적 오디오/가사 버전이 재생 성공률이 높으므로 이를 포함하여 시도
-    search_types = ["official audio", "lyric video", "official music video"]
+    # 검색 순서: 공식 뮤직비디오 -> 가사 비디오 -> 오피셜 오디오
+    search_types = ["official music video", "lyric video", "official audio"]
     
     clean_query = query.replace('"', '').replace("'", "")
     
