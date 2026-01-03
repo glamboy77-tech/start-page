@@ -264,10 +264,10 @@ def main():
     billboard_hot100 = fetch_billboard('hot-100')
     billboard_rock = fetch_billboard('hot-rock-songs')
     melon_data = fetch_melon()
-    shazam_korea = load_json_chart('data/shazam_korea.json', 'shazam_korea', 'Shazam Korea')
-    spotify_global = load_json_chart('data/spotify_global.json', 'spotify_global', 'Spotify Global')
-    youtube_shorts_korea = load_json_chart('data/youtube_shorts_korea.json', 'youtube_shorts_korea', 'YouTube Shorts Korea')
-    youtube_shorts_global = load_json_chart('data/youtube_shorts_global.json', 'youtube_shorts_global', 'YouTube Shorts Global')
+    shazam_korea = load_json_chart('homepage/data/shazam_korea.json', 'shazam_korea', 'Shazam Korea')
+    spotify_global = load_json_chart('homepage/data/spotify_global.json', 'spotify_global', 'Spotify Global')
+    youtube_shorts_korea = load_json_chart('homepage/data/youtube_shorts_korea.json', 'youtube_shorts_korea', 'YouTube Shorts Korea')
+    youtube_shorts_global = load_json_chart('homepage/data/youtube_shorts_global.json', 'youtube_shorts_global', 'YouTube Shorts Global')
     
     # KST (한국 시간) 생성
     kst = timezone(timedelta(hours=9))
