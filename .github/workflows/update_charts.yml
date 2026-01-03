@@ -1,0 +1,34 @@
+name: Daily Chart Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 매일 자정(UTC)에 자동으로 실행
+  workflow_dispatch: # 동욱씨가 깃허브 사이트에서 버튼 눌러서 직접 실행할 수도 있게 함
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 # trends_engine.py에 필요한 라이브러리들 적기
+
+      - name: Run trends engine
+        run: python homepage/trends_engine.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Auto-update charts" || exit 0
+          git push
+          
