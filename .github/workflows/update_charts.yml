@@ -50,4 +50,6 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
           git commit -m "Auto-update: 차트 캡처 및 사이트 빌드 완료 🎸" || exit 0
+          # 단순히 push가 아니라, pull을 먼저 해서 합친 뒤에 올리도록 수정
+          git pull --rebase origin main
           git push
