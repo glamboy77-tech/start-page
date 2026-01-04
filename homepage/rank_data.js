@@ -1,16 +1,12 @@
 const rankData = {
-<<<<<<< HEAD
-    "last_updated": "2026-01-04 14:52:07",
-=======
-    "last_updated": "2026-01-04 13:22:20",
->>>>>>> 03126b6572e7a6675d345e40e859c73860cce541
+    "last_updated": "2026-01-04 15:16:50",
     "billboard": [
         {
             "rank": 1,
             "title": "All I Want For Christmas Is You",
             "artist": "Mariah Carey",
-            "image": "https://i.ytimg.com/vi/yXQViqx6GMY/hqdefault.jpg",
-            "videoId": "yXQViqx6GMY"
+            "image": "https://i.ytimg.com/vi/aAkMkVFwAoo/hqdefault.jpg",
+            "videoId": "aAkMkVFwAoo"
         },
         {
             "rank": 2,
@@ -148,9 +144,6 @@ const rankData = {
             "videoId": "emQR5uPavic"
         }
     ],
-<<<<<<< HEAD
-    "melon": [],
-=======
     "melon": [
         {
             "rank": 1,
@@ -184,8 +177,8 @@ const rankData = {
             "rank": 5,
             "title": "Golden",
             "artist": "HUNTR/X",
-            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
-            "videoId": "hohuFW0zQUw"
+            "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
+            "videoId": "yebNIHKAC4A"
         },
         {
             "rank": 6,
@@ -223,91 +216,76 @@ const rankData = {
             "videoId": "cth2jj6W-Tg"
         }
     ],
->>>>>>> 03126b6572e7a6675d345e40e859c73860cce541
     "shazam_korea": [
         {
             "rank": 1,
-            "title": "그대 작은 나의 세상이 되어",
-            "artist": "카더가든",
+            "title": "My whole world",
+            "artist": "CAR, THE GARDEN",
             "image": "https://i.ytimg.com/vi/ZurHW2kBqrw/hqdefault.jpg",
             "videoId": "ZurHW2kBqrw"
         },
         {
             "rank": 2,
-            "title": "사랑은 봄비처럼...이별은 겨울비처럼",
-            "artist": "임현정",
-            "image": "https://i.ytimg.com/vi/LmG1rPr5nbw/hqdefault.jpg",
-            "videoId": "LmG1rPr5nbw"
+            "title": "WHERE YOU AT",
+            "artist": "ALLDAY PROJECT, ANNIE & WOOGIE",
+            "image": "https://i.ytimg.com/vi/-1pIaxC4F38/hqdefault.jpg",
+            "videoId": "-1pIaxC4F38"
         },
         {
             "rank": 3,
-<<<<<<< HEAD
-            "title": "End of Beginning",
-            "artist": "Djo",
-            "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
-            "videoId": "aH7gkoBpN3s"
-=======
-            "title": "WHERE YOU AT",
-            "artist": "ALLDAY PROJECT, ANNIE & WOOCHAN",
-            "image": "https://i.ytimg.com/vi/wEiZfR3S024/hqdefault.jpg",
-            "videoId": "wEiZfR3S024"
->>>>>>> 03126b6572e7a6675d345e40e859c73860cce541
+            "title": "사랑은 불시착처럼...이별은 겨울비처럼",
+            "artist": "Lim Hyunjung",
+            "image": "https://i.ytimg.com/vi/tiB-H2e2qq4/hqdefault.jpg",
+            "videoId": "tiB-H2e2qq4"
         },
         {
             "rank": 4,
+            "title": "Super Rich Kids (feat. Earl Sweatshirt)",
+            "artist": "Frank Ocean",
+            "image": "https://i.ytimg.com/vi/XAGi0ANke6Y/hqdefault.jpg",
+            "videoId": "XAGi0ANke6Y"
+        },
+        {
+            "rank": 5,
             "title": "Gen Seigen March",
-            "artist": "Yu.",
+            "artist": "Kiiu_",
             "image": "https://i.ytimg.com/vi/DyzhHyI4noQ/hqdefault.jpg",
             "videoId": "DyzhHyI4noQ"
         },
         {
-            "rank": 5,
+            "rank": 6,
+            "title": "Gameboy",
+            "artist": "RYO SAKAI",
+            "image": "https://i.ytimg.com/vi/AkZuyPCxiVI/hqdefault.jpg",
+            "videoId": "AkZuyPCxiVI"
+        },
+        {
+            "rank": 7,
+            "title": "End of Beginning",
+            "artist": "Djo",
+            "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
+            "videoId": "aH7gkoBpN3s"
+        },
+        {
+            "rank": 8,
+            "title": "HQT (힙합)",
+            "artist": "ALLDAY PROJECT, TARZZAN & WOOGIE",
+            "image": "https://i.ytimg.com/vi/dB_r_6Qi1lM/hqdefault.jpg",
+            "videoId": "dB_r_6Qi1lM"
+        },
+        {
+            "rank": 9,
             "title": "Close to you",
             "artist": "SOLE & THAMA",
             "image": "https://i.ytimg.com/vi/RuORKyaDPCo/hqdefault.jpg",
             "videoId": "RuORKyaDPCo"
         },
         {
-            "rank": 6,
-            "title": "“Heroes” (2017 Remaster)",
-            "artist": "David Bowie",
-            "image": "https://i.ytimg.com/vi/44FId4BpMx0/hqdefault.jpg",
-            "videoId": "44FId4BpMx0"
-        },
-        {
-            "rank": 7,
-            "title": "2025",
-            "artist": "8bite",
-            "image": "https://i.ytimg.com/vi/_zUDYguXE98/hqdefault.jpg",
-            "videoId": "_zUDYguXE98"
-        },
-        {
-            "rank": 8,
-<<<<<<< HEAD
-            "title": "Gameboy",
-            "artist": "최도휘 (CHOIDOHWI)",
-            "image": "https://i.ytimg.com/vi/-e4NxiEsJ_Y/hqdefault.jpg",
-            "videoId": "-e4NxiEsJ_Y"
-=======
-            "title": "사랑은 봄비처럼...이별은 겨울비처럼",
-            "artist": "임현정",
-            "image": "https://i.ytimg.com/vi/LmG1rPr5nbw/hqdefault.jpg",
-            "videoId": "LmG1rPr5nbw"
->>>>>>> 03126b6572e7a6675d345e40e859c73860cce541
-        },
-        {
-            "rank": 9,
-            "title": "함께 (From.“응답하라 1988, Pt. 7”)",
-            "artist": "노을",
-            "image": "https://i.ytimg.com/vi/c-WBmg7RG4s/hqdefault.jpg",
-            "videoId": "c-WBmg7RG4s"
-        },
-        {
             "rank": 10,
-            "title": "Sticky Like",
-            "artist": "HIZY",
-            "image": "https://i.ytimg.com/vi/5_eRCI0Qzw4/hqdefault.jpg",
-            "videoId": "5_eRCI0Qzw4"
+            "title": "2020",
+            "artist": "Ashira",
+            "image": "https://i.ytimg.com/vi/iOB9_6G1ABo/hqdefault.jpg",
+            "videoId": "iOB9_6G1ABo"
         }
     ],
     "shazam_global": [
@@ -322,8 +300,8 @@ const rankData = {
             "rank": 2,
             "title": "Heroes (2017 Remaster)",
             "artist": "David Bowie",
-            "image": "https://i.ytimg.com/vi/44FId4BpMx0/hqdefault.jpg",
-            "videoId": "44FId4BpMx0"
+            "image": "https://i.ytimg.com/vi/lXgkuM2NhYI/hqdefault.jpg",
+            "videoId": "lXgkuM2NhYI"
         },
         {
             "rank": 3,
@@ -348,10 +326,10 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "When It's Cold I'd Like to Die (feat. Mimi Page)",
+            "title": "When It's Cold I'd Like to Die (feat. Mimi Parker)",
             "artist": "Moby",
-            "image": "https://i.ytimg.com/vi/9zZfBBp-j6I/hqdefault.jpg",
-            "videoId": "9zZfBBp-j6I"
+            "image": "https://i.ytimg.com/vi/kFyuSMf-PtQ/hqdefault.jpg",
+            "videoId": "kFyuSMf-PtQ"
         },
         {
             "rank": 7,
@@ -363,9 +341,9 @@ const rankData = {
         {
             "rank": 8,
             "title": "What You Saying",
-            "artist": "Lil Uzi Vert",
-            "image": "https://i.ytimg.com/vi/s_TUESTU7_4/hqdefault.jpg",
-            "videoId": "s_TUESTU7_4"
+            "artist": "Mustard Ven",
+            "image": "https://i.ytimg.com/vi/JNosRmcjSgc/hqdefault.jpg",
+            "videoId": "JNosRmcjSgc"
         },
         {
             "rank": 9,
@@ -385,8 +363,8 @@ const rankData = {
     "youtube_shorts_korea": [
         {
             "rank": 1,
-            "title": "NOT CUTE ANOMORE",
-            "artist": "김성환 (ELUT)",
+            "title": "NOT CUTE ANYMORE",
+            "artist": "ALl IT",
             "image": "https://i.ytimg.com/vi/x_RYZsOfpKY/hqdefault.jpg",
             "videoId": "x_RYZsOfpKY"
         },
@@ -407,42 +385,32 @@ const rankData = {
         {
             "rank": 4,
             "title": "So Cute",
-            "artist": "김성환",
+            "artist": "김선한",
             "image": "https://i.ytimg.com/vi/kVLen4bFlNI/hqdefault.jpg",
             "videoId": "kVLen4bFlNI"
         },
         {
             "rank": 5,
-            "title": "SPAGHETTI (feat. 제이홉)",
-            "artist": "르세라핌",
+            "title": "SPAGHETTI (feat. J-hope)",
+            "artist": "LE SSERAFIM",
             "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
             "videoId": "TvVtYaqCni8"
         },
         {
             "rank": 6,
-            "title": "海のドルフィン",
-            "artist": "하마다 킨고",
+            "title": "街のドルフィン",
+            "artist": "Kingo Hamada",
             "image": "https://i.ytimg.com/vi/x2aA6GEEABA/hqdefault.jpg",
             "videoId": "x2aA6GEEABA"
         },
         {
             "rank": 7,
             "title": "Good Goodbye",
-            "artist": "화사",
+            "artist": "Hwasa",
             "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
             "videoId": "Qe8fa4b5xNU"
         },
         {
-<<<<<<< HEAD
-=======
-            "rank": 7,
-            "title": "SPAGHETTI (feat. 제이홉)",
-            "artist": "르세라핌",
-            "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
-            "videoId": "TvVtYaqCni8"
-        },
-        {
->>>>>>> 03126b6572e7a6675d345e40e859c73860cce541
             "rank": 8,
             "title": "Miniskirt (Inst) (Instrumental)",
             "artist": "AOA",
@@ -451,17 +419,10 @@ const rankData = {
         },
         {
             "rank": 9,
-<<<<<<< HEAD
-            "title": "NO BATIDAO (SPED UP)",
-            "artist": "ZXYKAI & Slaughter",
-            "image": "https://i.ytimg.com/vi/LUJroYVDYao/hqdefault.jpg",
-            "videoId": "LUJroYVDYao"
-=======
-            "title": "NO BATIDÃO (SLOWED)",
-            "artist": "ZXKAI & sixughter",
-            "image": "https://i.ytimg.com/vi/sWiLyczAsN4/hqdefault.jpg",
-            "videoId": "sWiLyczAsN4"
->>>>>>> 03126b6572e7a6675d345e40e859c73860cce541
+            "title": "NO BAIRRO (SLOWED)",
+            "artist": "ZXXAI & slxuughter",
+            "image": "https://i.ytimg.com/vi/avoC7RnFovg/hqdefault.jpg",
+            "videoId": "avoC7RnFovg"
         },
         {
             "rank": 10,
@@ -474,31 +435,31 @@ const rankData = {
     "youtube_shorts_global": [
         {
             "rank": 1,
-            "title": "فهمة",
-            "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/1gdc_WWHUwg/hqdefault.jpg",
-            "videoId": "1gdc_WWHUwg"
+            "title": "قصه",
+            "artist": "Flipperrachi",
+            "image": "https://i.ytimg.com/vi/fwd7jcQzVgk/hqdefault.jpg",
+            "videoId": "fwd7jcQzVgk"
         },
         {
             "rank": 2,
-            "title": "PASSO BEM",
-            "artist": "SOLTO (Slowed)",
+            "title": "PASSO REM SOLTO (Slowed)",
+            "artist": "ATLXS",
             "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
             "videoId": "KgayxOF4Y7E"
         },
         {
             "rank": 3,
-            "title": "Ishq Jalakar - Karvaan",
-            "artist": "Shahzad Ali",
+            "title": "Ishq Jalakar",
+            "artist": "Shashwat Sachdev , Shahzad Ali , Diljaan",
             "image": "https://i.ytimg.com/vi/8qCVXCFREkQ/hqdefault.jpg",
             "videoId": "8qCVXCFREkQ"
         },
         {
             "rank": 4,
-            "title": "NO BATIDAO (Slowed)",
-            "artist": "ZXXAI & Baughter",
-            "image": "https://i.ytimg.com/vi/n3e9lwoAmj4/hqdefault.jpg",
-            "videoId": "n3e9lwoAmj4"
+            "title": "NO PATICAO (SLOWED)",
+            "artist": "ZXKAI & slxughter",
+            "image": "https://i.ytimg.com/vi/3Hudiu2ixAY/hqdefault.jpg",
+            "videoId": "3Hudiu2ixAY"
         },
         {
             "rank": 5,
@@ -510,21 +471,21 @@ const rankData = {
         {
             "rank": 6,
             "title": "Montagem Miau (Slowed)",
-            "artist": "Lznar",
-            "image": "https://i.ytimg.com/vi/IS4LamwYt9I/hqdefault.jpg",
-            "videoId": "IS4LamwYt9I"
+            "artist": "Lenar",
+            "image": "https://i.ytimg.com/vi/4PSNNk0C5JY/hqdefault.jpg",
+            "videoId": "4PSNNk0C5JY"
         },
         {
             "rank": 7,
             "title": "Big Guy",
-            "artist": "Ice Spice",
+            "artist": "Ice spice",
             "image": "https://i.ytimg.com/vi/gDb91xKfa4E/hqdefault.jpg",
             "videoId": "gDb91xKfa4E"
         },
         {
             "rank": 8,
             "title": "NOT CUTE ANYMORE",
-            "artist": "어쩔징 (LL!T)",
+            "artist": "ILLIT",
             "image": "https://i.ytimg.com/vi/x_RYZsOfpKY/hqdefault.jpg",
             "videoId": "x_RYZsOfpKY"
         },
@@ -538,9 +499,9 @@ const rankData = {
         {
             "rank": 10,
             "title": "EEEE A",
-            "artist": "Illa",
-            "image": "https://i.ytimg.com/vi/Bozqm_hzfsg/hqdefault.jpg",
-            "videoId": "Bozqm_hzfsg"
+            "artist": "Dia",
+            "image": "https://i.ytimg.com/vi/Wvl-UASEEQY/hqdefault.jpg",
+            "videoId": "Wvl-UASEEQY"
         }
     ]
 };
