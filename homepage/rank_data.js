@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-04 10:19:55",
+    "last_updated": "2026-01-04 11:39:40",
     "billboard": [
         {
             "rank": 1,
@@ -175,17 +175,17 @@ const rankData = {
         },
         {
             "rank": 5,
-            "title": "사랑하게 될 거야",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
-            "videoId": "h0KIWaUEIgQ"
-        },
-        {
-            "rank": 6,
             "title": "Golden",
             "artist": "HUNTR/X",
             "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
             "videoId": "hohuFW0zQUw"
+        },
+        {
+            "rank": 6,
+            "title": "사랑하게 될 거야",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
+            "videoId": "h0KIWaUEIgQ"
         },
         {
             "rank": 7,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "사랑은 봄비처럼...이별은 겨울비처럼",
             "artist": "임현정",
-            "image": "https://i.ytimg.com/vi/xkruFx9q9cs/hqdefault.jpg",
-            "videoId": "xkruFx9q9cs"
+            "image": "https://i.ytimg.com/vi/LmG1rPr5nbw/hqdefault.jpg",
+            "videoId": "LmG1rPr5nbw"
         },
         {
             "rank": 9,
@@ -407,8 +407,8 @@ const rankData = {
             "rank": 7,
             "title": "SPAGHETTI (feat. 제이홉)",
             "artist": "르세라핌",
-            "image": "https://i.ytimg.com/vi/4awvBMXeK6U/hqdefault.jpg",
-            "videoId": "4awvBMXeK6U"
+            "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
+            "videoId": "TvVtYaqCni8"
         },
         {
             "rank": 8,
@@ -421,8 +421,8 @@ const rankData = {
             "rank": 9,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZXKAI & sixughter",
-            "image": "https://i.ytimg.com/vi/Bf2ml3oE2JA/hqdefault.jpg",
-            "videoId": "Bf2ml3oE2JA"
+            "image": "https://i.ytimg.com/vi/n3e9lwoAmj4/hqdefault.jpg",
+            "videoId": "n3e9lwoAmj4"
         },
         {
             "rank": 10,
