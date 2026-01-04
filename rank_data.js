@@ -1,12 +1,12 @@
 const rankData = {
-    "last_updated": "2026-01-04 03:16:25",
+    "last_updated": "2026-01-04 10:08:36",
     "billboard": [
         {
             "rank": 1,
             "title": "All I Want For Christmas Is You",
             "artist": "Mariah Carey",
-            "image": "https://i.ytimg.com/vi/yXQViqx6GMY/hqdefault.jpg",
-            "videoId": "yXQViqx6GMY"
+            "image": "https://i.ytimg.com/vi/aAkMkVFwAoo/hqdefault.jpg",
+            "videoId": "aAkMkVFwAoo"
         },
         {
             "rank": 2,
@@ -175,17 +175,17 @@ const rankData = {
         },
         {
             "rank": 5,
-            "title": "Golden",
-            "artist": "HUNTR/X",
-            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
-            "videoId": "hohuFW0zQUw"
-        },
-        {
-            "rank": 6,
             "title": "사랑하게 될 거야",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
             "videoId": "h0KIWaUEIgQ"
+        },
+        {
+            "rank": 6,
+            "title": "Golden",
+            "artist": "HUNTR/X",
+            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
+            "videoId": "hohuFW0zQUw"
         },
         {
             "rank": 7,
