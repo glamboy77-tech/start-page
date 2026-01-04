@@ -619,13 +619,15 @@
         }
 
         // Initialize on load
-        init();
-
-        // Optional: Manual refresh of trends every 10 min without reloading page
-        setInterval(() => {
-            updateTrendColumn('google_kr', 'KR');
-            updateTrendColumn('google_us', 'US');
-        }, 600000);
+        document.addEventListener('DOMContentLoaded', () => {
+            init();
+            
+            // Optional: Manual refresh of trends every 10 min without reloading page
+            setInterval(() => {
+                updateTrendColumn('google_kr', 'KR');
+                updateTrendColumn('google_us', 'US');
+            }, 600000);
+        });
 
     </script>
 </body>

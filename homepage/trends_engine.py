@@ -286,10 +286,8 @@ def main():
     }
     
     # 3. JS 파일로 저장
-    output_path = BASE_DIR / 'rank_data.js' # homepage/rank_data.js 에 생성됨
-
-    js_content = f"const rankData = {json.dumps(final_data, ensure_ascii=False, indent=4)};"
     output_path = BASE_DIR / 'rank_data.js'
+    js_content = f"const rankData = {json.dumps(final_data, ensure_ascii=False, indent=4)};"
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(js_content)
     
