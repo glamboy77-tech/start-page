@@ -1,35 +1,53 @@
-name: Daily Chart Update
+name: Daily Chart Update & Build
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 매일 자정(UTC)에 자동으로 실행
-  workflow_dispatch: # 동욱씨가 깃허브 사이트에서 버튼 눌러서 직접 실행할 수도 있게 함
+    - cron: '0 0 * * *' # 매일 자정(UTC)에 자동 실행
+  workflow_dispatch: # 동욱씨가 직접 버튼 눌러 실행 가능
+  push:
+    branches: [ main ] # 메인 브랜치에 코드 올릴 때도 테스트 겸 실행
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      # 1. Node.js 설정 (Playwright 브라우저 설치용)
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: '3.9'
+          node-version: 20
 
-      - name: Install dependencies
+      - name: Install Playwright
+        run: |
+          npm ci
+          npx playwright install --with-deps chromium
+        working-directory: ChartScanner # 이 폴더에 package.json이 있는 경우
+
+      # 2. Python 설정
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          # requirements.txt 앞에 폴더 경로를 꼭 붙여주세요!
-          pip install -r homepage/requirements.txt
+          pip install -r requirements.txt # 루트 폴더의 통합 리콰이어먼트 사용
 
-      - name: Run trends engine
-        run: python homepage/trends_engine.py
+      # 3. 올인원 스크립트 실행 (지휘자 출격!)
+      - name: Run All-in-One Pipeline
+        env:
+          VITE_API_KEY: ${{ secrets.VITE_API_KEY }}
+        run: python run_all.py
 
+      # 4. 결과물(JSON, HTML)을 깃허브에 다시 저장
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Auto-update charts" || exit 0
+          git commit -m "Auto-update: 차트 캡처 및 사이트 빌드 완료 🎸" || exit 0
           git push
