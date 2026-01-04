@@ -1,12 +1,12 @@
 const rankData = {
-    "last_updated": "2026-01-04 15:34:00",
+    "last_updated": "2026-01-04 15:42:13",
     "billboard": [
         {
             "rank": 1,
             "title": "All I Want For Christmas Is You",
             "artist": "Mariah Carey",
-            "image": "https://i.ytimg.com/vi/yXQViqx6GMY/hqdefault.jpg",
-            "videoId": "yXQViqx6GMY"
+            "image": "https://i.ytimg.com/vi/aAkMkVFwAoo/hqdefault.jpg",
+            "videoId": "aAkMkVFwAoo"
         },
         {
             "rank": 2,
@@ -227,16 +227,16 @@ const rankData = {
         {
             "rank": 2,
             "title": "WHERE YOU AT",
-            "artist": "ALLDAY PROJECT, ANNIE & WOOGIE",
-            "image": "https://i.ytimg.com/vi/Uw5w-zuhVKc/hqdefault.jpg",
-            "videoId": "Uw5w-zuhVKc"
+            "artist": "ALLDAY PROJECT, ANNIE & WONJAE",
+            "image": "https://i.ytimg.com/vi/-1pIaxC4F38/hqdefault.jpg",
+            "videoId": "-1pIaxC4F38"
         },
         {
             "rank": 3,
-            "title": "사랑은 불확실해…이별은 겨울바람처럼",
+            "title": "사랑은 봄비처럼...이별은 겨울비처럼",
             "artist": "Lim Hyunjung",
-            "image": "https://i.ytimg.com/vi/v89ug_RB3p8/hqdefault.jpg",
-            "videoId": "v89ug_RB3p8"
+            "image": "https://i.ytimg.com/vi/tiB-H2e2qq4/hqdefault.jpg",
+            "videoId": "tiB-H2e2qq4"
         },
         {
             "rank": 4,
@@ -248,16 +248,16 @@ const rankData = {
         {
             "rank": 5,
             "title": "Gen Seigen March",
-            "artist": "Kiiu",
+            "artist": "Kiiu_",
             "image": "https://i.ytimg.com/vi/DyzhHyI4noQ/hqdefault.jpg",
             "videoId": "DyzhHyI4noQ"
         },
         {
             "rank": 6,
             "title": "Gameboy",
-            "artist": "Raneh",
-            "image": "https://i.ytimg.com/vi/m1irBzOjRFI/hqdefault.jpg",
-            "videoId": "m1irBzOjRFI"
+            "artist": "ADORA",
+            "image": "https://i.ytimg.com/vi/eSbI0BAmEp8/hqdefault.jpg",
+            "videoId": "eSbI0BAmEp8"
         },
         {
             "rank": 7,
@@ -269,9 +269,9 @@ const rankData = {
         {
             "rank": 8,
             "title": "HQT",
-            "artist": "ALLDAY PROJECT, TARZZAN & SHADE",
-            "image": "https://i.ytimg.com/vi/A1LuxKuRZk0/hqdefault.jpg",
-            "videoId": "A1LuxKuRZk0"
+            "artist": "ALLDAY PROJECT, TARZZAN & CHAKUN",
+            "image": "https://i.ytimg.com/vi/ze8AfFlPXvo/hqdefault.jpg",
+            "videoId": "ze8AfFlPXvo"
         },
         {
             "rank": 9,
@@ -282,10 +282,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "2020",
-            "artist": "Seiko",
-            "image": "https://i.ytimg.com/vi/-7mIPxQWrG0/hqdefault.jpg",
-            "videoId": "-7mIPxQWrG0"
+            "title": "2024",
+            "artist": "SURL",
+            "image": "https://i.ytimg.com/vi/zCusgx41tqk/hqdefault.jpg",
+            "videoId": "zCusgx41tqk"
         }
     ],
     "shazam_global": [
@@ -341,9 +341,9 @@ const rankData = {
         {
             "rank": 8,
             "title": "What You Saying",
-            "artist": "Guizmo, Wira",
-            "image": "https://i.ytimg.com/vi/s_TUESTU7_4/hqdefault.jpg",
-            "videoId": "s_TUESTU7_4"
+            "artist": "Adrian Verges",
+            "image": "https://i.ytimg.com/vi/VnpepI2X8Uw/hqdefault.jpg",
+            "videoId": "VnpepI2X8Uw"
         },
         {
             "rank": 9,
@@ -364,7 +364,7 @@ const rankData = {
         {
             "rank": 1,
             "title": "NOT CUTE ANYMORE",
-            "artist": "ELI IT",
+            "artist": "ELLIT",
             "image": "https://i.ytimg.com/vi/x_RYZsOfpKY/hqdefault.jpg",
             "videoId": "x_RYZsOfpKY"
         },
@@ -386,12 +386,12 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김신환",
-            "image": "https://i.ytimg.com/vi/PqLlqTQ7hJw/hqdefault.jpg",
-            "videoId": "PqLlqTQ7hJw"
+            "image": "https://i.ytimg.com/vi/kVLen4bFlNI/hqdefault.jpg",
+            "videoId": "kVLen4bFlNI"
         },
         {
             "rank": 5,
-            "title": "SPAGHETTI (Feat. J-hope)",
+            "title": "SPAGHETTI (feat. j-hope)",
             "artist": "LE SSERAFIM",
             "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
             "videoId": "TvVtYaqCni8"
@@ -412,17 +412,17 @@ const rankData = {
         },
         {
             "rank": 8,
-            "title": "Miniskirt (Inst)(Instrumental)",
-            "artist": "AOA",
-            "image": "https://i.ytimg.com/vi/526i3hlarXo/hqdefault.jpg",
-            "videoId": "526i3hlarXo"
+            "title": "Miniskirt (Inst) (Instrumental)",
+            "artist": "A.O.A",
+            "image": "https://i.ytimg.com/vi/q5lnhK4aQ4A/hqdefault.jpg",
+            "videoId": "q5lnhK4aQ4A"
         },
         {
             "rank": 9,
-            "title": "NO RAHTAO (SLOWED)",
+            "title": "NO BATIDAO (SLOWED)",
             "artist": "ZXXKAI & slxughter",
-            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
-            "videoId": "orOgilmiL_4"
+            "image": "https://i.ytimg.com/vi/vz2CMETs5ZE/hqdefault.jpg",
+            "videoId": "vz2CMETs5ZE"
         },
         {
             "rank": 10,
@@ -435,31 +435,31 @@ const rankData = {
     "youtube_shorts_global": [
         {
             "rank": 1,
-            "title": "قصه",
-            "artist": "Flipperrachi",
-            "image": "https://i.ytimg.com/vi/fwd7jcQzVgk/hqdefault.jpg",
-            "videoId": "fwd7jcQzVgk"
+            "title": "Free Style",
+            "artist": "Flipperachi",
+            "image": "https://i.ytimg.com/vi/asc9PeaN1S0/hqdefault.jpg",
+            "videoId": "asc9PeaN1S0"
         },
         {
             "rank": 2,
-            "title": "PASSO REM",
-            "artist": "SOULTO (Slowed)",
-            "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
-            "videoId": "KgayxOF4Y7E"
+            "title": "PASSO REM SOLTO (Slowed)",
+            "artist": "ATLX$",
+            "image": "https://i.ytimg.com/vi/S6jVzvfZLIA/hqdefault.jpg",
+            "videoId": "S6jVzvfZLIA"
         },
         {
             "rank": 3,
-            "title": "Ishq Jalakar",
-            "artist": "Shashwat Sachdev",
-            "image": "https://i.ytimg.com/vi/8qCVXCFREkQ/hqdefault.jpg",
-            "videoId": "8qCVXCFREkQ"
+            "title": "Ishq Jalakar : R&B Remix",
+            "artist": "Shashwat Sachdev , Shahzad Ali , Diljot Singh",
+            "image": "https://i.ytimg.com/vi/iSXggtb-R3E/hqdefault.jpg",
+            "videoId": "iSXggtb-R3E"
         },
         {
             "rank": 4,
-            "title": "NOT NATI LO (SLOWED)",
+            "title": "NO PATIALO (SLOWED)",
             "artist": "ZXKAI & slxughter",
-            "image": "https://i.ytimg.com/vi/vz2CMETs5ZE/hqdefault.jpg",
-            "videoId": "vz2CMETs5ZE"
+            "image": "https://i.ytimg.com/vi/n3e9lwoAmj4/hqdefault.jpg",
+            "videoId": "n3e9lwoAmj4"
         },
         {
             "rank": 5,
@@ -499,7 +499,7 @@ const rankData = {
         {
             "rank": 10,
             "title": "EEEE A",
-            "artist": "dia",
+            "artist": "Dia",
             "image": "https://i.ytimg.com/vi/Wvl-UASEEQY/hqdefault.jpg",
             "videoId": "Wvl-UASEEQY"
         }
