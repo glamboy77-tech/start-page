@@ -1,12 +1,16 @@
 const rankData = {
+<<<<<<< HEAD
     "last_updated": "2026-01-04 14:52:07",
+=======
+    "last_updated": "2026-01-04 13:22:20",
+>>>>>>> 03126b6572e7a6675d345e40e859c73860cce541
     "billboard": [
         {
             "rank": 1,
             "title": "All I Want For Christmas Is You",
             "artist": "Mariah Carey",
-            "image": "https://i.ytimg.com/vi/aAkMkVFwAoo/hqdefault.jpg",
-            "videoId": "aAkMkVFwAoo"
+            "image": "https://i.ytimg.com/vi/yXQViqx6GMY/hqdefault.jpg",
+            "videoId": "yXQViqx6GMY"
         },
         {
             "rank": 2,
@@ -144,7 +148,82 @@ const rankData = {
             "videoId": "emQR5uPavic"
         }
     ],
+<<<<<<< HEAD
     "melon": [],
+=======
+    "melon": [
+        {
+            "rank": 1,
+            "title": "Good Goodbye",
+            "artist": "화사 (HWASA)",
+            "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
+            "videoId": "Qe8fa4b5xNU"
+        },
+        {
+            "rank": 2,
+            "title": "타임캡슐",
+            "artist": "다비치",
+            "image": "https://i.ytimg.com/vi/qE35JN1ogeI/hqdefault.jpg",
+            "videoId": "qE35JN1ogeI"
+        },
+        {
+            "rank": 3,
+            "title": "Drowning",
+            "artist": "WOODZ",
+            "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
+            "videoId": "tiKFuzpX-NA"
+        },
+        {
+            "rank": 4,
+            "title": "Blue Valentine",
+            "artist": "NMIXX",
+            "image": "https://i.ytimg.com/vi/EmeW6li6bbo/hqdefault.jpg",
+            "videoId": "EmeW6li6bbo"
+        },
+        {
+            "rank": 5,
+            "title": "Golden",
+            "artist": "HUNTR/X",
+            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
+            "videoId": "hohuFW0zQUw"
+        },
+        {
+            "rank": 6,
+            "title": "사랑하게 될 거야",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
+            "videoId": "h0KIWaUEIgQ"
+        },
+        {
+            "rank": 7,
+            "title": "SPAGHETTI (feat. j-hope of BTS)",
+            "artist": "LE SSERAFIM (르세라핌)",
+            "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
+            "videoId": "TvVtYaqCni8"
+        },
+        {
+            "rank": 8,
+            "title": "ONE MORE TIME",
+            "artist": "ALLDAY PROJECT",
+            "image": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg",
+            "videoId": "OgEwJ8a1OoY"
+        },
+        {
+            "rank": 9,
+            "title": "멸종위기사랑",
+            "artist": "이찬혁",
+            "image": "https://i.ytimg.com/vi/19oT04OuBhg/hqdefault.jpg",
+            "videoId": "19oT04OuBhg"
+        },
+        {
+            "rank": 10,
+            "title": "힙합보단 사랑, 사랑보단 돈 (Feat. 베이식)",
+            "artist": "노아주다 (noahjooda)",
+            "image": "https://i.ytimg.com/vi/cth2jj6W-Tg/hqdefault.jpg",
+            "videoId": "cth2jj6W-Tg"
+        }
+    ],
+>>>>>>> 03126b6572e7a6675d345e40e859c73860cce541
     "shazam_korea": [
         {
             "rank": 1,
@@ -162,10 +241,17 @@ const rankData = {
         },
         {
             "rank": 3,
+<<<<<<< HEAD
             "title": "End of Beginning",
             "artist": "Djo",
             "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
             "videoId": "aH7gkoBpN3s"
+=======
+            "title": "WHERE YOU AT",
+            "artist": "ALLDAY PROJECT, ANNIE & WOOCHAN",
+            "image": "https://i.ytimg.com/vi/wEiZfR3S024/hqdefault.jpg",
+            "videoId": "wEiZfR3S024"
+>>>>>>> 03126b6572e7a6675d345e40e859c73860cce541
         },
         {
             "rank": 4,
@@ -197,10 +283,17 @@ const rankData = {
         },
         {
             "rank": 8,
+<<<<<<< HEAD
             "title": "Gameboy",
             "artist": "최도휘 (CHOIDOHWI)",
             "image": "https://i.ytimg.com/vi/-e4NxiEsJ_Y/hqdefault.jpg",
             "videoId": "-e4NxiEsJ_Y"
+=======
+            "title": "사랑은 봄비처럼...이별은 겨울비처럼",
+            "artist": "임현정",
+            "image": "https://i.ytimg.com/vi/LmG1rPr5nbw/hqdefault.jpg",
+            "videoId": "LmG1rPr5nbw"
+>>>>>>> 03126b6572e7a6675d345e40e859c73860cce541
         },
         {
             "rank": 9,
@@ -340,6 +433,16 @@ const rankData = {
             "videoId": "Qe8fa4b5xNU"
         },
         {
+<<<<<<< HEAD
+=======
+            "rank": 7,
+            "title": "SPAGHETTI (feat. 제이홉)",
+            "artist": "르세라핌",
+            "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
+            "videoId": "TvVtYaqCni8"
+        },
+        {
+>>>>>>> 03126b6572e7a6675d345e40e859c73860cce541
             "rank": 8,
             "title": "Miniskirt (Inst) (Instrumental)",
             "artist": "AOA",
@@ -348,10 +451,17 @@ const rankData = {
         },
         {
             "rank": 9,
+<<<<<<< HEAD
             "title": "NO BATIDAO (SPED UP)",
             "artist": "ZXYKAI & Slaughter",
             "image": "https://i.ytimg.com/vi/LUJroYVDYao/hqdefault.jpg",
             "videoId": "LUJroYVDYao"
+=======
+            "title": "NO BATIDÃO (SLOWED)",
+            "artist": "ZXKAI & sixughter",
+            "image": "https://i.ytimg.com/vi/sWiLyczAsN4/hqdefault.jpg",
+            "videoId": "sWiLyczAsN4"
+>>>>>>> 03126b6572e7a6675d345e40e859c73860cce541
         },
         {
             "rank": 10,
