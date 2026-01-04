@@ -1,12 +1,12 @@
 const rankData = {
-    "last_updated": "2026-01-04 11:39:40",
+    "last_updated": "2026-01-04 13:22:20",
     "billboard": [
         {
             "rank": 1,
             "title": "All I Want For Christmas Is You",
             "artist": "Mariah Carey",
-            "image": "https://i.ytimg.com/vi/aAkMkVFwAoo/hqdefault.jpg",
-            "videoId": "aAkMkVFwAoo"
+            "image": "https://i.ytimg.com/vi/yXQViqx6GMY/hqdefault.jpg",
+            "videoId": "yXQViqx6GMY"
         },
         {
             "rank": 2,
@@ -235,8 +235,8 @@ const rankData = {
             "rank": 3,
             "title": "WHERE YOU AT",
             "artist": "ALLDAY PROJECT, ANNIE & WOOCHAN",
-            "image": "https://i.ytimg.com/vi/IBZbeCmRf4g/hqdefault.jpg",
-            "videoId": "IBZbeCmRf4g"
+            "image": "https://i.ytimg.com/vi/wEiZfR3S024/hqdefault.jpg",
+            "videoId": "wEiZfR3S024"
         },
         {
             "rank": 4,
@@ -421,8 +421,8 @@ const rankData = {
             "rank": 9,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZXKAI & sixughter",
-            "image": "https://i.ytimg.com/vi/n3e9lwoAmj4/hqdefault.jpg",
-            "videoId": "n3e9lwoAmj4"
+            "image": "https://i.ytimg.com/vi/sWiLyczAsN4/hqdefault.jpg",
+            "videoId": "sWiLyczAsN4"
         },
         {
             "rank": 10,
@@ -451,8 +451,8 @@ const rankData = {
             "rank": 3,
             "title": "Ishq Jalakar - Karvaan",
             "artist": "Shahzad Ali",
-            "image": "https://i.ytimg.com/vi/TKztpHvqmH8/hqdefault.jpg",
-            "videoId": "TKztpHvqmH8"
+            "image": "https://i.ytimg.com/vi/8qCVXCFREkQ/hqdefault.jpg",
+            "videoId": "8qCVXCFREkQ"
         },
         {
             "rank": 4,
