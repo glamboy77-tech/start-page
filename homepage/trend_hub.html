@@ -147,6 +147,11 @@
             box-shadow: 0 8px 16px rgba(29, 185, 84, 0.2);
         }
 
+        .icon-shazam {
+            background: linear-gradient(135deg, #00c6ff 0%, #0072ff 100%);
+            box-shadow: 0 8px 16px rgba(0, 114, 255, 0.2);
+        }
+
         .icon-youtube {
             background: linear-gradient(135deg, #FF0000 0%, #282828 100%);
             box-shadow: 0 8px 16px rgba(255, 0, 0, 0.2);
@@ -476,9 +481,15 @@
 
             // Animation delay based on column index
             const columns = [
-                'billboard', 'melon', 'billboard_rock',
-                'shazam_korea', 'spotify_global', 'youtube_shorts_korea', 'youtube_shorts_global',
-                'google_kr', 'google_us'
+                'billboard',
+                'billboard_rock',
+                'shazam_korea',
+                'shazam_global',
+                'youtube_shorts_korea',
+                'youtube_shorts_global',
+                'melon',
+                'google_kr',
+                'google_us'
             ];
             const index = columns.indexOf(colId) !== -1 ? columns.indexOf(colId) : columns.length;
             colDiv.style.animation = `fadeInUp 0.6s ease forwards ${index * 0.1}s`;
@@ -576,22 +587,22 @@
 
             let billboardData = [];
             let billboardRockData = [];
-            let melonData = [];
             let shazamKoreaData = [];
-            let spotifyGlobalData = [];
+            let shazamGlobalData = [];
             let youtubeShortsKoreaData = [];
             let youtubeShortsGlobalData = [];
+            let melonData = [];
             let lastUpdated = '';
 
             try {
                 if (typeof rankData !== 'undefined') {
                     billboardData = rankData.billboard || [];
                     billboardRockData = rankData.billboard_rock || [];
-                    melonData = rankData.melon || [];
                     shazamKoreaData = rankData.shazam_korea || [];
-                    spotifyGlobalData = rankData.spotify_global || [];
+                    shazamGlobalData = rankData.shazam_global || [];
                     youtubeShortsKoreaData = rankData.youtube_shorts_korea || [];
                     youtubeShortsGlobalData = rankData.youtube_shorts_global || [];
+                    melonData = rankData.melon || [];
                     lastUpdated = rankData.last_updated || '';
 
                     document.getElementById('last-updated').textContent = `Music Chart Updated: ${lastUpdated}`;
@@ -602,27 +613,23 @@
 
             // 2. Render Columns
             grid.appendChild(renderColumn('billboard', 'Billboard Hot 100', 'icon-billboard', '🎵', billboardData, 'music'));
-            grid.appendChild(renderColumn('melon', 'Melon Top 100', 'icon-melon', '🍈', melonData, 'music'));
             grid.appendChild(renderColumn('billboard_rock', 'Billboard Hot Rock', 'icon-billboard', '🎸', billboardRockData, 'music'));
-
-            grid.appendChild(renderColumn('shazam_korea', 'Shazam Korea Top 100', 'icon-shazam', '🔍', shazamKoreaData, 'music'));
-            grid.appendChild(renderColumn('spotify_global', 'Spotify Global Top 50', 'icon-spotify', '🎧', spotifyGlobalData, 'music'));
+            grid.appendChild(renderColumn('shazam_korea', 'Shazam Viral Korea', 'icon-shazam', '🇰🇷', shazamKoreaData, 'music'));
+            grid.appendChild(renderColumn('shazam_global', 'Shazam Viral Global', 'icon-shazam', '🌍', shazamGlobalData, 'music'));
             grid.appendChild(renderColumn('youtube_shorts_korea', 'YouTube Shorts Korea', 'icon-shorts', '🇰🇷', youtubeShortsKoreaData, 'music'));
             grid.appendChild(renderColumn('youtube_shorts_global', 'YouTube Shorts Global', 'icon-shorts', '🌍', youtubeShortsGlobalData, 'music'));
-
+            grid.appendChild(renderColumn('melon', 'Melon Top 100', 'icon-melon', '🍈', melonData, 'music'));
             grid.appendChild(renderColumn('google_kr', 'KR Trends (Live)', 'icon-google-kr', '🇰🇷', [], 'keyword'));
             grid.appendChild(renderColumn('google_us', 'US Trends (Live)', 'icon-google-us', '🇺🇸', [], 'keyword'));
-
-            // 3. Trigger Async Fetch for Trends
-            updateTrendColumn('google_kr', 'KR');
-            updateTrendColumn('google_us', 'US');
         }
 
         // Initialize on load
         document.addEventListener('DOMContentLoaded', () => {
             init();
-            
-            // Optional: Manual refresh of trends every 10 min without reloading page
+            updateTrendColumn('google_kr', 'KR');
+            updateTrendColumn('google_us', 'US');
+
+            // Refresh live trends every 10 minutes
             setInterval(() => {
                 updateTrendColumn('google_kr', 'KR');
                 updateTrendColumn('google_us', 'US');

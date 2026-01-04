@@ -1,0 +1,9 @@
+beautifulsoup4
+lxml
+billboard.py
+melon-chart.py
+requests
+youtube-search-python
+playwright
+playwright-stealth
+python-dotenv

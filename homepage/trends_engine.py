@@ -264,8 +264,8 @@ def main():
     billboard_hot100 = fetch_billboard('hot-100')
     billboard_rock = fetch_billboard('hot-rock-songs')
     melon_data = fetch_melon()
-    shazam_korea = load_json_chart('data/shazam_korea.json', 'shazam_korea', 'Shazam Korea')
-    spotify_global = load_json_chart('data/spotify_global.json', 'spotify_global', 'Spotify Global')
+    shazam_korea = load_json_chart('data/shazam_viral_korea.json', 'shazam_viral_korea', 'Shazam Viral Korea')
+    shazam_global = load_json_chart('data/shazam_viral_global.json', 'shazam_viral_global', 'Shazam Viral Global')
     youtube_shorts_korea = load_json_chart('data/youtube_shorts_korea.json', 'youtube_shorts_korea', 'YouTube Shorts Korea')
     youtube_shorts_global = load_json_chart('data/youtube_shorts_global.json', 'youtube_shorts_global', 'YouTube Shorts Global')
     
@@ -280,7 +280,7 @@ def main():
         "billboard_rock": billboard_rock,
         "melon": melon_data,
         "shazam_korea": shazam_korea,
-        "spotify_global": spotify_global,
+        "shazam_global": shazam_global,
         "youtube_shorts_korea": youtube_shorts_korea,
         "youtube_shorts_global": youtube_shorts_global
     }

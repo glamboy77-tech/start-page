@@ -1,0 +1,4 @@
+{
+  "name": "Spotify Viral Chart Extractor",
+  "description": "Extracts top 10 song titles and artist names from an image of a Spotify Viral Chart using Gemini 2.5 Flash API."
+}
