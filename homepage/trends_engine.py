@@ -287,10 +287,11 @@ def main():
     
     # 3. JS 파일로 저장
     js_content = f"const rankData = {json.dumps(final_data, ensure_ascii=False, indent=4)};"
-    with open('rank_data.js', 'w', encoding='utf-8') as f:
+    output_path = BASE_DIR / 'rank_data.js'
+    with open(output_path, 'w', encoding='utf-8') as f:
         f.write(js_content)
     
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] 데이터 수집 및 저장 완료: rank_data.js")
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] 데이터 수집 및 저장 완료: {output_path}")
 
 if __name__ == "__main__":
     main()
