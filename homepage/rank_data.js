@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-05 11:08:39",
+    "last_updated": "2026-01-05 12:47:55",
     "billboard": [
         {
             "rank": 1,
@@ -189,17 +189,17 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "ONE MORE TIME",
-            "artist": "ALLDAY PROJECT",
-            "image": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg",
-            "videoId": "OgEwJ8a1OoY"
-        },
-        {
-            "rank": 8,
             "title": "SPAGHETTI (feat. j-hope of BTS)",
             "artist": "LE SSERAFIM (르세라핌)",
             "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
             "videoId": "TvVtYaqCni8"
+        },
+        {
+            "rank": 8,
+            "title": "ONE MORE TIME",
+            "artist": "ALLDAY PROJECT",
+            "image": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg",
+            "videoId": "OgEwJ8a1OoY"
         },
         {
             "rank": 9,
@@ -226,10 +226,10 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "사랑은 불처럼 타올라..어떤 은 거울 비추다",
-            "artist": "Kim hyunjung",
-            "image": "https://i.ytimg.com/vi/-yPpuGoE52g/hqdefault.jpg",
-            "videoId": "-yPpuGoE52g"
+            "title": "사랑을 불렀네처럼...어별은 거울비춰",
+            "artist": "Lim Hyunjung",
+            "image": "https://i.ytimg.com/vi/vLmeKmmd8f0/hqdefault.jpg",
+            "videoId": "vLmeKmmd8f0"
         },
         {
             "rank": 3,
@@ -240,10 +240,10 @@ const rankData = {
         },
         {
             "rank": 4,
-            "title": "Gens Seigen March",
-            "artist": "YOASOBI",
-            "image": "https://i.ytimg.com/vi/04XM6bK-z60/hqdefault.jpg",
-            "videoId": "04XM6bK-z60"
+            "title": "Gen Seigen March",
+            "artist": "Zitu",
+            "image": "https://i.ytimg.com/vi/0FueE4xqxzw/hqdefault.jpg",
+            "videoId": "0FueE4xqxzw"
         },
         {
             "rank": 5,
@@ -269,9 +269,9 @@ const rankData = {
         {
             "rank": 8,
             "title": "Gameboy",
-            "artist": "pH-1 & Jay Park",
-            "image": "https://i.ytimg.com/vi/t3ZCoXcdnp8/hqdefault.jpg",
-            "videoId": "t3ZCoXcdnp8"
+            "artist": "D.P.R. Live",
+            "image": "https://i.ytimg.com/vi/Z5-ASY-JOj0/hqdefault.jpg",
+            "videoId": "Z5-ASY-JOj0"
         },
         {
             "rank": 9,
@@ -283,9 +283,9 @@ const rankData = {
         {
             "rank": 10,
             "title": "Sticky Like",
-            "artist": "h!tcu",
-            "image": "https://i.ytimg.com/vi/fhEqtynX_xc/hqdefault.jpg",
-            "videoId": "fhEqtynX_xc"
+            "artist": "HIZEN",
+            "image": "https://i.ytimg.com/vi/b6x56R6Tntg/hqdefault.jpg",
+            "videoId": "b6x56R6Tntg"
         }
     ],
     "shazam_global": [
@@ -313,7 +313,7 @@ const rankData = {
         {
             "rank": 4,
             "title": "End of Beginning",
-            "artist": "DJO",
+            "artist": "Djo",
             "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
             "videoId": "aH7gkoBpN3s"
         },
@@ -341,7 +341,7 @@ const rankData = {
         {
             "rank": 8,
             "title": "What You Saying",
-            "artist": "Mustafa Yen",
+            "artist": "Husky Yen",
             "image": "https://i.ytimg.com/vi/9FnG9lGLyEM/hqdefault.jpg",
             "videoId": "9FnG9lGLyEM"
         },
@@ -354,17 +354,17 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "Last Call For Love",
-            "artist": "AMARU MCHABAL ERICK YORDIAN",
-            "image": "https://i.ytimg.com/vi/4bc1wz4JXVE/hqdefault.jpg",
-            "videoId": "4bc1wz4JXVE"
+            "title": "Last Call for Love",
+            "artist": "AMAPRIN MEGABAL ERICK YORDY",
+            "image": "https://i.ytimg.com/vi/eMpoSR0Ax4U/hqdefault.jpg",
+            "videoId": "eMpoSR0Ax4U"
         }
     ],
     "youtube_shorts_korea": [
         {
             "rank": 1,
             "title": "NOT CUTE ANYMORE",
-            "artist": "NELL H",
+            "artist": "ELI H",
             "image": "https://i.ytimg.com/vi/x_RYZsOfpKY/hqdefault.jpg",
             "videoId": "x_RYZsOfpKY"
         },
@@ -386,8 +386,8 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선호",
-            "image": "https://i.ytimg.com/vi/nwZemeoX8Xs/hqdefault.jpg",
-            "videoId": "nwZemeoX8Xs"
+            "image": "https://i.ytimg.com/vi/zLyLrCYN7sc/hqdefault.jpg",
+            "videoId": "zLyLrCYN7sc"
         },
         {
             "rank": 5,
@@ -398,10 +398,10 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "NO BATIDÃO (GFRIEND)",
-            "artist": "XXKAI & Jaughter",
-            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
-            "videoId": "orOgilmiL_4"
+            "title": "NO BATIDAO (GUDDUDY)",
+            "artist": "XXKAI & Slaughter",
+            "image": "https://i.ytimg.com/vi/vICfy4DbABs/hqdefault.jpg",
+            "videoId": "vICfy4DbABs"
         },
         {
             "rank": 7,
@@ -419,7 +419,7 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "Miniskirt (Inst)",
+            "title": "Miniskirt (Inst.)",
             "artist": "AOA",
             "image": "https://i.ytimg.com/vi/q6f-LLM1H6U/hqdefault.jpg",
             "videoId": "q6f-LLM1H6U"
@@ -436,30 +436,30 @@ const rankData = {
         {
             "rank": 1,
             "title": "PASSO BEM (Slowed)",
-            "artist": "ATLX2S",
+            "artist": "ATLXS",
             "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
             "videoId": "KgayxOF4Y7E"
         },
         {
             "rank": 2,
-            "title": "فصيلة",
+            "title": "فصلة",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/fwd7jcQzVgk/hqdefault.jpg",
-            "videoId": "fwd7jcQzVgk"
+            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
+            "videoId": "1XOJFuKHCck"
         },
         {
             "rank": 3,
             "title": "NO BATIDAO (Slowed)",
-            "artist": "ZX&A & Daughter",
-            "image": "https://i.ytimg.com/vi/fhvy1YWBMYU/hqdefault.jpg",
-            "videoId": "fhvy1YWBMYU"
+            "artist": "ZXCA! & Daughter",
+            "image": "https://i.ytimg.com/vi/bUojEp8_i-s/hqdefault.jpg",
+            "videoId": "bUojEp8_i-s"
         },
         {
             "rank": 4,
-            "title": "Ishq Jala kar - Karvaan",
-            "artist": "Shashwat Sachdev & Shahzad Ali",
-            "image": "https://i.ytimg.com/vi/8qCVXCFREkQ/hqdefault.jpg",
-            "videoId": "8qCVXCFREkQ"
+            "title": "Ishq Jalebi - Karvaan",
+            "artist": "Shahroz Nadeem | Shahzad Ali...",
+            "image": "https://i.ytimg.com/vi/q7DhgtEdzck/hqdefault.jpg",
+            "videoId": "q7DhgtEdzck"
         },
         {
             "rank": 5,
