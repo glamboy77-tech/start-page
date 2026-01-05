@@ -2,7 +2,7 @@ name: Daily Chart Update & Build
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 매일 자정(UTC)에 자동 실행
+    - cron: '0 23 * * *' # 매일 오전 8시(KST)에 자동 실행 (UTC 23:00)
   workflow_dispatch: # 동욱씨가 직접 버튼 눌러 실행 가능
   push:
     branches: [ main ] # 메인 브랜치에 코드 올릴 때도 테스트 겸 실행
