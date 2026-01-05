@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-04 15:42:13",
+    "last_updated": "2026-01-05 11:08:39",
     "billboard": [
         {
             "rank": 1,
@@ -175,31 +175,31 @@ const rankData = {
         },
         {
             "rank": 5,
-            "title": "Golden",
-            "artist": "HUNTR/X",
-            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
-            "videoId": "hohuFW0zQUw"
-        },
-        {
-            "rank": 6,
             "title": "사랑하게 될 거야",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
             "videoId": "h0KIWaUEIgQ"
         },
         {
-            "rank": 7,
-            "title": "SPAGHETTI (feat. j-hope of BTS)",
-            "artist": "LE SSERAFIM (르세라핌)",
-            "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
-            "videoId": "TvVtYaqCni8"
+            "rank": 6,
+            "title": "Golden",
+            "artist": "HUNTR/X",
+            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
+            "videoId": "hohuFW0zQUw"
         },
         {
-            "rank": 8,
+            "rank": 7,
             "title": "ONE MORE TIME",
             "artist": "ALLDAY PROJECT",
             "image": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg",
             "videoId": "OgEwJ8a1OoY"
+        },
+        {
+            "rank": 8,
+            "title": "SPAGHETTI (feat. j-hope of BTS)",
+            "artist": "LE SSERAFIM (르세라핌)",
+            "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
+            "videoId": "TvVtYaqCni8"
         },
         {
             "rank": 9,
@@ -226,66 +226,66 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "WHERE YOU AT",
-            "artist": "ALLDAY PROJECT, ANNIE & WONJAE",
-            "image": "https://i.ytimg.com/vi/-1pIaxC4F38/hqdefault.jpg",
-            "videoId": "-1pIaxC4F38"
+            "title": "사랑은 불처럼 타올라..어떤 은 거울 비추다",
+            "artist": "Kim hyunjung",
+            "image": "https://i.ytimg.com/vi/-yPpuGoE52g/hqdefault.jpg",
+            "videoId": "-yPpuGoE52g"
         },
         {
             "rank": 3,
-            "title": "사랑은 봄비처럼...이별은 겨울비처럼",
-            "artist": "Lim Hyunjung",
-            "image": "https://i.ytimg.com/vi/tiB-H2e2qq4/hqdefault.jpg",
-            "videoId": "tiB-H2e2qq4"
-        },
-        {
-            "rank": 4,
-            "title": "Super Rich Kids (feat. Earl Sweatshirt)",
-            "artist": "Frank Ocean",
-            "image": "https://i.ytimg.com/vi/XAGi0ANke6Y/hqdefault.jpg",
-            "videoId": "XAGi0ANke6Y"
-        },
-        {
-            "rank": 5,
-            "title": "Gen Seigen March",
-            "artist": "Kiiu_",
-            "image": "https://i.ytimg.com/vi/DyzhHyI4noQ/hqdefault.jpg",
-            "videoId": "DyzhHyI4noQ"
-        },
-        {
-            "rank": 6,
-            "title": "Gameboy",
-            "artist": "ADORA",
-            "image": "https://i.ytimg.com/vi/eSbI0BAmEp8/hqdefault.jpg",
-            "videoId": "eSbI0BAmEp8"
-        },
-        {
-            "rank": 7,
             "title": "End of Beginning",
             "artist": "Djo",
             "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
             "videoId": "aH7gkoBpN3s"
         },
         {
-            "rank": 8,
-            "title": "HQT",
-            "artist": "ALLDAY PROJECT, TARZZAN & CHAKUN",
-            "image": "https://i.ytimg.com/vi/ze8AfFlPXvo/hqdefault.jpg",
-            "videoId": "ze8AfFlPXvo"
+            "rank": 4,
+            "title": "Gens Seigen March",
+            "artist": "YOASOBI",
+            "image": "https://i.ytimg.com/vi/04XM6bK-z60/hqdefault.jpg",
+            "videoId": "04XM6bK-z60"
         },
         {
-            "rank": 9,
+            "rank": 5,
             "title": "Close to you",
             "artist": "SOLE & THAMA",
             "image": "https://i.ytimg.com/vi/RuORKyaDPCo/hqdefault.jpg",
             "videoId": "RuORKyaDPCo"
         },
         {
+            "rank": 6,
+            "title": "“Heroes” (2017 Remaster)",
+            "artist": "David Bowie",
+            "image": "https://i.ytimg.com/vi/lXgkuM2NhYI/hqdefault.jpg",
+            "videoId": "lXgkuM2NhYI"
+        },
+        {
+            "rank": 7,
+            "title": "2025",
+            "artist": "8bite",
+            "image": "https://i.ytimg.com/vi/_zUDYguXE98/hqdefault.jpg",
+            "videoId": "_zUDYguXE98"
+        },
+        {
+            "rank": 8,
+            "title": "Gameboy",
+            "artist": "pH-1 & Jay Park",
+            "image": "https://i.ytimg.com/vi/t3ZCoXcdnp8/hqdefault.jpg",
+            "videoId": "t3ZCoXcdnp8"
+        },
+        {
+            "rank": 9,
+            "title": "Together (From “Reply 1988, Pt. 11”)",
+            "artist": "Noel",
+            "image": "https://i.ytimg.com/vi/VZlVgVuShFM/hqdefault.jpg",
+            "videoId": "VZlVgVuShFM"
+        },
+        {
             "rank": 10,
-            "title": "2024",
-            "artist": "SURL",
-            "image": "https://i.ytimg.com/vi/zCusgx41tqk/hqdefault.jpg",
-            "videoId": "zCusgx41tqk"
+            "title": "Sticky Like",
+            "artist": "h!tcu",
+            "image": "https://i.ytimg.com/vi/fhEqtynX_xc/hqdefault.jpg",
+            "videoId": "fhEqtynX_xc"
         }
     ],
     "shazam_global": [
@@ -326,68 +326,68 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "When It's Cold I'd Like to Die (feat. Mimi Parker)",
-            "artist": "Moby",
-            "image": "https://i.ytimg.com/vi/kFyuSMf-PtQ/hqdefault.jpg",
-            "videoId": "kFyuSMf-PtQ"
-        },
-        {
-            "rank": 7,
             "title": "The Trooper",
             "artist": "Iron Maiden",
             "image": "https://i.ytimg.com/vi/X4bgXH3sJ2Q/hqdefault.jpg",
             "videoId": "X4bgXH3sJ2Q"
         },
         {
-            "rank": 8,
-            "title": "What You Saying",
-            "artist": "Adrian Verges",
-            "image": "https://i.ytimg.com/vi/VnpepI2X8Uw/hqdefault.jpg",
-            "videoId": "VnpepI2X8Uw"
-        },
-        {
-            "rank": 9,
+            "rank": 7,
             "title": "Sweet Jane",
             "artist": "Cowboy Junkies",
             "image": "https://i.ytimg.com/vi/Fa9nN3G2CSg/hqdefault.jpg",
             "videoId": "Fa9nN3G2CSg"
         },
         {
-            "rank": 10,
+            "rank": 8,
+            "title": "What You Saying",
+            "artist": "Mustafa Yen",
+            "image": "https://i.ytimg.com/vi/9FnG9lGLyEM/hqdefault.jpg",
+            "videoId": "9FnG9lGLyEM"
+        },
+        {
+            "rank": 9,
             "title": "Running Up That Hill (A Deal With God)",
             "artist": "Kate Bush",
             "image": "https://i.ytimg.com/vi/wp43OdtAAkM/hqdefault.jpg",
             "videoId": "wp43OdtAAkM"
+        },
+        {
+            "rank": 10,
+            "title": "Last Call For Love",
+            "artist": "AMARU MCHABAL ERICK YORDIAN",
+            "image": "https://i.ytimg.com/vi/4bc1wz4JXVE/hqdefault.jpg",
+            "videoId": "4bc1wz4JXVE"
         }
     ],
     "youtube_shorts_korea": [
         {
             "rank": 1,
             "title": "NOT CUTE ANYMORE",
-            "artist": "ELLIT",
+            "artist": "NELL H",
             "image": "https://i.ytimg.com/vi/x_RYZsOfpKY/hqdefault.jpg",
             "videoId": "x_RYZsOfpKY"
         },
         {
             "rank": 2,
+            "title": "ZOO",
+            "artist": "Shakira",
+            "image": "https://i.ytimg.com/vi/Xry6B0I3pT8/hqdefault.jpg",
+            "videoId": "Xry6B0I3pT8"
+        },
+        {
+            "rank": 3,
             "title": "blue",
             "artist": "yung kai",
             "image": "https://i.ytimg.com/vi/IpFX2vq8HKw/hqdefault.jpg",
             "videoId": "IpFX2vq8HKw"
         },
         {
-            "rank": 3,
-            "title": "Zoo",
-            "artist": "Shakira",
-            "image": "https://i.ytimg.com/vi/Xry6B0I3pT8/hqdefault.jpg",
-            "videoId": "Xry6B0I3pT8"
-        },
-        {
             "rank": 4,
             "title": "So Cute",
-            "artist": "김신환",
-            "image": "https://i.ytimg.com/vi/kVLen4bFlNI/hqdefault.jpg",
-            "videoId": "kVLen4bFlNI"
+            "artist": "김선호",
+            "image": "https://i.ytimg.com/vi/nwZemeoX8Xs/hqdefault.jpg",
+            "videoId": "nwZemeoX8Xs"
         },
         {
             "rank": 5,
@@ -398,10 +398,10 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "街のドルフィン",
-            "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/x2aA6GEEABA/hqdefault.jpg",
-            "videoId": "x2aA6GEEABA"
+            "title": "NO BATIDÃO (GFRIEND)",
+            "artist": "XXKAI & Jaughter",
+            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
+            "videoId": "orOgilmiL_4"
         },
         {
             "rank": 7,
@@ -412,54 +412,54 @@ const rankData = {
         },
         {
             "rank": 8,
-            "title": "Miniskirt (Inst) (Instrumental)",
-            "artist": "A.O.A",
-            "image": "https://i.ytimg.com/vi/q5lnhK4aQ4A/hqdefault.jpg",
-            "videoId": "q5lnhK4aQ4A"
+            "title": "街のドルフィン",
+            "artist": "Kingo Hamada",
+            "image": "https://i.ytimg.com/vi/x2aA6GEEABA/hqdefault.jpg",
+            "videoId": "x2aA6GEEABA"
         },
         {
             "rank": 9,
-            "title": "NO BATIDAO (SLOWED)",
-            "artist": "ZXXKAI & slxughter",
-            "image": "https://i.ytimg.com/vi/vz2CMETs5ZE/hqdefault.jpg",
-            "videoId": "vz2CMETs5ZE"
+            "title": "Miniskirt (Inst)",
+            "artist": "AOA",
+            "image": "https://i.ytimg.com/vi/q6f-LLM1H6U/hqdefault.jpg",
+            "videoId": "q6f-LLM1H6U"
         },
         {
             "rank": 10,
-            "title": "CHANEL",
-            "artist": "Tyla",
-            "image": "https://i.ytimg.com/vi/xiZUf98A1Ts/hqdefault.jpg",
-            "videoId": "xiZUf98A1Ts"
+            "title": "FALL FROM THE SKY",
+            "artist": "ROMANCEPLANET & STAKILLAZ",
+            "image": "https://i.ytimg.com/vi/Cpc1akSzjPY/hqdefault.jpg",
+            "videoId": "Cpc1akSzjPY"
         }
     ],
     "youtube_shorts_global": [
         {
             "rank": 1,
-            "title": "Free Style",
-            "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/asc9PeaN1S0/hqdefault.jpg",
-            "videoId": "asc9PeaN1S0"
+            "title": "PASSO BEM (Slowed)",
+            "artist": "ATLX2S",
+            "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
+            "videoId": "KgayxOF4Y7E"
         },
         {
             "rank": 2,
-            "title": "PASSO REM SOLTO (Slowed)",
-            "artist": "ATLX$",
-            "image": "https://i.ytimg.com/vi/S6jVzvfZLIA/hqdefault.jpg",
-            "videoId": "S6jVzvfZLIA"
+            "title": "فصيلة",
+            "artist": "Flipperachi",
+            "image": "https://i.ytimg.com/vi/fwd7jcQzVgk/hqdefault.jpg",
+            "videoId": "fwd7jcQzVgk"
         },
         {
             "rank": 3,
-            "title": "Ishq Jalakar : R&B Remix",
-            "artist": "Shashwat Sachdev , Shahzad Ali , Diljot Singh",
-            "image": "https://i.ytimg.com/vi/iSXggtb-R3E/hqdefault.jpg",
-            "videoId": "iSXggtb-R3E"
+            "title": "NO BATIDAO (Slowed)",
+            "artist": "ZX&A & Daughter",
+            "image": "https://i.ytimg.com/vi/fhvy1YWBMYU/hqdefault.jpg",
+            "videoId": "fhvy1YWBMYU"
         },
         {
             "rank": 4,
-            "title": "NO PATIALO (SLOWED)",
-            "artist": "ZXKAI & slxughter",
-            "image": "https://i.ytimg.com/vi/n3e9lwoAmj4/hqdefault.jpg",
-            "videoId": "n3e9lwoAmj4"
+            "title": "Ishq Jala kar - Karvaan",
+            "artist": "Shashwat Sachdev & Shahzad Ali",
+            "image": "https://i.ytimg.com/vi/8qCVXCFREkQ/hqdefault.jpg",
+            "videoId": "8qCVXCFREkQ"
         },
         {
             "rank": 5,
@@ -478,7 +478,7 @@ const rankData = {
         {
             "rank": 7,
             "title": "Big Guy",
-            "artist": "Ice spice",
+            "artist": "Ice Spice",
             "image": "https://i.ytimg.com/vi/gDb91xKfa4E/hqdefault.jpg",
             "videoId": "gDb91xKfa4E"
         },
@@ -491,17 +491,17 @@ const rankData = {
         },
         {
             "rank": 9,
+            "title": "EEEE A",
+            "artist": "dia",
+            "image": "https://i.ytimg.com/vi/Wvl-UASEEQY/hqdefault.jpg",
+            "videoId": "Wvl-UASEEQY"
+        },
+        {
+            "rank": 10,
             "title": "CHANEL",
             "artist": "Tyla",
             "image": "https://i.ytimg.com/vi/xiZUf98A1Ts/hqdefault.jpg",
             "videoId": "xiZUf98A1Ts"
-        },
-        {
-            "rank": 10,
-            "title": "EEEE A",
-            "artist": "Dia",
-            "image": "https://i.ytimg.com/vi/Wvl-UASEEQY/hqdefault.jpg",
-            "videoId": "Wvl-UASEEQY"
         }
     ]
 };
