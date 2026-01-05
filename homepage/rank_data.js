@@ -1,12 +1,12 @@
 const rankData = {
-    "last_updated": "2026-01-05 12:47:55",
+    "last_updated": "2026-01-06 08:40:55",
     "billboard": [
         {
             "rank": 1,
             "title": "All I Want For Christmas Is You",
             "artist": "Mariah Carey",
-            "image": "https://i.ytimg.com/vi/aAkMkVFwAoo/hqdefault.jpg",
-            "videoId": "aAkMkVFwAoo"
+            "image": "https://i.ytimg.com/vi/yXQViqx6GMY/hqdefault.jpg",
+            "videoId": "yXQViqx6GMY"
         },
         {
             "rank": 2,
@@ -182,10 +182,10 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "Golden",
-            "artist": "HUNTR/X",
-            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
-            "videoId": "hohuFW0zQUw"
+            "title": "ONE MORE TIME",
+            "artist": "ALLDAY PROJECT",
+            "image": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg",
+            "videoId": "OgEwJ8a1OoY"
         },
         {
             "rank": 7,
@@ -196,10 +196,10 @@ const rankData = {
         },
         {
             "rank": 8,
-            "title": "ONE MORE TIME",
-            "artist": "ALLDAY PROJECT",
-            "image": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg",
-            "videoId": "OgEwJ8a1OoY"
+            "title": "Golden",
+            "artist": "HUNTR/X",
+            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
+            "videoId": "hohuFW0zQUw"
         },
         {
             "rank": 9,
@@ -226,38 +226,38 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "사랑을 불렀네처럼...어별은 거울비춰",
-            "artist": "Lim Hyunjung",
-            "image": "https://i.ytimg.com/vi/vLmeKmmd8f0/hqdefault.jpg",
-            "videoId": "vLmeKmmd8f0"
+            "title": "사랑은 불행처럼...이별은 거울처럼...",
+            "artist": "Lim Hyunchung",
+            "image": "https://i.ytimg.com/vi/XzWA2ZcMMkk/hqdefault.jpg",
+            "videoId": "XzWA2ZcMMkk"
         },
         {
             "rank": 3,
-            "title": "End of Beginning",
-            "artist": "Djo",
-            "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
-            "videoId": "aH7gkoBpN3s"
-        },
-        {
-            "rank": 4,
-            "title": "Gen Seigen March",
-            "artist": "Zitu",
-            "image": "https://i.ytimg.com/vi/0FueE4xqxzw/hqdefault.jpg",
-            "videoId": "0FueE4xqxzw"
-        },
-        {
-            "rank": 5,
             "title": "Close to you",
             "artist": "SOLE & THAMA",
             "image": "https://i.ytimg.com/vi/RuORKyaDPCo/hqdefault.jpg",
             "videoId": "RuORKyaDPCo"
         },
         {
-            "rank": 6,
-            "title": "“Heroes” (2017 Remaster)",
+            "rank": 4,
+            "title": "End of Beginning",
+            "artist": "DJO",
+            "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
+            "videoId": "aH7gkoBpN3s"
+        },
+        {
+            "rank": 5,
+            "title": "Heroes (2017 Remaster)",
             "artist": "David Bowie",
             "image": "https://i.ytimg.com/vi/lXgkuM2NhYI/hqdefault.jpg",
             "videoId": "lXgkuM2NhYI"
+        },
+        {
+            "rank": 6,
+            "title": "Together (From Reply 1988, Pt. 6)",
+            "artist": "Noel",
+            "image": "https://i.ytimg.com/vi/j_rpEQmvsx0/hqdefault.jpg",
+            "videoId": "j_rpEQmvsx0"
         },
         {
             "rank": 7,
@@ -268,24 +268,24 @@ const rankData = {
         },
         {
             "rank": 8,
-            "title": "Gameboy",
-            "artist": "D.P.R. Live",
-            "image": "https://i.ytimg.com/vi/Z5-ASY-JOj0/hqdefault.jpg",
-            "videoId": "Z5-ASY-JOj0"
+            "title": "Purple Rain",
+            "artist": "Prince and The Revolution",
+            "image": "https://i.ytimg.com/vi/GaJcBJQi7bY/hqdefault.jpg",
+            "videoId": "GaJcBJQi7bY"
         },
         {
             "rank": 9,
-            "title": "Together (From “Reply 1988, Pt. 11”)",
-            "artist": "Noel",
-            "image": "https://i.ytimg.com/vi/VZlVgVuShFM/hqdefault.jpg",
-            "videoId": "VZlVgVuShFM"
+            "title": "Borrow your night",
+            "artist": "PLAVE",
+            "image": "https://i.ytimg.com/vi/eDlYB_e5k3c/hqdefault.jpg",
+            "videoId": "eDlYB_e5k3c"
         },
         {
             "rank": 10,
             "title": "Sticky Like",
-            "artist": "HIZEN",
-            "image": "https://i.ytimg.com/vi/b6x56R6Tntg/hqdefault.jpg",
-            "videoId": "b6x56R6Tntg"
+            "artist": "HITZ",
+            "image": "https://i.ytimg.com/vi/xKEY6THtwuA/hqdefault.jpg",
+            "videoId": "xKEY6THtwuA"
         }
     ],
     "shazam_global": [
@@ -305,89 +305,89 @@ const rankData = {
         },
         {
             "rank": 3,
+            "title": "Papaoutai",
+            "artist": "Stromae",
+            "image": "https://i.ytimg.com/vi/oiKj0Z_Xnjc/hqdefault.jpg",
+            "videoId": "oiKj0Z_Xnjc"
+        },
+        {
+            "rank": 4,
             "title": "Purple Rain",
             "artist": "Prince & The Revolution",
             "image": "https://i.ytimg.com/vi/GaJcBJQi7bY/hqdefault.jpg",
             "videoId": "GaJcBJQi7bY"
         },
         {
-            "rank": 4,
+            "rank": 5,
             "title": "End of Beginning",
             "artist": "Djo",
             "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
             "videoId": "aH7gkoBpN3s"
         },
         {
-            "rank": 5,
+            "rank": 6,
             "title": "Here Comes Your Man",
             "artist": "Pixies",
             "image": "https://i.ytimg.com/vi/tPgf_btTFlc/hqdefault.jpg",
             "videoId": "tPgf_btTFlc"
         },
         {
-            "rank": 6,
+            "rank": 7,
             "title": "The Trooper",
             "artist": "Iron Maiden",
             "image": "https://i.ytimg.com/vi/X4bgXH3sJ2Q/hqdefault.jpg",
             "videoId": "X4bgXH3sJ2Q"
         },
         {
-            "rank": 7,
+            "rank": 8,
+            "title": "Dhuri Sikae (feat. KayGee M)",
+            "artist": "Mellow & Sleazy, Official BaNgai Bafana",
+            "image": "https://i.ytimg.com/vi/sMzfpTY1ioQ/hqdefault.jpg",
+            "videoId": "sMzfpTY1ioQ"
+        },
+        {
+            "rank": 9,
             "title": "Sweet Jane",
             "artist": "Cowboy Junkies",
             "image": "https://i.ytimg.com/vi/Fa9nN3G2CSg/hqdefault.jpg",
             "videoId": "Fa9nN3G2CSg"
         },
         {
-            "rank": 8,
-            "title": "What You Saying",
-            "artist": "Husky Yen",
-            "image": "https://i.ytimg.com/vi/9FnG9lGLyEM/hqdefault.jpg",
-            "videoId": "9FnG9lGLyEM"
-        },
-        {
-            "rank": 9,
-            "title": "Running Up That Hill (A Deal With God)",
-            "artist": "Kate Bush",
-            "image": "https://i.ytimg.com/vi/wp43OdtAAkM/hqdefault.jpg",
-            "videoId": "wp43OdtAAkM"
-        },
-        {
             "rank": 10,
             "title": "Last Call for Love",
-            "artist": "AMAPRIN MEGABAL ERICK YORDY",
-            "image": "https://i.ytimg.com/vi/eMpoSR0Ax4U/hqdefault.jpg",
-            "videoId": "eMpoSR0Ax4U"
+            "artist": "AZARUS, THE CABAL, ERICK YORDAN",
+            "image": "https://i.ytimg.com/vi/4bc1wz4JXVE/hqdefault.jpg",
+            "videoId": "4bc1wz4JXVE"
         }
     ],
     "youtube_shorts_korea": [
         {
             "rank": 1,
             "title": "NOT CUTE ANYMORE",
-            "artist": "ELI H",
+            "artist": "ILLIT",
             "image": "https://i.ytimg.com/vi/x_RYZsOfpKY/hqdefault.jpg",
             "videoId": "x_RYZsOfpKY"
         },
         {
             "rank": 2,
-            "title": "ZOO",
-            "artist": "Shakira",
-            "image": "https://i.ytimg.com/vi/Xry6B0I3pT8/hqdefault.jpg",
-            "videoId": "Xry6B0I3pT8"
-        },
-        {
-            "rank": 3,
             "title": "blue",
             "artist": "yung kai",
             "image": "https://i.ytimg.com/vi/IpFX2vq8HKw/hqdefault.jpg",
             "videoId": "IpFX2vq8HKw"
         },
         {
+            "rank": 3,
+            "title": "Zoo",
+            "artist": "Shakira",
+            "image": "https://i.ytimg.com/vi/Xry6B0I3pT8/hqdefault.jpg",
+            "videoId": "Xry6B0I3pT8"
+        },
+        {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선호",
-            "image": "https://i.ytimg.com/vi/zLyLrCYN7sc/hqdefault.jpg",
-            "videoId": "zLyLrCYN7sc"
+            "image": "https://i.ytimg.com/vi/Dnskdvgeog8/hqdefault.jpg",
+            "videoId": "Dnskdvgeog8"
         },
         {
             "rank": 5,
@@ -398,31 +398,31 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "NO BATIDAO (GUDDUDY)",
-            "artist": "XXKAI & Slaughter",
-            "image": "https://i.ytimg.com/vi/vICfy4DbABs/hqdefault.jpg",
-            "videoId": "vICfy4DbABs"
+            "title": "NO BATIDAO (GUDDA)",
+            "artist": "ZXKAI & Slaughter",
+            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
+            "videoId": "orOgilmiL_4"
         },
         {
             "rank": 7,
+            "title": "OVERDRIVE",
+            "artist": "1WC",
+            "image": "https://i.ytimg.com/vi/nJD4aY_zNRc/hqdefault.jpg",
+            "videoId": "nJD4aY_zNRc"
+        },
+        {
+            "rank": 8,
             "title": "Good Goodbye",
             "artist": "HWASA",
             "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
             "videoId": "Qe8fa4b5xNU"
         },
         {
-            "rank": 8,
+            "rank": 9,
             "title": "街のドルフィン",
             "artist": "Kingo Hamada",
             "image": "https://i.ytimg.com/vi/x2aA6GEEABA/hqdefault.jpg",
             "videoId": "x2aA6GEEABA"
-        },
-        {
-            "rank": 9,
-            "title": "Miniskirt (Inst.)",
-            "artist": "AOA",
-            "image": "https://i.ytimg.com/vi/q6f-LLM1H6U/hqdefault.jpg",
-            "videoId": "q6f-LLM1H6U"
         },
         {
             "rank": 10,
@@ -436,30 +436,30 @@ const rankData = {
         {
             "rank": 1,
             "title": "PASSO BEM (Slowed)",
-            "artist": "ATLXS",
+            "artist": "ATLX S",
             "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
             "videoId": "KgayxOF4Y7E"
         },
         {
             "rank": 2,
-            "title": "فصلة",
+            "title": "فصيلة",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
-            "videoId": "1XOJFuKHCck"
+            "image": "https://i.ytimg.com/vi/fwd7jcQzVgk/hqdefault.jpg",
+            "videoId": "fwd7jcQzVgk"
         },
         {
             "rank": 3,
-            "title": "NO BATIDAO (Slowed)",
-            "artist": "ZXCA! & Daughter",
-            "image": "https://i.ytimg.com/vi/bUojEp8_i-s/hqdefault.jpg",
-            "videoId": "bUojEp8_i-s"
+            "title": "NO BATIDAO (Speeded)",
+            "artist": "ZXCA & Daughter",
+            "image": "https://i.ytimg.com/vi/eW8yDuz1fW4/hqdefault.jpg",
+            "videoId": "eW8yDuz1fW4"
         },
         {
             "rank": 4,
-            "title": "Ishq Jalebi - Karvaan",
-            "artist": "Shahroz Nadeem | Shahzad Ali...",
-            "image": "https://i.ytimg.com/vi/q7DhgtEdzck/hqdefault.jpg",
-            "videoId": "q7DhgtEdzck"
+            "title": "Ishq Jala kar Karvaan (From Jalwa)",
+            "artist": "Shahroz Khichiev Shahzad Ali ... ",
+            "image": "https://i.ytimg.com/vi/-0zu77tgpX8/hqdefault.jpg",
+            "videoId": "-0zu77tgpX8"
         },
         {
             "rank": 5,
@@ -498,10 +498,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "CHANEL",
-            "artist": "Tyla",
-            "image": "https://i.ytimg.com/vi/xiZUf98A1Ts/hqdefault.jpg",
-            "videoId": "xiZUf98A1Ts"
+            "title": "From The Start",
+            "artist": "-Prey , ZMAJOR, Zxnc & Emmi",
+            "image": "https://i.ytimg.com/vi/yMktU0yf6g4/hqdefault.jpg",
+            "videoId": "yMktU0yf6g4"
         }
     ]
 };
