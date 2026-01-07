@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-07 15:03:49",
+    "last_updated": "2026-01-08 08:39:33",
     "billboard": [
         {
             "rank": 1,
@@ -205,8 +205,8 @@ const rankData = {
             "rank": 9,
             "title": "멸종위기사랑",
             "artist": "이찬혁",
-            "image": "https://i.ytimg.com/vi/JRIfRxSXCKc/hqdefault.jpg",
-            "videoId": "JRIfRxSXCKc"
+            "image": "https://i.ytimg.com/vi/19oT04OuBhg/hqdefault.jpg",
+            "videoId": "19oT04OuBhg"
         },
         {
             "rank": 10,
@@ -221,29 +221,29 @@ const rankData = {
             "rank": 1,
             "title": "My whole world",
             "artist": "CAR, THE GARDEN",
-            "image": "https://i.ytimg.com/vi/lzKfIffCgUU/hqdefault.jpg",
-            "videoId": "lzKfIffCgUU"
+            "image": "https://i.ytimg.com/vi/ZurHW2kBqrw/hqdefault.jpg",
+            "videoId": "ZurHW2kBqrw"
         },
         {
             "rank": 2,
-            "title": "사랑은 봄비처럼…이별은 겨울처럼 (Love Is Like a Spring Rain… Farewell Is Like a Winter)",
-            "artist": "Lim Hyunchung",
+            "title": "사랑은 봄비처럼...이별은 겨울처럼",
+            "artist": "Lim Hyunchang",
             "image": "https://i.ytimg.com/vi/tiB-H2e2qq4/hqdefault.jpg",
             "videoId": "tiB-H2e2qq4"
         },
         {
             "rank": 3,
             "title": "Close to you",
-            "artist": "Sole & THAMA",
+            "artist": "SOLE & THAMA",
             "image": "https://i.ytimg.com/vi/RuORKyaDPCo/hqdefault.jpg",
             "videoId": "RuORKyaDPCo"
         },
         {
             "rank": 4,
-            "title": "Together (From “Reply 1988, Pt. 11”)",
+            "title": "Together (From Reply 1988, Pt. 11)",
             "artist": "Noel",
-            "image": "https://i.ytimg.com/vi/VZlVgVuShFM/hqdefault.jpg",
-            "videoId": "VZlVgVuShFM"
+            "image": "https://i.ytimg.com/vi/KgCWTU3tCxg/hqdefault.jpg",
+            "videoId": "KgCWTU3tCxg"
         },
         {
             "rank": 5,
@@ -269,7 +269,7 @@ const rankData = {
         {
             "rank": 8,
             "title": "High Hopes",
-            "artist": "Panic! At the Disco",
+            "artist": "Panic! At The Disco",
             "image": "https://i.ytimg.com/vi/IPXIgEAGe4U/hqdefault.jpg",
             "videoId": "IPXIgEAGe4U"
         },
@@ -283,7 +283,7 @@ const rankData = {
         {
             "rank": 10,
             "title": "A journey",
-            "artist": "WOOFL",
+            "artist": "WOOFE",
             "image": "https://i.ytimg.com/vi/OMD8hBsA-RI/hqdefault.jpg",
             "videoId": "OMD8hBsA-RI"
         }
@@ -298,7 +298,7 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "Heroes (2017 Remaster)",
+            "title": "“Heroes” (2017 Remaster)",
             "artist": "David Bowie",
             "image": "https://i.ytimg.com/vi/lXgkuM2NhYI/hqdefault.jpg",
             "videoId": "lXgkuM2NhYI"
@@ -312,59 +312,59 @@ const rankData = {
         },
         {
             "rank": 4,
-            "title": "Papooutai",
-            "artist": "Stallz & Unjaps",
-            "image": "https://i.ytimg.com/vi/wIH_MURnjxA/hqdefault.jpg",
-            "videoId": "wIH_MURnjxA"
-        },
-        {
-            "rank": 5,
             "title": "End of Beginning",
             "artist": "Djo",
             "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
             "videoId": "aH7gkoBpN3s"
         },
         {
-            "rank": 6,
-            "title": "Dibiri Dibae (feat. KayGee D & D-Bangz)",
-            "artist": "D-Bangz Official Bangat B Production",
-            "image": "https://i.ytimg.com/vi/sMzfpTY1ioQ/hqdefault.jpg",
-            "videoId": "sMzfpTY1ioQ"
-        },
-        {
-            "rank": 7,
+            "rank": 5,
             "title": "Here Comes Your Man",
             "artist": "Pixies",
             "image": "https://i.ytimg.com/vi/tPgf_btTFlc/hqdefault.jpg",
             "videoId": "tPgf_btTFlc"
         },
         {
-            "rank": 8,
+            "rank": 6,
             "title": "The Trooper",
             "artist": "Iron Maiden",
             "image": "https://i.ytimg.com/vi/X4bgXH3sJ2Q/hqdefault.jpg",
             "videoId": "X4bgXH3sJ2Q"
         },
         {
-            "rank": 9,
+            "rank": 7,
             "title": "Sweet Jane",
             "artist": "Cowboy Junkies",
             "image": "https://i.ytimg.com/vi/Fa9nN3G2CSg/hqdefault.jpg",
             "videoId": "Fa9nN3G2CSg"
         },
         {
-            "rank": 10,
+            "rank": 8,
             "title": "Last Call for Love",
-            "artist": "SHAKHRIYOR RECCABAL ERICK YOUSUF",
-            "image": "https://i.ytimg.com/vi/hV30039nV5I/hqdefault.jpg",
-            "videoId": "hV30039nV5I"
+            "artist": "MARINA, CABAL ERICK Y MERO",
+            "image": "https://i.ytimg.com/vi/4bc1wz4JXVE/hqdefault.jpg",
+            "videoId": "4bc1wz4JXVE"
+        },
+        {
+            "rank": 9,
+            "title": "Bilmez Idim Dert Verer",
+            "artist": "Ferid Sumqayıt",
+            "image": "https://i.ytimg.com/vi/b4pWCMGTIxg/hqdefault.jpg",
+            "videoId": "b4pWCMGTIxg"
+        },
+        {
+            "rank": 10,
+            "title": "Подари мне дед мороз",
+            "artist": "Бинг Мьюзик",
+            "image": "https://i.ytimg.com/vi/VZHAgZrt45c/hqdefault.jpg",
+            "videoId": "VZHAgZrt45c"
         }
     ],
     "youtube_shorts_korea": [
         {
             "rank": 1,
             "title": "NOT CUTE AND MORE",
-            "artist": "ELI H",
+            "artist": "BLIT",
             "image": "https://i.ytimg.com/vi/x_RYZsOfpKY/hqdefault.jpg",
             "videoId": "x_RYZsOfpKY"
         },
@@ -398,31 +398,31 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "SPAGHETTI (feat. Hoppy)",
+            "title": "SPAGHETTI (feat. FUDDY)",
             "artist": "LE SSERAFIM",
             "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
             "videoId": "TvVtYaqCni8"
         },
         {
             "rank": 7,
+            "title": "NO BATIDÃO (SLOWED)",
+            "artist": "ZXKAI & slaughter",
+            "image": "https://i.ytimg.com/vi/n3e9lwoAmj4/hqdefault.jpg",
+            "videoId": "n3e9lwoAmj4"
+        },
+        {
+            "rank": 8,
             "title": "街のドルフィン",
-            "artist": "Ringo Hamada",
+            "artist": "Kingo Hamada",
             "image": "https://i.ytimg.com/vi/x2aA6GEEABA/hqdefault.jpg",
             "videoId": "x2aA6GEEABA"
         },
         {
-            "rank": 8,
-            "title": "NO BATIDAO (GOODBOY)",
-            "artist": "ZXKAI & Daughter",
-            "image": "https://i.ytimg.com/vi/1GDOndn8BPs/hqdefault.jpg",
-            "videoId": "1GDOndn8BPs"
-        },
-        {
             "rank": 9,
-            "title": "Sweet Potato",
-            "artist": "Oneul",
-            "image": "https://i.ytimg.com/vi/yAwGabyAx8w/hqdefault.jpg",
-            "videoId": "yAwGabyAx8w"
+            "title": "Miniskirt (Inst)",
+            "artist": "AOA",
+            "image": "https://i.ytimg.com/vi/q6f-LLM1H6U/hqdefault.jpg",
+            "videoId": "q6f-LLM1H6U"
         },
         {
             "rank": 10,
@@ -435,24 +435,24 @@ const rankData = {
     "youtube_shorts_global": [
         {
             "rank": 1,
-            "title": "PASSO BEM (Slowed)",
-            "artist": "ATL XS",
+            "title": "PASSO BEM (SLOWED)",
+            "artist": "ATLX S",
             "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
             "videoId": "KgayxOF4Y7E"
         },
         {
             "rank": 2,
-            "title": "فصيلة",
-            "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/fwd7jcQzVgk/hqdefault.jpg",
-            "videoId": "fwd7jcQzVgk"
+            "title": "NO BAILÃO (SLOWED)",
+            "artist": "ZXXAI & slxughter",
+            "image": "https://i.ytimg.com/vi/n3e9lwoAmj4/hqdefault.jpg",
+            "videoId": "n3e9lwoAmj4"
         },
         {
             "rank": 3,
-            "title": "NO BATIDAO (Slowed)",
-            "artist": "ZXCA & Douughter",
-            "image": "https://i.ytimg.com/vi/AyBirzg3hfA/hqdefault.jpg",
-            "videoId": "AyBirzg3hfA"
+            "title": "فصام",
+            "artist": "Flipperrachi",
+            "image": "https://i.ytimg.com/vi/fwd7jcQzVgk/hqdefault.jpg",
+            "videoId": "fwd7jcQzVgk"
         },
         {
             "rank": 4,
@@ -463,10 +463,10 @@ const rankData = {
         },
         {
             "rank": 5,
-            "title": "Ishq Jalakar - Kervada",
-            "artist": "Bhagwat Sachdev, Shahzad Ali, Rapperboy Hanzu",
-            "image": "https://i.ytimg.com/vi/-0zu77tgpX8/hqdefault.jpg",
-            "videoId": "-0zu77tgpX8"
+            "title": "Ishq Jalakar - Kavyanjali",
+            "artist": "Shahrawat Sachdev , Shahzad Ali...",
+            "image": "https://i.ytimg.com/vi/8qCVXCFREkQ/hqdefault.jpg",
+            "videoId": "8qCVXCFREkQ"
         },
         {
             "rank": 6,
@@ -477,31 +477,31 @@ const rankData = {
         },
         {
             "rank": 7,
+            "title": "Seet Lehar",
+            "artist": "Filmy & Kiyaazi",
+            "image": "https://i.ytimg.com/vi/tKLcFy1HDUA/hqdefault.jpg",
+            "videoId": "tKLcFy1HDUA"
+        },
+        {
+            "rank": 8,
             "title": "Big Guy",
             "artist": "Ice Spice",
             "image": "https://i.ytimg.com/vi/gDb91xKfa4E/hqdefault.jpg",
             "videoId": "gDb91xKfa4E"
         },
         {
-            "rank": 8,
+            "rank": 9,
             "title": "NOT CUTE ANYMORE",
             "artist": "ILLIT",
             "image": "https://i.ytimg.com/vi/x_RYZsOfpKY/hqdefault.jpg",
             "videoId": "x_RYZsOfpKY"
         },
         {
-            "rank": 9,
-            "title": "Seet Lehar",
-            "artist": "Filmy & Riyaazi",
-            "image": "https://i.ytimg.com/vi/tKLcFy1HDUA/hqdefault.jpg",
-            "videoId": "tKLcFy1HDUA"
-        },
-        {
             "rank": 10,
             "title": "EEEE A",
-            "artist": "dia",
-            "image": "https://i.ytimg.com/vi/Wvl-UASEEQY/hqdefault.jpg",
-            "videoId": "Wvl-UASEEQY"
+            "artist": "Jia",
+            "image": "https://i.ytimg.com/vi/I1qIfviII58/hqdefault.jpg",
+            "videoId": "I1qIfviII58"
         }
     ]
 };
