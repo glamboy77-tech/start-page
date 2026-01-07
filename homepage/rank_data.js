@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-07 08:41:12",
+    "last_updated": "2026-01-07 15:03:49",
     "billboard": [
         {
             "rank": 1,
@@ -182,17 +182,17 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "ONE MORE TIME",
-            "artist": "ALLDAY PROJECT",
-            "image": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg",
-            "videoId": "OgEwJ8a1OoY"
-        },
-        {
-            "rank": 7,
             "title": "SPAGHETTI (feat. j-hope of BTS)",
             "artist": "LE SSERAFIM (르세라핌)",
             "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
             "videoId": "TvVtYaqCni8"
+        },
+        {
+            "rank": 7,
+            "title": "ONE MORE TIME",
+            "artist": "ALLDAY PROJECT",
+            "image": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg",
+            "videoId": "OgEwJ8a1OoY"
         },
         {
             "rank": 8,
@@ -205,15 +205,15 @@ const rankData = {
             "rank": 9,
             "title": "멸종위기사랑",
             "artist": "이찬혁",
-            "image": "https://i.ytimg.com/vi/19oT04OuBhg/hqdefault.jpg",
-            "videoId": "19oT04OuBhg"
+            "image": "https://i.ytimg.com/vi/JRIfRxSXCKc/hqdefault.jpg",
+            "videoId": "JRIfRxSXCKc"
         },
         {
             "rank": 10,
-            "title": "힙합보단 사랑, 사랑보단 돈 (Feat. 베이식)",
-            "artist": "노아주다 (noahjooda)",
-            "image": "https://i.ytimg.com/vi/cth2jj6W-Tg/hqdefault.jpg",
-            "videoId": "cth2jj6W-Tg"
+            "title": "어제보다 슬픈 오늘",
+            "artist": "우디 (Woody)",
+            "image": "https://i.ytimg.com/vi/1mZ-hoIvEx8/hqdefault.jpg",
+            "videoId": "1mZ-hoIvEx8"
         }
     ],
     "shazam_korea": [
@@ -221,29 +221,29 @@ const rankData = {
             "rank": 1,
             "title": "My whole world",
             "artist": "CAR, THE GARDEN",
-            "image": "https://i.ytimg.com/vi/ZurHW2kBqrw/hqdefault.jpg",
-            "videoId": "ZurHW2kBqrw"
+            "image": "https://i.ytimg.com/vi/lzKfIffCgUU/hqdefault.jpg",
+            "videoId": "lzKfIffCgUU"
         },
         {
             "rank": 2,
-            "title": "사랑은 불처럼 타올라",
-            "artist": "Lim Hyunjung",
-            "image": "https://i.ytimg.com/vi/LmG1rPr5nbw/hqdefault.jpg",
-            "videoId": "LmG1rPr5nbw"
+            "title": "사랑은 봄비처럼…이별은 겨울처럼 (Love Is Like a Spring Rain… Farewell Is Like a Winter)",
+            "artist": "Lim Hyunchung",
+            "image": "https://i.ytimg.com/vi/tiB-H2e2qq4/hqdefault.jpg",
+            "videoId": "tiB-H2e2qq4"
         },
         {
             "rank": 3,
             "title": "Close to you",
-            "artist": "SOLE & THAMA",
+            "artist": "Sole & THAMA",
             "image": "https://i.ytimg.com/vi/RuORKyaDPCo/hqdefault.jpg",
             "videoId": "RuORKyaDPCo"
         },
         {
             "rank": 4,
-            "title": "Together (From “Reply 1988, Pt. 4”)",
+            "title": "Together (From “Reply 1988, Pt. 11”)",
             "artist": "Noel",
-            "image": "https://i.ytimg.com/vi/MMksItAJmGc/hqdefault.jpg",
-            "videoId": "MMksItAJmGc"
+            "image": "https://i.ytimg.com/vi/VZlVgVuShFM/hqdefault.jpg",
+            "videoId": "VZlVgVuShFM"
         },
         {
             "rank": 5,
@@ -254,38 +254,38 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "End of Beginning",
-            "artist": "Djo",
-            "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
-            "videoId": "aH7gkoBpN3s"
-        },
-        {
-            "rank": 7,
             "title": "Purple Rain",
             "artist": "Prince & The Revolution",
             "image": "https://i.ytimg.com/vi/GaJcBJQi7bY/hqdefault.jpg",
             "videoId": "GaJcBJQi7bY"
         },
         {
+            "rank": 7,
+            "title": "End of Beginning",
+            "artist": "Djo",
+            "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
+            "videoId": "aH7gkoBpN3s"
+        },
+        {
             "rank": 8,
-            "title": "Borrow your night",
-            "artist": "FLOOR",
-            "image": "https://i.ytimg.com/vi/jrBnyKvBwsg/hqdefault.jpg",
-            "videoId": "jrBnyKvBwsg"
+            "title": "High Hopes",
+            "artist": "Panic! At the Disco",
+            "image": "https://i.ytimg.com/vi/IPXIgEAGe4U/hqdefault.jpg",
+            "videoId": "IPXIgEAGe4U"
         },
         {
             "rank": 9,
-            "title": "사진첩",
-            "artist": "Epik High",
-            "image": "https://i.ytimg.com/vi/-hzCbjbrpOI/hqdefault.jpg",
-            "videoId": "-hzCbjbrpOI"
+            "title": "When Doves Cry",
+            "artist": "Prince",
+            "image": "https://i.ytimg.com/vi/UG3VcCAlUgE/hqdefault.jpg",
+            "videoId": "UG3VcCAlUgE"
         },
         {
             "rank": 10,
-            "title": "High Hopes",
-            "artist": "Panic! At The Disco",
-            "image": "https://i.ytimg.com/vi/IPXIgEAGe4U/hqdefault.jpg",
-            "videoId": "IPXIgEAGe4U"
+            "title": "A journey",
+            "artist": "WOOFL",
+            "image": "https://i.ytimg.com/vi/OMD8hBsA-RI/hqdefault.jpg",
+            "videoId": "OMD8hBsA-RI"
         }
     ],
     "shazam_global": [
@@ -312,10 +312,10 @@ const rankData = {
         },
         {
             "rank": 4,
-            "title": "Papoutai",
-            "artist": "Bilal2G & Unjaps",
-            "image": "https://i.ytimg.com/vi/AxqofZu_Zyc/hqdefault.jpg",
-            "videoId": "AxqofZu_Zyc"
+            "title": "Papooutai",
+            "artist": "Stallz & Unjaps",
+            "image": "https://i.ytimg.com/vi/wIH_MURnjxA/hqdefault.jpg",
+            "videoId": "wIH_MURnjxA"
         },
         {
             "rank": 5,
@@ -326,10 +326,10 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "Dhuri Sikae (feat. KayGee M)",
-            "artist": "Dudu Mkhize, Official Bangai Bafana & T Man SA",
-            "image": "https://i.ytimg.com/vi/ErmuB6CrwV0/hqdefault.jpg",
-            "videoId": "ErmuB6CrwV0"
+            "title": "Dibiri Dibae (feat. KayGee D & D-Bangz)",
+            "artist": "D-Bangz Official Bangat B Production",
+            "image": "https://i.ytimg.com/vi/sMzfpTY1ioQ/hqdefault.jpg",
+            "videoId": "sMzfpTY1ioQ"
         },
         {
             "rank": 7,
@@ -355,16 +355,16 @@ const rankData = {
         {
             "rank": 10,
             "title": "Last Call for Love",
-            "artist": "ZAPATA THE CABAL, ERICK YORDI & Anan Music",
-            "image": "https://i.ytimg.com/vi/lRkowUsLH_8/hqdefault.jpg",
-            "videoId": "lRkowUsLH_8"
+            "artist": "SHAKHRIYOR RECCABAL ERICK YOUSUF",
+            "image": "https://i.ytimg.com/vi/hV30039nV5I/hqdefault.jpg",
+            "videoId": "hV30039nV5I"
         }
     ],
     "youtube_shorts_korea": [
         {
             "rank": 1,
             "title": "NOT CUTE AND MORE",
-            "artist": "EL. H",
+            "artist": "ELI H",
             "image": "https://i.ytimg.com/vi/x_RYZsOfpKY/hqdefault.jpg",
             "videoId": "x_RYZsOfpKY"
         },
@@ -385,9 +385,9 @@ const rankData = {
         {
             "rank": 4,
             "title": "So Cute",
-            "artist": "김선호",
-            "image": "https://i.ytimg.com/vi/MktWPJslQE0/hqdefault.jpg",
-            "videoId": "MktWPJslQE0"
+            "artist": "김신환",
+            "image": "https://i.ytimg.com/vi/kVLen4bFlNI/hqdefault.jpg",
+            "videoId": "kVLen4bFlNI"
         },
         {
             "rank": 5,
@@ -398,7 +398,7 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "SPAGHETTI (feat. Floppy)",
+            "title": "SPAGHETTI (feat. Hoppy)",
             "artist": "LE SSERAFIM",
             "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
             "videoId": "TvVtYaqCni8"
@@ -406,14 +406,14 @@ const rankData = {
         {
             "rank": 7,
             "title": "街のドルフィン",
-            "artist": "Kingo Hamada",
+            "artist": "Ringo Hamada",
             "image": "https://i.ytimg.com/vi/x2aA6GEEABA/hqdefault.jpg",
             "videoId": "x2aA6GEEABA"
         },
         {
             "rank": 8,
-            "title": "NO BATIDAO (Gostoso)",
-            "artist": "GX.KAI & Daughter",
+            "title": "NO BATIDAO (GOODBOY)",
+            "artist": "ZXKAI & Daughter",
             "image": "https://i.ytimg.com/vi/1GDOndn8BPs/hqdefault.jpg",
             "videoId": "1GDOndn8BPs"
         },
@@ -436,23 +436,23 @@ const rankData = {
         {
             "rank": 1,
             "title": "PASSO BEM (Slowed)",
-            "artist": "ATLXS",
+            "artist": "ATL XS",
             "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
             "videoId": "KgayxOF4Y7E"
         },
         {
             "rank": 2,
             "title": "فصيلة",
-            "artist": "Flipperrachi",
-            "image": "https://i.ytimg.com/vi/veaWBPVMLn4/hqdefault.jpg",
-            "videoId": "veaWBPVMLn4"
+            "artist": "Flipperachi",
+            "image": "https://i.ytimg.com/vi/fwd7jcQzVgk/hqdefault.jpg",
+            "videoId": "fwd7jcQzVgk"
         },
         {
             "rank": 3,
             "title": "NO BATIDAO (Slowed)",
-            "artist": "ZXCA & Bvrglv",
-            "image": "https://i.ytimg.com/vi/KhIJfFGTBzU/hqdefault.jpg",
-            "videoId": "KhIJfFGTBzU"
+            "artist": "ZXCA & Douughter",
+            "image": "https://i.ytimg.com/vi/AyBirzg3hfA/hqdefault.jpg",
+            "videoId": "AyBirzg3hfA"
         },
         {
             "rank": 4,
@@ -463,10 +463,10 @@ const rankData = {
         },
         {
             "rank": 5,
-            "title": "Ishq Jalakar - Kadvach",
-            "artist": "Shahrawat Sachdev, Shahzad Ali, ...",
-            "image": "https://i.ytimg.com/vi/8qCVXCFREkQ/hqdefault.jpg",
-            "videoId": "8qCVXCFREkQ"
+            "title": "Ishq Jalakar - Kervada",
+            "artist": "Bhagwat Sachdev, Shahzad Ali, Rapperboy Hanzu",
+            "image": "https://i.ytimg.com/vi/-0zu77tgpX8/hqdefault.jpg",
+            "videoId": "-0zu77tgpX8"
         },
         {
             "rank": 6,
@@ -499,9 +499,9 @@ const rankData = {
         {
             "rank": 10,
             "title": "EEEE A",
-            "artist": "Jia",
-            "image": "https://i.ytimg.com/vi/-cNOSNUZtfQ/hqdefault.jpg",
-            "videoId": "-cNOSNUZtfQ"
+            "artist": "dia",
+            "image": "https://i.ytimg.com/vi/Wvl-UASEEQY/hqdefault.jpg",
+            "videoId": "Wvl-UASEEQY"
         }
     ]
 };
