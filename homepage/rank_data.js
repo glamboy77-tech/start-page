@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-08 08:39:33",
+    "last_updated": "2026-01-09 08:35:36",
     "billboard": [
         {
             "rank": 1,
@@ -154,31 +154,31 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "타임캡슐",
-            "artist": "다비치",
-            "image": "https://i.ytimg.com/vi/qE35JN1ogeI/hqdefault.jpg",
-            "videoId": "qE35JN1ogeI"
-        },
-        {
-            "rank": 3,
             "title": "Drowning",
             "artist": "WOODZ",
             "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
             "videoId": "tiKFuzpX-NA"
         },
         {
-            "rank": 4,
-            "title": "Blue Valentine",
-            "artist": "NMIXX",
-            "image": "https://i.ytimg.com/vi/EmeW6li6bbo/hqdefault.jpg",
-            "videoId": "EmeW6li6bbo"
+            "rank": 3,
+            "title": "타임캡슐",
+            "artist": "다비치",
+            "image": "https://i.ytimg.com/vi/qE35JN1ogeI/hqdefault.jpg",
+            "videoId": "qE35JN1ogeI"
         },
         {
-            "rank": 5,
+            "rank": 4,
             "title": "사랑하게 될 거야",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
             "videoId": "h0KIWaUEIgQ"
+        },
+        {
+            "rank": 5,
+            "title": "Blue Valentine",
+            "artist": "NMIXX",
+            "image": "https://i.ytimg.com/vi/EmeW6li6bbo/hqdefault.jpg",
+            "videoId": "EmeW6li6bbo"
         },
         {
             "rank": 6,
@@ -219,17 +219,17 @@ const rankData = {
     "shazam_korea": [
         {
             "rank": 1,
-            "title": "My whole world",
-            "artist": "CAR, THE GARDEN",
-            "image": "https://i.ytimg.com/vi/ZurHW2kBqrw/hqdefault.jpg",
-            "videoId": "ZurHW2kBqrw"
+            "title": "사랑은 봄비처럼...이별은 겨울처럼",
+            "artist": "Lim Hyunjung",
+            "image": "https://i.ytimg.com/vi/tiB-H2e2qq4/hqdefault.jpg",
+            "videoId": "tiB-H2e2qq4"
         },
         {
             "rank": 2,
-            "title": "사랑은 봄비처럼...이별은 겨울처럼",
-            "artist": "Lim Hyunchang",
-            "image": "https://i.ytimg.com/vi/tiB-H2e2qq4/hqdefault.jpg",
-            "videoId": "tiB-H2e2qq4"
+            "title": "My whole world",
+            "artist": "THE KOXX, THE GARDEN",
+            "image": "https://i.ytimg.com/vi/2nIFHOQkPDo/hqdefault.jpg",
+            "videoId": "2nIFHOQkPDo"
         },
         {
             "rank": 3,
@@ -240,7 +240,7 @@ const rankData = {
         },
         {
             "rank": 4,
-            "title": "Together (From Reply 1988, Pt. 11)",
+            "title": "Together (From Reply 1988, Pt. 4)",
             "artist": "Noel",
             "image": "https://i.ytimg.com/vi/KgCWTU3tCxg/hqdefault.jpg",
             "videoId": "KgCWTU3tCxg"
@@ -261,31 +261,31 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "End of Beginning",
-            "artist": "Djo",
-            "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
-            "videoId": "aH7gkoBpN3s"
-        },
-        {
-            "rank": 8,
-            "title": "High Hopes",
-            "artist": "Panic! At The Disco",
-            "image": "https://i.ytimg.com/vi/IPXIgEAGe4U/hqdefault.jpg",
-            "videoId": "IPXIgEAGe4U"
-        },
-        {
-            "rank": 9,
             "title": "When Doves Cry",
             "artist": "Prince",
             "image": "https://i.ytimg.com/vi/UG3VcCAlUgE/hqdefault.jpg",
             "videoId": "UG3VcCAlUgE"
         },
         {
+            "rank": 8,
+            "title": "iluvstubass",
+            "artist": "paul blaque",
+            "image": "https://i.ytimg.com/vi/AmEO4Qp2mFw/hqdefault.jpg",
+            "videoId": "AmEO4Qp2mFw"
+        },
+        {
+            "rank": 9,
+            "title": "High Hopes",
+            "artist": "Panic! At The Disco",
+            "image": "https://i.ytimg.com/vi/IPXIgEAGe4U/hqdefault.jpg",
+            "videoId": "IPXIgEAGe4U"
+        },
+        {
             "rank": 10,
-            "title": "A journey",
-            "artist": "WOOFE",
-            "image": "https://i.ytimg.com/vi/OMD8hBsA-RI/hqdefault.jpg",
-            "videoId": "OMD8hBsA-RI"
+            "title": "Borrow your night",
+            "artist": "PLAVO",
+            "image": "https://i.ytimg.com/vi/eDlYB_e5k3c/hqdefault.jpg",
+            "videoId": "eDlYB_e5k3c"
         }
     ],
     "shazam_global": [
@@ -298,7 +298,7 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "“Heroes” (2017 Remaster)",
+            "title": "Heroes (2017 Remaster)",
             "artist": "David Bowie",
             "image": "https://i.ytimg.com/vi/lXgkuM2NhYI/hqdefault.jpg",
             "videoId": "lXgkuM2NhYI"
@@ -313,7 +313,7 @@ const rankData = {
         {
             "rank": 4,
             "title": "End of Beginning",
-            "artist": "Djo",
+            "artist": "DJO",
             "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
             "videoId": "aH7gkoBpN3s"
         },
@@ -340,31 +340,31 @@ const rankData = {
         },
         {
             "rank": 8,
-            "title": "Last Call for Love",
-            "artist": "MARINA, CABAL ERICK Y MERO",
-            "image": "https://i.ytimg.com/vi/4bc1wz4JXVE/hqdefault.jpg",
-            "videoId": "4bc1wz4JXVE"
+            "title": "Подари мне дед мороз",
+            "artist": "Маша Маго",
+            "image": "https://i.ytimg.com/vi/9QJsLDdccos/hqdefault.jpg",
+            "videoId": "9QJsLDdccos"
         },
         {
             "rank": 9,
             "title": "Bilmez Idim Dert Verer",
-            "artist": "Ferid Sumqayıt",
+            "artist": "Ferid Sumqayit",
             "image": "https://i.ytimg.com/vi/b4pWCMGTIxg/hqdefault.jpg",
             "videoId": "b4pWCMGTIxg"
         },
         {
             "rank": 10,
-            "title": "Подари мне дед мороз",
-            "artist": "Бинг Мьюзик",
-            "image": "https://i.ytimg.com/vi/VZHAgZrt45c/hqdefault.jpg",
-            "videoId": "VZHAgZrt45c"
+            "title": "Alionsy",
+            "artist": "SHAKAYA & Kvng Vinci",
+            "image": "https://i.ytimg.com/vi/UtlF3aXtn2s/hqdefault.jpg",
+            "videoId": "UtlF3aXtn2s"
         }
     ],
     "youtube_shorts_korea": [
         {
             "rank": 1,
-            "title": "NOT CUTE AND MORE",
-            "artist": "BLIT",
+            "title": "NOT CUTE ANYMORE",
+            "artist": "ELI.T",
             "image": "https://i.ytimg.com/vi/x_RYZsOfpKY/hqdefault.jpg",
             "videoId": "x_RYZsOfpKY"
         },
@@ -377,17 +377,17 @@ const rankData = {
         },
         {
             "rank": 3,
+            "title": "So Cute",
+            "artist": "김선호",
+            "image": "https://i.ytimg.com/vi/1syGbSV0Q3M/hqdefault.jpg",
+            "videoId": "1syGbSV0Q3M"
+        },
+        {
+            "rank": 4,
             "title": "Zoo",
             "artist": "Shakira",
             "image": "https://i.ytimg.com/vi/Xry6B0I3pT8/hqdefault.jpg",
             "videoId": "Xry6B0I3pT8"
-        },
-        {
-            "rank": 4,
-            "title": "So Cute",
-            "artist": "김신환",
-            "image": "https://i.ytimg.com/vi/kVLen4bFlNI/hqdefault.jpg",
-            "videoId": "kVLen4bFlNI"
         },
         {
             "rank": 5,
@@ -398,15 +398,15 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "SPAGHETTI (feat. FUDDY)",
+            "title": "SPAGHETTI (feat. Huh Yunjin)",
             "artist": "LE SSERAFIM",
             "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
             "videoId": "TvVtYaqCni8"
         },
         {
             "rank": 7,
-            "title": "NO BATIDÃO (SLOWED)",
-            "artist": "ZXKAI & slaughter",
+            "title": "NO BATIDAO (SLOWED)",
+            "artist": "ZXXAI & slaughter",
             "image": "https://i.ytimg.com/vi/n3e9lwoAmj4/hqdefault.jpg",
             "videoId": "n3e9lwoAmj4"
         },
@@ -419,30 +419,30 @@ const rankData = {
         },
         {
             "rank": 9,
+            "title": "FALL FROM THE SKY PT. 2",
+            "artist": "ROMANOXPLANET & TAKILLAZ",
+            "image": "https://i.ytimg.com/vi/Cpc1akSzjPY/hqdefault.jpg",
+            "videoId": "Cpc1akSzjPY"
+        },
+        {
+            "rank": 10,
             "title": "Miniskirt (Inst)",
             "artist": "AOA",
             "image": "https://i.ytimg.com/vi/q6f-LLM1H6U/hqdefault.jpg",
             "videoId": "q6f-LLM1H6U"
-        },
-        {
-            "rank": 10,
-            "title": "Good Goodbye",
-            "artist": "HWASA",
-            "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
-            "videoId": "Qe8fa4b5xNU"
         }
     ],
     "youtube_shorts_global": [
         {
             "rank": 1,
-            "title": "PASSO BEM (SLOWED)",
-            "artist": "ATLX S",
+            "title": "PASSO BEM",
+            "artist": "ATLSX",
             "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
             "videoId": "KgayxOF4Y7E"
         },
         {
             "rank": 2,
-            "title": "NO BAILÃO (SLOWED)",
+            "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZXXAI & slxughter",
             "image": "https://i.ytimg.com/vi/n3e9lwoAmj4/hqdefault.jpg",
             "videoId": "n3e9lwoAmj4"
@@ -450,9 +450,9 @@ const rankData = {
         {
             "rank": 3,
             "title": "فصام",
-            "artist": "Flipperrachi",
-            "image": "https://i.ytimg.com/vi/fwd7jcQzVgk/hqdefault.jpg",
-            "videoId": "fwd7jcQzVgk"
+            "artist": "Flipperachi",
+            "image": "https://i.ytimg.com/vi/37soJxAYudM/hqdefault.jpg",
+            "videoId": "37soJxAYudM"
         },
         {
             "rank": 4,
@@ -463,24 +463,24 @@ const rankData = {
         },
         {
             "rank": 5,
-            "title": "Ishq Jalakar - Kavyanjali",
-            "artist": "Shahrawat Sachdev , Shahzad Ali...",
-            "image": "https://i.ytimg.com/vi/8qCVXCFREkQ/hqdefault.jpg",
-            "videoId": "8qCVXCFREkQ"
+            "title": "Ishq Jalakar - Kahwaat",
+            "artist": "Shahwaaz Sachdev, Shahzad Ali, ...",
+            "image": "https://i.ytimg.com/vi/ElXoMnKsnu0/hqdefault.jpg",
+            "videoId": "ElXoMnKsnu0"
         },
         {
             "rank": 6,
-            "title": "Montagem Miau (Slowed)",
-            "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/4PSNNk0C5JY/hqdefault.jpg",
-            "videoId": "4PSNNk0C5JY"
+            "title": "Montagem Miau (Ultra Slowed)",
+            "artist": "Zonar",
+            "image": "https://i.ytimg.com/vi/iM-3egjQXm4/hqdefault.jpg",
+            "videoId": "iM-3egjQXm4"
         },
         {
             "rank": 7,
             "title": "Seet Lehar",
             "artist": "Filmy & Kiyaazi",
-            "image": "https://i.ytimg.com/vi/tKLcFy1HDUA/hqdefault.jpg",
-            "videoId": "tKLcFy1HDUA"
+            "image": "https://i.ytimg.com/vi/qw_KdeoZ_-c/hqdefault.jpg",
+            "videoId": "qw_KdeoZ_-c"
         },
         {
             "rank": 8,
@@ -491,17 +491,17 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "NOT CUTE ANYMORE",
-            "artist": "ILLIT",
-            "image": "https://i.ytimg.com/vi/x_RYZsOfpKY/hqdefault.jpg",
-            "videoId": "x_RYZsOfpKY"
+            "title": "NOT CUTE",
+            "artist": "RAYMORE",
+            "image": "https://i.ytimg.com/vi/hLQPiSmPF0M/hqdefault.jpg",
+            "videoId": "hLQPiSmPF0M"
         },
         {
             "rank": 10,
             "title": "EEEE A",
-            "artist": "Jia",
-            "image": "https://i.ytimg.com/vi/I1qIfviII58/hqdefault.jpg",
-            "videoId": "I1qIfviII58"
+            "artist": "Dia",
+            "image": "https://i.ytimg.com/vi/Wvl-UASEEQY/hqdefault.jpg",
+            "videoId": "Wvl-UASEEQY"
         }
     ]
 };
