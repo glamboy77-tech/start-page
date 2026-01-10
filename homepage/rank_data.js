@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-10 08:40:20",
+    "last_updated": "2026-01-11 02:00:07",
     "billboard": [
         {
             "rank": 1,
@@ -182,17 +182,17 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "SPAGHETTI (feat. j-hope of BTS)",
-            "artist": "LE SSERAFIM (르세라핌)",
-            "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
-            "videoId": "TvVtYaqCni8"
-        },
-        {
-            "rank": 7,
             "title": "Golden",
             "artist": "HUNTR/X",
             "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
             "videoId": "hohuFW0zQUw"
+        },
+        {
+            "rank": 7,
+            "title": "SPAGHETTI (feat. j-hope of BTS)",
+            "artist": "LE SSERAFIM (르세라핌)",
+            "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
+            "videoId": "TvVtYaqCni8"
         },
         {
             "rank": 8,
@@ -219,73 +219,73 @@ const rankData = {
     "shazam_korea": [
         {
             "rank": 1,
-            "title": "사랑은 불처럼…이별은 겨울처럼 (Love is like fire…Farewell is like winter)",
+            "title": "사랑은 불처럼...이별은 겨울비처럼",
             "artist": "Lim Hyunjung",
             "image": "https://i.ytimg.com/vi/tiB-H2e2qq4/hqdefault.jpg",
             "videoId": "tiB-H2e2qq4"
         },
         {
             "rank": 2,
-            "title": "Together (From Reply 1988, Pt. 1)",
-            "artist": "Noel",
-            "image": "https://i.ytimg.com/vi/KgCWTU3tCxg/hqdefault.jpg",
-            "videoId": "KgCWTU3tCxg"
+            "title": "Even if we fight, can you just remember",
+            "artist": "Greey",
+            "image": "https://i.ytimg.com/vi/q-vd_9bTnHw/hqdefault.jpg",
+            "videoId": "q-vd_9bTnHw"
         },
         {
             "rank": 3,
-            "title": "Close to you",
-            "artist": "SOLE & THAMA",
-            "image": "https://i.ytimg.com/vi/RuORKyaDPCo/hqdefault.jpg",
-            "videoId": "RuORKyaDPCo"
+            "title": "Love Love Love (feat. 웅진)",
+            "artist": "Epik High",
+            "image": "https://i.ytimg.com/vi/Kv-Aqwttwzo/hqdefault.jpg",
+            "videoId": "Kv-Aqwttwzo"
         },
         {
             "rank": 4,
-            "title": "Even if we fight, can you just remain by my side?",
-            "artist": "Geum Jandi",
-            "image": "https://i.ytimg.com/vi/in1uxSpvsw0/hqdefault.jpg",
-            "videoId": "in1uxSpvsw0"
+            "title": "All Day",
+            "artist": "Choi Ui Yeon",
+            "image": "https://i.ytimg.com/vi/EItum0CFIds/hqdefault.jpg",
+            "videoId": "EItum0CFIds"
         },
         {
             "rank": 5,
-            "title": "Love Love Love (feat. 웅진)",
+            "title": "Fan",
             "artist": "Epik High",
-            "image": "https://i.ytimg.com/vi/qdr0fZbuffY/hqdefault.jpg",
-            "videoId": "qdr0fZbuffY"
+            "image": "https://i.ytimg.com/vi/eINjPkO7w4M/hqdefault.jpg",
+            "videoId": "eINjPkO7w4M"
         },
         {
             "rank": 6,
-            "title": "iluvslnbass",
-            "artist": "lovesickboys & noboy",
-            "image": "https://i.ytimg.com/vi/3JmL6Z6AiRA/hqdefault.jpg",
-            "videoId": "3JmL6Z6AiRA"
+            "title": "iluvstubass",
+            "artist": "lovin'sibass",
+            "image": "https://i.ytimg.com/vi/WE8rInznG5U/hqdefault.jpg",
+            "videoId": "WE8rInznG5U"
         },
         {
             "rank": 7,
-            "title": "My Life",
-            "artist": "LuckyStar",
-            "image": "https://i.ytimg.com/vi/FBLIYTRlUpE/hqdefault.jpg",
-            "videoId": "FBLIYTRlUpE"
-        },
-        {
-            "rank": 8,
-            "title": "Borrow your night",
-            "artist": "FLOOR, DMEANOR",
-            "image": "https://i.ytimg.com/vi/jrBnyKvBwsg/hqdefault.jpg",
-            "videoId": "jrBnyKvBwsg"
-        },
-        {
-            "rank": 9,
             "title": "Ric Flair Drip",
             "artist": "Offset & Metro Boomin",
             "image": "https://i.ytimg.com/vi/LPTlvQ1Zet0/hqdefault.jpg",
             "videoId": "LPTlvQ1Zet0"
         },
         {
+            "rank": 8,
+            "title": "Tom`s Diner (feat. Suzanne Vega)",
+            "artist": "DNCE",
+            "image": "https://i.ytimg.com/vi/j4jtIDaeaWI/hqdefault.jpg",
+            "videoId": "j4jtIDaeaWI"
+        },
+        {
+            "rank": 9,
+            "title": "Close to you",
+            "artist": "SOLE & THAMA",
+            "image": "https://i.ytimg.com/vi/RuORKyaDPCo/hqdefault.jpg",
+            "videoId": "RuORKyaDPCo"
+        },
+        {
             "rank": 10,
-            "title": "Fan",
-            "artist": "Epik High",
-            "image": "https://i.ytimg.com/vi/eINjPkO7w4M/hqdefault.jpg",
-            "videoId": "eINjPkO7w4M"
+            "title": "AKZO",
+            "artist": "Aldo Gnu",
+            "image": "https://i.ytimg.com/vi/5FOKnc3ORXI/hqdefault.jpg",
+            "videoId": "5FOKnc3ORXI"
         }
     ],
     "shazam_global": [
@@ -298,10 +298,10 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "12 12 12",
-            "artist": "Nembra",
-            "image": "https://i.ytimg.com/vi/dtPCaWFr2HA/hqdefault.jpg",
-            "videoId": "dtPCaWFr2HA"
+            "title": "12 12",
+            "artist": "bomba",
+            "image": "https://i.ytimg.com/vi/RKGbjJarMeA/hqdefault.jpg",
+            "videoId": "RKGbjJarMeA"
         },
         {
             "rank": 3,
@@ -313,9 +313,9 @@ const rankData = {
         {
             "rank": 4,
             "title": "Подари мне дед мороз",
-            "artist": "Gena Milan",
-            "image": "https://i.ytimg.com/vi/JwE_8Lmey9s/hqdefault.jpg",
-            "videoId": "JwE_8Lmey9s"
+            "artist": "Миша Маваши",
+            "image": "https://i.ytimg.com/vi/9QJsLDdccos/hqdefault.jpg",
+            "videoId": "9QJsLDdccos"
         },
         {
             "rank": 5,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "Bilmez İdim Dert Verer",
             "artist": "Feridun Düzağaç",
-            "image": "https://i.ytimg.com/vi/b4pWCMGTIxg/hqdefault.jpg",
-            "videoId": "b4pWCMGTIxg"
+            "image": "https://i.ytimg.com/vi/DVX35BircFc/hqdefault.jpg",
+            "videoId": "DVX35BircFc"
         },
         {
             "rank": 9,
@@ -355,7 +355,7 @@ const rankData = {
         {
             "rank": 10,
             "title": "Watch Me Now!",
-            "artist": "Mona V & DJ Mac",
+            "artist": "Marlon Craft & DJ Mac",
             "image": "https://i.ytimg.com/vi/Q6NsUjSt_vI/hqdefault.jpg",
             "videoId": "Q6NsUjSt_vI"
         }
@@ -398,31 +398,31 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "SPAGHETTI (feat. Hoshi)",
+            "title": "Killer Joy",
+            "artist": "CNBLUE",
+            "image": "https://i.ytimg.com/vi/ND5FhEsjVUk/hqdefault.jpg",
+            "videoId": "ND5FhEsjVUk"
+        },
+        {
+            "rank": 7,
+            "title": "SPAGHETTI (feat. j-hope)",
             "artist": "LE SSERAFIM",
             "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
             "videoId": "TvVtYaqCni8"
         },
         {
-            "rank": 7,
+            "rank": 8,
+            "title": "NO BATIDAO (Gafieira)",
+            "artist": "ZX-KAI & Daughter",
+            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
+            "videoId": "orOgilmiL_4"
+        },
+        {
+            "rank": 9,
             "title": "街のドルフィン",
             "artist": "Kingo Hamada",
             "image": "https://i.ytimg.com/vi/x2aA6GEEABA/hqdefault.jpg",
             "videoId": "x2aA6GEEABA"
-        },
-        {
-            "rank": 8,
-            "title": "NO BATIDAO (Gostoso)",
-            "artist": "ZXKAI & Daughter",
-            "image": "https://i.ytimg.com/vi/1GDOndn8BPs/hqdefault.jpg",
-            "videoId": "1GDOndn8BPs"
-        },
-        {
-            "rank": 9,
-            "title": "Epic Inspiration",
-            "artist": "AShamaluevMusic",
-            "image": "https://i.ytimg.com/vi/CvLHKUtcFg4/hqdefault.jpg",
-            "videoId": "CvLHKUtcFg4"
         },
         {
             "rank": 10,
@@ -435,73 +435,73 @@ const rankData = {
     "youtube_shorts_global": [
         {
             "rank": 1,
-            "title": "PASSO BEM (SLOWED)",
-            "artist": "ATLX5",
-            "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
-            "videoId": "KgayxOF4Y7E"
+            "title": "PASSO BEM AXEL G (Slowed)",
+            "artist": "ATLXS",
+            "image": "https://i.ytimg.com/vi/nuSb86YlhHc/hqdefault.jpg",
+            "videoId": "nuSb86YlhHc"
         },
         {
             "rank": 2,
-            "title": "NO BAFÃO (SLOWED)",
-            "artist": "ZXKAI & slxughter",
-            "image": "https://i.ytimg.com/vi/n3e9lwoAmj4/hqdefault.jpg",
-            "videoId": "n3e9lwoAmj4"
+            "title": "NO BAILÃO (SLOWED)",
+            "artist": "ZXXAI & slxlaughter",
+            "image": "https://i.ytimg.com/vi/P_-F1T5ufPY/hqdefault.jpg",
+            "videoId": "P_-F1T5ufPY"
         },
         {
             "rank": 3,
-            "title": "فِصام",
-            "artist": "Flippperachi",
-            "image": "https://i.ytimg.com/vi/dhBIPHj3UX4/hqdefault.jpg",
-            "videoId": "dhBIPHj3UX4"
-        },
-        {
-            "rank": 4,
-            "title": "Friendships (feat. Sony)",
+            "title": "Friendships (feat. Leony)",
             "artist": "Pascal Letoublon",
             "image": "https://i.ytimg.com/vi/1g3Toj4-RMg/hqdefault.jpg",
             "videoId": "1g3Toj4-RMg"
         },
         {
-            "rank": 5,
-            "title": "Ishq Jalakar - Kavyanjali",
-            "artist": "Sharawat Sachdev , Shahzad Ali ,...",
-            "image": "https://i.ytimg.com/vi/ElXoMnKsnu0/hqdefault.jpg",
-            "videoId": "ElXoMnKsnu0"
+            "rank": 4,
+            "title": "فصالة",
+            "artist": "Flipperachi",
+            "image": "https://i.ytimg.com/vi/Ig4gzVWx2fo/hqdefault.jpg",
+            "videoId": "Ig4gzVWx2fo"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "title": "Montagem Miau (Ultra Slowed)",
-            "artist": "Zonarr",
+            "artist": "Lenar",
             "image": "https://i.ytimg.com/vi/iM-3egjQXm4/hqdefault.jpg",
             "videoId": "iM-3egjQXm4"
         },
         {
+            "rank": 6,
+            "title": "Ishq Jalebi - Kakaaar",
+            "artist": "Shashwat Sachdev Shehzad Ali",
+            "image": "https://i.ytimg.com/vi/3_kVMDG-k5M/hqdefault.jpg",
+            "videoId": "3_kVMDG-k5M"
+        },
+        {
             "rank": 7,
             "title": "Big Guy",
-            "artist": "Tee Spice",
+            "artist": "Ice Spice",
             "image": "https://i.ytimg.com/vi/gDb91xKfa4E/hqdefault.jpg",
             "videoId": "gDb91xKfa4E"
         },
         {
             "rank": 8,
-            "title": "Seet Lehar",
+            "title": "Seeti Lehar",
             "artist": "Filmy & Riyaazi",
-            "image": "https://i.ytimg.com/vi/LAapBV6-9JM/hqdefault.jpg",
-            "videoId": "LAapBV6-9JM"
+            "image": "https://i.ytimg.com/vi/tKLcFy1HDUA/hqdefault.jpg",
+            "videoId": "tKLcFy1HDUA"
         },
         {
             "rank": 9,
+            "title": "Champ Ke Reel",
+            "artist": "Bambili Ho Amarnath SDK",
+            "image": "https://i.ytimg.com/vi/6moCZMtY4ww/hqdefault.jpg",
+            "videoId": "6moCZMtY4ww"
+        },
+        {
+            "rank": 10,
             "title": "CHANEL",
             "artist": "Tyla",
             "image": "https://i.ytimg.com/vi/xiZUf98A1Ts/hqdefault.jpg",
             "videoId": "xiZUf98A1Ts"
-        },
-        {
-            "rank": 10,
-            "title": "Chang Ke Reel Banaib Ho",
-            "artist": "Amarnath SDK",
-            "image": "https://i.ytimg.com/vi/vOQ8LNZ4Utk/hqdefault.jpg",
-            "videoId": "vOQ8LNZ4Utk"
         }
     ]
 };
