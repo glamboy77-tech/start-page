@@ -2,53 +2,53 @@
   "shazam_viral_korea": [
     {
       "rank": 1,
-      "title": "사랑은 불처럼...이별은 겨울비...",
-      "artist": "Lim Hyun-jung"
+      "title": "All Day",
+      "artist": "Cha Ji Yeon"
     },
     {
       "rank": 2,
-      "title": "All Day",
-      "artist": "Seo Ji Yeon"
+      "title": "사랑은 불배처럼...이별은 거울처럼... (Sarang-eun Bulbaecheoreom...ibyeol-eun Geoulcheoreom...)",
+      "artist": "Lim Hyunchung"
     },
     {
       "rank": 3,
-      "title": "Even if we fight, can you just remember it?",
-      "artist": "Grizzly"
-    },
-    {
-      "rank": 4,
       "title": "Fan",
       "artist": "Epik High"
     },
     {
+      "rank": 4,
+      "title": "Even if we fight, can you just remember I'm your friend",
+      "artist": "GRAY"
+    },
+    {
       "rank": 5,
-      "title": "Ric Flair Drip",
-      "artist": "Offset & Metro Boomin"
+      "title": "Way Home",
+      "artist": "Yoon Do Hyun"
     },
     {
       "rank": 6,
+      "title": "Alzo",
+      "artist": "Gina Gnu"
+    },
+    {
+      "rank": 7,
       "title": "Love Love Love (feat. 웅진)",
       "artist": "Epik High"
     },
     {
-      "rank": 7,
-      "title": "AIZO",
-      "artist": "King Gnu"
-    },
-    {
       "rank": 8,
-      "title": "Tom's Diner (feat. Suzanne Vega)",
-      "artist": "DNA"
+      "title": "Taco's Diner (feat. Suzanne Vega)",
+      "artist": "DnA"
     },
     {
       "rank": 9,
-      "title": "DENIAL IS A RIVER",
-      "artist": "Doechii"
+      "title": "Ric Flair Drip",
+      "artist": "Offset & Metro Boomin"
     },
     {
       "rank": 10,
-      "title": "iluvusluclass",
-      "artist": "Kid Bookie"
+      "title": "DENIAL IS A RIVER",
+      "artist": "Eric Nam"
     }
   ]
 }
