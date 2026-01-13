@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-13 08:32:50",
+    "last_updated": "2026-01-14 08:34:35",
     "billboard": [
         {
             "rank": 1,
@@ -10,17 +10,17 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "Golden",
-            "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
-            "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
-            "videoId": "yebNIHKAC4A"
-        },
-        {
-            "rank": 3,
             "title": "Ordinary",
             "artist": "Alex Warren",
             "image": "https://i.ytimg.com/vi/u2ah9tWTkmk/hqdefault.jpg",
             "videoId": "u2ah9tWTkmk"
+        },
+        {
+            "rank": 3,
+            "title": "Golden",
+            "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
+            "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
+            "videoId": "yebNIHKAC4A"
         },
         {
             "rank": 4,
@@ -38,110 +38,110 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "Folded",
-            "artist": "Kehlani",
-            "image": "https://i.ytimg.com/vi/KFMYx1TibeQ/hqdefault.jpg",
-            "videoId": "KFMYx1TibeQ"
-        },
-        {
-            "rank": 7,
-            "title": "Back To Friends",
-            "artist": "sombr",
-            "image": "https://i.ytimg.com/vi/c8zq4kAn_O0/hqdefault.jpg",
-            "videoId": "c8zq4kAn_O0"
-        },
-        {
-            "rank": 8,
-            "title": "Opalite",
-            "artist": "Taylor Swift",
-            "image": "https://i.ytimg.com/vi/4FUIEcnvT04/hqdefault.jpg",
-            "videoId": "4FUIEcnvT04"
-        },
-        {
-            "rank": 9,
-            "title": "Mutt",
-            "artist": "Leon Thomas",
-            "image": "https://i.ytimg.com/vi/U0C1UrO91B8/hqdefault.jpg",
-            "videoId": "U0C1UrO91B8"
-        },
-        {
-            "rank": 10,
-            "title": "Daisies",
-            "artist": "Justin Bieber",
-            "image": "https://i.ytimg.com/vi/QyvREl7epGY/hqdefault.jpg",
-            "videoId": "QyvREl7epGY"
-        }
-    ],
-    "billboard_rock": [
-        {
-            "rank": 1,
-            "title": "Back To Friends",
-            "artist": "sombr",
-            "image": "https://i.ytimg.com/vi/c8zq4kAn_O0/hqdefault.jpg",
-            "videoId": "c8zq4kAn_O0"
-        },
-        {
-            "rank": 2,
             "title": "End Of Beginning",
             "artist": "Djo",
             "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
             "videoId": "aH7gkoBpN3s"
         },
         {
+            "rank": 7,
+            "title": "Folded",
+            "artist": "Kehlani",
+            "image": "https://i.ytimg.com/vi/KFMYx1TibeQ/hqdefault.jpg",
+            "videoId": "KFMYx1TibeQ"
+        },
+        {
+            "rank": 8,
+            "title": "Back To Friends",
+            "artist": "sombr",
+            "image": "https://i.ytimg.com/vi/c8zq4kAn_O0/hqdefault.jpg",
+            "videoId": "c8zq4kAn_O0"
+        },
+        {
+            "rank": 9,
+            "title": "Opalite",
+            "artist": "Taylor Swift",
+            "image": "https://i.ytimg.com/vi/4FUIEcnvT04/hqdefault.jpg",
+            "videoId": "4FUIEcnvT04"
+        },
+        {
+            "rank": 10,
+            "title": "Mutt",
+            "artist": "Leon Thomas",
+            "image": "https://i.ytimg.com/vi/U0C1UrO91B8/hqdefault.jpg",
+            "videoId": "U0C1UrO91B8"
+        }
+    ],
+    "billboard_rock": [
+        {
+            "rank": 1,
+            "title": "End Of Beginning",
+            "artist": "Djo",
+            "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
+            "videoId": "aH7gkoBpN3s"
+        },
+        {
+            "rank": 2,
+            "title": "Back To Friends",
+            "artist": "sombr",
+            "image": "https://i.ytimg.com/vi/c8zq4kAn_O0/hqdefault.jpg",
+            "videoId": "c8zq4kAn_O0"
+        },
+        {
             "rank": 3,
+            "title": "Purple Rain",
+            "artist": "Prince And The Revolution",
+            "image": "https://i.ytimg.com/vi/GaJcBJQi7bY/hqdefault.jpg",
+            "videoId": "GaJcBJQi7bY"
+        },
+        {
+            "rank": 4,
             "title": "Nice To Meet You",
             "artist": "Myles Smith",
             "image": "https://i.ytimg.com/vi/9VbDkDALT7w/hqdefault.jpg",
             "videoId": "9VbDkDALT7w"
         },
         {
-            "rank": 4,
+            "rank": 5,
             "title": "I Thought I Saw Your Face Today",
             "artist": "She & Him",
             "image": "https://i.ytimg.com/vi/pyGU-UudvrM/hqdefault.jpg",
             "videoId": "pyGU-UudvrM"
         },
         {
-            "rank": 5,
+            "rank": 6,
+            "title": "Landslide",
+            "artist": "Fleetwood Mac",
+            "image": "https://i.ytimg.com/vi/WM7-PYtXtJM/hqdefault.jpg",
+            "videoId": "WM7-PYtXtJM"
+        },
+        {
+            "rank": 7,
             "title": "12 To 12",
             "artist": "sombr",
             "image": "https://i.ytimg.com/vi/cZgUiR31m-Y/hqdefault.jpg",
             "videoId": "cZgUiR31m-Y"
         },
         {
-            "rank": 6,
+            "rank": 8,
             "title": "Running Up That Hill (A Deal With God)",
             "artist": "Kate Bush",
             "image": "https://i.ytimg.com/vi/wp43OdtAAkM/hqdefault.jpg",
             "videoId": "wp43OdtAAkM"
         },
         {
-            "rank": 7,
+            "rank": 9,
             "title": "Undressed",
             "artist": "sombr",
             "image": "https://i.ytimg.com/vi/z0wT6CrEGYg/hqdefault.jpg",
             "videoId": "z0wT6CrEGYg"
         },
         {
-            "rank": 8,
+            "rank": 10,
             "title": "Dracula",
             "artist": "Tame Impala",
             "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
             "videoId": "xnP7qKxwzjg"
-        },
-        {
-            "rank": 9,
-            "title": "Sparks",
-            "artist": "Coldplay",
-            "image": "https://i.ytimg.com/vi/6LaSmFP56hs/hqdefault.jpg",
-            "videoId": "6LaSmFP56hs"
-        },
-        {
-            "rank": 10,
-            "title": "Dusty Bibles",
-            "artist": "Josiah Queen",
-            "image": "https://i.ytimg.com/vi/IM2nMeXvor0/hqdefault.jpg",
-            "videoId": "IM2nMeXvor0"
         }
     ],
     "melon": [
@@ -170,8 +170,8 @@ const rankData = {
             "rank": 4,
             "title": "타임캡슐",
             "artist": "다비치",
-            "image": "https://i.ytimg.com/vi/MzYF57mWw0Y/hqdefault.jpg",
-            "videoId": "MzYF57mWw0Y"
+            "image": "https://i.ytimg.com/vi/qE35JN1ogeI/hqdefault.jpg",
+            "videoId": "qE35JN1ogeI"
         },
         {
             "rank": 5,
@@ -191,8 +191,8 @@ const rankData = {
             "rank": 7,
             "title": "Golden",
             "artist": "HUNTR/X",
-            "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
-            "videoId": "yebNIHKAC4A"
+            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
+            "videoId": "hohuFW0zQUw"
         },
         {
             "rank": 8,
@@ -210,10 +210,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "0+0",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
-            "videoId": "_Ngk-DCHfD0"
+            "title": "어제보다 슬픈 오늘",
+            "artist": "우디 (Woody)",
+            "image": "https://i.ytimg.com/vi/1mZ-hoIvEx8/hqdefault.jpg",
+            "videoId": "1mZ-hoIvEx8"
         }
     ],
     "shazam_korea": [
@@ -221,57 +221,57 @@ const rankData = {
             "rank": 1,
             "title": "All Day",
             "artist": "Cha Ji Yeon",
-            "image": "https://i.ytimg.com/vi/yDcvvUXlj94/hqdefault.jpg",
-            "videoId": "yDcvvUXlj94"
+            "image": "https://i.ytimg.com/vi/g5z2-63dnIE/hqdefault.jpg",
+            "videoId": "g5z2-63dnIE"
         },
         {
             "rank": 2,
-            "title": "사랑은 불배처럼...이별은 거울처럼... (Sarang-eun Bulbaecheoreom...ibyeol-eun Geoulcheoreom...)",
-            "artist": "Lim Hyunchung",
-            "image": "https://i.ytimg.com/vi/oHReHugZd6Y/hqdefault.jpg",
-            "videoId": "oHReHugZd6Y"
+            "title": "Fan",
+            "artist": "Epik High",
+            "image": "https://i.ytimg.com/vi/3aXHCvmrjyU/hqdefault.jpg",
+            "videoId": "3aXHCvmrjyU"
         },
         {
             "rank": 3,
-            "title": "Fan",
-            "artist": "Epik High",
-            "image": "https://i.ytimg.com/vi/eINjPkO7w4M/hqdefault.jpg",
-            "videoId": "eINjPkO7w4M"
+            "title": "Even if we fight, can you just remember me?",
+            "artist": "Grizzly",
+            "image": "https://i.ytimg.com/vi/q-vd_9bTnHw/hqdefault.jpg",
+            "videoId": "q-vd_9bTnHw"
         },
         {
             "rank": 4,
-            "title": "Even if we fight, can you just remember I'm your friend",
-            "artist": "GRAY",
-            "image": "https://i.ytimg.com/vi/jiN8Ebj3wEE/hqdefault.jpg",
-            "videoId": "jiN8Ebj3wEE"
+            "title": "Way Home",
+            "artist": "fromis_9 & Hyunsuk",
+            "image": "https://i.ytimg.com/vi/SpnCD4ZAToY/hqdefault.jpg",
+            "videoId": "SpnCD4ZAToY"
         },
         {
             "rank": 5,
-            "title": "Way Home",
-            "artist": "Yoon Do Hyun",
-            "image": "https://i.ytimg.com/vi/gP90eNCEH4Q/hqdefault.jpg",
-            "videoId": "gP90eNCEH4Q"
+            "title": "사랑은 불씨처럼…이별은 겨울비처럼",
+            "artist": "Lim Hyunjung",
+            "image": "https://i.ytimg.com/vi/LmG1rPr5nbw/hqdefault.jpg",
+            "videoId": "LmG1rPr5nbw"
         },
         {
             "rank": 6,
-            "title": "Alzo",
-            "artist": "Gina Gnu",
-            "image": "https://i.ytimg.com/vi/kGo13LCJgl0/hqdefault.jpg",
-            "videoId": "kGo13LCJgl0"
+            "title": "DENIAL IS A RIVER",
+            "artist": "Doosh!t",
+            "image": "https://i.ytimg.com/vi/F0cdbR5ognY/hqdefault.jpg",
+            "videoId": "F0cdbR5ognY"
         },
         {
             "rank": 7,
-            "title": "Love Love Love (feat. 웅진)",
-            "artist": "Epik High",
-            "image": "https://i.ytimg.com/vi/qdr0fZbuffY/hqdefault.jpg",
-            "videoId": "qdr0fZbuffY"
+            "title": "AlZO",
+            "artist": "King Gnu",
+            "image": "https://i.ytimg.com/vi/0fxU_XmgvaM/hqdefault.jpg",
+            "videoId": "0fxU_XmgvaM"
         },
         {
             "rank": 8,
-            "title": "Taco's Diner (feat. Suzanne Vega)",
-            "artist": "DnA",
-            "image": "https://i.ytimg.com/vi/j4jtIDaeaWI/hqdefault.jpg",
-            "videoId": "j4jtIDaeaWI"
+            "title": "Love Love Love (feat. 웅진)",
+            "artist": "Epik High",
+            "image": "https://i.ytimg.com/vi/Kv-Aqwttwzo/hqdefault.jpg",
+            "videoId": "Kv-Aqwttwzo"
         },
         {
             "rank": 9,
@@ -282,10 +282,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "DENIAL IS A RIVER",
-            "artist": "Eric Nam",
-            "image": "https://i.ytimg.com/vi/F0cdbR5ognY/hqdefault.jpg",
-            "videoId": "F0cdbR5ognY"
+            "title": "Tom's Diner (feat. Suzanne Vega)",
+            "artist": "DNA",
+            "image": "https://i.ytimg.com/vi/j4jtIDaeaWI/hqdefault.jpg",
+            "videoId": "j4jtIDaeaWI"
         }
     ],
     "shazam_global": [
@@ -305,203 +305,203 @@ const rankData = {
         },
         {
             "rank": 3,
-            "title": "Watch Me Now!",
-            "artist": "Ndotz, Dj Mac & CrashDummy",
-            "image": "https://i.ytimg.com/vi/Q6NsUjSt_vI/hqdefault.jpg",
-            "videoId": "Q6NsUjSt_vI"
-        },
-        {
-            "rank": 4,
-            "title": "12 x 12",
-            "artist": "bcmbs",
-            "image": "https://i.ytimg.com/vi/fo6z6kHkZxs/hqdefault.jpg",
-            "videoId": "fo6z6kHkZxs"
-        },
-        {
-            "rank": 5,
             "title": "Shimmy Shimmy Ya",
             "artist": "Ol' Dirty Bastard",
             "image": "https://i.ytimg.com/vi/h2zgB93KANE/hqdefault.jpg",
             "videoId": "h2zgB93KANE"
         },
         {
-            "rank": 6,
-            "title": "August",
+            "rank": 4,
+            "title": "august",
             "artist": "Taylor Swift",
             "image": "https://i.ytimg.com/vi/eMv0MTm3h-E/hqdefault.jpg",
             "videoId": "eMv0MTm3h-E"
         },
         {
-            "rank": 7,
-            "title": "Grace Echo",
-            "artist": "Soul of Afrika",
-            "image": "https://i.ytimg.com/vi/7VOv0KzD0qs/hqdefault.jpg",
-            "videoId": "7VOv0KzD0qs"
+            "rank": 5,
+            "title": "Raindance",
+            "artist": "Dave & Tems",
+            "image": "https://i.ytimg.com/vi/SOJpE1KMUbo/hqdefault.jpg",
+            "videoId": "SOJpE1KMUbo"
         },
         {
-            "rank": 8,
+            "rank": 6,
+            "title": "Watch Me Now!",
+            "artist": "Deekay, DJ Pac & CrashDummy",
+            "image": "https://i.ytimg.com/vi/1ogPDZZu81o/hqdefault.jpg",
+            "videoId": "1ogPDZZu81o"
+        },
+        {
+            "rank": 7,
             "title": "When I Get My Hands On You",
             "artist": "The New Basement Tapes",
             "image": "https://i.ytimg.com/vi/BDUDx15KdkI/hqdefault.jpg",
             "videoId": "BDUDx15KdkI"
         },
         {
+            "rank": 8,
+            "title": "Just A JOY",
+            "artist": "SiNNER",
+            "image": "https://i.ytimg.com/vi/n4Z1cpdkgQU/hqdefault.jpg",
+            "videoId": "n4Z1cpdkgQU"
+        },
+        {
             "rank": 9,
-            "title": "What You Saying",
-            "artist": "Lil Uzi Vert",
-            "image": "https://i.ytimg.com/vi/s_TUESTU7_4/hqdefault.jpg",
-            "videoId": "s_TUESTU7_4"
+            "title": "Stumblin' In",
+            "artist": "CYRIL",
+            "image": "https://i.ytimg.com/vi/57VMB1IzLKY/hqdefault.jpg",
+            "videoId": "57VMB1IzLKY"
         },
         {
             "rank": 10,
-            "title": "Raindance",
-            "artist": "Snakehips & Tems",
-            "image": "https://i.ytimg.com/vi/SOJpE1KMUbo/hqdefault.jpg",
-            "videoId": "SOJpE1KMUbo"
+            "title": "Grace Echo",
+            "artist": "Soulja Afrika",
+            "image": "https://i.ytimg.com/vi/7VOv0KzD0qs/hqdefault.jpg",
+            "videoId": "7VOv0KzD0qs"
         }
     ],
     "youtube_shorts_korea": [
         {
             "rank": 1,
-            "title": "NOT CUTE ANYMORE",
-            "artist": "ALLiT",
+            "title": "NOT CUTE AND ANNYMORE",
+            "artist": "SLCHTT",
             "image": "https://i.ytimg.com/vi/x_RYZsOfpKY/hqdefault.jpg",
             "videoId": "x_RYZsOfpKY"
         },
         {
             "rank": 2,
-            "title": "OVERDRIVE",
-            "artist": "TWS",
-            "image": "https://i.ytimg.com/vi/TzbGBkEh9ms/hqdefault.jpg",
-            "videoId": "TzbGBkEh9ms"
-        },
-        {
-            "rank": 3,
             "title": "blue",
             "artist": "yung kai",
             "image": "https://i.ytimg.com/vi/IpFX2vq8HKw/hqdefault.jpg",
             "videoId": "IpFX2vq8HKw"
         },
         {
+            "rank": 3,
+            "title": "OVERDRIVE",
+            "artist": "TWS",
+            "image": "https://i.ytimg.com/vi/TzbGBkEh9ms/hqdefault.jpg",
+            "videoId": "TzbGBkEh9ms"
+        },
+        {
             "rank": 4,
-            "title": "Zoo",
-            "artist": "Shakira",
-            "image": "https://i.ytimg.com/vi/Xry6B0I3pT8/hqdefault.jpg",
-            "videoId": "Xry6B0I3pT8"
-        },
-        {
-            "rank": 5,
-            "title": "So Cute",
-            "artist": "김설이",
-            "image": "https://i.ytimg.com/vi/TNIiEKH9dL8/hqdefault.jpg",
-            "videoId": "TNIiEKH9dL8"
-        },
-        {
-            "rank": 6,
             "title": "Killer Joy",
             "artist": "CNBLUE",
             "image": "https://i.ytimg.com/vi/ND5FhEsjVUk/hqdefault.jpg",
             "videoId": "ND5FhEsjVUk"
         },
         {
+            "rank": 5,
+            "title": "So Cute",
+            "artist": "김선율",
+            "image": "https://i.ytimg.com/vi/Hyw3EKdxDkI/hqdefault.jpg",
+            "videoId": "Hyw3EKdxDkI"
+        },
+        {
+            "rank": 6,
+            "title": "Zoo",
+            "artist": "Shakira",
+            "image": "https://i.ytimg.com/vi/Kw3935PH01E/hqdefault.jpg",
+            "videoId": "Kw3935PH01E"
+        },
+        {
             "rank": 7,
             "title": "NO BATIDÃO",
-            "artist": "ZAXXO & Slaughter",
-            "image": "https://i.ytimg.com/vi/yH5FRHt2kic/hqdefault.jpg",
-            "videoId": "yH5FRHt2kic"
+            "artist": "ZAYO & Slaughter",
+            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
+            "videoId": "orOgilmiL_4"
         },
         {
             "rank": 8,
-            "title": "SPAGHETTI (feat. J-HOPE)",
+            "title": "SPAGHETTI (feat. J-hope)",
             "artist": "LE SSERAFIM",
             "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
             "videoId": "TvVtYaqCni8"
         },
         {
             "rank": 9,
-            "title": "FALL FROM THE SKY PT. 2",
-            "artist": "ROMANCE PLANET & STALlAZ",
-            "image": "https://i.ytimg.com/vi/Cpc1akSzjPY/hqdefault.jpg",
-            "videoId": "Cpc1akSzjPY"
+            "title": "街のドルフィン",
+            "artist": "Kingo Hamada",
+            "image": "https://i.ytimg.com/vi/x2aA6GEEABA/hqdefault.jpg",
+            "videoId": "x2aA6GEEABA"
         },
         {
             "rank": 10,
-            "title": "Wish",
-            "artist": "Wonpil (DAY6)",
-            "image": "https://i.ytimg.com/vi/nYf1adRyd0w/hqdefault.jpg",
-            "videoId": "nYf1adRyd0w"
+            "title": "I want you to get a KING today",
+            "artist": "HappyPizzaBread",
+            "image": "https://i.ytimg.com/vi/I6tOocUGNmQ/hqdefault.jpg",
+            "videoId": "I6tOocUGNmQ"
         }
     ],
     "youtube_shorts_global": [
         {
             "rank": 1,
-            "title": "NO BATIDAO",
-            "artist": "ZXKAI & slughter",
-            "image": "https://i.ytimg.com/vi/LUJroYVDYao/hqdefault.jpg",
-            "videoId": "LUJroYVDYao"
-        },
-        {
-            "rank": 2,
-            "title": "PASSO BEM SOLTO (Slowed)",
-            "artist": "ATLXŠ",
+            "title": "PASSO BEM XAVAL (Slowed)",
+            "artist": "ATLX",
             "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
             "videoId": "KgayxOF4Y7E"
         },
         {
-            "rank": 3,
-            "title": "قملاء",
-            "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/CtVrxKcdYMk/hqdefault.jpg",
-            "videoId": "CtVrxKcdYMk"
+            "rank": 2,
+            "title": "NO BATIDÃO",
+            "artist": "ZXKAI & Slaughter",
+            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
+            "videoId": "orOgilmiL_4"
         },
         {
-            "rank": 4,
-            "title": "Friendships (feat. Conor)",
+            "rank": 3,
+            "title": "Friendships (feat. Leony)",
             "artist": "Pascal Letoublon",
             "image": "https://i.ytimg.com/vi/1g3Toj4-RMg/hqdefault.jpg",
             "videoId": "1g3Toj4-RMg"
         },
         {
+            "rank": 4,
+            "title": "فصله",
+            "artist": "Flipperachi",
+            "image": "https://i.ytimg.com/vi/asc9PeaN1S0/hqdefault.jpg",
+            "videoId": "asc9PeaN1S0"
+        },
+        {
             "rank": 5,
-            "title": "Montagem Miau (Slowed)",
+            "title": "Montagem Miau (Ultra Slowed)",
             "artist": "Lenar",
             "image": "https://i.ytimg.com/vi/4PSNNk0C5JY/hqdefault.jpg",
             "videoId": "4PSNNk0C5JY"
         },
         {
             "rank": 6,
-            "title": "Ishq Jalebi - Kaawan",
-            "artist": "Shashwat Sachdev",
-            "image": "https://i.ytimg.com/vi/InR09wrPCj4/hqdefault.jpg",
-            "videoId": "InR09wrPCj4"
+            "title": "Ishq Jala kar - Kakaam",
+            "artist": "Shashwat Sachdev, Shadab Ali",
+            "image": "https://i.ytimg.com/vi/8qCVXCFREkQ/hqdefault.jpg",
+            "videoId": "8qCVXCFREkQ"
         },
         {
             "rank": 7,
             "title": "Big Guy",
-            "artist": "Ice Spice",
-            "image": "https://i.ytimg.com/vi/gDb91xKfa4E/hqdefault.jpg",
-            "videoId": "gDb91xKfa4E"
+            "artist": "Tee Spice",
+            "image": "https://i.ytimg.com/vi/SixTbTc6YCg/hqdefault.jpg",
+            "videoId": "SixTbTc6YCg"
         },
         {
             "rank": 8,
-            "title": "EEEE A",
-            "artist": "Dia",
-            "image": "https://i.ytimg.com/vi/Wvl-UASEEQY/hqdefault.jpg",
-            "videoId": "Wvl-UASEEQY"
-        },
-        {
-            "rank": 9,
             "title": "Seet Lehar",
             "artist": "Filmy & Riyaazi",
             "image": "https://i.ytimg.com/vi/tKLcFy1HDUA/hqdefault.jpg",
             "videoId": "tKLcFy1HDUA"
         },
         {
+            "rank": 9,
+            "title": "From the Start (Funk)",
+            "artist": "JJUU, ZMAJXR, zxnc & zmrdi",
+            "image": "https://i.ytimg.com/vi/mO7VeXa34rE/hqdefault.jpg",
+            "videoId": "mO7VeXa34rE"
+        },
+        {
             "rank": 10,
-            "title": "SKPT 2",
-            "artist": "ROMANCEPLANET & STAKILLAZ",
-            "image": "https://i.ytimg.com/vi/HCD_0v1V7tQ/hqdefault.jpg",
-            "videoId": "HCD_0v1V7tQ"
+            "title": "EEEE A",
+            "artist": "Oia",
+            "image": "https://i.ytimg.com/vi/cs-kPAMfc2Y/hqdefault.jpg",
+            "videoId": "cs-kPAMfc2Y"
         }
     ]
 };
