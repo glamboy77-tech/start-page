@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-14 08:34:35",
+    "last_updated": "2026-01-15 08:33:30",
     "billboard": [
         {
             "rank": 1,
@@ -54,8 +54,8 @@ const rankData = {
             "rank": 8,
             "title": "Back To Friends",
             "artist": "sombr",
-            "image": "https://i.ytimg.com/vi/c8zq4kAn_O0/hqdefault.jpg",
-            "videoId": "c8zq4kAn_O0"
+            "image": "https://i.ytimg.com/vi/lHCadxUhuTk/hqdefault.jpg",
+            "videoId": "lHCadxUhuTk"
         },
         {
             "rank": 9,
@@ -189,17 +189,17 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "Golden",
-            "artist": "HUNTR/X",
-            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
-            "videoId": "hohuFW0zQUw"
-        },
-        {
-            "rank": 8,
             "title": "ONE MORE TIME",
             "artist": "ALLDAY PROJECT",
             "image": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg",
             "videoId": "OgEwJ8a1OoY"
+        },
+        {
+            "rank": 8,
+            "title": "Golden",
+            "artist": "HUNTR/X",
+            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
+            "videoId": "hohuFW0zQUw"
         },
         {
             "rank": 9,
@@ -210,10 +210,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "어제보다 슬픈 오늘",
-            "artist": "우디 (Woody)",
-            "image": "https://i.ytimg.com/vi/1mZ-hoIvEx8/hqdefault.jpg",
-            "videoId": "1mZ-hoIvEx8"
+            "title": "0+0",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
+            "videoId": "_Ngk-DCHfD0"
         }
     ],
     "shazam_korea": [
@@ -221,71 +221,71 @@ const rankData = {
             "rank": 1,
             "title": "All Day",
             "artist": "Cha Ji Yeon",
-            "image": "https://i.ytimg.com/vi/g5z2-63dnIE/hqdefault.jpg",
-            "videoId": "g5z2-63dnIE"
+            "image": "https://i.ytimg.com/vi/yDcvvUXlj94/hqdefault.jpg",
+            "videoId": "yDcvvUXlj94"
         },
         {
             "rank": 2,
             "title": "Fan",
             "artist": "Epik High",
-            "image": "https://i.ytimg.com/vi/3aXHCvmrjyU/hqdefault.jpg",
-            "videoId": "3aXHCvmrjyU"
+            "image": "https://i.ytimg.com/vi/eINjPkO7w4M/hqdefault.jpg",
+            "videoId": "eINjPkO7w4M"
         },
         {
             "rank": 3,
-            "title": "Even if we fight, can you just remember me?",
-            "artist": "Grizzly",
-            "image": "https://i.ytimg.com/vi/q-vd_9bTnHw/hqdefault.jpg",
-            "videoId": "q-vd_9bTnHw"
+            "title": "Way Home",
+            "artist": "Yoon Do Hyun",
+            "image": "https://i.ytimg.com/vi/gP90eNCEH4Q/hqdefault.jpg",
+            "videoId": "gP90eNCEH4Q"
         },
         {
             "rank": 4,
-            "title": "Way Home",
-            "artist": "fromis_9 & Hyunsuk",
-            "image": "https://i.ytimg.com/vi/SpnCD4ZAToY/hqdefault.jpg",
-            "videoId": "SpnCD4ZAToY"
+            "title": "Even if we fight, can't you just reconcile?",
+            "artist": "GRAY",
+            "image": "https://i.ytimg.com/vi/GmDSQDEr3Xo/hqdefault.jpg",
+            "videoId": "GmDSQDEr3Xo"
         },
         {
             "rank": 5,
-            "title": "사랑은 불씨처럼…이별은 겨울비처럼",
-            "artist": "Lim Hyunjung",
-            "image": "https://i.ytimg.com/vi/LmG1rPr5nbw/hqdefault.jpg",
-            "videoId": "LmG1rPr5nbw"
-        },
-        {
-            "rank": 6,
             "title": "DENIAL IS A RIVER",
-            "artist": "Doosh!t",
+            "artist": "Doechii",
             "image": "https://i.ytimg.com/vi/F0cdbR5ognY/hqdefault.jpg",
             "videoId": "F0cdbR5ognY"
         },
         {
-            "rank": 7,
-            "title": "AlZO",
-            "artist": "King Gnu",
-            "image": "https://i.ytimg.com/vi/0fxU_XmgvaM/hqdefault.jpg",
-            "videoId": "0fxU_XmgvaM"
+            "rank": 6,
+            "title": "ALZO",
+            "artist": "Nidal Gnu",
+            "image": "https://i.ytimg.com/vi/wQiz17AKhjM/hqdefault.jpg",
+            "videoId": "wQiz17AKhjM"
         },
         {
-            "rank": 8,
-            "title": "Love Love Love (feat. 웅진)",
+            "rank": 7,
+            "title": "Love Love Love (feat. 웅산)",
             "artist": "Epik High",
             "image": "https://i.ytimg.com/vi/Kv-Aqwttwzo/hqdefault.jpg",
             "videoId": "Kv-Aqwttwzo"
         },
         {
-            "rank": 9,
-            "title": "Ric Flair Drip",
-            "artist": "Offset & Metro Boomin",
+            "rank": 8,
+            "title": "Rio Flair Drip",
+            "artist": "Offshore Metro Boomin",
             "image": "https://i.ytimg.com/vi/LPTlvQ1Zet0/hqdefault.jpg",
             "videoId": "LPTlvQ1Zet0"
         },
         {
-            "rank": 10,
+            "rank": 9,
             "title": "Tom's Diner (feat. Suzanne Vega)",
             "artist": "DNA",
             "image": "https://i.ytimg.com/vi/j4jtIDaeaWI/hqdefault.jpg",
             "videoId": "j4jtIDaeaWI"
+        },
+        {
+            "rank": 10,
+            "title": "Wish",
+            "artist": "YOONPIL",
+            "image": "https://i.ytimg.com/vi/d0Sq2r0z4FA/hqdefault.jpg",
+            "videoId": "d0Sq2r0z4FA"
         }
     ],
     "shazam_global": [
@@ -305,66 +305,66 @@ const rankData = {
         },
         {
             "rank": 3,
-            "title": "Shimmy Shimmy Ya",
-            "artist": "Ol' Dirty Bastard",
-            "image": "https://i.ytimg.com/vi/h2zgB93KANE/hqdefault.jpg",
-            "videoId": "h2zgB93KANE"
-        },
-        {
-            "rank": 4,
-            "title": "august",
-            "artist": "Taylor Swift",
-            "image": "https://i.ytimg.com/vi/eMv0MTm3h-E/hqdefault.jpg",
-            "videoId": "eMv0MTm3h-E"
-        },
-        {
-            "rank": 5,
             "title": "Raindance",
             "artist": "Dave & Tems",
             "image": "https://i.ytimg.com/vi/SOJpE1KMUbo/hqdefault.jpg",
             "videoId": "SOJpE1KMUbo"
         },
         {
-            "rank": 6,
-            "title": "Watch Me Now!",
-            "artist": "Deekay, DJ Pac & CrashDummy",
-            "image": "https://i.ytimg.com/vi/1ogPDZZu81o/hqdefault.jpg",
-            "videoId": "1ogPDZZu81o"
+            "rank": 4,
+            "title": "Shimmy Shimmy Ya",
+            "artist": "Ol' Dirty Bastard",
+            "image": "https://i.ytimg.com/vi/h2zgB93KANE/hqdefault.jpg",
+            "videoId": "h2zgB93KANE"
         },
         {
-            "rank": 7,
+            "rank": 5,
+            "title": "august",
+            "artist": "Taylor Swift",
+            "image": "https://i.ytimg.com/vi/eMv0MTm3h-E/hqdefault.jpg",
+            "videoId": "eMv0MTm3h-E"
+        },
+        {
+            "rank": 6,
             "title": "When I Get My Hands On You",
             "artist": "The New Basement Tapes",
             "image": "https://i.ytimg.com/vi/BDUDx15KdkI/hqdefault.jpg",
             "videoId": "BDUDx15KdkI"
         },
         {
-            "rank": 8,
-            "title": "Just A JOY",
-            "artist": "SiNNER",
-            "image": "https://i.ytimg.com/vi/n4Z1cpdkgQU/hqdefault.jpg",
-            "videoId": "n4Z1cpdkgQU"
-        },
-        {
-            "rank": 9,
+            "rank": 7,
             "title": "Stumblin' In",
             "artist": "CYRIL",
             "image": "https://i.ytimg.com/vi/57VMB1IzLKY/hqdefault.jpg",
             "videoId": "57VMB1IzLKY"
         },
         {
+            "rank": 8,
+            "title": "Just A BOY",
+            "artist": "BENSNANE",
+            "image": "https://i.ytimg.com/vi/9JFWpyQjzcA/hqdefault.jpg",
+            "videoId": "9JFWpyQjzcA"
+        },
+        {
+            "rank": 9,
+            "title": "Higher Ground (feat. Naomi Wild)",
+            "artist": "ODESZA",
+            "image": "https://i.ytimg.com/vi/xqoLCvsy8_c/hqdefault.jpg",
+            "videoId": "xqoLCvsy8_c"
+        },
+        {
             "rank": 10,
-            "title": "Grace Echo",
-            "artist": "Soulja Afrika",
-            "image": "https://i.ytimg.com/vi/7VOv0KzD0qs/hqdefault.jpg",
-            "videoId": "7VOv0KzD0qs"
+            "title": "Forever Your Girl",
+            "artist": "Paula Abdul",
+            "image": "https://i.ytimg.com/vi/0pyxKqdtrH8/hqdefault.jpg",
+            "videoId": "0pyxKqdtrH8"
         }
     ],
     "youtube_shorts_korea": [
         {
             "rank": 1,
-            "title": "NOT CUTE AND ANNYMORE",
-            "artist": "SLCHTT",
+            "title": "NOT CUTE ANYMORE",
+            "artist": "ELI H",
             "image": "https://i.ytimg.com/vi/x_RYZsOfpKY/hqdefault.jpg",
             "videoId": "x_RYZsOfpKY"
         },
@@ -377,73 +377,73 @@ const rankData = {
         },
         {
             "rank": 3,
-            "title": "OVERDRIVE",
-            "artist": "TWS",
-            "image": "https://i.ytimg.com/vi/TzbGBkEh9ms/hqdefault.jpg",
-            "videoId": "TzbGBkEh9ms"
-        },
-        {
-            "rank": 4,
             "title": "Killer Joy",
             "artist": "CNBLUE",
             "image": "https://i.ytimg.com/vi/ND5FhEsjVUk/hqdefault.jpg",
             "videoId": "ND5FhEsjVUk"
         },
         {
-            "rank": 5,
+            "rank": 4,
             "title": "So Cute",
-            "artist": "김선율",
-            "image": "https://i.ytimg.com/vi/Hyw3EKdxDkI/hqdefault.jpg",
-            "videoId": "Hyw3EKdxDkI"
+            "artist": "김신환",
+            "image": "https://i.ytimg.com/vi/kVLen4bFlNI/hqdefault.jpg",
+            "videoId": "kVLen4bFlNI"
+        },
+        {
+            "rank": 5,
+            "title": "OVERDRIVE",
+            "artist": "TWS",
+            "image": "https://i.ytimg.com/vi/TzbGBkEh9ms/hqdefault.jpg",
+            "videoId": "TzbGBkEh9ms"
         },
         {
             "rank": 6,
+            "title": "Wish",
+            "artist": "Wonpil (DAY6)",
+            "image": "https://i.ytimg.com/vi/nYf1adRyd0w/hqdefault.jpg",
+            "videoId": "nYf1adRyd0w"
+        },
+        {
+            "rank": 7,
             "title": "Zoo",
             "artist": "Shakira",
             "image": "https://i.ytimg.com/vi/Kw3935PH01E/hqdefault.jpg",
             "videoId": "Kw3935PH01E"
         },
         {
-            "rank": 7,
-            "title": "NO BATIDÃO",
-            "artist": "ZAYO & Slaughter",
-            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
-            "videoId": "orOgilmiL_4"
-        },
-        {
             "rank": 8,
-            "title": "SPAGHETTI (feat. J-hope)",
-            "artist": "LE SSERAFIM",
-            "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
-            "videoId": "TvVtYaqCni8"
+            "title": "I want you to get a Killer today",
+            "artist": "Happy Cat & Bread",
+            "image": "https://i.ytimg.com/vi/3kyn9Es4HoY/hqdefault.jpg",
+            "videoId": "3kyn9Es4HoY"
         },
         {
             "rank": 9,
-            "title": "街のドルフィン",
-            "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/x2aA6GEEABA/hqdefault.jpg",
-            "videoId": "x2aA6GEEABA"
+            "title": "NO BATIDÃO",
+            "artist": "ZXXAI & slaughter",
+            "image": "https://i.ytimg.com/vi/yH5FRHt2kic/hqdefault.jpg",
+            "videoId": "yH5FRHt2kic"
         },
         {
             "rank": 10,
-            "title": "I want you to get a KING today",
-            "artist": "HappyPizzaBread",
-            "image": "https://i.ytimg.com/vi/I6tOocUGNmQ/hqdefault.jpg",
-            "videoId": "I6tOocUGNmQ"
+            "title": "SPAGHETTI (feat. j-hope)",
+            "artist": "LE SSERAFIM",
+            "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
+            "videoId": "TvVtYaqCni8"
         }
     ],
     "youtube_shorts_global": [
         {
             "rank": 1,
-            "title": "PASSO BEM XAVAL (Slowed)",
-            "artist": "ATLX",
-            "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
-            "videoId": "KgayxOF4Y7E"
+            "title": "PASSO BEM",
+            "artist": "Xand Avião (Slowed)",
+            "image": "https://i.ytimg.com/vi/IXPRXyviHtU/hqdefault.jpg",
+            "videoId": "IXPRXyviHtU"
         },
         {
             "rank": 2,
             "title": "NO BATIDÃO",
-            "artist": "ZXKAI & Slaughter",
+            "artist": "EXKAI & Slaugher",
             "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
             "videoId": "orOgilmiL_4"
         },
@@ -456,52 +456,52 @@ const rankData = {
         },
         {
             "rank": 4,
-            "title": "فصله",
+            "title": "فصلة",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/asc9PeaN1S0/hqdefault.jpg",
-            "videoId": "asc9PeaN1S0"
+            "image": "https://i.ytimg.com/vi/nyJqmXb3aR8/hqdefault.jpg",
+            "videoId": "nyJqmXb3aR8"
         },
         {
             "rank": 5,
-            "title": "Montagem Miau (Ultra Slowed)",
-            "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/4PSNNk0C5JY/hqdefault.jpg",
-            "videoId": "4PSNNk0C5JY"
-        },
-        {
-            "rank": 6,
-            "title": "Ishq Jala kar - Kakaam",
-            "artist": "Shashwat Sachdev, Shadab Ali",
+            "title": "Ishq Jalakar - Kervana",
+            "artist": "Shazawat Sachdev, Shahzad Ali, Rauf Hyder",
             "image": "https://i.ytimg.com/vi/8qCVXCFREkQ/hqdefault.jpg",
             "videoId": "8qCVXCFREkQ"
         },
         {
+            "rank": 6,
+            "title": "Montagem Miau (Ultra Slowed)",
+            "artist": "Zonar",
+            "image": "https://i.ytimg.com/vi/v9y4Pi6GZzU/hqdefault.jpg",
+            "videoId": "v9y4Pi6GZzU"
+        },
+        {
             "rank": 7,
             "title": "Big Guy",
-            "artist": "Tee Spice",
-            "image": "https://i.ytimg.com/vi/SixTbTc6YCg/hqdefault.jpg",
-            "videoId": "SixTbTc6YCg"
+            "artist": "Tee Spize",
+            "image": "https://i.ytimg.com/vi/4KuPwA1EMVY/hqdefault.jpg",
+            "videoId": "4KuPwA1EMVY"
         },
         {
             "rank": 8,
             "title": "Seet Lehar",
             "artist": "Filmy & Riyaazi",
-            "image": "https://i.ytimg.com/vi/tKLcFy1HDUA/hqdefault.jpg",
-            "videoId": "tKLcFy1HDUA"
+            "image": "https://i.ytimg.com/vi/vI2LBfVxy2E/hqdefault.jpg",
+            "videoId": "vI2LBfVxy2E"
         },
         {
             "rank": 9,
-            "title": "From the Start (Funk)",
-            "artist": "JJUU, ZMAJXR, zxnc & zmrdi",
-            "image": "https://i.ytimg.com/vi/mO7VeXa34rE/hqdefault.jpg",
-            "videoId": "mO7VeXa34rE"
+            "title": "GOZALO",
+            "artist": "Ariis",
+            "image": "https://i.ytimg.com/vi/KL5w_rWMEsg/hqdefault.jpg",
+            "videoId": "KL5w_rWMEsg"
         },
         {
             "rank": 10,
             "title": "EEEE A",
             "artist": "Oia",
-            "image": "https://i.ytimg.com/vi/cs-kPAMfc2Y/hqdefault.jpg",
-            "videoId": "cs-kPAMfc2Y"
+            "image": "https://i.ytimg.com/vi/ueWGBVjqtDg/hqdefault.jpg",
+            "videoId": "ueWGBVjqtDg"
         }
     ]
 };
