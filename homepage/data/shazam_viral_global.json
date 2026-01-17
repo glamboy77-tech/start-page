@@ -2,13 +2,13 @@
   "shazam_viral_global": [
     {
       "rank": 1,
-      "title": "Papaoutai (Afro Soul)",
-      "artist": "mikeeysmind, Chill77 & Uniaps"
+      "title": "Raindance",
+      "artist": "Dave & Tems"
     },
     {
       "rank": 2,
       "title": "I (Who Have Nothing)",
-      "artist": "Gloria Gaynor & Donny Hathaway"
+      "artist": "Roberta Flack & Donny Hathaway"
     },
     {
       "rank": 3,
@@ -17,18 +17,18 @@
     },
     {
       "rank": 4,
-      "title": "Rundança",
-      "artist": "Daqui & Tems"
-    },
-    {
-      "rank": 5,
       "title": "august",
       "artist": "Taylor Swift"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "When I Get My Hands On You",
       "artist": "The New Basement Tapes"
+    },
+    {
+      "rank": 6,
+      "title": "NO SEI NÃO",
+      "artist": "PK & Delaughter"
     },
     {
       "rank": 7,
@@ -37,18 +37,18 @@
     },
     {
       "rank": 8,
-      "title": "Shimmy Shimmy Ya",
-      "artist": "Ol' Dirty Bastard"
+      "title": "Wicked Game",
+      "artist": "Chris Isaak"
     },
     {
       "rank": 9,
-      "title": "Forever Your Girl",
-      "artist": "Paula Abdul"
+      "title": "Higher Ground (feat. Naomi Wild)",
+      "artist": "ODESZA"
     },
     {
       "rank": 10,
-      "title": "Higher Ground (feat. Naomi Wild)",
-      "artist": "Odesza"
+      "title": "Forever Your Girl",
+      "artist": "Paula Abdul"
     }
   ]
 }
