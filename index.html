@@ -490,6 +490,16 @@
 
         function renderShortcuts() {
             const grid = document.getElementById('shortcuts');
+
+            // Sort shortcuts based on click count from localStorage
+            shortcuts.sort((a, b) => {
+                const countA = parseInt(localStorage.getItem('shortcut_clicks_' + a.name) || '0', 10);
+                const countB = parseInt(localStorage.getItem('shortcut_clicks_' + b.name) || '0', 10);
+                return countB - countA;
+            });
+
+            grid.innerHTML = '';
+
             shortcuts.forEach(s => {
                 let domain = "";
                 try {
@@ -504,6 +514,14 @@
                 const card = document.createElement('a');
                 card.href = s.url;
                 card.className = 'shortcut-card';
+
+                // Add click event listener to update count
+                card.addEventListener('click', () => {
+                    const key = 'shortcut_clicks_' + s.name;
+                    const current = parseInt(localStorage.getItem(key) || '0', 10);
+                    localStorage.setItem(key, current + 1);
+                });
+
                 card.innerHTML = `
                     <div class="icon-wrapper">
                         <img src="${icon}" alt="${s.name}" onerror="this.src='https://icons.duckduckgo.com/ip3/${domain}.ico'">
@@ -519,4 +537,3 @@
 
 
 </html>
-
