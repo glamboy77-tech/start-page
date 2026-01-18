@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-18 08:21:26",
+    "last_updated": "2026-01-19 08:21:53",
     "billboard": [
         {
             "rank": 1,
@@ -182,110 +182,110 @@ const rankData = {
         },
         {
             "rank": 6,
+            "title": "그대 작은 나의 세상이 되어",
+            "artist": "카더가든",
+            "image": "https://i.ytimg.com/vi/ZurHW2kBqrw/hqdefault.jpg",
+            "videoId": "ZurHW2kBqrw"
+        },
+        {
+            "rank": 7,
             "title": "Golden",
             "artist": "HUNTR/X",
             "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
             "videoId": "hohuFW0zQUw"
         },
         {
-            "rank": 7,
+            "rank": 8,
             "title": "SPAGHETTI (feat. j-hope of BTS)",
             "artist": "LE SSERAFIM (르세라핌)",
             "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
             "videoId": "TvVtYaqCni8"
         },
         {
-            "rank": 8,
+            "rank": 9,
             "title": "0+0",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
             "videoId": "_Ngk-DCHfD0"
         },
         {
-            "rank": 9,
+            "rank": 10,
             "title": "ONE MORE TIME",
             "artist": "ALLDAY PROJECT",
             "image": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg",
             "videoId": "OgEwJ8a1OoY"
-        },
-        {
-            "rank": 10,
-            "title": "멸종위기사랑",
-            "artist": "이찬혁",
-            "image": "https://i.ytimg.com/vi/19oT04OuBhg/hqdefault.jpg",
-            "videoId": "19oT04OuBhg"
         }
     ],
     "shazam_korea": [
         {
             "rank": 1,
+            "title": "Moonwalkin'",
+            "artist": "LNGSHOT",
+            "image": "https://i.ytimg.com/vi/HJgdT15UT4k/hqdefault.jpg",
+            "videoId": "HJgdT15UT4k"
+        },
+        {
+            "rank": 2,
+            "title": "Love Language",
+            "artist": "Kim Min Seok",
+            "image": "https://i.ytimg.com/vi/zHRalE_8n1A/hqdefault.jpg",
+            "videoId": "zHRalE_8n1A"
+        },
+        {
+            "rank": 3,
             "title": "My whole world",
             "artist": "CAR, THE GARDEN",
             "image": "https://i.ytimg.com/vi/lzKfIffCgUU/hqdefault.jpg",
             "videoId": "lzKfIffCgUU"
         },
         {
-            "rank": 2,
-            "title": "Moonwalkin'",
-            "artist": "NCT U",
-            "image": "https://i.ytimg.com/vi/HJgdT15UT4k/hqdefault.jpg",
-            "videoId": "HJgdT15UT4k"
-        },
-        {
-            "rank": 3,
-            "title": "Remember",
-            "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/1lA9UlXnYIQ/hqdefault.jpg",
-            "videoId": "1lA9UlXnYIQ"
-        },
-        {
             "rank": 4,
             "title": "We're done (Male Version)",
-            "artist": "SOLE",
+            "artist": "4BOUT",
             "image": "https://i.ytimg.com/vi/c05w1XmriRs/hqdefault.jpg",
             "videoId": "c05w1XmriRs"
         },
         {
             "rank": 5,
-            "title": "Still Here",
-            "artist": "DOYOUNG",
-            "image": "https://i.ytimg.com/vi/K_SLTJfEl4I/hqdefault.jpg",
-            "videoId": "K_SLTJfEl4I"
+            "title": "Daydream",
+            "artist": "WENDY",
+            "image": "https://i.ytimg.com/vi/82s8PRgYSRU/hqdefault.jpg",
+            "videoId": "82s8PRgYSRU"
         },
         {
             "rank": 6,
-            "title": "Love on the canvas",
-            "artist": "DOHUIN",
-            "image": "https://i.ytimg.com/vi/m6y_b4jOFfU/hqdefault.jpg",
-            "videoId": "m6y_b4jOFfU"
+            "title": "Remember",
+            "artist": "Yuri",
+            "image": "https://i.ytimg.com/vi/VzAO_FGV8aU/hqdefault.jpg",
+            "videoId": "VzAO_FGV8aU"
         },
         {
             "rank": 7,
-            "title": "Way Home",
-            "artist": "Yoon Do Hyun",
-            "image": "https://i.ytimg.com/vi/gP90eNCEH4Q/hqdefault.jpg",
-            "videoId": "gP90eNCEH4Q"
+            "title": "I owe you",
+            "artist": "Choi Yu Ree",
+            "image": "https://i.ytimg.com/vi/1a3ptECYNoI/hqdefault.jpg",
+            "videoId": "1a3ptECYNoI"
         },
         {
             "rank": 8,
-            "title": "Blue",
-            "artist": "OSN",
-            "image": "https://i.ytimg.com/vi/BpQveRzD3sQ/hqdefault.jpg",
-            "videoId": "BpQveRzD3sQ"
+            "title": "Still Here",
+            "artist": "OCEANRING",
+            "image": "https://i.ytimg.com/vi/p9a_nSjLgKU/hqdefault.jpg",
+            "videoId": "p9a_nSjLgKU"
         },
         {
             "rank": 9,
-            "title": "影ぼうし 開拓者",
-            "artist": "B. Mars groov",
-            "image": "https://i.ytimg.com/vi/9V9BZRkRw48/hqdefault.jpg",
-            "videoId": "9V9BZRkRw48"
+            "title": "A Cicada Sings",
+            "artist": "4BOUT",
+            "image": "https://i.ytimg.com/vi/jpJ1TQENa_4/hqdefault.jpg",
+            "videoId": "jpJ1TQENa_4"
         },
         {
             "rank": 10,
-            "title": "I owe you",
-            "artist": "Ga-ram & Ree",
-            "image": "https://i.ytimg.com/vi/PDYmTb7u4Ak/hqdefault.jpg",
-            "videoId": "PDYmTb7u4Ak"
+            "title": "Blue",
+            "artist": "SOLE",
+            "image": "https://i.ytimg.com/vi/piKQDxDJDRw/hqdefault.jpg",
+            "videoId": "piKQDxDJDRw"
         }
     ],
     "shazam_global": [
@@ -299,78 +299,78 @@ const rankData = {
         {
             "rank": 2,
             "title": "I (Who Have Nothing)",
-            "artist": "Roberta Flack & Donny Hathaway",
-            "image": "https://i.ytimg.com/vi/2YceJjhuduY/hqdefault.jpg",
-            "videoId": "2YceJjhuduY"
+            "artist": "Shirley Bassey & Donny Hathaway",
+            "image": "https://i.ytimg.com/vi/nfDAoSDsAS4/hqdefault.jpg",
+            "videoId": "nfDAoSDsAS4"
         },
         {
             "rank": 3,
-            "title": "Hang With Me",
-            "artist": "Robyn",
-            "image": "https://i.ytimg.com/vi/-3a2qoyONVA/hqdefault.jpg",
-            "videoId": "-3a2qoyONVA"
+            "title": "NO BATIDÃO",
+            "artist": "ZXKAI & slxughter",
+            "image": "https://i.ytimg.com/vi/1GDOndn8BPs/hqdefault.jpg",
+            "videoId": "1GDOndn8BPs"
         },
         {
             "rank": 4,
-            "title": "august",
-            "artist": "Taylor Swift",
-            "image": "https://i.ytimg.com/vi/eMv0MTm3h-E/hqdefault.jpg",
-            "videoId": "eMv0MTm3h-E"
+            "title": "Ozor",
+            "artist": "klor garsas",
+            "image": "https://i.ytimg.com/vi/26d_nPpHiPA/hqdefault.jpg",
+            "videoId": "26d_nPpHiPA"
         },
         {
             "rank": 5,
-            "title": "When I Get My Hands On You",
-            "artist": "The New Basement Tapes",
-            "image": "https://i.ytimg.com/vi/BDUDx15KdkI/hqdefault.jpg",
-            "videoId": "BDUDx15KdkI"
+            "title": "Jogodo",
+            "artist": "Wizkid & Asake",
+            "image": "https://i.ytimg.com/vi/4IuUYpS9RjE/hqdefault.jpg",
+            "videoId": "4IuUYpS9RjE"
         },
         {
             "rank": 6,
-            "title": "NO SEI NÃO",
-            "artist": "PK & Delaughter",
-            "image": "https://i.ytimg.com/vi/g4HmPgVCsYU/hqdefault.jpg",
-            "videoId": "g4HmPgVCsYU"
-        },
-        {
-            "rank": 7,
-            "title": "Stumblin' In",
-            "artist": "CYRIL",
-            "image": "https://i.ytimg.com/vi/57VMB1IzLKY/hqdefault.jpg",
-            "videoId": "57VMB1IzLKY"
-        },
-        {
-            "rank": 8,
             "title": "Wicked Game",
             "artist": "Chris Isaak",
             "image": "https://i.ytimg.com/vi/jd-qI62gNJM/hqdefault.jpg",
             "videoId": "jd-qI62gNJM"
         },
         {
+            "rank": 7,
+            "title": "Y Qué Fue?",
+            "artist": "Don Miguelo",
+            "image": "https://i.ytimg.com/vi/MD_GclD50QU/hqdefault.jpg",
+            "videoId": "MD_GclD50QU"
+        },
+        {
+            "rank": 8,
+            "title": "august",
+            "artist": "Taylor Swift",
+            "image": "https://i.ytimg.com/vi/0bVLDtGvHj8/hqdefault.jpg",
+            "videoId": "0bVLDtGvHj8"
+        },
+        {
             "rank": 9,
-            "title": "Higher Ground (feat. Naomi Wild)",
-            "artist": "ODESZA",
-            "image": "https://i.ytimg.com/vi/xqoLCvsy8_c/hqdefault.jpg",
-            "videoId": "xqoLCvsy8_c"
+            "title": "B.M.S (by my side)",
+            "artist": "Rambo goyard",
+            "image": "https://i.ytimg.com/vi/BFAIDkgrp2M/hqdefault.jpg",
+            "videoId": "BFAIDkgrp2M"
         },
         {
             "rank": 10,
-            "title": "Forever Your Girl",
-            "artist": "Paula Abdul",
-            "image": "https://i.ytimg.com/vi/0pyxKqdtrH8/hqdefault.jpg",
-            "videoId": "0pyxKqdtrH8"
+            "title": "keep steady",
+            "artist": "zero days",
+            "image": "https://i.ytimg.com/vi/lO9VVg4P3Eg/hqdefault.jpg",
+            "videoId": "lO9VVg4P3Eg"
         }
     ],
     "youtube_shorts_korea": [
         {
             "rank": 1,
-            "title": "I want you to get a Kinda Happy Birthday",
-            "artist": "HappyPianoBread",
-            "image": "https://i.ytimg.com/vi/5kHcDEgYO9k/hqdefault.jpg",
-            "videoId": "5kHcDEgYO9k"
+            "title": "I want you to get a Kingo Holiday",
+            "artist": "HappyPillsBread",
+            "image": "https://i.ytimg.com/vi/r8fiEGYJTBU/hqdefault.jpg",
+            "videoId": "r8fiEGYJTBU"
         },
         {
             "rank": 2,
-            "title": "NOT CURVE ANYMORE",
+            "title": "NOT CUTE ANYMORE",
             "artist": "ILLIT",
             "image": "https://i.ytimg.com/vi/x_RYZsOfpKY/hqdefault.jpg",
             "videoId": "x_RYZsOfpKY"
@@ -385,9 +385,9 @@ const rankData = {
         {
             "rank": 4,
             "title": "So Cute",
-            "artist": "김심장",
-            "image": "https://i.ytimg.com/vi/Km71Rr9K-Bw/hqdefault.jpg",
-            "videoId": "Km71Rr9K-Bw"
+            "artist": "김신환",
+            "image": "https://i.ytimg.com/vi/Bn5zcRD4LVQ/hqdefault.jpg",
+            "videoId": "Bn5zcRD4LVQ"
         },
         {
             "rank": 5,
@@ -398,15 +398,15 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "Beautiful Pain (UNFORGIVEN)",
+            "title": "Beautiful Pain (GANADARA)",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/JAdDkFx0_6o/hqdefault.jpg",
-            "videoId": "JAdDkFx0_6o"
+            "image": "https://i.ytimg.com/vi/Vre8mMqbQMs/hqdefault.jpg",
+            "videoId": "Vre8mMqbQMs"
         },
         {
             "rank": 7,
             "title": "NO BATIDÃO",
-            "artist": "ZxPxV & Slaughter",
+            "artist": "ZAYO & Slaughter",
             "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
             "videoId": "orOgilmiL_4"
         },
@@ -419,17 +419,17 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "街のドルフィン",
-            "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/x2aA6GEEABA/hqdefault.jpg",
-            "videoId": "x2aA6GEEABA"
-        },
-        {
-            "rank": 10,
-            "title": "Killer-Joy",
+            "title": "Killer Joy",
             "artist": "CNBLUE",
             "image": "https://i.ytimg.com/vi/ND5FhEsjVUk/hqdefault.jpg",
             "videoId": "ND5FhEsjVUk"
+        },
+        {
+            "rank": 10,
+            "title": "旅のノルマン",
+            "artist": "Kingo Hamada",
+            "image": "https://i.ytimg.com/vi/BvcDmrogdWs/hqdefault.jpg",
+            "videoId": "BvcDmrogdWs"
         }
     ],
     "youtube_shorts_global": [
@@ -442,21 +442,21 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "PASSO BEM",
-            "artist": "SOLTO (Slowed)\nATLX5",
-            "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
-            "videoId": "KgayxOF4Y7E"
-        },
-        {
-            "rank": 3,
-            "title": "Dil Ne Tera Naam",
-            "artist": "Liya 2.0 (Crack...\nJubin Yadav",
+            "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
+            "artist": "Arman Yadav",
             "image": "https://i.ytimg.com/vi/FX9Fm0Vzasw/hqdefault.jpg",
             "videoId": "FX9Fm0Vzasw"
         },
         {
+            "rank": 3,
+            "title": "PASSO BEM SUCEDO (Slowed)",
+            "artist": "ATLXS",
+            "image": "https://i.ytimg.com/vi/nXj1xgO845A/hqdefault.jpg",
+            "videoId": "nXj1xgO845A"
+        },
+        {
             "rank": 4,
-            "title": "Friendships (feat.\nTong)",
+            "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
             "image": "https://i.ytimg.com/vi/1g3Toj4-RMg/hqdefault.jpg",
             "videoId": "1g3Toj4-RMg"
@@ -464,44 +464,44 @@ const rankData = {
         {
             "rank": 5,
             "title": "Menagem Miau",
-            "artist": "LenaF",
-            "image": "https://i.ytimg.com/vi/UKjU_IsDbbY/hqdefault.jpg",
-            "videoId": "UKjU_IsDbbY"
+            "artist": "Lenar",
+            "image": "https://i.ytimg.com/vi/M054SAhmAzI/hqdefault.jpg",
+            "videoId": "M054SAhmAzI"
         },
         {
             "rank": 6,
-            "title": "فصيله",
-            "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/9meuLr_QjRE/hqdefault.jpg",
-            "videoId": "9meuLr_QjRE"
+            "title": "فصله",
+            "artist": "Flipperrachi",
+            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
+            "videoId": "1XOJFuKHCck"
         },
         {
             "rank": 7,
             "title": "Big Guy",
-            "artist": "Tee Spice",
+            "artist": "Ice Spice",
             "image": "https://i.ytimg.com/vi/gDb91xKfa4E/hqdefault.jpg",
             "videoId": "gDb91xKfa4E"
         },
         {
             "rank": 8,
-            "title": "Ishq Jalebi -\nSlowed",
-            "artist": "Shashwat Sachdev\n, Shahzad Ali...",
-            "image": "https://i.ytimg.com/vi/InR09wrPCj4/hqdefault.jpg",
-            "videoId": "InR09wrPCj4"
-        },
-        {
-            "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
             "image": "https://i.ytimg.com/vi/GkqzojRVtGo/hqdefault.jpg",
             "videoId": "GkqzojRVtGo"
         },
         {
+            "rank": 9,
+            "title": "VOCE NA MIRA (Slowed)",
+            "artist": "Mengoii & DJ VGK1",
+            "image": "https://i.ytimg.com/vi/053BqP1AgRg/hqdefault.jpg",
+            "videoId": "053BqP1AgRg"
+        },
+        {
             "rank": 10,
-            "title": "EEEE A",
-            "artist": "Dia",
-            "image": "https://i.ytimg.com/vi/Wvl-UASEEQY/hqdefault.jpg",
-            "videoId": "Wvl-UASEEQY"
+            "title": "Ishq Jalakar - Karvaan",
+            "artist": "Shahzaat Sachdev, Shahzad Ali...",
+            "image": "https://i.ytimg.com/vi/ZOEOVev2NI0/hqdefault.jpg",
+            "videoId": "ZOEOVev2NI0"
         }
     ]
 };
