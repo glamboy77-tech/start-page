@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-23 08:22:38",
+    "last_updated": "2026-01-23 17:07:10",
     "billboard": [
         {
             "rank": 1,
@@ -119,8 +119,8 @@ const rankData = {
             "rank": 7,
             "title": "Bad News",
             "artist": "Zach Bryan",
-            "image": "https://i.ytimg.com/vi/HE52kHayh6c/hqdefault.jpg",
-            "videoId": "HE52kHayh6c"
+            "image": "https://i.ytimg.com/vi/fN9or5sWSoQ/hqdefault.jpg",
+            "videoId": "fN9or5sWSoQ"
         },
         {
             "rank": 8,
@@ -189,17 +189,17 @@ const rankData = {
         },
         {
             "rank": 7,
+            "title": "Golden",
+            "artist": "HUNTR/X",
+            "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
+            "videoId": "yebNIHKAC4A"
+        },
+        {
+            "rank": 8,
             "title": "SPAGHETTI (feat. j-hope of BTS)",
             "artist": "LE SSERAFIM (르세라핌)",
             "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
             "videoId": "TvVtYaqCni8"
-        },
-        {
-            "rank": 8,
-            "title": "Golden",
-            "artist": "HUNTR/X",
-            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
-            "videoId": "hohuFW0zQUw"
         },
         {
             "rank": 9,
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/GvNS6SqK05I/hqdefault.jpg",
-            "videoId": "GvNS6SqK05I"
+            "image": "https://i.ytimg.com/vi/82s8PRgYSRU/hqdefault.jpg",
+            "videoId": "82s8PRgYSRU"
         },
         {
             "rank": 3,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/xcs7gcd1_M4/hqdefault.jpg",
-            "videoId": "xcs7gcd1_M4"
+            "image": "https://i.ytimg.com/vi/9ZbRWkeAW9w/hqdefault.jpg",
+            "videoId": "9ZbRWkeAW9w"
         },
         {
             "rank": 9,
@@ -300,8 +300,8 @@ const rankData = {
             "rank": 2,
             "title": "Jogodo",
             "artist": "Victony & Asake",
-            "image": "https://i.ytimg.com/vi/_06D7dcr0gU/hqdefault.jpg",
-            "videoId": "_06D7dcr0gU"
+            "image": "https://i.ytimg.com/vi/vp0b_fqPvkM/hqdefault.jpg",
+            "videoId": "vp0b_fqPvkM"
         },
         {
             "rank": 3,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
-            "videoId": "eCLI6mbb7Dg"
+            "image": "https://i.ytimg.com/vi/81075KYeM4s/hqdefault.jpg",
+            "videoId": "81075KYeM4s"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/aSGeQA5eRqw/hqdefault.jpg",
-            "videoId": "aSGeQA5eRqw"
+            "image": "https://i.ytimg.com/vi/dMa_DDiTGKc/hqdefault.jpg",
+            "videoId": "dMa_DDiTGKc"
         },
         {
             "rank": 7,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/0TjhlMxQqzw/hqdefault.jpg",
-            "videoId": "0TjhlMxQqzw"
+            "image": "https://i.ytimg.com/vi/NwkRYRhsFpA/hqdefault.jpg",
+            "videoId": "NwkRYRhsFpA"
         },
         {
             "rank": 2,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/g5idrebJVQE/hqdefault.jpg",
-            "videoId": "g5idrebJVQE"
+            "image": "https://i.ytimg.com/vi/vz2CMETs5ZE/hqdefault.jpg",
+            "videoId": "vz2CMETs5ZE"
         },
         {
             "rank": 6,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/g5idrebJVQE/hqdefault.jpg",
-            "videoId": "g5idrebJVQE"
+            "image": "https://i.ytimg.com/vi/fhvy1YWBMYU/hqdefault.jpg",
+            "videoId": "fhvy1YWBMYU"
         },
         {
             "rank": 2,
@@ -465,8 +465,8 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/tHyEefJJ2hY/hqdefault.jpg",
-            "videoId": "tHyEefJJ2hY"
+            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
+            "videoId": "DoM3DiFnXxM"
         },
         {
             "rank": 6,
@@ -493,8 +493,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/KL5w_rWMEsg/hqdefault.jpg",
-            "videoId": "KL5w_rWMEsg"
+            "image": "https://i.ytimg.com/vi/gvRfd2OxcNk/hqdefault.jpg",
+            "videoId": "gvRfd2OxcNk"
         },
         {
             "rank": 10,
