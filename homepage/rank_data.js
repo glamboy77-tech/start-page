@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-24 15:07:35",
+    "last_updated": "2026-01-25 00:24:58",
     "billboard": [
         {
             "rank": 1,
@@ -19,8 +19,8 @@ const rankData = {
             "rank": 3,
             "title": "Golden",
             "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
-            "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
-            "videoId": "yebNIHKAC4A"
+            "image": "https://i.ytimg.com/vi/wwHT20YvAjo/hqdefault.jpg",
+            "videoId": "wwHT20YvAjo"
         },
         {
             "rank": 4,
@@ -105,8 +105,8 @@ const rankData = {
             "rank": 5,
             "title": "Purple Rain",
             "artist": "Prince And The Revolution",
-            "image": "https://i.ytimg.com/vi/GaJcBJQi7bY/hqdefault.jpg",
-            "videoId": "GaJcBJQi7bY"
+            "image": "https://i.ytimg.com/vi/JkLyOxRtXWw/hqdefault.jpg",
+            "videoId": "JkLyOxRtXWw"
         },
         {
             "rank": 6,
@@ -119,8 +119,8 @@ const rankData = {
             "rank": 7,
             "title": "Bad News",
             "artist": "Zach Bryan",
-            "image": "https://i.ytimg.com/vi/JAPSomi-Bxo/hqdefault.jpg",
-            "videoId": "JAPSomi-Bxo"
+            "image": "https://i.ytimg.com/vi/HE52kHayh6c/hqdefault.jpg",
+            "videoId": "HE52kHayh6c"
         },
         {
             "rank": 8,
@@ -182,17 +182,17 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "Blue Valentine",
-            "artist": "NMIXX",
-            "image": "https://i.ytimg.com/vi/EmeW6li6bbo/hqdefault.jpg",
-            "videoId": "EmeW6li6bbo"
+            "title": "0+0",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
+            "videoId": "_Ngk-DCHfD0"
         },
         {
             "rank": 7,
-            "title": "Golden",
-            "artist": "HUNTR/X",
-            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
-            "videoId": "hohuFW0zQUw"
+            "title": "Blue Valentine",
+            "artist": "NMIXX",
+            "image": "https://i.ytimg.com/vi/_l6onJkbXUY/hqdefault.jpg",
+            "videoId": "_l6onJkbXUY"
         },
         {
             "rank": 8,
@@ -203,17 +203,17 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "ONE MORE TIME",
-            "artist": "ALLDAY PROJECT",
-            "image": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg",
-            "videoId": "OgEwJ8a1OoY"
+            "title": "Golden",
+            "artist": "HUNTR/X",
+            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
+            "videoId": "hohuFW0zQUw"
         },
         {
             "rank": 10,
-            "title": "0+0",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
-            "videoId": "_Ngk-DCHfD0"
+            "title": "멸종위기사랑",
+            "artist": "이찬혁",
+            "image": "https://i.ytimg.com/vi/19oT04OuBhg/hqdefault.jpg",
+            "videoId": "19oT04OuBhg"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/82s8PRgYSRU/hqdefault.jpg",
-            "videoId": "82s8PRgYSRU"
+            "image": "https://i.ytimg.com/vi/wEO1ZPBpq2g/hqdefault.jpg",
+            "videoId": "wEO1ZPBpq2g"
         },
         {
             "rank": 3,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/ekgpZag6xyQ/hqdefault.jpg",
-            "videoId": "ekgpZag6xyQ"
+            "image": "https://i.ytimg.com/vi/HeC-Hj97eak/hqdefault.jpg",
+            "videoId": "HeC-Hj97eak"
         },
         {
             "rank": 5,
@@ -263,8 +263,8 @@ const rankData = {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/H0lyEt95e6k/hqdefault.jpg",
-            "videoId": "H0lyEt95e6k"
+            "image": "https://i.ytimg.com/vi/CUUDoW70ybw/hqdefault.jpg",
+            "videoId": "CUUDoW70ybw"
         },
         {
             "rank": 8,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/81075KYeM4s/hqdefault.jpg",
-            "videoId": "81075KYeM4s"
+            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
+            "videoId": "eCLI6mbb7Dg"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/dMa_DDiTGKc/hqdefault.jpg",
-            "videoId": "dMa_DDiTGKc"
+            "image": "https://i.ytimg.com/vi/aSGeQA5eRqw/hqdefault.jpg",
+            "videoId": "aSGeQA5eRqw"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/50VNCymT-Cs/hqdefault.jpg",
-            "videoId": "50VNCymT-Cs"
+            "image": "https://i.ytimg.com/vi/tscMSXk_jaQ/hqdefault.jpg",
+            "videoId": "tscMSXk_jaQ"
         },
         {
             "rank": 9,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/NwkRYRhsFpA/hqdefault.jpg",
-            "videoId": "NwkRYRhsFpA"
+            "image": "https://i.ytimg.com/vi/rr_gI04Ambk/hqdefault.jpg",
+            "videoId": "rr_gI04Ambk"
         },
         {
             "rank": 2,
@@ -393,15 +393,15 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/vz2CMETs5ZE/hqdefault.jpg",
-            "videoId": "vz2CMETs5ZE"
+            "image": "https://i.ytimg.com/vi/g5idrebJVQE/hqdefault.jpg",
+            "videoId": "g5idrebJVQE"
         },
         {
             "rank": 6,
             "title": "OVERDRIVE",
             "artist": "TWS",
-            "image": "https://i.ytimg.com/vi/TzbGBkEh9ms/hqdefault.jpg",
-            "videoId": "TzbGBkEh9ms"
+            "image": "https://i.ytimg.com/vi/MH04-OFYT8k/hqdefault.jpg",
+            "videoId": "MH04-OFYT8k"
         },
         {
             "rank": 7,
@@ -414,8 +414,8 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/Vre8mMqbQMs/hqdefault.jpg",
-            "videoId": "Vre8mMqbQMs"
+            "image": "https://i.ytimg.com/vi/mg4DJ_Q0qoY/hqdefault.jpg",
+            "videoId": "mg4DJ_Q0qoY"
         },
         {
             "rank": 9,
@@ -444,8 +444,8 @@ const rankData = {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/Z6G-QekDEWE/hqdefault.jpg",
-            "videoId": "Z6G-QekDEWE"
+            "image": "https://i.ytimg.com/vi/4DpskvKkEkY/hqdefault.jpg",
+            "videoId": "4DpskvKkEkY"
         },
         {
             "rank": 3,
@@ -472,8 +472,8 @@ const rankData = {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
-            "videoId": "1XOJFuKHCck"
+            "image": "https://i.ytimg.com/vi/nyJqmXb3aR8/hqdefault.jpg",
+            "videoId": "nyJqmXb3aR8"
         },
         {
             "rank": 7,
