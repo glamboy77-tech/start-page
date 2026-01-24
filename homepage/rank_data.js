@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-24 08:22:56",
+    "last_updated": "2026-01-24 15:07:35",
     "billboard": [
         {
             "rank": 1,
@@ -119,8 +119,8 @@ const rankData = {
             "rank": 7,
             "title": "Bad News",
             "artist": "Zach Bryan",
-            "image": "https://i.ytimg.com/vi/fN9or5sWSoQ/hqdefault.jpg",
-            "videoId": "fN9or5sWSoQ"
+            "image": "https://i.ytimg.com/vi/JAPSomi-Bxo/hqdefault.jpg",
+            "videoId": "JAPSomi-Bxo"
         },
         {
             "rank": 8,
@@ -189,31 +189,31 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "0+0",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
-            "videoId": "_Ngk-DCHfD0"
-        },
-        {
-            "rank": 8,
             "title": "Golden",
             "artist": "HUNTR/X",
             "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
             "videoId": "hohuFW0zQUw"
         },
         {
-            "rank": 9,
+            "rank": 8,
             "title": "SPAGHETTI (feat. j-hope of BTS)",
             "artist": "LE SSERAFIM (르세라핌)",
             "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
             "videoId": "TvVtYaqCni8"
         },
         {
+            "rank": 9,
+            "title": "ONE MORE TIME",
+            "artist": "ALLDAY PROJECT",
+            "image": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg",
+            "videoId": "OgEwJ8a1OoY"
+        },
+        {
             "rank": 10,
-            "title": "어제보다 슬픈 오늘",
-            "artist": "우디 (Woody)",
-            "image": "https://i.ytimg.com/vi/1mZ-hoIvEx8/hqdefault.jpg",
-            "videoId": "1mZ-hoIvEx8"
+            "title": "0+0",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
+            "videoId": "_Ngk-DCHfD0"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/gDqUyUxXFKg/hqdefault.jpg",
-            "videoId": "gDqUyUxXFKg"
+            "image": "https://i.ytimg.com/vi/82s8PRgYSRU/hqdefault.jpg",
+            "videoId": "82s8PRgYSRU"
         },
         {
             "rank": 3,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/n2ecOUZL8Ls/hqdefault.jpg",
-            "videoId": "n2ecOUZL8Ls"
+            "image": "https://i.ytimg.com/vi/ekgpZag6xyQ/hqdefault.jpg",
+            "videoId": "ekgpZag6xyQ"
         },
         {
             "rank": 5,
@@ -256,22 +256,22 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/c05w1XmriRs/hqdefault.jpg",
-            "videoId": "c05w1XmriRs"
+            "image": "https://i.ytimg.com/vi/BYnMJZwux28/hqdefault.jpg",
+            "videoId": "BYnMJZwux28"
         },
         {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/CUUDoW70ybw/hqdefault.jpg",
-            "videoId": "CUUDoW70ybw"
+            "image": "https://i.ytimg.com/vi/H0lyEt95e6k/hqdefault.jpg",
+            "videoId": "H0lyEt95e6k"
         },
         {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/9ZbRWkeAW9w/hqdefault.jpg",
-            "videoId": "9ZbRWkeAW9w"
+            "image": "https://i.ytimg.com/vi/ovWYFvNe2ds/hqdefault.jpg",
+            "videoId": "ovWYFvNe2ds"
         },
         {
             "rank": 9,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/6S1Cc4rwvnY/hqdefault.jpg",
-            "videoId": "6S1Cc4rwvnY"
+            "image": "https://i.ytimg.com/vi/VBPZvuQoWy8/hqdefault.jpg",
+            "videoId": "VBPZvuQoWy8"
         }
     ],
     "shazam_global": [
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
-            "videoId": "eCLI6mbb7Dg"
+            "image": "https://i.ytimg.com/vi/81075KYeM4s/hqdefault.jpg",
+            "videoId": "81075KYeM4s"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/aSGeQA5eRqw/hqdefault.jpg",
-            "videoId": "aSGeQA5eRqw"
+            "image": "https://i.ytimg.com/vi/dMa_DDiTGKc/hqdefault.jpg",
+            "videoId": "dMa_DDiTGKc"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/tscMSXk_jaQ/hqdefault.jpg",
-            "videoId": "tscMSXk_jaQ"
+            "image": "https://i.ytimg.com/vi/50VNCymT-Cs/hqdefault.jpg",
+            "videoId": "50VNCymT-Cs"
         },
         {
             "rank": 9,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/sPmul8b17AU/hqdefault.jpg",
-            "videoId": "sPmul8b17AU"
+            "image": "https://i.ytimg.com/vi/NwkRYRhsFpA/hqdefault.jpg",
+            "videoId": "NwkRYRhsFpA"
         },
         {
             "rank": 2,
@@ -458,15 +458,15 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
-            "videoId": "mPmoojB54xI"
+            "image": "https://i.ytimg.com/vi/1g3Toj4-RMg/hqdefault.jpg",
+            "videoId": "1g3Toj4-RMg"
         },
         {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/M054SAhmAzI/hqdefault.jpg",
-            "videoId": "M054SAhmAzI"
+            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
+            "videoId": "DoM3DiFnXxM"
         },
         {
             "rank": 6,
@@ -493,15 +493,15 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/1SE7kW_SH2U/hqdefault.jpg",
-            "videoId": "1SE7kW_SH2U"
+            "image": "https://i.ytimg.com/vi/QUH0_vbeggQ/hqdefault.jpg",
+            "videoId": "QUH0_vbeggQ"
         },
         {
             "rank": 10,
             "title": "Ishq Jalakar - KGF:Chapter 2",
             "artist": "Shahzad Sachdev , Shahzad Ali , ... ",
-            "image": "https://i.ytimg.com/vi/-0zu77tgpX8/hqdefault.jpg",
-            "videoId": "-0zu77tgpX8"
+            "image": "https://i.ytimg.com/vi/ElXoMnKsnu0/hqdefault.jpg",
+            "videoId": "ElXoMnKsnu0"
         }
     ]
 };
