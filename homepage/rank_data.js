@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-24 15:07:35",
+    "last_updated": "2026-01-25 08:21:14",
     "billboard": [
         {
             "rank": 1,
@@ -189,31 +189,31 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "Golden",
-            "artist": "HUNTR/X",
-            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
-            "videoId": "hohuFW0zQUw"
+            "title": "0+0",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
+            "videoId": "_Ngk-DCHfD0"
         },
         {
             "rank": 8,
+            "title": "Golden",
+            "artist": "HUNTR/X",
+            "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
+            "videoId": "yebNIHKAC4A"
+        },
+        {
+            "rank": 9,
             "title": "SPAGHETTI (feat. j-hope of BTS)",
             "artist": "LE SSERAFIM (르세라핌)",
             "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
             "videoId": "TvVtYaqCni8"
         },
         {
-            "rank": 9,
-            "title": "ONE MORE TIME",
-            "artist": "ALLDAY PROJECT",
-            "image": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg",
-            "videoId": "OgEwJ8a1OoY"
-        },
-        {
             "rank": 10,
-            "title": "0+0",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
-            "videoId": "_Ngk-DCHfD0"
+            "title": "사랑은 늘 도망가",
+            "artist": "임영웅",
+            "image": "https://i.ytimg.com/vi/LKQ-18LoFQk/hqdefault.jpg",
+            "videoId": "LKQ-18LoFQk"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/82s8PRgYSRU/hqdefault.jpg",
-            "videoId": "82s8PRgYSRU"
+            "image": "https://i.ytimg.com/vi/gDqUyUxXFKg/hqdefault.jpg",
+            "videoId": "gDqUyUxXFKg"
         },
         {
             "rank": 3,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/ekgpZag6xyQ/hqdefault.jpg",
-            "videoId": "ekgpZag6xyQ"
+            "image": "https://i.ytimg.com/vi/HeC-Hj97eak/hqdefault.jpg",
+            "videoId": "HeC-Hj97eak"
         },
         {
             "rank": 5,
@@ -263,15 +263,15 @@ const rankData = {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/H0lyEt95e6k/hqdefault.jpg",
-            "videoId": "H0lyEt95e6k"
+            "image": "https://i.ytimg.com/vi/1lA9UlXnYIQ/hqdefault.jpg",
+            "videoId": "1lA9UlXnYIQ"
         },
         {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/ovWYFvNe2ds/hqdefault.jpg",
-            "videoId": "ovWYFvNe2ds"
+            "image": "https://i.ytimg.com/vi/9ZbRWkeAW9w/hqdefault.jpg",
+            "videoId": "9ZbRWkeAW9w"
         },
         {
             "rank": 9,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/VBPZvuQoWy8/hqdefault.jpg",
-            "videoId": "VBPZvuQoWy8"
+            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
+            "videoId": "oXCXlPJ57rE"
         }
     ],
     "shazam_global": [
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/jj7aUUCVM5k/hqdefault.jpg",
-            "videoId": "jj7aUUCVM5k"
+            "image": "https://i.ytimg.com/vi/vWkH6YKFYSA/hqdefault.jpg",
+            "videoId": "vWkH6YKFYSA"
         },
         {
             "rank": 2,
@@ -314,22 +314,22 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/81075KYeM4s/hqdefault.jpg",
-            "videoId": "81075KYeM4s"
+            "image": "https://i.ytimg.com/vi/pcsqIlxNstk/hqdefault.jpg",
+            "videoId": "pcsqIlxNstk"
         },
         {
             "rank": 5,
             "title": "Feeling On My Body (Remix)",
             "artist": "Taffy & PLUTO",
-            "image": "https://i.ytimg.com/vi/0FaBy1kuD7M/hqdefault.jpg",
-            "videoId": "0FaBy1kuD7M"
+            "image": "https://i.ytimg.com/vi/b9mx_B88sRU/hqdefault.jpg",
+            "videoId": "b9mx_B88sRU"
         },
         {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/dMa_DDiTGKc/hqdefault.jpg",
-            "videoId": "dMa_DDiTGKc"
+            "image": "https://i.ytimg.com/vi/aSGeQA5eRqw/hqdefault.jpg",
+            "videoId": "aSGeQA5eRqw"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/50VNCymT-Cs/hqdefault.jpg",
-            "videoId": "50VNCymT-Cs"
+            "image": "https://i.ytimg.com/vi/tscMSXk_jaQ/hqdefault.jpg",
+            "videoId": "tscMSXk_jaQ"
         },
         {
             "rank": 9,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/NwkRYRhsFpA/hqdefault.jpg",
-            "videoId": "NwkRYRhsFpA"
+            "image": "https://i.ytimg.com/vi/rr_gI04Ambk/hqdefault.jpg",
+            "videoId": "rr_gI04Ambk"
         },
         {
             "rank": 2,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/vz2CMETs5ZE/hqdefault.jpg",
-            "videoId": "vz2CMETs5ZE"
+            "image": "https://i.ytimg.com/vi/g5idrebJVQE/hqdefault.jpg",
+            "videoId": "g5idrebJVQE"
         },
         {
             "rank": 6,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/fhvy1YWBMYU/hqdefault.jpg",
-            "videoId": "fhvy1YWBMYU"
+            "image": "https://i.ytimg.com/vi/o6qU0DyvFWY/hqdefault.jpg",
+            "videoId": "o6qU0DyvFWY"
         },
         {
             "rank": 2,
@@ -465,22 +465,22 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
-            "videoId": "DoM3DiFnXxM"
+            "image": "https://i.ytimg.com/vi/E7G9TtjmVrg/hqdefault.jpg",
+            "videoId": "E7G9TtjmVrg"
         },
         {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
-            "videoId": "1XOJFuKHCck"
+            "image": "https://i.ytimg.com/vi/asc9PeaN1S0/hqdefault.jpg",
+            "videoId": "asc9PeaN1S0"
         },
         {
             "rank": 7,
             "title": "Big Guy",
             "artist": "Ice Spice",
-            "image": "https://i.ytimg.com/vi/gDb91xKfa4E/hqdefault.jpg",
-            "videoId": "gDb91xKfa4E"
+            "image": "https://i.ytimg.com/vi/kQoNCcIj0D8/hqdefault.jpg",
+            "videoId": "kQoNCcIj0D8"
         },
         {
             "rank": 8,
@@ -493,8 +493,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/QUH0_vbeggQ/hqdefault.jpg",
-            "videoId": "QUH0_vbeggQ"
+            "image": "https://i.ytimg.com/vi/gvRfd2OxcNk/hqdefault.jpg",
+            "videoId": "gvRfd2OxcNk"
         },
         {
             "rank": 10,
