@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-25 15:38:04",
+    "last_updated": "2026-01-26 08:21:23",
     "billboard": [
         {
             "rank": 1,
@@ -61,8 +61,8 @@ const rankData = {
             "rank": 9,
             "title": "Folded",
             "artist": "Kehlani",
-            "image": "https://i.ytimg.com/vi/VldbIBfUAnw/hqdefault.jpg",
-            "videoId": "VldbIBfUAnw"
+            "image": "https://i.ytimg.com/vi/KFMYx1TibeQ/hqdefault.jpg",
+            "videoId": "KFMYx1TibeQ"
         },
         {
             "rank": 10,
@@ -84,15 +84,15 @@ const rankData = {
             "rank": 2,
             "title": "Back To Friends",
             "artist": "sombr",
-            "image": "https://i.ytimg.com/vi/c8zq4kAn_O0/hqdefault.jpg",
-            "videoId": "c8zq4kAn_O0"
+            "image": "https://i.ytimg.com/vi/uzYttJXbn_c/hqdefault.jpg",
+            "videoId": "uzYttJXbn_c"
         },
         {
             "rank": 3,
             "title": "Plastic Cigarette",
             "artist": "Zach Bryan",
-            "image": "https://i.ytimg.com/vi/MBWmVXzGdVs/hqdefault.jpg",
-            "videoId": "MBWmVXzGdVs"
+            "image": "https://i.ytimg.com/vi/-1zRJl1xgJY/hqdefault.jpg",
+            "videoId": "-1zRJl1xgJY"
         },
         {
             "rank": 4,
@@ -105,15 +105,15 @@ const rankData = {
             "rank": 5,
             "title": "Purple Rain",
             "artist": "Prince And The Revolution",
-            "image": "https://i.ytimg.com/vi/GaJcBJQi7bY/hqdefault.jpg",
-            "videoId": "GaJcBJQi7bY"
+            "image": "https://i.ytimg.com/vi/fWdlxlurKk4/hqdefault.jpg",
+            "videoId": "fWdlxlurKk4"
         },
         {
             "rank": 6,
             "title": "Nice To Meet You",
             "artist": "Myles Smith",
-            "image": "https://i.ytimg.com/vi/9VbDkDALT7w/hqdefault.jpg",
-            "videoId": "9VbDkDALT7w"
+            "image": "https://i.ytimg.com/vi/thAYPR2RWD0/hqdefault.jpg",
+            "videoId": "thAYPR2RWD0"
         },
         {
             "rank": 7,
@@ -147,17 +147,17 @@ const rankData = {
     "melon": [
         {
             "rank": 1,
-            "title": "Good Goodbye",
-            "artist": "화사 (HWASA)",
-            "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
-            "videoId": "Qe8fa4b5xNU"
-        },
-        {
-            "rank": 2,
             "title": "그대 작은 나의 세상이 되어",
             "artist": "카더가든",
             "image": "https://i.ytimg.com/vi/ZurHW2kBqrw/hqdefault.jpg",
             "videoId": "ZurHW2kBqrw"
+        },
+        {
+            "rank": 2,
+            "title": "Good Goodbye",
+            "artist": "화사 (HWASA)",
+            "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
+            "videoId": "Qe8fa4b5xNU"
         },
         {
             "rank": 3,
@@ -177,36 +177,36 @@ const rankData = {
             "rank": 5,
             "title": "타임캡슐",
             "artist": "다비치",
-            "image": "https://i.ytimg.com/vi/HmYaZoyeqDo/hqdefault.jpg",
-            "videoId": "HmYaZoyeqDo"
+            "image": "https://i.ytimg.com/vi/qE35JN1ogeI/hqdefault.jpg",
+            "videoId": "qE35JN1ogeI"
         },
         {
             "rank": 6,
-            "title": "Golden",
-            "artist": "HUNTR/X",
-            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
-            "videoId": "hohuFW0zQUw"
-        },
-        {
-            "rank": 7,
             "title": "Blue Valentine",
             "artist": "NMIXX",
             "image": "https://i.ytimg.com/vi/EmeW6li6bbo/hqdefault.jpg",
             "videoId": "EmeW6li6bbo"
         },
         {
-            "rank": 8,
-            "title": "SPAGHETTI (feat. j-hope of BTS)",
-            "artist": "LE SSERAFIM (르세라핌)",
-            "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
-            "videoId": "TvVtYaqCni8"
-        },
-        {
-            "rank": 9,
+            "rank": 7,
             "title": "0+0",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
             "videoId": "_Ngk-DCHfD0"
+        },
+        {
+            "rank": 8,
+            "title": "Golden",
+            "artist": "HUNTR/X",
+            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
+            "videoId": "hohuFW0zQUw"
+        },
+        {
+            "rank": 9,
+            "title": "SPAGHETTI (feat. j-hope of BTS)",
+            "artist": "LE SSERAFIM (르세라핌)",
+            "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
+            "videoId": "TvVtYaqCni8"
         },
         {
             "rank": 10,
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/gDqUyUxXFKg/hqdefault.jpg",
-            "videoId": "gDqUyUxXFKg"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/aPIqeeirmP8/hqdefault.jpg",
-            "videoId": "aPIqeeirmP8"
+            "image": "https://i.ytimg.com/vi/ekgpZag6xyQ/hqdefault.jpg",
+            "videoId": "ekgpZag6xyQ"
         },
         {
             "rank": 5,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/ovWYFvNe2ds/hqdefault.jpg",
-            "videoId": "ovWYFvNe2ds"
+            "image": "https://i.ytimg.com/vi/QHuJNj6N9V0/hqdefault.jpg",
+            "videoId": "QHuJNj6N9V0"
         },
         {
             "rank": 9,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/pcsqIlxNstk/hqdefault.jpg",
-            "videoId": "pcsqIlxNstk"
+            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
+            "videoId": "eCLI6mbb7Dg"
         },
         {
             "rank": 5,
@@ -349,8 +349,8 @@ const rankData = {
             "rank": 9,
             "title": "Raindance",
             "artist": "Dave & Tems",
-            "image": "https://i.ytimg.com/vi/VKci3FQ935Y/hqdefault.jpg",
-            "videoId": "VKci3FQ935Y"
+            "image": "https://i.ytimg.com/vi/SB1GH3uRjpk/hqdefault.jpg",
+            "videoId": "SB1GH3uRjpk"
         },
         {
             "rank": 10,
@@ -365,15 +365,15 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/rr_gI04Ambk/hqdefault.jpg",
-            "videoId": "rr_gI04Ambk"
+            "image": "https://i.ytimg.com/vi/NwkRYRhsFpA/hqdefault.jpg",
+            "videoId": "NwkRYRhsFpA"
         },
         {
             "rank": 2,
             "title": "NOT CUTE ANYMORE",
             "artist": "ILLIT",
-            "image": "https://i.ytimg.com/vi/x_RYZsOfpKY/hqdefault.jpg",
-            "videoId": "x_RYZsOfpKY"
+            "image": "https://i.ytimg.com/vi/NmGn7OE1CEI/hqdefault.jpg",
+            "videoId": "NmGn7OE1CEI"
         },
         {
             "rank": 3,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/g5idrebJVQE/hqdefault.jpg",
-            "videoId": "g5idrebJVQE"
+            "image": "https://i.ytimg.com/vi/vz2CMETs5ZE/hqdefault.jpg",
+            "videoId": "vz2CMETs5ZE"
         },
         {
             "rank": 6,
@@ -407,8 +407,8 @@ const rankData = {
             "rank": 7,
             "title": "Zoo",
             "artist": "Shakira",
-            "image": "https://i.ytimg.com/vi/Kw3935PH01E/hqdefault.jpg",
-            "videoId": "Kw3935PH01E"
+            "image": "https://i.ytimg.com/vi/JbzMbYx288g/hqdefault.jpg",
+            "videoId": "JbzMbYx288g"
         },
         {
             "rank": 8,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/fhvy1YWBMYU/hqdefault.jpg",
-            "videoId": "fhvy1YWBMYU"
+            "image": "https://i.ytimg.com/vi/gXBnBttNSv0/hqdefault.jpg",
+            "videoId": "gXBnBttNSv0"
         },
         {
             "rank": 2,
@@ -465,8 +465,8 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/E7G9TtjmVrg/hqdefault.jpg",
-            "videoId": "E7G9TtjmVrg"
+            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
+            "videoId": "DoM3DiFnXxM"
         },
         {
             "rank": 6,
@@ -493,8 +493,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/qX8VZsPEhD4/hqdefault.jpg",
-            "videoId": "qX8VZsPEhD4"
+            "image": "https://i.ytimg.com/vi/gvRfd2OxcNk/hqdefault.jpg",
+            "videoId": "gvRfd2OxcNk"
         },
         {
             "rank": 10,
