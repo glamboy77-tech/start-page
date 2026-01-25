@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-25 10:37:53",
+    "last_updated": "2026-01-25 15:38:04",
     "billboard": [
         {
             "rank": 1,
@@ -12,8 +12,8 @@ const rankData = {
             "rank": 2,
             "title": "The Fate Of Ophelia",
             "artist": "Taylor Swift",
-            "image": "https://i.ytimg.com/vi/GWkswyays5M/hqdefault.jpg",
-            "videoId": "GWkswyays5M"
+            "image": "https://i.ytimg.com/vi/ko70cExuzZM/hqdefault.jpg",
+            "videoId": "ko70cExuzZM"
         },
         {
             "rank": 3,
@@ -26,15 +26,15 @@ const rankData = {
             "rank": 4,
             "title": "Man I Need",
             "artist": "Olivia Dean",
-            "image": "https://i.ytimg.com/vi/5qZ02LjsRx4/hqdefault.jpg",
-            "videoId": "5qZ02LjsRx4"
+            "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
+            "videoId": "oIv_Y2RPQ_A"
         },
         {
             "rank": 5,
             "title": "Ordinary",
             "artist": "Alex Warren",
-            "image": "https://i.ytimg.com/vi/ZAMN1OZS5kI/hqdefault.jpg",
-            "videoId": "ZAMN1OZS5kI"
+            "image": "https://i.ytimg.com/vi/u2ah9tWTkmk/hqdefault.jpg",
+            "videoId": "u2ah9tWTkmk"
         },
         {
             "rank": 6,
@@ -61,8 +61,8 @@ const rankData = {
             "rank": 9,
             "title": "Folded",
             "artist": "Kehlani",
-            "image": "https://i.ytimg.com/vi/KFMYx1TibeQ/hqdefault.jpg",
-            "videoId": "KFMYx1TibeQ"
+            "image": "https://i.ytimg.com/vi/VldbIBfUAnw/hqdefault.jpg",
+            "videoId": "VldbIBfUAnw"
         },
         {
             "rank": 10,
@@ -112,8 +112,8 @@ const rankData = {
             "rank": 6,
             "title": "Nice To Meet You",
             "artist": "Myles Smith",
-            "image": "https://i.ytimg.com/vi/ASusDpPv5B4/hqdefault.jpg",
-            "videoId": "ASusDpPv5B4"
+            "image": "https://i.ytimg.com/vi/9VbDkDALT7w/hqdefault.jpg",
+            "videoId": "9VbDkDALT7w"
         },
         {
             "rank": 7,
@@ -177,36 +177,36 @@ const rankData = {
             "rank": 5,
             "title": "타임캡슐",
             "artist": "다비치",
-            "image": "https://i.ytimg.com/vi/qE35JN1ogeI/hqdefault.jpg",
-            "videoId": "qE35JN1ogeI"
+            "image": "https://i.ytimg.com/vi/HmYaZoyeqDo/hqdefault.jpg",
+            "videoId": "HmYaZoyeqDo"
         },
         {
             "rank": 6,
-            "title": "Blue Valentine",
-            "artist": "NMIXX",
-            "image": "https://i.ytimg.com/vi/EmeW6li6bbo/hqdefault.jpg",
-            "videoId": "EmeW6li6bbo"
-        },
-        {
-            "rank": 7,
             "title": "Golden",
             "artist": "HUNTR/X",
             "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
             "videoId": "hohuFW0zQUw"
         },
         {
-            "rank": 8,
-            "title": "0+0",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
-            "videoId": "_Ngk-DCHfD0"
+            "rank": 7,
+            "title": "Blue Valentine",
+            "artist": "NMIXX",
+            "image": "https://i.ytimg.com/vi/EmeW6li6bbo/hqdefault.jpg",
+            "videoId": "EmeW6li6bbo"
         },
         {
-            "rank": 9,
+            "rank": 8,
             "title": "SPAGHETTI (feat. j-hope of BTS)",
             "artist": "LE SSERAFIM (르세라핌)",
             "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
             "videoId": "TvVtYaqCni8"
+        },
+        {
+            "rank": 9,
+            "title": "0+0",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
+            "videoId": "_Ngk-DCHfD0"
         },
         {
             "rank": 10,
@@ -235,15 +235,15 @@ const rankData = {
             "rank": 3,
             "title": "Moonwalkin'",
             "artist": "LNGSHOT",
-            "image": "https://i.ytimg.com/vi/VX_3F-2mc0g/hqdefault.jpg",
-            "videoId": "VX_3F-2mc0g"
+            "image": "https://i.ytimg.com/vi/HJgdT15UT4k/hqdefault.jpg",
+            "videoId": "HJgdT15UT4k"
         },
         {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/UsRgOKvLiQk/hqdefault.jpg",
-            "videoId": "UsRgOKvLiQk"
+            "image": "https://i.ytimg.com/vi/aPIqeeirmP8/hqdefault.jpg",
+            "videoId": "aPIqeeirmP8"
         },
         {
             "rank": 5,
@@ -256,15 +256,15 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/c05w1XmriRs/hqdefault.jpg",
-            "videoId": "c05w1XmriRs"
+            "image": "https://i.ytimg.com/vi/BYnMJZwux28/hqdefault.jpg",
+            "videoId": "BYnMJZwux28"
         },
         {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/CUUDoW70ybw/hqdefault.jpg",
-            "videoId": "CUUDoW70ybw"
+            "image": "https://i.ytimg.com/vi/1lA9UlXnYIQ/hqdefault.jpg",
+            "videoId": "1lA9UlXnYIQ"
         },
         {
             "rank": 8,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/6S1Cc4rwvnY/hqdefault.jpg",
-            "videoId": "6S1Cc4rwvnY"
+            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
+            "videoId": "oXCXlPJ57rE"
         }
     ],
     "shazam_global": [
@@ -307,15 +307,15 @@ const rankData = {
             "rank": 3,
             "title": "NO BATIDÃO",
             "artist": "ZXKAI & slxughter",
-            "image": "https://i.ytimg.com/vi/o6qU0DyvFWY/hqdefault.jpg",
-            "videoId": "o6qU0DyvFWY"
+            "image": "https://i.ytimg.com/vi/1GDOndn8BPs/hqdefault.jpg",
+            "videoId": "1GDOndn8BPs"
         },
         {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
-            "videoId": "eCLI6mbb7Dg"
+            "image": "https://i.ytimg.com/vi/pcsqIlxNstk/hqdefault.jpg",
+            "videoId": "pcsqIlxNstk"
         },
         {
             "rank": 5,
@@ -349,8 +349,8 @@ const rankData = {
             "rank": 9,
             "title": "Raindance",
             "artist": "Dave & Tems",
-            "image": "https://i.ytimg.com/vi/SOJpE1KMUbo/hqdefault.jpg",
-            "videoId": "SOJpE1KMUbo"
+            "image": "https://i.ytimg.com/vi/VKci3FQ935Y/hqdefault.jpg",
+            "videoId": "VKci3FQ935Y"
         },
         {
             "rank": 10,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/NwkRYRhsFpA/hqdefault.jpg",
-            "videoId": "NwkRYRhsFpA"
+            "image": "https://i.ytimg.com/vi/rr_gI04Ambk/hqdefault.jpg",
+            "videoId": "rr_gI04Ambk"
         },
         {
             "rank": 2,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/vz2CMETs5ZE/hqdefault.jpg",
-            "videoId": "vz2CMETs5ZE"
+            "image": "https://i.ytimg.com/vi/g5idrebJVQE/hqdefault.jpg",
+            "videoId": "g5idrebJVQE"
         },
         {
             "rank": 6,
@@ -414,8 +414,8 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/mg4DJ_Q0qoY/hqdefault.jpg",
-            "videoId": "mg4DJ_Q0qoY"
+            "image": "https://i.ytimg.com/vi/Vre8mMqbQMs/hqdefault.jpg",
+            "videoId": "Vre8mMqbQMs"
         },
         {
             "rank": 9,
@@ -465,15 +465,15 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/M054SAhmAzI/hqdefault.jpg",
-            "videoId": "M054SAhmAzI"
+            "image": "https://i.ytimg.com/vi/E7G9TtjmVrg/hqdefault.jpg",
+            "videoId": "E7G9TtjmVrg"
         },
         {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/asc9PeaN1S0/hqdefault.jpg",
-            "videoId": "asc9PeaN1S0"
+            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
+            "videoId": "1XOJFuKHCck"
         },
         {
             "rank": 7,
@@ -493,15 +493,15 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/6vtc1BLa8uc/hqdefault.jpg",
-            "videoId": "6vtc1BLa8uc"
+            "image": "https://i.ytimg.com/vi/qX8VZsPEhD4/hqdefault.jpg",
+            "videoId": "qX8VZsPEhD4"
         },
         {
             "rank": 10,
             "title": "Ishq Jalakar - KGF:Chapter 2",
             "artist": "Shahzad Sachdev , Shahzad Ali , ... ",
-            "image": "https://i.ytimg.com/vi/-0zu77tgpX8/hqdefault.jpg",
-            "videoId": "-0zu77tgpX8"
+            "image": "https://i.ytimg.com/vi/ElXoMnKsnu0/hqdefault.jpg",
+            "videoId": "ElXoMnKsnu0"
         }
     ]
 };
