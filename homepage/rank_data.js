@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-27 08:23:21",
+    "last_updated": "2026-01-28 08:23:02",
     "billboard": [
         {
             "rank": 1,
@@ -10,24 +10,24 @@ const rankData = {
         },
         {
             "rank": 2,
+            "title": "Man I Need",
+            "artist": "Olivia Dean",
+            "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
+            "videoId": "oIv_Y2RPQ_A"
+        },
+        {
+            "rank": 3,
             "title": "The Fate Of Ophelia",
             "artist": "Taylor Swift",
             "image": "https://i.ytimg.com/vi/ko70cExuzZM/hqdefault.jpg",
             "videoId": "ko70cExuzZM"
         },
         {
-            "rank": 3,
+            "rank": 4,
             "title": "Golden",
             "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
             "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
             "videoId": "yebNIHKAC4A"
-        },
-        {
-            "rank": 4,
-            "title": "Man I Need",
-            "artist": "Olivia Dean",
-            "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
-            "videoId": "oIv_Y2RPQ_A"
         },
         {
             "rank": 5,
@@ -45,24 +45,24 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "End Of Beginning",
-            "artist": "Djo",
-            "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
-            "videoId": "aH7gkoBpN3s"
-        },
-        {
-            "rank": 8,
             "title": "Back To Friends",
             "artist": "sombr",
             "image": "https://i.ytimg.com/vi/c8zq4kAn_O0/hqdefault.jpg",
             "videoId": "c8zq4kAn_O0"
         },
         {
-            "rank": 9,
+            "rank": 8,
             "title": "Folded",
             "artist": "Kehlani",
             "image": "https://i.ytimg.com/vi/KFMYx1TibeQ/hqdefault.jpg",
             "videoId": "KFMYx1TibeQ"
+        },
+        {
+            "rank": 9,
+            "title": "End Of Beginning",
+            "artist": "Djo",
+            "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
+            "videoId": "aH7gkoBpN3s"
         },
         {
             "rank": 10,
@@ -75,17 +75,17 @@ const rankData = {
     "billboard_rock": [
         {
             "rank": 1,
-            "title": "End Of Beginning",
-            "artist": "Djo",
-            "image": "https://i.ytimg.com/vi/ESKelYgn-E4/hqdefault.jpg",
-            "videoId": "ESKelYgn-E4"
-        },
-        {
-            "rank": 2,
             "title": "Back To Friends",
             "artist": "sombr",
             "image": "https://i.ytimg.com/vi/c8zq4kAn_O0/hqdefault.jpg",
             "videoId": "c8zq4kAn_O0"
+        },
+        {
+            "rank": 2,
+            "title": "End Of Beginning",
+            "artist": "Djo",
+            "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
+            "videoId": "aH7gkoBpN3s"
         },
         {
             "rank": 3,
@@ -96,10 +96,10 @@ const rankData = {
         },
         {
             "rank": 4,
-            "title": "Say Why",
-            "artist": "Zach Bryan",
-            "image": "https://i.ytimg.com/vi/SzMu9Cf7xeQ/hqdefault.jpg",
-            "videoId": "SzMu9Cf7xeQ"
+            "title": "Nice To Meet You",
+            "artist": "Myles Smith",
+            "image": "https://i.ytimg.com/vi/9VbDkDALT7w/hqdefault.jpg",
+            "videoId": "9VbDkDALT7w"
         },
         {
             "rank": 5,
@@ -110,38 +110,38 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "Nice To Meet You",
-            "artist": "Myles Smith",
-            "image": "https://i.ytimg.com/vi/9VbDkDALT7w/hqdefault.jpg",
-            "videoId": "9VbDkDALT7w"
+            "title": "Say Why",
+            "artist": "Zach Bryan",
+            "image": "https://i.ytimg.com/vi/SzMu9Cf7xeQ/hqdefault.jpg",
+            "videoId": "SzMu9Cf7xeQ"
         },
         {
             "rank": 7,
-            "title": "Bad News",
-            "artist": "Zach Bryan",
-            "image": "https://i.ytimg.com/vi/JAPSomi-Bxo/hqdefault.jpg",
-            "videoId": "JAPSomi-Bxo"
-        },
-        {
-            "rank": 8,
-            "title": "Appetite",
-            "artist": "Zach Bryan",
-            "image": "https://i.ytimg.com/vi/O3xl4Y3WiXY/hqdefault.jpg",
-            "videoId": "O3xl4Y3WiXY"
-        },
-        {
-            "rank": 9,
             "title": "I Thought I Saw Your Face Today",
             "artist": "She & Him",
             "image": "https://i.ytimg.com/vi/pyGU-UudvrM/hqdefault.jpg",
             "videoId": "pyGU-UudvrM"
         },
         {
+            "rank": 8,
+            "title": "12 To 12",
+            "artist": "sombr",
+            "image": "https://i.ytimg.com/vi/cZgUiR31m-Y/hqdefault.jpg",
+            "videoId": "cZgUiR31m-Y"
+        },
+        {
+            "rank": 9,
+            "title": "Dracula",
+            "artist": "Tame Impala",
+            "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
+            "videoId": "xnP7qKxwzjg"
+        },
+        {
             "rank": 10,
-            "title": "Runny Eggs",
+            "title": "Bad News",
             "artist": "Zach Bryan",
-            "image": "https://i.ytimg.com/vi/hgHC-TADPTA/hqdefault.jpg",
-            "videoId": "hgHC-TADPTA"
+            "image": "https://i.ytimg.com/vi/JAPSomi-Bxo/hqdefault.jpg",
+            "videoId": "JAPSomi-Bxo"
         }
     ],
     "melon": [
@@ -149,8 +149,8 @@ const rankData = {
             "rank": 1,
             "title": "그대 작은 나의 세상이 되어",
             "artist": "카더가든",
-            "image": "https://i.ytimg.com/vi/5hluaZsogjs/hqdefault.jpg",
-            "videoId": "5hluaZsogjs"
+            "image": "https://i.ytimg.com/vi/ZurHW2kBqrw/hqdefault.jpg",
+            "videoId": "ZurHW2kBqrw"
         },
         {
             "rank": 2,
@@ -205,8 +205,8 @@ const rankData = {
             "rank": 9,
             "title": "Golden",
             "artist": "HUNTR/X",
-            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
-            "videoId": "hohuFW0zQUw"
+            "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
+            "videoId": "yebNIHKAC4A"
         },
         {
             "rank": 10,
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/gDqUyUxXFKg/hqdefault.jpg",
-            "videoId": "gDqUyUxXFKg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -263,15 +263,15 @@ const rankData = {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/CUUDoW70ybw/hqdefault.jpg",
-            "videoId": "CUUDoW70ybw"
+            "image": "https://i.ytimg.com/vi/1lA9UlXnYIQ/hqdefault.jpg",
+            "videoId": "1lA9UlXnYIQ"
         },
         {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/ovWYFvNe2ds/hqdefault.jpg",
-            "videoId": "ovWYFvNe2ds"
+            "image": "https://i.ytimg.com/vi/QHuJNj6N9V0/hqdefault.jpg",
+            "videoId": "QHuJNj6N9V0"
         },
         {
             "rank": 9,
@@ -314,29 +314,29 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/pcsqIlxNstk/hqdefault.jpg",
-            "videoId": "pcsqIlxNstk"
+            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
+            "videoId": "eCLI6mbb7Dg"
         },
         {
             "rank": 5,
             "title": "Feeling On My Body (Remix)",
             "artist": "Taffy & PLUTO",
-            "image": "https://i.ytimg.com/vi/0FaBy1kuD7M/hqdefault.jpg",
-            "videoId": "0FaBy1kuD7M"
+            "image": "https://i.ytimg.com/vi/UWjXvFGWdEg/hqdefault.jpg",
+            "videoId": "UWjXvFGWdEg"
         },
         {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/dMa_DDiTGKc/hqdefault.jpg",
-            "videoId": "dMa_DDiTGKc"
+            "image": "https://i.ytimg.com/vi/iLQAwxFrMSU/hqdefault.jpg",
+            "videoId": "iLQAwxFrMSU"
         },
         {
             "rank": 7,
             "title": "Moonwalkin'",
             "artist": "LNGSHOT",
-            "image": "https://i.ytimg.com/vi/gN1hhc_GuI4/hqdefault.jpg",
-            "videoId": "gN1hhc_GuI4"
+            "image": "https://i.ytimg.com/vi/HJgdT15UT4k/hqdefault.jpg",
+            "videoId": "HJgdT15UT4k"
         },
         {
             "rank": 8,
@@ -444,8 +444,8 @@ const rankData = {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/tuCqz4jEoSo/hqdefault.jpg",
-            "videoId": "tuCqz4jEoSo"
+            "image": "https://i.ytimg.com/vi/lbC6D448ChE/hqdefault.jpg",
+            "videoId": "lbC6D448ChE"
         },
         {
             "rank": 3,
@@ -472,8 +472,8 @@ const rankData = {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/asc9PeaN1S0/hqdefault.jpg",
-            "videoId": "asc9PeaN1S0"
+            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
+            "videoId": "1XOJFuKHCck"
         },
         {
             "rank": 7,
@@ -493,8 +493,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/6vtc1BLa8uc/hqdefault.jpg",
-            "videoId": "6vtc1BLa8uc"
+            "image": "https://i.ytimg.com/vi/qX8VZsPEhD4/hqdefault.jpg",
+            "videoId": "qX8VZsPEhD4"
         },
         {
             "rank": 10,
