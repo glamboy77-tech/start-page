@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-29 08:27:26",
+    "last_updated": "2026-01-30 01:56:21",
     "billboard": [
         {
             "rank": 1,
@@ -189,24 +189,24 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "0+0",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
-            "videoId": "_Ngk-DCHfD0"
-        },
-        {
-            "rank": 8,
             "title": "SPAGHETTI (feat. j-hope of BTS)",
             "artist": "LE SSERAFIM (르세라핌)",
             "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
             "videoId": "TvVtYaqCni8"
         },
         {
-            "rank": 9,
+            "rank": 8,
             "title": "Golden",
             "artist": "HUNTR/X",
             "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
             "videoId": "hohuFW0zQUw"
+        },
+        {
+            "rank": 9,
+            "title": "0+0",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
+            "videoId": "_Ngk-DCHfD0"
         },
         {
             "rank": 10,
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
-            "videoId": "L1rR_smhD78"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/u4P94G9Mhig/hqdefault.jpg",
-            "videoId": "u4P94G9Mhig"
+            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
+            "videoId": "oXCXlPJ57rE"
         }
     ],
     "shazam_global": [
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/iLQAwxFrMSU/hqdefault.jpg",
-            "videoId": "iLQAwxFrMSU"
+            "image": "https://i.ytimg.com/vi/aSGeQA5eRqw/hqdefault.jpg",
+            "videoId": "aSGeQA5eRqw"
         },
         {
             "rank": 7,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/NwkRYRhsFpA/hqdefault.jpg",
-            "videoId": "NwkRYRhsFpA"
+            "image": "https://i.ytimg.com/vi/RFb6Xomb_cg/hqdefault.jpg",
+            "videoId": "RFb6Xomb_cg"
         },
         {
             "rank": 2,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/g5idrebJVQE/hqdefault.jpg",
-            "videoId": "g5idrebJVQE"
+            "image": "https://i.ytimg.com/vi/fhvy1YWBMYU/hqdefault.jpg",
+            "videoId": "fhvy1YWBMYU"
         },
         {
             "rank": 2,
@@ -458,8 +458,8 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
-            "videoId": "mPmoojB54xI"
+            "image": "https://i.ytimg.com/vi/1g3Toj4-RMg/hqdefault.jpg",
+            "videoId": "1g3Toj4-RMg"
         },
         {
             "rank": 5,
