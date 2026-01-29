@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-30 01:56:21",
+    "last_updated": "2026-01-30 08:27:59",
     "billboard": [
         {
             "rank": 1,
@@ -189,24 +189,24 @@ const rankData = {
         },
         {
             "rank": 7,
+            "title": "0+0",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
+            "videoId": "_Ngk-DCHfD0"
+        },
+        {
+            "rank": 8,
             "title": "SPAGHETTI (feat. j-hope of BTS)",
             "artist": "LE SSERAFIM (르세라핌)",
             "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
             "videoId": "TvVtYaqCni8"
         },
         {
-            "rank": 8,
+            "rank": 9,
             "title": "Golden",
             "artist": "HUNTR/X",
             "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
             "videoId": "hohuFW0zQUw"
-        },
-        {
-            "rank": 9,
-            "title": "0+0",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
-            "videoId": "_Ngk-DCHfD0"
         },
         {
             "rank": 10,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/HeC-Hj97eak/hqdefault.jpg",
-            "videoId": "HeC-Hj97eak"
+            "image": "https://i.ytimg.com/vi/n2ecOUZL8Ls/hqdefault.jpg",
+            "videoId": "n2ecOUZL8Ls"
         },
         {
             "rank": 5,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/_R49ab6uKb4/hqdefault.jpg",
-            "videoId": "_R49ab6uKb4"
+            "image": "https://i.ytimg.com/vi/vCAcRtOd0L0/hqdefault.jpg",
+            "videoId": "vCAcRtOd0L0"
         },
         {
             "rank": 9,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
-            "videoId": "oXCXlPJ57rE"
+            "image": "https://i.ytimg.com/vi/VBPZvuQoWy8/hqdefault.jpg",
+            "videoId": "VBPZvuQoWy8"
         }
     ],
     "shazam_global": [
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/aSGeQA5eRqw/hqdefault.jpg",
-            "videoId": "aSGeQA5eRqw"
+            "image": "https://i.ytimg.com/vi/iLQAwxFrMSU/hqdefault.jpg",
+            "videoId": "iLQAwxFrMSU"
         },
         {
             "rank": 7,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/RFb6Xomb_cg/hqdefault.jpg",
-            "videoId": "RFb6Xomb_cg"
+            "image": "https://i.ytimg.com/vi/rr_gI04Ambk/hqdefault.jpg",
+            "videoId": "rr_gI04Ambk"
         },
         {
             "rank": 2,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/vz2CMETs5ZE/hqdefault.jpg",
-            "videoId": "vz2CMETs5ZE"
+            "image": "https://i.ytimg.com/vi/g5idrebJVQE/hqdefault.jpg",
+            "videoId": "g5idrebJVQE"
         },
         {
             "rank": 6,
@@ -458,8 +458,8 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/1g3Toj4-RMg/hqdefault.jpg",
-            "videoId": "1g3Toj4-RMg"
+            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
+            "videoId": "mPmoojB54xI"
         },
         {
             "rank": 5,
