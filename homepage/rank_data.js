@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-30 08:27:59",
+    "last_updated": "2026-01-30 18:32:30",
     "billboard": [
         {
             "rank": 1,
@@ -189,10 +189,10 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "0+0",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
-            "videoId": "_Ngk-DCHfD0"
+            "title": "Golden",
+            "artist": "HUNTR/X",
+            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
+            "videoId": "hohuFW0zQUw"
         },
         {
             "rank": 8,
@@ -203,17 +203,17 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "Golden",
-            "artist": "HUNTR/X",
-            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
-            "videoId": "hohuFW0zQUw"
+            "title": "0+0",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
+            "videoId": "_Ngk-DCHfD0"
         },
         {
             "rank": 10,
-            "title": "멸종위기사랑",
-            "artist": "이찬혁",
-            "image": "https://i.ytimg.com/vi/19oT04OuBhg/hqdefault.jpg",
-            "videoId": "19oT04OuBhg"
+            "title": "ONE MORE TIME",
+            "artist": "ALLDAY PROJECT",
+            "image": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg",
+            "videoId": "OgEwJ8a1OoY"
         }
     ],
     "shazam_korea": [
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/n2ecOUZL8Ls/hqdefault.jpg",
-            "videoId": "n2ecOUZL8Ls"
+            "image": "https://i.ytimg.com/vi/HeC-Hj97eak/hqdefault.jpg",
+            "videoId": "HeC-Hj97eak"
         },
         {
             "rank": 5,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/vCAcRtOd0L0/hqdefault.jpg",
-            "videoId": "vCAcRtOd0L0"
+            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
+            "videoId": "iG2OH4whO5E"
         },
         {
             "rank": 9,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/VBPZvuQoWy8/hqdefault.jpg",
-            "videoId": "VBPZvuQoWy8"
+            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
+            "videoId": "oXCXlPJ57rE"
         }
     ],
     "shazam_global": [
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/g5idrebJVQE/hqdefault.jpg",
-            "videoId": "g5idrebJVQE"
+            "image": "https://i.ytimg.com/vi/vz2CMETs5ZE/hqdefault.jpg",
+            "videoId": "vz2CMETs5ZE"
         },
         {
             "rank": 6,
@@ -437,15 +437,15 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/fhvy1YWBMYU/hqdefault.jpg",
-            "videoId": "fhvy1YWBMYU"
+            "image": "https://i.ytimg.com/vi/g5idrebJVQE/hqdefault.jpg",
+            "videoId": "g5idrebJVQE"
         },
         {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/Z6G-QekDEWE/hqdefault.jpg",
-            "videoId": "Z6G-QekDEWE"
+            "image": "https://i.ytimg.com/vi/5Qk0k1U2ywg/hqdefault.jpg",
+            "videoId": "5Qk0k1U2ywg"
         },
         {
             "rank": 3,
@@ -458,8 +458,8 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
-            "videoId": "mPmoojB54xI"
+            "image": "https://i.ytimg.com/vi/1g3Toj4-RMg/hqdefault.jpg",
+            "videoId": "1g3Toj4-RMg"
         },
         {
             "rank": 5,
