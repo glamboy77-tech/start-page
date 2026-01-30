@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-01-30 18:32:30",
+    "last_updated": "2026-01-31 08:27:19",
     "billboard": [
         {
             "rank": 1,
@@ -189,31 +189,31 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "Golden",
-            "artist": "HUNTR/X",
-            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
-            "videoId": "hohuFW0zQUw"
-        },
-        {
-            "rank": 8,
-            "title": "SPAGHETTI (feat. j-hope of BTS)",
-            "artist": "LE SSERAFIM (르세라핌)",
-            "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
-            "videoId": "TvVtYaqCni8"
-        },
-        {
-            "rank": 9,
             "title": "0+0",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
             "videoId": "_Ngk-DCHfD0"
         },
         {
+            "rank": 8,
+            "title": "Golden",
+            "artist": "HUNTR/X",
+            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
+            "videoId": "hohuFW0zQUw"
+        },
+        {
+            "rank": 9,
+            "title": "SPAGHETTI (feat. j-hope of BTS)",
+            "artist": "LE SSERAFIM (르세라핌)",
+            "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
+            "videoId": "TvVtYaqCni8"
+        },
+        {
             "rank": 10,
-            "title": "ONE MORE TIME",
-            "artist": "ALLDAY PROJECT",
-            "image": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg",
-            "videoId": "OgEwJ8a1OoY"
+            "title": "어제보다 슬픈 오늘",
+            "artist": "우디 (Woody)",
+            "image": "https://i.ytimg.com/vi/1mZ-hoIvEx8/hqdefault.jpg",
+            "videoId": "1mZ-hoIvEx8"
         }
     ],
     "shazam_korea": [
@@ -263,15 +263,15 @@ const rankData = {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/CUUDoW70ybw/hqdefault.jpg",
-            "videoId": "CUUDoW70ybw"
+            "image": "https://i.ytimg.com/vi/snW35zrNE60/hqdefault.jpg",
+            "videoId": "snW35zrNE60"
         },
         {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
-            "videoId": "iG2OH4whO5E"
+            "image": "https://i.ytimg.com/vi/jpJ1TQENa_4/hqdefault.jpg",
+            "videoId": "jpJ1TQENa_4"
         },
         {
             "rank": 9,
@@ -321,15 +321,15 @@ const rankData = {
             "rank": 5,
             "title": "Feeling On My Body (Remix)",
             "artist": "Taffy & PLUTO",
-            "image": "https://i.ytimg.com/vi/UWjXvFGWdEg/hqdefault.jpg",
-            "videoId": "UWjXvFGWdEg"
+            "image": "https://i.ytimg.com/vi/0FaBy1kuD7M/hqdefault.jpg",
+            "videoId": "0FaBy1kuD7M"
         },
         {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/iLQAwxFrMSU/hqdefault.jpg",
-            "videoId": "iLQAwxFrMSU"
+            "image": "https://i.ytimg.com/vi/aSGeQA5eRqw/hqdefault.jpg",
+            "videoId": "aSGeQA5eRqw"
         },
         {
             "rank": 7,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/rr_gI04Ambk/hqdefault.jpg",
-            "videoId": "rr_gI04Ambk"
+            "image": "https://i.ytimg.com/vi/sPmul8b17AU/hqdefault.jpg",
+            "videoId": "sPmul8b17AU"
         },
         {
             "rank": 2,
@@ -444,8 +444,8 @@ const rankData = {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/5Qk0k1U2ywg/hqdefault.jpg",
-            "videoId": "5Qk0k1U2ywg"
+            "image": "https://i.ytimg.com/vi/Z6G-QekDEWE/hqdefault.jpg",
+            "videoId": "Z6G-QekDEWE"
         },
         {
             "rank": 3,
