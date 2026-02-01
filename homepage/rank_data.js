@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-02-01 08:24:06",
+    "last_updated": "2026-02-02 08:26:19",
     "billboard": [
         {
             "rank": 1,
@@ -189,17 +189,17 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "Golden",
-            "artist": "HUNTR/X",
-            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
-            "videoId": "hohuFW0zQUw"
-        },
-        {
-            "rank": 8,
             "title": "0+0",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
             "videoId": "_Ngk-DCHfD0"
+        },
+        {
+            "rank": 8,
+            "title": "Golden",
+            "artist": "HUNTR/X",
+            "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
+            "videoId": "yebNIHKAC4A"
         },
         {
             "rank": 9,
@@ -210,10 +210,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "어제보다 슬픈 오늘",
-            "artist": "우디 (Woody)",
-            "image": "https://i.ytimg.com/vi/1mZ-hoIvEx8/hqdefault.jpg",
-            "videoId": "1mZ-hoIvEx8"
+            "title": "멸종위기사랑",
+            "artist": "이찬혁",
+            "image": "https://i.ytimg.com/vi/19oT04OuBhg/hqdefault.jpg",
+            "videoId": "19oT04OuBhg"
         }
     ],
     "shazam_korea": [
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/HeC-Hj97eak/hqdefault.jpg",
-            "videoId": "HeC-Hj97eak"
+            "image": "https://i.ytimg.com/vi/n2ecOUZL8Ls/hqdefault.jpg",
+            "videoId": "n2ecOUZL8Ls"
         },
         {
             "rank": 5,
@@ -263,8 +263,8 @@ const rankData = {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/CUUDoW70ybw/hqdefault.jpg",
-            "videoId": "CUUDoW70ybw"
+            "image": "https://i.ytimg.com/vi/snW35zrNE60/hqdefault.jpg",
+            "videoId": "snW35zrNE60"
         },
         {
             "rank": 8,
@@ -300,8 +300,8 @@ const rankData = {
             "rank": 2,
             "title": "Jogodo",
             "artist": "Victony & Asake",
-            "image": "https://i.ytimg.com/vi/ANvcgzZwoEw/hqdefault.jpg",
-            "videoId": "ANvcgzZwoEw"
+            "image": "https://i.ytimg.com/vi/vp0b_fqPvkM/hqdefault.jpg",
+            "videoId": "vp0b_fqPvkM"
         },
         {
             "rank": 3,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/dYDoUONIt58/hqdefault.jpg",
-            "videoId": "dYDoUONIt58"
+            "image": "https://i.ytimg.com/vi/iLQAwxFrMSU/hqdefault.jpg",
+            "videoId": "iLQAwxFrMSU"
         },
         {
             "rank": 7,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/NwkRYRhsFpA/hqdefault.jpg",
-            "videoId": "NwkRYRhsFpA"
+            "image": "https://i.ytimg.com/vi/rr_gI04Ambk/hqdefault.jpg",
+            "videoId": "rr_gI04Ambk"
         },
         {
             "rank": 2,
@@ -437,15 +437,15 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/g5idrebJVQE/hqdefault.jpg",
-            "videoId": "g5idrebJVQE"
+            "image": "https://i.ytimg.com/vi/fhvy1YWBMYU/hqdefault.jpg",
+            "videoId": "fhvy1YWBMYU"
         },
         {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/9-02P5Pt3gU/hqdefault.jpg",
-            "videoId": "9-02P5Pt3gU"
+            "image": "https://i.ytimg.com/vi/Z6G-QekDEWE/hqdefault.jpg",
+            "videoId": "Z6G-QekDEWE"
         },
         {
             "rank": 3,
