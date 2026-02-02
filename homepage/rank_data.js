@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-02-02 08:26:19",
+    "last_updated": "2026-02-03 08:31:08",
     "billboard": [
         {
             "rank": 1,
@@ -198,8 +198,8 @@ const rankData = {
             "rank": 8,
             "title": "Golden",
             "artist": "HUNTR/X",
-            "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
-            "videoId": "yebNIHKAC4A"
+            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
+            "videoId": "hohuFW0zQUw"
         },
         {
             "rank": 9,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/n2ecOUZL8Ls/hqdefault.jpg",
-            "videoId": "n2ecOUZL8Ls"
+            "image": "https://i.ytimg.com/vi/aPIqeeirmP8/hqdefault.jpg",
+            "videoId": "aPIqeeirmP8"
         },
         {
             "rank": 5,
@@ -256,15 +256,15 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/BYnMJZwux28/hqdefault.jpg",
-            "videoId": "BYnMJZwux28"
+            "image": "https://i.ytimg.com/vi/c05w1XmriRs/hqdefault.jpg",
+            "videoId": "c05w1XmriRs"
         },
         {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/snW35zrNE60/hqdefault.jpg",
-            "videoId": "snW35zrNE60"
+            "image": "https://i.ytimg.com/vi/CUUDoW70ybw/hqdefault.jpg",
+            "videoId": "CUUDoW70ybw"
         },
         {
             "rank": 8,
@@ -300,8 +300,8 @@ const rankData = {
             "rank": 2,
             "title": "Jogodo",
             "artist": "Victony & Asake",
-            "image": "https://i.ytimg.com/vi/vp0b_fqPvkM/hqdefault.jpg",
-            "videoId": "vp0b_fqPvkM"
+            "image": "https://i.ytimg.com/vi/ANvcgzZwoEw/hqdefault.jpg",
+            "videoId": "ANvcgzZwoEw"
         },
         {
             "rank": 3,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
-            "videoId": "yxKA0NnNJeo"
+            "image": "https://i.ytimg.com/vi/PKonqhZ5PsA/hqdefault.jpg",
+            "videoId": "PKonqhZ5PsA"
         },
         {
             "rank": 9,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/fhvy1YWBMYU/hqdefault.jpg",
-            "videoId": "fhvy1YWBMYU"
+            "image": "https://i.ytimg.com/vi/g5idrebJVQE/hqdefault.jpg",
+            "videoId": "g5idrebJVQE"
         },
         {
             "rank": 2,
