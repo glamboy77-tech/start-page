@@ -1,26 +1,26 @@
 const rankData = {
-    "last_updated": "2026-02-03 08:31:08",
+    "last_updated": "2026-02-04 08:29:45",
     "billboard": [
         {
             "rank": 1,
-            "title": "I Just Might",
-            "artist": "Bruno Mars",
-            "image": "https://i.ytimg.com/vi/mrV8kK5t0V8/hqdefault.jpg",
-            "videoId": "mrV8kK5t0V8"
+            "title": "Aperture",
+            "artist": "Harry Styles",
+            "image": "https://i.ytimg.com/vi/7sxVHYZ_PnA/hqdefault.jpg",
+            "videoId": "7sxVHYZ_PnA"
         },
         {
             "rank": 2,
+            "title": "Choosin' Texas",
+            "artist": "Ella Langley",
+            "image": "https://i.ytimg.com/vi/hLOheGDwD_0/hqdefault.jpg",
+            "videoId": "hLOheGDwD_0"
+        },
+        {
+            "rank": 3,
             "title": "Man I Need",
             "artist": "Olivia Dean",
             "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
             "videoId": "oIv_Y2RPQ_A"
-        },
-        {
-            "rank": 3,
-            "title": "The Fate Of Ophelia",
-            "artist": "Taylor Swift",
-            "image": "https://i.ytimg.com/vi/ko70cExuzZM/hqdefault.jpg",
-            "videoId": "ko70cExuzZM"
         },
         {
             "rank": 4,
@@ -31,38 +31,38 @@ const rankData = {
         },
         {
             "rank": 5,
+            "title": "The Fate Of Ophelia",
+            "artist": "Taylor Swift",
+            "image": "https://i.ytimg.com/vi/ko70cExuzZM/hqdefault.jpg",
+            "videoId": "ko70cExuzZM"
+        },
+        {
+            "rank": 6,
+            "title": "I Just Might",
+            "artist": "Bruno Mars",
+            "image": "https://i.ytimg.com/vi/mrV8kK5t0V8/hqdefault.jpg",
+            "videoId": "mrV8kK5t0V8"
+        },
+        {
+            "rank": 7,
             "title": "Ordinary",
             "artist": "Alex Warren",
             "image": "https://i.ytimg.com/vi/u2ah9tWTkmk/hqdefault.jpg",
             "videoId": "u2ah9tWTkmk"
         },
         {
-            "rank": 6,
-            "title": "Choosin' Texas",
-            "artist": "Ella Langley",
-            "image": "https://i.ytimg.com/vi/hLOheGDwD_0/hqdefault.jpg",
-            "videoId": "hLOheGDwD_0"
-        },
-        {
-            "rank": 7,
+            "rank": 8,
             "title": "Back To Friends",
             "artist": "sombr",
             "image": "https://i.ytimg.com/vi/c8zq4kAn_O0/hqdefault.jpg",
             "videoId": "c8zq4kAn_O0"
         },
         {
-            "rank": 8,
+            "rank": 9,
             "title": "Folded",
             "artist": "Kehlani",
             "image": "https://i.ytimg.com/vi/KFMYx1TibeQ/hqdefault.jpg",
             "videoId": "KFMYx1TibeQ"
-        },
-        {
-            "rank": 9,
-            "title": "End Of Beginning",
-            "artist": "Djo",
-            "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
-            "videoId": "aH7gkoBpN3s"
         },
         {
             "rank": 10,
@@ -110,17 +110,17 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "Say Why",
-            "artist": "Zach Bryan",
-            "image": "https://i.ytimg.com/vi/SzMu9Cf7xeQ/hqdefault.jpg",
-            "videoId": "SzMu9Cf7xeQ"
-        },
-        {
-            "rank": 7,
             "title": "I Thought I Saw Your Face Today",
             "artist": "She & Him",
             "image": "https://i.ytimg.com/vi/pyGU-UudvrM/hqdefault.jpg",
             "videoId": "pyGU-UudvrM"
+        },
+        {
+            "rank": 7,
+            "title": "Say Why",
+            "artist": "Zach Bryan",
+            "image": "https://i.ytimg.com/vi/SzMu9Cf7xeQ/hqdefault.jpg",
+            "videoId": "SzMu9Cf7xeQ"
         },
         {
             "rank": 8,
@@ -138,10 +138,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "Bad News",
-            "artist": "Zach Bryan",
-            "image": "https://i.ytimg.com/vi/fN9or5sWSoQ/hqdefault.jpg",
-            "videoId": "fN9or5sWSoQ"
+            "title": "Lover, You Should've Come Over",
+            "artist": "Jeff Buckley",
+            "image": "https://i.ytimg.com/vi/fdXQucDOed8/hqdefault.jpg",
+            "videoId": "fdXQucDOed8"
         }
     ],
     "melon": [
@@ -210,10 +210,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "멸종위기사랑",
-            "artist": "이찬혁",
-            "image": "https://i.ytimg.com/vi/19oT04OuBhg/hqdefault.jpg",
-            "videoId": "19oT04OuBhg"
+            "title": "ONE MORE TIME",
+            "artist": "ALLDAY PROJECT",
+            "image": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg",
+            "videoId": "OgEwJ8a1OoY"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
-            "videoId": "L1rR_smhD78"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/aPIqeeirmP8/hqdefault.jpg",
-            "videoId": "aPIqeeirmP8"
+            "image": "https://i.ytimg.com/vi/HeC-Hj97eak/hqdefault.jpg",
+            "videoId": "HeC-Hj97eak"
         },
         {
             "rank": 5,
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/vWkH6YKFYSA/hqdefault.jpg",
-            "videoId": "vWkH6YKFYSA"
+            "image": "https://i.ytimg.com/vi/jj7aUUCVM5k/hqdefault.jpg",
+            "videoId": "jj7aUUCVM5k"
         },
         {
             "rank": 2,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/PKonqhZ5PsA/hqdefault.jpg",
-            "videoId": "PKonqhZ5PsA"
+            "image": "https://i.ytimg.com/vi/tscMSXk_jaQ/hqdefault.jpg",
+            "videoId": "tscMSXk_jaQ"
         },
         {
             "rank": 9,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/rr_gI04Ambk/hqdefault.jpg",
-            "videoId": "rr_gI04Ambk"
+            "image": "https://i.ytimg.com/vi/sPmul8b17AU/hqdefault.jpg",
+            "videoId": "sPmul8b17AU"
         },
         {
             "rank": 2,
