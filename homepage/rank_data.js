@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-02-04 08:29:45",
+    "last_updated": "2026-02-05 08:28:59",
     "billboard": [
         {
             "rank": 1,
@@ -203,17 +203,17 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "SPAGHETTI (feat. j-hope of BTS)",
-            "artist": "LE SSERAFIM (르세라핌)",
-            "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
-            "videoId": "TvVtYaqCni8"
-        },
-        {
-            "rank": 10,
             "title": "ONE MORE TIME",
             "artist": "ALLDAY PROJECT",
             "image": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg",
             "videoId": "OgEwJ8a1OoY"
+        },
+        {
+            "rank": 10,
+            "title": "SPAGHETTI (feat. j-hope of BTS)",
+            "artist": "LE SSERAFIM (르세라핌)",
+            "image": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg",
+            "videoId": "TvVtYaqCni8"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/c05w1XmriRs/hqdefault.jpg",
-            "videoId": "c05w1XmriRs"
+            "image": "https://i.ytimg.com/vi/BYnMJZwux28/hqdefault.jpg",
+            "videoId": "BYnMJZwux28"
         },
         {
             "rank": 7,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
-            "videoId": "iG2OH4whO5E"
+            "image": "https://i.ytimg.com/vi/jpJ1TQENa_4/hqdefault.jpg",
+            "videoId": "jpJ1TQENa_4"
         },
         {
             "rank": 9,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
-            "videoId": "oXCXlPJ57rE"
+            "image": "https://i.ytimg.com/vi/jQOeOIgrY9Y/hqdefault.jpg",
+            "videoId": "jQOeOIgrY9Y"
         }
     ],
     "shazam_global": [
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/jj7aUUCVM5k/hqdefault.jpg",
-            "videoId": "jj7aUUCVM5k"
+            "image": "https://i.ytimg.com/vi/vWkH6YKFYSA/hqdefault.jpg",
+            "videoId": "vWkH6YKFYSA"
         },
         {
             "rank": 2,
@@ -321,8 +321,8 @@ const rankData = {
             "rank": 5,
             "title": "Feeling On My Body (Remix)",
             "artist": "Taffy & PLUTO",
-            "image": "https://i.ytimg.com/vi/9d8VrCbl0nw/hqdefault.jpg",
-            "videoId": "9d8VrCbl0nw"
+            "image": "https://i.ytimg.com/vi/0FaBy1kuD7M/hqdefault.jpg",
+            "videoId": "0FaBy1kuD7M"
         },
         {
             "rank": 6,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/tscMSXk_jaQ/hqdefault.jpg",
-            "videoId": "tscMSXk_jaQ"
+            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
+            "videoId": "yxKA0NnNJeo"
         },
         {
             "rank": 9,
@@ -356,8 +356,8 @@ const rankData = {
             "rank": 10,
             "title": "B.M.S (by my side)",
             "artist": "jmoney & goyard",
-            "image": "https://i.ytimg.com/vi/BFAIDkgrp2M/hqdefault.jpg",
-            "videoId": "BFAIDkgrp2M"
+            "image": "https://i.ytimg.com/vi/DPSGMTknY9s/hqdefault.jpg",
+            "videoId": "DPSGMTknY9s"
         }
     ],
     "youtube_shorts_korea": [
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/sPmul8b17AU/hqdefault.jpg",
-            "videoId": "sPmul8b17AU"
+            "image": "https://i.ytimg.com/vi/NwkRYRhsFpA/hqdefault.jpg",
+            "videoId": "NwkRYRhsFpA"
         },
         {
             "rank": 2,
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/x2aA6GEEABA/hqdefault.jpg",
-            "videoId": "x2aA6GEEABA"
+            "image": "https://i.ytimg.com/vi/HdRKxLRoJ3c/hqdefault.jpg",
+            "videoId": "HdRKxLRoJ3c"
         }
     ],
     "youtube_shorts_global": [
@@ -437,15 +437,15 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/g5idrebJVQE/hqdefault.jpg",
-            "videoId": "g5idrebJVQE"
+            "image": "https://i.ytimg.com/vi/fhvy1YWBMYU/hqdefault.jpg",
+            "videoId": "fhvy1YWBMYU"
         },
         {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/Z6G-QekDEWE/hqdefault.jpg",
-            "videoId": "Z6G-QekDEWE"
+            "image": "https://i.ytimg.com/vi/OGO1k1qNetQ/hqdefault.jpg",
+            "videoId": "OGO1k1qNetQ"
         },
         {
             "rank": 3,
