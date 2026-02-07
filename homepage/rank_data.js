@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-02-07 08:27:03",
+    "last_updated": "2026-02-08 08:30:55",
     "billboard": [
         {
             "rank": 1,
@@ -91,8 +91,8 @@ const rankData = {
             "rank": 3,
             "title": "Plastic Cigarette",
             "artist": "Zach Bryan",
-            "image": "https://i.ytimg.com/vi/8aGMhdoe2Y4/hqdefault.jpg",
-            "videoId": "8aGMhdoe2Y4"
+            "image": "https://i.ytimg.com/vi/MBWmVXzGdVs/hqdefault.jpg",
+            "videoId": "MBWmVXzGdVs"
         },
         {
             "rank": 4,
@@ -119,8 +119,8 @@ const rankData = {
             "rank": 7,
             "title": "Say Why",
             "artist": "Zach Bryan",
-            "image": "https://i.ytimg.com/vi/5ZO5vY-hxFU/hqdefault.jpg",
-            "videoId": "5ZO5vY-hxFU"
+            "image": "https://i.ytimg.com/vi/SzMu9Cf7xeQ/hqdefault.jpg",
+            "videoId": "SzMu9Cf7xeQ"
         },
         {
             "rank": 8,
@@ -147,17 +147,17 @@ const rankData = {
     "melon": [
         {
             "rank": 1,
-            "title": "그대 작은 나의 세상이 되어",
-            "artist": "카더가든",
-            "image": "https://i.ytimg.com/vi/ZurHW2kBqrw/hqdefault.jpg",
-            "videoId": "ZurHW2kBqrw"
-        },
-        {
-            "rank": 2,
             "title": "Good Goodbye",
             "artist": "화사 (HWASA)",
             "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
             "videoId": "Qe8fa4b5xNU"
+        },
+        {
+            "rank": 2,
+            "title": "그대 작은 나의 세상이 되어",
+            "artist": "카더가든",
+            "image": "https://i.ytimg.com/vi/ZurHW2kBqrw/hqdefault.jpg",
+            "videoId": "ZurHW2kBqrw"
         },
         {
             "rank": 3,
@@ -182,31 +182,31 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "Blue Valentine",
-            "artist": "NMIXX",
-            "image": "https://i.ytimg.com/vi/QLl1P-_lNw4/hqdefault.jpg",
-            "videoId": "QLl1P-_lNw4"
+            "title": "404 (New Era)",
+            "artist": "KiiiKiii (키키)",
+            "image": "https://i.ytimg.com/vi/ASs99XG_reg/hqdefault.jpg",
+            "videoId": "ASs99XG_reg"
         },
         {
             "rank": 7,
+            "title": "Blue Valentine",
+            "artist": "NMIXX",
+            "image": "https://i.ytimg.com/vi/EmeW6li6bbo/hqdefault.jpg",
+            "videoId": "EmeW6li6bbo"
+        },
+        {
+            "rank": 8,
             "title": "0+0",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
             "videoId": "_Ngk-DCHfD0"
         },
         {
-            "rank": 8,
+            "rank": 9,
             "title": "Golden",
             "artist": "HUNTR/X",
             "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
             "videoId": "hohuFW0zQUw"
-        },
-        {
-            "rank": 9,
-            "title": "404 (New Era)",
-            "artist": "KiiiKiii (키키)",
-            "image": "https://i.ytimg.com/vi/Dea4fsXp0Es/hqdefault.jpg",
-            "videoId": "Dea4fsXp0Es"
         },
         {
             "rank": 10,
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
-            "videoId": "L1rR_smhD78"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -256,15 +256,15 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/c05w1XmriRs/hqdefault.jpg",
-            "videoId": "c05w1XmriRs"
+            "image": "https://i.ytimg.com/vi/BYnMJZwux28/hqdefault.jpg",
+            "videoId": "BYnMJZwux28"
         },
         {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/CUUDoW70ybw/hqdefault.jpg",
-            "videoId": "CUUDoW70ybw"
+            "image": "https://i.ytimg.com/vi/snW35zrNE60/hqdefault.jpg",
+            "videoId": "snW35zrNE60"
         },
         {
             "rank": 8,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
-            "videoId": "oXCXlPJ57rE"
+            "image": "https://i.ytimg.com/vi/VBPZvuQoWy8/hqdefault.jpg",
+            "videoId": "VBPZvuQoWy8"
         }
     ],
     "shazam_global": [
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
-            "videoId": "yxKA0NnNJeo"
+            "image": "https://i.ytimg.com/vi/tscMSXk_jaQ/hqdefault.jpg",
+            "videoId": "tscMSXk_jaQ"
         },
         {
             "rank": 9,
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/HdRKxLRoJ3c/hqdefault.jpg",
-            "videoId": "HdRKxLRoJ3c"
+            "image": "https://i.ytimg.com/vi/x2aA6GEEABA/hqdefault.jpg",
+            "videoId": "x2aA6GEEABA"
         }
     ],
     "youtube_shorts_global": [
@@ -479,8 +479,8 @@ const rankData = {
             "rank": 7,
             "title": "Big Guy",
             "artist": "Ice Spice",
-            "image": "https://i.ytimg.com/vi/QY9VjlHK2Gw/hqdefault.jpg",
-            "videoId": "QY9VjlHK2Gw"
+            "image": "https://i.ytimg.com/vi/gDb91xKfa4E/hqdefault.jpg",
+            "videoId": "gDb91xKfa4E"
         },
         {
             "rank": 8,
