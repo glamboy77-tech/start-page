@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-02-09 08:32:46",
+    "last_updated": "2026-02-10 08:38:22",
     "billboard": [
         {
             "rank": 1,
@@ -161,17 +161,17 @@ const rankData = {
         },
         {
             "rank": 3,
+            "title": "404 (New Era)",
+            "artist": "KiiiKiii (키키)",
+            "image": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg",
+            "videoId": "zhHB4dZTChw"
+        },
+        {
+            "rank": 4,
             "title": "사랑하게 될 거야",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
             "videoId": "h0KIWaUEIgQ"
-        },
-        {
-            "rank": 4,
-            "title": "404 (New Era)",
-            "artist": "KiiiKiii (키키)",
-            "image": "https://i.ytimg.com/vi/ASs99XG_reg/hqdefault.jpg",
-            "videoId": "ASs99XG_reg"
         },
         {
             "rank": 5,
@@ -189,10 +189,10 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "0+0",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
-            "videoId": "_Ngk-DCHfD0"
+            "title": "BANG BANG",
+            "artist": "IVE (아이브)",
+            "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
+            "videoId": "9qkpcLK422o"
         },
         {
             "rank": 8,
@@ -203,17 +203,17 @@ const rankData = {
         },
         {
             "rank": 9,
+            "title": "0+0",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
+            "videoId": "_Ngk-DCHfD0"
+        },
+        {
+            "rank": 10,
             "title": "Golden",
             "artist": "HUNTR/X",
             "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
             "videoId": "hohuFW0zQUw"
-        },
-        {
-            "rank": 10,
-            "title": "어제보다 슬픈 오늘",
-            "artist": "우디 (Woody)",
-            "image": "https://i.ytimg.com/vi/1mZ-hoIvEx8/hqdefault.jpg",
-            "videoId": "1mZ-hoIvEx8"
         }
     ],
     "shazam_korea": [
@@ -235,8 +235,8 @@ const rankData = {
             "rank": 3,
             "title": "Moonwalkin'",
             "artist": "LNGSHOT",
-            "image": "https://i.ytimg.com/vi/KtrzEydc-1U/hqdefault.jpg",
-            "videoId": "KtrzEydc-1U"
+            "image": "https://i.ytimg.com/vi/HJgdT15UT4k/hqdefault.jpg",
+            "videoId": "HJgdT15UT4k"
         },
         {
             "rank": 4,
@@ -256,15 +256,15 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/z0Xc_rzYZV8/hqdefault.jpg",
-            "videoId": "z0Xc_rzYZV8"
+            "image": "https://i.ytimg.com/vi/BYnMJZwux28/hqdefault.jpg",
+            "videoId": "BYnMJZwux28"
         },
         {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/snW35zrNE60/hqdefault.jpg",
-            "videoId": "snW35zrNE60"
+            "image": "https://i.ytimg.com/vi/CUUDoW70ybw/hqdefault.jpg",
+            "videoId": "CUUDoW70ybw"
         },
         {
             "rank": 8,
@@ -300,8 +300,8 @@ const rankData = {
             "rank": 2,
             "title": "Jogodo",
             "artist": "Victony & Asake",
-            "image": "https://i.ytimg.com/vi/ANvcgzZwoEw/hqdefault.jpg",
-            "videoId": "ANvcgzZwoEw"
+            "image": "https://i.ytimg.com/vi/vp0b_fqPvkM/hqdefault.jpg",
+            "videoId": "vp0b_fqPvkM"
         },
         {
             "rank": 3,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/sPmul8b17AU/hqdefault.jpg",
-            "videoId": "sPmul8b17AU"
+            "image": "https://i.ytimg.com/vi/rr_gI04Ambk/hqdefault.jpg",
+            "videoId": "rr_gI04Ambk"
         },
         {
             "rank": 2,
@@ -421,8 +421,8 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/DW38FSFjGtw/hqdefault.jpg",
-            "videoId": "DW38FSFjGtw"
+            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
+            "videoId": "ul0V77Yl78o"
         },
         {
             "rank": 10,
@@ -458,8 +458,8 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/1g3Toj4-RMg/hqdefault.jpg",
-            "videoId": "1g3Toj4-RMg"
+            "image": "https://i.ytimg.com/vi/5rmb7WhmW30/hqdefault.jpg",
+            "videoId": "5rmb7WhmW30"
         },
         {
             "rank": 5,
@@ -486,8 +486,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/mRVs2ArYuw8/hqdefault.jpg",
-            "videoId": "mRVs2ArYuw8"
+            "image": "https://i.ytimg.com/vi/YiLgYqAFrIU/hqdefault.jpg",
+            "videoId": "YiLgYqAFrIU"
         },
         {
             "rank": 9,
