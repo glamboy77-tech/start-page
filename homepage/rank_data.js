@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-02-11 08:39:23",
+    "last_updated": "2026-02-12 08:32:57",
     "billboard": [
         {
             "rank": 1,
@@ -126,8 +126,8 @@ const rankData = {
             "rank": 8,
             "title": "I Thought I Saw Your Face Today",
             "artist": "She & Him",
-            "image": "https://i.ytimg.com/vi/6nAspAR4veE/hqdefault.jpg",
-            "videoId": "6nAspAR4veE"
+            "image": "https://i.ytimg.com/vi/pyGU-UudvrM/hqdefault.jpg",
+            "videoId": "pyGU-UudvrM"
         },
         {
             "rank": 9,
@@ -147,31 +147,31 @@ const rankData = {
     "melon": [
         {
             "rank": 1,
-            "title": "Good Goodbye",
-            "artist": "화사 (HWASA)",
-            "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
-            "videoId": "Qe8fa4b5xNU"
-        },
-        {
-            "rank": 2,
-            "title": "그대 작은 나의 세상이 되어",
-            "artist": "카더가든",
-            "image": "https://i.ytimg.com/vi/ZurHW2kBqrw/hqdefault.jpg",
-            "videoId": "ZurHW2kBqrw"
-        },
-        {
-            "rank": 3,
             "title": "404 (New Era)",
             "artist": "KiiiKiii (키키)",
             "image": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg",
             "videoId": "zhHB4dZTChw"
         },
         {
+            "rank": 2,
+            "title": "Good Goodbye",
+            "artist": "화사 (HWASA)",
+            "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
+            "videoId": "Qe8fa4b5xNU"
+        },
+        {
+            "rank": 3,
+            "title": "그대 작은 나의 세상이 되어",
+            "artist": "카더가든",
+            "image": "https://i.ytimg.com/vi/ZurHW2kBqrw/hqdefault.jpg",
+            "videoId": "ZurHW2kBqrw"
+        },
+        {
             "rank": 4,
             "title": "BANG BANG",
             "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/uVpGElT--E8/hqdefault.jpg",
-            "videoId": "uVpGElT--E8"
+            "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
+            "videoId": "9qkpcLK422o"
         },
         {
             "rank": 5,
@@ -242,22 +242,22 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/HeC-Hj97eak/hqdefault.jpg",
-            "videoId": "HeC-Hj97eak"
+            "image": "https://i.ytimg.com/vi/aPIqeeirmP8/hqdefault.jpg",
+            "videoId": "aPIqeeirmP8"
         },
         {
             "rank": 5,
             "title": "Good bye",
             "artist": "We Are The Night",
-            "image": "https://i.ytimg.com/vi/Zg-KJSv-2aE/hqdefault.jpg",
-            "videoId": "Zg-KJSv-2aE"
+            "image": "https://i.ytimg.com/vi/O0ZtSbqGz0k/hqdefault.jpg",
+            "videoId": "O0ZtSbqGz0k"
         },
         {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/c05w1XmriRs/hqdefault.jpg",
-            "videoId": "c05w1XmriRs"
+            "image": "https://i.ytimg.com/vi/BYnMJZwux28/hqdefault.jpg",
+            "videoId": "BYnMJZwux28"
         },
         {
             "rank": 7,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/jpJ1TQENa_4/hqdefault.jpg",
-            "videoId": "jpJ1TQENa_4"
+            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
+            "videoId": "iG2OH4whO5E"
         },
         {
             "rank": 9,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/fVfyOW21TrI/hqdefault.jpg",
-            "videoId": "fVfyOW21TrI"
+            "image": "https://i.ytimg.com/vi/eULB_mew0Cg/hqdefault.jpg",
+            "videoId": "eULB_mew0Cg"
         }
     ],
     "shazam_global": [
@@ -300,8 +300,8 @@ const rankData = {
             "rank": 2,
             "title": "Jogodo",
             "artist": "Victony & Asake",
-            "image": "https://i.ytimg.com/vi/ANvcgzZwoEw/hqdefault.jpg",
-            "videoId": "ANvcgzZwoEw"
+            "image": "https://i.ytimg.com/vi/vp0b_fqPvkM/hqdefault.jpg",
+            "videoId": "vp0b_fqPvkM"
         },
         {
             "rank": 3,
@@ -314,15 +314,15 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
-            "videoId": "eCLI6mbb7Dg"
+            "image": "https://i.ytimg.com/vi/81075KYeM4s/hqdefault.jpg",
+            "videoId": "81075KYeM4s"
         },
         {
             "rank": 5,
             "title": "Feeling On My Body (Remix)",
             "artist": "Taffy & PLUTO",
-            "image": "https://i.ytimg.com/vi/0FaBy1kuD7M/hqdefault.jpg",
-            "videoId": "0FaBy1kuD7M"
+            "image": "https://i.ytimg.com/vi/9d8VrCbl0nw/hqdefault.jpg",
+            "videoId": "9d8VrCbl0nw"
         },
         {
             "rank": 6,
@@ -342,15 +342,15 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/ci8L_sKo_wc/hqdefault.jpg",
-            "videoId": "ci8L_sKo_wc"
+            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
+            "videoId": "yxKA0NnNJeo"
         },
         {
             "rank": 9,
             "title": "Raindance",
             "artist": "Dave & Tems",
-            "image": "https://i.ytimg.com/vi/thf14hrbrAs/hqdefault.jpg",
-            "videoId": "thf14hrbrAs"
+            "image": "https://i.ytimg.com/vi/SOJpE1KMUbo/hqdefault.jpg",
+            "videoId": "SOJpE1KMUbo"
         },
         {
             "rank": 10,
@@ -421,8 +421,8 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/uESO0F6OcvE/hqdefault.jpg",
-            "videoId": "uESO0F6OcvE"
+            "image": "https://i.ytimg.com/vi/DW38FSFjGtw/hqdefault.jpg",
+            "videoId": "DW38FSFjGtw"
         },
         {
             "rank": 10,
@@ -465,8 +465,8 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/JJjEl_EVsLA/hqdefault.jpg",
-            "videoId": "JJjEl_EVsLA"
+            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
+            "videoId": "DoM3DiFnXxM"
         },
         {
             "rank": 6,
