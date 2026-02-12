@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-02-12 08:32:57",
+    "last_updated": "2026-02-13 08:30:53",
     "billboard": [
         {
             "rank": 1,
@@ -154,24 +154,24 @@ const rankData = {
         },
         {
             "rank": 2,
+            "title": "BANG BANG",
+            "artist": "IVE (아이브)",
+            "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
+            "videoId": "9qkpcLK422o"
+        },
+        {
+            "rank": 3,
             "title": "Good Goodbye",
             "artist": "화사 (HWASA)",
             "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
             "videoId": "Qe8fa4b5xNU"
         },
         {
-            "rank": 3,
+            "rank": 4,
             "title": "그대 작은 나의 세상이 되어",
             "artist": "카더가든",
             "image": "https://i.ytimg.com/vi/ZurHW2kBqrw/hqdefault.jpg",
             "videoId": "ZurHW2kBqrw"
-        },
-        {
-            "rank": 4,
-            "title": "BANG BANG",
-            "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
-            "videoId": "9qkpcLK422o"
         },
         {
             "rank": 5,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/aPIqeeirmP8/hqdefault.jpg",
-            "videoId": "aPIqeeirmP8"
+            "image": "https://i.ytimg.com/vi/HeC-Hj97eak/hqdefault.jpg",
+            "videoId": "HeC-Hj97eak"
         },
         {
             "rank": 5,
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/BYnMJZwux28/hqdefault.jpg",
-            "videoId": "BYnMJZwux28"
+            "image": "https://i.ytimg.com/vi/z0Xc_rzYZV8/hqdefault.jpg",
+            "videoId": "z0Xc_rzYZV8"
         },
         {
             "rank": 7,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
-            "videoId": "iG2OH4whO5E"
+            "image": "https://i.ytimg.com/vi/jpJ1TQENa_4/hqdefault.jpg",
+            "videoId": "jpJ1TQENa_4"
         },
         {
             "rank": 9,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/iLQAwxFrMSU/hqdefault.jpg",
-            "videoId": "iLQAwxFrMSU"
+            "image": "https://i.ytimg.com/vi/p-dVWkroU7Q/hqdefault.jpg",
+            "videoId": "p-dVWkroU7Q"
         },
         {
             "rank": 7,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/g5idrebJVQE/hqdefault.jpg",
-            "videoId": "g5idrebJVQE"
+            "image": "https://i.ytimg.com/vi/k4rSKopH0hs/hqdefault.jpg",
+            "videoId": "k4rSKopH0hs"
         },
         {
             "rank": 2,
@@ -465,8 +465,8 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
-            "videoId": "DoM3DiFnXxM"
+            "image": "https://i.ytimg.com/vi/JJjEl_EVsLA/hqdefault.jpg",
+            "videoId": "JJjEl_EVsLA"
         },
         {
             "rank": 6,
