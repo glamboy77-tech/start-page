@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-02-16 08:27:58",
+    "last_updated": "2026-02-17 08:30:44",
     "billboard": [
         {
             "rank": 1,
@@ -105,8 +105,8 @@ const rankData = {
             "rank": 5,
             "title": "Nice To Meet You",
             "artist": "Myles Smith",
-            "image": "https://i.ytimg.com/vi/Cvqltbz47vA/hqdefault.jpg",
-            "videoId": "Cvqltbz47vA"
+            "image": "https://i.ytimg.com/vi/9VbDkDALT7w/hqdefault.jpg",
+            "videoId": "9VbDkDALT7w"
         },
         {
             "rank": 6,
@@ -149,8 +149,8 @@ const rankData = {
             "rank": 1,
             "title": "404 (New Era)",
             "artist": "KiiiKiii (키키)",
-            "image": "https://i.ytimg.com/vi/9sixI39RjVc/hqdefault.jpg",
-            "videoId": "9sixI39RjVc"
+            "image": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg",
+            "videoId": "zhHB4dZTChw"
         },
         {
             "rank": 2,
@@ -191,8 +191,8 @@ const rankData = {
             "rank": 7,
             "title": "타임캡슐",
             "artist": "다비치",
-            "image": "https://i.ytimg.com/vi/qE35JN1ogeI/hqdefault.jpg",
-            "videoId": "qE35JN1ogeI"
+            "image": "https://i.ytimg.com/vi/cBIzbruCupc/hqdefault.jpg",
+            "videoId": "cBIzbruCupc"
         },
         {
             "rank": 8,
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -263,15 +263,15 @@ const rankData = {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/snW35zrNE60/hqdefault.jpg",
-            "videoId": "snW35zrNE60"
+            "image": "https://i.ytimg.com/vi/CUUDoW70ybw/hqdefault.jpg",
+            "videoId": "CUUDoW70ybw"
         },
         {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/jpJ1TQENa_4/hqdefault.jpg",
-            "videoId": "jpJ1TQENa_4"
+            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
+            "videoId": "iG2OH4whO5E"
         },
         {
             "rank": 9,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
-            "videoId": "oXCXlPJ57rE"
+            "image": "https://i.ytimg.com/vi/jQOeOIgrY9Y/hqdefault.jpg",
+            "videoId": "jQOeOIgrY9Y"
         }
     ],
     "shazam_global": [
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
-            "videoId": "eCLI6mbb7Dg"
+            "image": "https://i.ytimg.com/vi/TMzBmHppmhQ/hqdefault.jpg",
+            "videoId": "TMzBmHppmhQ"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/E3NLY3vkUfM/hqdefault.jpg",
-            "videoId": "E3NLY3vkUfM"
+            "image": "https://i.ytimg.com/vi/iLQAwxFrMSU/hqdefault.jpg",
+            "videoId": "iLQAwxFrMSU"
         },
         {
             "rank": 7,
@@ -349,15 +349,15 @@ const rankData = {
             "rank": 9,
             "title": "Raindance",
             "artist": "Dave & Tems",
-            "image": "https://i.ytimg.com/vi/thf14hrbrAs/hqdefault.jpg",
-            "videoId": "thf14hrbrAs"
+            "image": "https://i.ytimg.com/vi/SOJpE1KMUbo/hqdefault.jpg",
+            "videoId": "SOJpE1KMUbo"
         },
         {
             "rank": 10,
             "title": "B.M.S (by my side)",
             "artist": "jmoney & goyard",
-            "image": "https://i.ytimg.com/vi/BFAIDkgrp2M/hqdefault.jpg",
-            "videoId": "BFAIDkgrp2M"
+            "image": "https://i.ytimg.com/vi/DPSGMTknY9s/hqdefault.jpg",
+            "videoId": "DPSGMTknY9s"
         }
     ],
     "youtube_shorts_korea": [
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/sPmul8b17AU/hqdefault.jpg",
-            "videoId": "sPmul8b17AU"
+            "image": "https://i.ytimg.com/vi/rr_gI04Ambk/hqdefault.jpg",
+            "videoId": "rr_gI04Ambk"
         },
         {
             "rank": 2,
@@ -437,15 +437,15 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/fhvy1YWBMYU/hqdefault.jpg",
-            "videoId": "fhvy1YWBMYU"
+            "image": "https://i.ytimg.com/vi/kNQNKoi1DEU/hqdefault.jpg",
+            "videoId": "kNQNKoi1DEU"
         },
         {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/OGO1k1qNetQ/hqdefault.jpg",
-            "videoId": "OGO1k1qNetQ"
+            "image": "https://i.ytimg.com/vi/Jsiqtqzj0cY/hqdefault.jpg",
+            "videoId": "Jsiqtqzj0cY"
         },
         {
             "rank": 3,
@@ -458,8 +458,8 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/LUkpMxaZlDA/hqdefault.jpg",
-            "videoId": "LUkpMxaZlDA"
+            "image": "https://i.ytimg.com/vi/1g3Toj4-RMg/hqdefault.jpg",
+            "videoId": "1g3Toj4-RMg"
         },
         {
             "rank": 5,
