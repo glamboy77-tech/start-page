@@ -1,12 +1,12 @@
 const rankData = {
-    "last_updated": "2026-02-19 08:31:02",
+    "last_updated": "2026-02-20 08:31:23",
     "billboard": [
         {
             "rank": 1,
             "title": "DTMF",
             "artist": "Bad Bunny",
-            "image": "https://i.ytimg.com/vi/v_Tgq5OUrmE/hqdefault.jpg",
-            "videoId": "v_Tgq5OUrmE"
+            "image": "https://i.ytimg.com/vi/Tw08lNebAjE/hqdefault.jpg",
+            "videoId": "Tw08lNebAjE"
         },
         {
             "rank": 2,
@@ -84,8 +84,8 @@ const rankData = {
             "rank": 2,
             "title": "The Great Divide",
             "artist": "Noah Kahan",
-            "image": "https://i.ytimg.com/vi/-J-Rfh2DXMY/hqdefault.jpg",
-            "videoId": "-J-Rfh2DXMY"
+            "image": "https://i.ytimg.com/vi/SKs80r2Lp34/hqdefault.jpg",
+            "videoId": "SKs80r2Lp34"
         },
         {
             "rank": 3,
@@ -112,8 +112,8 @@ const rankData = {
             "rank": 6,
             "title": "29 Intro",
             "artist": "J. Cole",
-            "image": "https://i.ytimg.com/vi/NtjrFw4i2Qo/hqdefault.jpg",
-            "videoId": "NtjrFw4i2Qo"
+            "image": "https://i.ytimg.com/vi/JDVRv15xqRI/hqdefault.jpg",
+            "videoId": "JDVRv15xqRI"
         },
         {
             "rank": 7,
@@ -196,17 +196,17 @@ const rankData = {
         },
         {
             "rank": 8,
-            "title": "Blue Valentine",
-            "artist": "NMIXX",
-            "image": "https://i.ytimg.com/vi/EmeW6li6bbo/hqdefault.jpg",
-            "videoId": "EmeW6li6bbo"
-        },
-        {
-            "rank": 9,
             "title": "0+0",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
             "videoId": "_Ngk-DCHfD0"
+        },
+        {
+            "rank": 9,
+            "title": "Blue Valentine",
+            "artist": "NMIXX",
+            "image": "https://i.ytimg.com/vi/EmeW6li6bbo/hqdefault.jpg",
+            "videoId": "EmeW6li6bbo"
         },
         {
             "rank": 10,
@@ -221,15 +221,15 @@ const rankData = {
             "rank": 1,
             "title": "Love Language",
             "artist": "Kim Min Seok",
-            "image": "https://i.ytimg.com/vi/ccbq5l511uU/hqdefault.jpg",
-            "videoId": "ccbq5l511uU"
+            "image": "https://i.ytimg.com/vi/zHRalE_8n1A/hqdefault.jpg",
+            "videoId": "zHRalE_8n1A"
         },
         {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
-            "videoId": "L1rR_smhD78"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -242,15 +242,15 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/c3JTb6faUco/hqdefault.jpg",
-            "videoId": "c3JTb6faUco"
+            "image": "https://i.ytimg.com/vi/aPIqeeirmP8/hqdefault.jpg",
+            "videoId": "aPIqeeirmP8"
         },
         {
             "rank": 5,
             "title": "Good bye",
             "artist": "We Are The Night",
-            "image": "https://i.ytimg.com/vi/zSL1txGlbx8/hqdefault.jpg",
-            "videoId": "zSL1txGlbx8"
+            "image": "https://i.ytimg.com/vi/O0ZtSbqGz0k/hqdefault.jpg",
+            "videoId": "O0ZtSbqGz0k"
         },
         {
             "rank": 6,
@@ -263,8 +263,8 @@ const rankData = {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/CUUDoW70ybw/hqdefault.jpg",
-            "videoId": "CUUDoW70ybw"
+            "image": "https://i.ytimg.com/vi/snW35zrNE60/hqdefault.jpg",
+            "videoId": "snW35zrNE60"
         },
         {
             "rank": 8,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/VBPZvuQoWy8/hqdefault.jpg",
-            "videoId": "VBPZvuQoWy8"
+            "image": "https://i.ytimg.com/vi/jQOeOIgrY9Y/hqdefault.jpg",
+            "videoId": "jQOeOIgrY9Y"
         }
     ],
     "shazam_global": [
@@ -314,22 +314,22 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
-            "videoId": "eCLI6mbb7Dg"
+            "image": "https://i.ytimg.com/vi/aoQr2Kb9lCc/hqdefault.jpg",
+            "videoId": "aoQr2Kb9lCc"
         },
         {
             "rank": 5,
             "title": "Feeling On My Body (Remix)",
             "artist": "Taffy & PLUTO",
-            "image": "https://i.ytimg.com/vi/9d8VrCbl0nw/hqdefault.jpg",
-            "videoId": "9d8VrCbl0nw"
+            "image": "https://i.ytimg.com/vi/b9mx_B88sRU/hqdefault.jpg",
+            "videoId": "b9mx_B88sRU"
         },
         {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/iLQAwxFrMSU/hqdefault.jpg",
-            "videoId": "iLQAwxFrMSU"
+            "image": "https://i.ytimg.com/vi/8OCpju8d1wU/hqdefault.jpg",
+            "videoId": "8OCpju8d1wU"
         },
         {
             "rank": 7,
@@ -349,8 +349,8 @@ const rankData = {
             "rank": 9,
             "title": "Raindance",
             "artist": "Dave & Tems",
-            "image": "https://i.ytimg.com/vi/VKci3FQ935Y/hqdefault.jpg",
-            "videoId": "VKci3FQ935Y"
+            "image": "https://i.ytimg.com/vi/SOJpE1KMUbo/hqdefault.jpg",
+            "videoId": "SOJpE1KMUbo"
         },
         {
             "rank": 10,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/RFb6Xomb_cg/hqdefault.jpg",
-            "videoId": "RFb6Xomb_cg"
+            "image": "https://i.ytimg.com/vi/rr_gI04Ambk/hqdefault.jpg",
+            "videoId": "rr_gI04Ambk"
         },
         {
             "rank": 2,
@@ -379,8 +379,8 @@ const rankData = {
             "rank": 3,
             "title": "blue",
             "artist": "yung kai",
-            "image": "https://i.ytimg.com/vi/I_zj4AE3aKw/hqdefault.jpg",
-            "videoId": "I_zj4AE3aKw"
+            "image": "https://i.ytimg.com/vi/IpFX2vq8HKw/hqdefault.jpg",
+            "videoId": "IpFX2vq8HKw"
         },
         {
             "rank": 4,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/fkmc6StI9g0/hqdefault.jpg",
-            "videoId": "fkmc6StI9g0"
+            "image": "https://i.ytimg.com/vi/vz2CMETs5ZE/hqdefault.jpg",
+            "videoId": "vz2CMETs5ZE"
         },
         {
             "rank": 6,
@@ -421,8 +421,8 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/uESO0F6OcvE/hqdefault.jpg",
-            "videoId": "uESO0F6OcvE"
+            "image": "https://i.ytimg.com/vi/DW38FSFjGtw/hqdefault.jpg",
+            "videoId": "DW38FSFjGtw"
         },
         {
             "rank": 10,
@@ -444,8 +444,8 @@ const rankData = {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/OGO1k1qNetQ/hqdefault.jpg",
-            "videoId": "OGO1k1qNetQ"
+            "image": "https://i.ytimg.com/vi/Z6G-QekDEWE/hqdefault.jpg",
+            "videoId": "Z6G-QekDEWE"
         },
         {
             "rank": 3,
@@ -465,8 +465,8 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/JJjEl_EVsLA/hqdefault.jpg",
-            "videoId": "JJjEl_EVsLA"
+            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
+            "videoId": "DoM3DiFnXxM"
         },
         {
             "rank": 6,
@@ -479,8 +479,8 @@ const rankData = {
             "rank": 7,
             "title": "Big Guy",
             "artist": "Ice Spice",
-            "image": "https://i.ytimg.com/vi/efxt6zhuXvs/hqdefault.jpg",
-            "videoId": "efxt6zhuXvs"
+            "image": "https://i.ytimg.com/vi/gDb91xKfa4E/hqdefault.jpg",
+            "videoId": "gDb91xKfa4E"
         },
         {
             "rank": 8,
