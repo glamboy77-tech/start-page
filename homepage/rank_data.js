@@ -1,12 +1,12 @@
 const rankData = {
-    "last_updated": "2026-02-20 08:31:23",
+    "last_updated": "2026-02-21 08:30:25",
     "billboard": [
         {
             "rank": 1,
             "title": "DTMF",
             "artist": "Bad Bunny",
-            "image": "https://i.ytimg.com/vi/Tw08lNebAjE/hqdefault.jpg",
-            "videoId": "Tw08lNebAjE"
+            "image": "https://i.ytimg.com/vi/v_Tgq5OUrmE/hqdefault.jpg",
+            "videoId": "v_Tgq5OUrmE"
         },
         {
             "rank": 2,
@@ -221,15 +221,15 @@ const rankData = {
             "rank": 1,
             "title": "Love Language",
             "artist": "Kim Min Seok",
-            "image": "https://i.ytimg.com/vi/zHRalE_8n1A/hqdefault.jpg",
-            "videoId": "zHRalE_8n1A"
+            "image": "https://i.ytimg.com/vi/ccbq5l511uU/hqdefault.jpg",
+            "videoId": "ccbq5l511uU"
         },
         {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -249,8 +249,8 @@ const rankData = {
             "rank": 5,
             "title": "Good bye",
             "artist": "We Are The Night",
-            "image": "https://i.ytimg.com/vi/O0ZtSbqGz0k/hqdefault.jpg",
-            "videoId": "O0ZtSbqGz0k"
+            "image": "https://i.ytimg.com/vi/Zg-KJSv-2aE/hqdefault.jpg",
+            "videoId": "Zg-KJSv-2aE"
         },
         {
             "rank": 6,
@@ -263,8 +263,8 @@ const rankData = {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/snW35zrNE60/hqdefault.jpg",
-            "videoId": "snW35zrNE60"
+            "image": "https://i.ytimg.com/vi/CUUDoW70ybw/hqdefault.jpg",
+            "videoId": "CUUDoW70ybw"
         },
         {
             "rank": 8,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/jQOeOIgrY9Y/hqdefault.jpg",
-            "videoId": "jQOeOIgrY9Y"
+            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
+            "videoId": "oXCXlPJ57rE"
         }
     ],
     "shazam_global": [
@@ -314,22 +314,22 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/aoQr2Kb9lCc/hqdefault.jpg",
-            "videoId": "aoQr2Kb9lCc"
+            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
+            "videoId": "eCLI6mbb7Dg"
         },
         {
             "rank": 5,
             "title": "Feeling On My Body (Remix)",
             "artist": "Taffy & PLUTO",
-            "image": "https://i.ytimg.com/vi/b9mx_B88sRU/hqdefault.jpg",
-            "videoId": "b9mx_B88sRU"
+            "image": "https://i.ytimg.com/vi/9d8VrCbl0nw/hqdefault.jpg",
+            "videoId": "9d8VrCbl0nw"
         },
         {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/8OCpju8d1wU/hqdefault.jpg",
-            "videoId": "8OCpju8d1wU"
+            "image": "https://i.ytimg.com/vi/ffZadGUU2Rc/hqdefault.jpg",
+            "videoId": "ffZadGUU2Rc"
         },
         {
             "rank": 7,
@@ -437,15 +437,15 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/fhvy1YWBMYU/hqdefault.jpg",
-            "videoId": "fhvy1YWBMYU"
+            "image": "https://i.ytimg.com/vi/8cD2i9dFYDE/hqdefault.jpg",
+            "videoId": "8cD2i9dFYDE"
         },
         {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/Z6G-QekDEWE/hqdefault.jpg",
-            "videoId": "Z6G-QekDEWE"
+            "image": "https://i.ytimg.com/vi/OGO1k1qNetQ/hqdefault.jpg",
+            "videoId": "OGO1k1qNetQ"
         },
         {
             "rank": 3,
