@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-02-21 08:30:25",
+    "last_updated": "2026-02-22 08:25:18",
     "billboard": [
         {
             "rank": 1,
@@ -189,17 +189,17 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "타임캡슐",
-            "artist": "다비치",
-            "image": "https://i.ytimg.com/vi/qE35JN1ogeI/hqdefault.jpg",
-            "videoId": "qE35JN1ogeI"
-        },
-        {
-            "rank": 8,
             "title": "0+0",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
             "videoId": "_Ngk-DCHfD0"
+        },
+        {
+            "rank": 8,
+            "title": "타임캡슐",
+            "artist": "다비치",
+            "image": "https://i.ytimg.com/vi/qE35JN1ogeI/hqdefault.jpg",
+            "videoId": "qE35JN1ogeI"
         },
         {
             "rank": 9,
@@ -210,10 +210,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "Golden",
-            "artist": "HUNTR/X",
-            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
-            "videoId": "hohuFW0zQUw"
+            "title": "사랑은 늘 도망가",
+            "artist": "임영웅",
+            "image": "https://i.ytimg.com/vi/LKQ-18LoFQk/hqdefault.jpg",
+            "videoId": "LKQ-18LoFQk"
         }
     ],
     "shazam_korea": [
@@ -221,8 +221,8 @@ const rankData = {
             "rank": 1,
             "title": "Love Language",
             "artist": "Kim Min Seok",
-            "image": "https://i.ytimg.com/vi/ccbq5l511uU/hqdefault.jpg",
-            "videoId": "ccbq5l511uU"
+            "image": "https://i.ytimg.com/vi/zHRalE_8n1A/hqdefault.jpg",
+            "videoId": "zHRalE_8n1A"
         },
         {
             "rank": 2,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/aPIqeeirmP8/hqdefault.jpg",
-            "videoId": "aPIqeeirmP8"
+            "image": "https://i.ytimg.com/vi/HeC-Hj97eak/hqdefault.jpg",
+            "videoId": "HeC-Hj97eak"
         },
         {
             "rank": 5,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/jpJ1TQENa_4/hqdefault.jpg",
-            "videoId": "jpJ1TQENa_4"
+            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
+            "videoId": "iG2OH4whO5E"
         },
         {
             "rank": 9,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/ffZadGUU2Rc/hqdefault.jpg",
-            "videoId": "ffZadGUU2Rc"
+            "image": "https://i.ytimg.com/vi/iLQAwxFrMSU/hqdefault.jpg",
+            "videoId": "iLQAwxFrMSU"
         },
         {
             "rank": 7,
@@ -437,15 +437,15 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/8cD2i9dFYDE/hqdefault.jpg",
-            "videoId": "8cD2i9dFYDE"
+            "image": "https://i.ytimg.com/vi/fhvy1YWBMYU/hqdefault.jpg",
+            "videoId": "fhvy1YWBMYU"
         },
         {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/OGO1k1qNetQ/hqdefault.jpg",
-            "videoId": "OGO1k1qNetQ"
+            "image": "https://i.ytimg.com/vi/Z6G-QekDEWE/hqdefault.jpg",
+            "videoId": "Z6G-QekDEWE"
         },
         {
             "rank": 3,
