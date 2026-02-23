@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-02-23 08:27:00",
+    "last_updated": "2026-02-24 08:36:11",
     "billboard": [
         {
             "rank": 1,
@@ -147,17 +147,17 @@ const rankData = {
     "melon": [
         {
             "rank": 1,
+            "title": "BANG BANG",
+            "artist": "IVE (아이브)",
+            "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
+            "videoId": "9qkpcLK422o"
+        },
+        {
+            "rank": 2,
             "title": "404 (New Era)",
             "artist": "KiiiKiii (키키)",
             "image": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg",
             "videoId": "zhHB4dZTChw"
-        },
-        {
-            "rank": 2,
-            "title": "BANG BANG",
-            "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/jqEh_H1V1Rw/hqdefault.jpg",
-            "videoId": "jqEh_H1V1Rw"
         },
         {
             "rank": 3,
@@ -210,10 +210,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "Golden",
-            "artist": "HUNTR/X",
-            "image": "https://i.ytimg.com/vi/hohuFW0zQUw/hqdefault.jpg",
-            "videoId": "hohuFW0zQUw"
+            "title": "멸종위기사랑",
+            "artist": "이찬혁",
+            "image": "https://i.ytimg.com/vi/19oT04OuBhg/hqdefault.jpg",
+            "videoId": "19oT04OuBhg"
         }
     ],
     "shazam_korea": [
@@ -221,15 +221,15 @@ const rankData = {
             "rank": 1,
             "title": "Love Language",
             "artist": "Kim Min Seok",
-            "image": "https://i.ytimg.com/vi/zHRalE_8n1A/hqdefault.jpg",
-            "videoId": "zHRalE_8n1A"
+            "image": "https://i.ytimg.com/vi/ccbq5l511uU/hqdefault.jpg",
+            "videoId": "ccbq5l511uU"
         },
         {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/hf10rXenyr8/hqdefault.jpg",
-            "videoId": "hf10rXenyr8"
+            "image": "https://i.ytimg.com/vi/HeC-Hj97eak/hqdefault.jpg",
+            "videoId": "HeC-Hj97eak"
         },
         {
             "rank": 5,
@@ -263,15 +263,15 @@ const rankData = {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/CUUDoW70ybw/hqdefault.jpg",
-            "videoId": "CUUDoW70ybw"
+            "image": "https://i.ytimg.com/vi/snW35zrNE60/hqdefault.jpg",
+            "videoId": "snW35zrNE60"
         },
         {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/jpJ1TQENa_4/hqdefault.jpg",
-            "videoId": "jpJ1TQENa_4"
+            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
+            "videoId": "iG2OH4whO5E"
         },
         {
             "rank": 9,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/aoQr2Kb9lCc/hqdefault.jpg",
-            "videoId": "aoQr2Kb9lCc"
+            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
+            "videoId": "eCLI6mbb7Dg"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/iLQAwxFrMSU/hqdefault.jpg",
-            "videoId": "iLQAwxFrMSU"
+            "image": "https://i.ytimg.com/vi/0Ev497uJkEs/hqdefault.jpg",
+            "videoId": "0Ev497uJkEs"
         },
         {
             "rank": 7,
@@ -465,8 +465,8 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
-            "videoId": "DoM3DiFnXxM"
+            "image": "https://i.ytimg.com/vi/w3zuovn3rIc/hqdefault.jpg",
+            "videoId": "w3zuovn3rIc"
         },
         {
             "rank": 6,
