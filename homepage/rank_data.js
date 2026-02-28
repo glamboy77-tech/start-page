@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-02-28 08:26:20",
+    "last_updated": "2026-03-01 08:23:57",
     "billboard": [
         {
             "rank": 1,
@@ -54,8 +54,8 @@ const rankData = {
             "rank": 8,
             "title": "The Fate Of Ophelia",
             "artist": "Taylor Swift",
-            "image": "https://i.ytimg.com/vi/ko70cExuzZM/hqdefault.jpg",
-            "videoId": "ko70cExuzZM"
+            "image": "https://i.ytimg.com/vi/GWkswyays5M/hqdefault.jpg",
+            "videoId": "GWkswyays5M"
         },
         {
             "rank": 9,
@@ -133,8 +133,8 @@ const rankData = {
             "rank": 9,
             "title": "Say Why",
             "artist": "Zach Bryan",
-            "image": "https://i.ytimg.com/vi/5ZO5vY-hxFU/hqdefault.jpg",
-            "videoId": "5ZO5vY-hxFU"
+            "image": "https://i.ytimg.com/vi/SzMu9Cf7xeQ/hqdefault.jpg",
+            "videoId": "SzMu9Cf7xeQ"
         },
         {
             "rank": 10,
@@ -189,31 +189,31 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "0+0",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
-            "videoId": "_Ngk-DCHfD0"
-        },
-        {
-            "rank": 8,
-            "title": "타임캡슐",
-            "artist": "다비치",
-            "image": "https://i.ytimg.com/vi/qE35JN1ogeI/hqdefault.jpg",
-            "videoId": "qE35JN1ogeI"
-        },
-        {
-            "rank": 9,
             "title": "RUDE!",
             "artist": "Hearts2Hearts (하츠투하츠)",
             "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
             "videoId": "F7sGJVUrkjQ"
         },
         {
+            "rank": 8,
+            "title": "0+0",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
+            "videoId": "_Ngk-DCHfD0"
+        },
+        {
+            "rank": 9,
+            "title": "타임캡슐",
+            "artist": "다비치",
+            "image": "https://i.ytimg.com/vi/qE35JN1ogeI/hqdefault.jpg",
+            "videoId": "qE35JN1ogeI"
+        },
+        {
             "rank": 10,
-            "title": "GO",
-            "artist": "BLACKPINK",
-            "image": "https://i.ytimg.com/vi/2GJfWMYCWY0/hqdefault.jpg",
-            "videoId": "2GJfWMYCWY0"
+            "title": "Blue Valentine",
+            "artist": "NMIXX",
+            "image": "https://i.ytimg.com/vi/EmeW6li6bbo/hqdefault.jpg",
+            "videoId": "EmeW6li6bbo"
         }
     ],
     "shazam_korea": [
@@ -307,8 +307,8 @@ const rankData = {
             "rank": 3,
             "title": "NO BATIDÃO",
             "artist": "ZXKAI & slxughter",
-            "image": "https://i.ytimg.com/vi/1GDOndn8BPs/hqdefault.jpg",
-            "videoId": "1GDOndn8BPs"
+            "image": "https://i.ytimg.com/vi/_RZHbPolPCk/hqdefault.jpg",
+            "videoId": "_RZHbPolPCk"
         },
         {
             "rank": 4,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/sPmul8b17AU/hqdefault.jpg",
-            "videoId": "sPmul8b17AU"
+            "image": "https://i.ytimg.com/vi/RFb6Xomb_cg/hqdefault.jpg",
+            "videoId": "RFb6Xomb_cg"
         },
         {
             "rank": 2,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/vz2CMETs5ZE/hqdefault.jpg",
-            "videoId": "vz2CMETs5ZE"
+            "image": "https://i.ytimg.com/vi/4lNAutq13nE/hqdefault.jpg",
+            "videoId": "4lNAutq13nE"
         },
         {
             "rank": 6,
@@ -421,8 +421,8 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/DW38FSFjGtw/hqdefault.jpg",
-            "videoId": "DW38FSFjGtw"
+            "image": "https://i.ytimg.com/vi/_E6Re3kC4FU/hqdefault.jpg",
+            "videoId": "_E6Re3kC4FU"
         },
         {
             "rank": 10,
@@ -486,8 +486,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/KAXYKSUpiDo/hqdefault.jpg",
-            "videoId": "KAXYKSUpiDo"
+            "image": "https://i.ytimg.com/vi/GohwiQkGSF0/hqdefault.jpg",
+            "videoId": "GohwiQkGSF0"
         },
         {
             "rank": 9,
