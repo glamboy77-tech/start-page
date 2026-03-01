@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-03-01 08:23:57",
+    "last_updated": "2026-03-02 08:25:13",
     "billboard": [
         {
             "rank": 1,
@@ -54,8 +54,8 @@ const rankData = {
             "rank": 8,
             "title": "The Fate Of Ophelia",
             "artist": "Taylor Swift",
-            "image": "https://i.ytimg.com/vi/GWkswyays5M/hqdefault.jpg",
-            "videoId": "GWkswyays5M"
+            "image": "https://i.ytimg.com/vi/ko70cExuzZM/hqdefault.jpg",
+            "videoId": "ko70cExuzZM"
         },
         {
             "rank": 9,
@@ -77,8 +77,8 @@ const rankData = {
             "rank": 1,
             "title": "Back To Friends",
             "artist": "sombr",
-            "image": "https://i.ytimg.com/vi/c8zq4kAn_O0/hqdefault.jpg",
-            "videoId": "c8zq4kAn_O0"
+            "image": "https://i.ytimg.com/vi/wBsCE1xAhFE/hqdefault.jpg",
+            "videoId": "wBsCE1xAhFE"
         },
         {
             "rank": 2,
@@ -221,8 +221,8 @@ const rankData = {
             "rank": 1,
             "title": "Love Language",
             "artist": "Kim Min Seok",
-            "image": "https://i.ytimg.com/vi/ccbq5l511uU/hqdefault.jpg",
-            "videoId": "ccbq5l511uU"
+            "image": "https://i.ytimg.com/vi/zHRalE_8n1A/hqdefault.jpg",
+            "videoId": "zHRalE_8n1A"
         },
         {
             "rank": 2,
@@ -307,8 +307,8 @@ const rankData = {
             "rank": 3,
             "title": "NO BATIDÃO",
             "artist": "ZXKAI & slxughter",
-            "image": "https://i.ytimg.com/vi/_RZHbPolPCk/hqdefault.jpg",
-            "videoId": "_RZHbPolPCk"
+            "image": "https://i.ytimg.com/vi/1GDOndn8BPs/hqdefault.jpg",
+            "videoId": "1GDOndn8BPs"
         },
         {
             "rank": 4,
@@ -321,15 +321,15 @@ const rankData = {
             "rank": 5,
             "title": "Feeling On My Body (Remix)",
             "artist": "Taffy & PLUTO",
-            "image": "https://i.ytimg.com/vi/9d8VrCbl0nw/hqdefault.jpg",
-            "videoId": "9d8VrCbl0nw"
+            "image": "https://i.ytimg.com/vi/0FaBy1kuD7M/hqdefault.jpg",
+            "videoId": "0FaBy1kuD7M"
         },
         {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/0Ev497uJkEs/hqdefault.jpg",
-            "videoId": "0Ev497uJkEs"
+            "image": "https://i.ytimg.com/vi/aSGeQA5eRqw/hqdefault.jpg",
+            "videoId": "aSGeQA5eRqw"
         },
         {
             "rank": 7,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/4lNAutq13nE/hqdefault.jpg",
-            "videoId": "4lNAutq13nE"
+            "image": "https://i.ytimg.com/vi/vz2CMETs5ZE/hqdefault.jpg",
+            "videoId": "vz2CMETs5ZE"
         },
         {
             "rank": 6,
@@ -407,8 +407,8 @@ const rankData = {
             "rank": 7,
             "title": "Zoo",
             "artist": "Shakira",
-            "image": "https://i.ytimg.com/vi/Kw3935PH01E/hqdefault.jpg",
-            "videoId": "Kw3935PH01E"
+            "image": "https://i.ytimg.com/vi/Xry6B0I3pT8/hqdefault.jpg",
+            "videoId": "Xry6B0I3pT8"
         },
         {
             "rank": 8,
@@ -421,8 +421,8 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/_E6Re3kC4FU/hqdefault.jpg",
-            "videoId": "_E6Re3kC4FU"
+            "image": "https://i.ytimg.com/vi/DW38FSFjGtw/hqdefault.jpg",
+            "videoId": "DW38FSFjGtw"
         },
         {
             "rank": 10,
@@ -486,8 +486,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/GohwiQkGSF0/hqdefault.jpg",
-            "videoId": "GohwiQkGSF0"
+            "image": "https://i.ytimg.com/vi/Bnrqw7q3eUc/hqdefault.jpg",
+            "videoId": "Bnrqw7q3eUc"
         },
         {
             "rank": 9,
