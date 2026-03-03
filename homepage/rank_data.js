@@ -1,75 +1,75 @@
 const rankData = {
-    "last_updated": "2026-03-03 08:27:03",
+    "last_updated": "2026-03-04 08:28:47",
     "billboard": [
         {
             "rank": 1,
-            "title": "Opalite",
-            "artist": "Taylor Swift",
-            "image": "https://i.ytimg.com/vi/1FVF-9KQiPo/hqdefault.jpg",
-            "videoId": "1FVF-9KQiPo"
-        },
-        {
-            "rank": 2,
             "title": "Choosin' Texas",
             "artist": "Ella Langley",
             "image": "https://i.ytimg.com/vi/hLOheGDwD_0/hqdefault.jpg",
             "videoId": "hLOheGDwD_0"
         },
         {
-            "rank": 3,
+            "rank": 2,
             "title": "Man I Need",
             "artist": "Olivia Dean",
             "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
             "videoId": "oIv_Y2RPQ_A"
         },
         {
-            "rank": 4,
-            "title": "DTMF",
-            "artist": "Bad Bunny",
-            "image": "https://i.ytimg.com/vi/v_Tgq5OUrmE/hqdefault.jpg",
-            "videoId": "v_Tgq5OUrmE"
-        },
-        {
-            "rank": 5,
+            "rank": 3,
             "title": "Ordinary",
             "artist": "Alex Warren",
             "image": "https://i.ytimg.com/vi/u2ah9tWTkmk/hqdefault.jpg",
             "videoId": "u2ah9tWTkmk"
         },
         {
-            "rank": 6,
-            "title": "I Just Might",
-            "artist": "Bruno Mars",
-            "image": "https://i.ytimg.com/vi/fy-hmn2QVJw/hqdefault.jpg",
-            "videoId": "fy-hmn2QVJw"
+            "rank": 4,
+            "title": "Opalite",
+            "artist": "Taylor Swift",
+            "image": "https://i.ytimg.com/vi/1FVF-9KQiPo/hqdefault.jpg",
+            "videoId": "1FVF-9KQiPo"
         },
         {
-            "rank": 7,
+            "rank": 5,
+            "title": "I Just Might",
+            "artist": "Bruno Mars",
+            "image": "https://i.ytimg.com/vi/mrV8kK5t0V8/hqdefault.jpg",
+            "videoId": "mrV8kK5t0V8"
+        },
+        {
+            "rank": 6,
             "title": "Golden",
             "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
             "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
             "videoId": "yebNIHKAC4A"
         },
         {
-            "rank": 8,
+            "rank": 7,
             "title": "The Fate Of Ophelia",
             "artist": "Taylor Swift",
             "image": "https://i.ytimg.com/vi/ko70cExuzZM/hqdefault.jpg",
             "videoId": "ko70cExuzZM"
         },
         {
-            "rank": 9,
-            "title": "Titi Me Pregunto",
+            "rank": 8,
+            "title": "DTMF",
             "artist": "Bad Bunny",
-            "image": "https://i.ytimg.com/vi/Cr8K88UcO0s/hqdefault.jpg",
-            "videoId": "Cr8K88UcO0s"
+            "image": "https://i.ytimg.com/vi/v_Tgq5OUrmE/hqdefault.jpg",
+            "videoId": "v_Tgq5OUrmE"
+        },
+        {
+            "rank": 9,
+            "title": "Back To Friends",
+            "artist": "sombr",
+            "image": "https://i.ytimg.com/vi/c8zq4kAn_O0/hqdefault.jpg",
+            "videoId": "c8zq4kAn_O0"
         },
         {
             "rank": 10,
-            "title": "Baile Inolvidable",
-            "artist": "Bad Bunny",
-            "image": "https://i.ytimg.com/vi/a1Femq4NPxs/hqdefault.jpg",
-            "videoId": "a1Femq4NPxs"
+            "title": "Folded",
+            "artist": "Kehlani",
+            "image": "https://i.ytimg.com/vi/KFMYx1TibeQ/hqdefault.jpg",
+            "videoId": "KFMYx1TibeQ"
         }
     ],
     "billboard_rock": [
@@ -89,17 +89,17 @@ const rankData = {
         },
         {
             "rank": 3,
-            "title": "The Great Divide",
-            "artist": "Noah Kahan",
-            "image": "https://i.ytimg.com/vi/SKs80r2Lp34/hqdefault.jpg",
-            "videoId": "SKs80r2Lp34"
-        },
-        {
-            "rank": 4,
             "title": "Homewrecker",
             "artist": "sombr",
             "image": "https://i.ytimg.com/vi/mQezde_qeXw/hqdefault.jpg",
             "videoId": "mQezde_qeXw"
+        },
+        {
+            "rank": 4,
+            "title": "The Great Divide",
+            "artist": "Noah Kahan",
+            "image": "https://i.ytimg.com/vi/SKs80r2Lp34/hqdefault.jpg",
+            "videoId": "SKs80r2Lp34"
         },
         {
             "rank": 5,
@@ -110,38 +110,38 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "12 To 12",
-            "artist": "sombr",
-            "image": "https://i.ytimg.com/vi/cZgUiR31m-Y/hqdefault.jpg",
-            "videoId": "cZgUiR31m-Y"
-        },
-        {
-            "rank": 7,
             "title": "Babydoll",
             "artist": "Dominic Fike",
             "image": "https://i.ytimg.com/vi/nb8CnIo_-_A/hqdefault.jpg",
             "videoId": "nb8CnIo_-_A"
         },
         {
+            "rank": 7,
+            "title": "12 To 12",
+            "artist": "sombr",
+            "image": "https://i.ytimg.com/vi/cZgUiR31m-Y/hqdefault.jpg",
+            "videoId": "cZgUiR31m-Y"
+        },
+        {
             "rank": 8,
-            "title": "Kryptonite",
-            "artist": "3 Doors Down",
-            "image": "https://i.ytimg.com/vi/xPU8OAjjS4k/hqdefault.jpg",
-            "videoId": "xPU8OAjjS4k"
+            "title": "Drag Path",
+            "artist": "Twenty One Pilots",
+            "image": "https://i.ytimg.com/vi/m0BFZkPsoWY/hqdefault.jpg",
+            "videoId": "m0BFZkPsoWY"
         },
         {
             "rank": 9,
-            "title": "Say Why",
-            "artist": "Zach Bryan",
-            "image": "https://i.ytimg.com/vi/SzMu9Cf7xeQ/hqdefault.jpg",
-            "videoId": "SzMu9Cf7xeQ"
-        },
-        {
-            "rank": 10,
             "title": "I Thought I Saw Your Face Today",
             "artist": "She & Him",
             "image": "https://i.ytimg.com/vi/pyGU-UudvrM/hqdefault.jpg",
             "videoId": "pyGU-UudvrM"
+        },
+        {
+            "rank": 10,
+            "title": "Say Why",
+            "artist": "Zach Bryan",
+            "image": "https://i.ytimg.com/vi/SzMu9Cf7xeQ/hqdefault.jpg",
+            "videoId": "SzMu9Cf7xeQ"
         }
     ],
     "melon": [
@@ -196,17 +196,17 @@ const rankData = {
         },
         {
             "rank": 8,
-            "title": "0+0",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
-            "videoId": "_Ngk-DCHfD0"
-        },
-        {
-            "rank": 9,
             "title": "BLACKHOLE",
             "artist": "IVE (아이브)",
             "image": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg",
             "videoId": "1Lmy7qwmSMc"
+        },
+        {
+            "rank": 9,
+            "title": "0+0",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
+            "videoId": "_Ngk-DCHfD0"
         },
         {
             "rank": 10,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/UsRgOKvLiQk/hqdefault.jpg",
-            "videoId": "UsRgOKvLiQk"
+            "image": "https://i.ytimg.com/vi/Ubl7FytpH0A/hqdefault.jpg",
+            "videoId": "Ubl7FytpH0A"
         },
         {
             "rank": 5,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/9RspykhlGvE/hqdefault.jpg",
-            "videoId": "9RspykhlGvE"
+            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
+            "videoId": "iG2OH4whO5E"
         },
         {
             "rank": 9,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/j_9LN8x2z3k/hqdefault.jpg",
-            "videoId": "j_9LN8x2z3k"
+            "image": "https://i.ytimg.com/vi/KRxHaT0bTH8/hqdefault.jpg",
+            "videoId": "KRxHaT0bTH8"
         },
         {
             "rank": 9,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/o6ryW79G_mY/hqdefault.jpg",
-            "videoId": "o6ryW79G_mY"
+            "image": "https://i.ytimg.com/vi/kNQNKoi1DEU/hqdefault.jpg",
+            "videoId": "kNQNKoi1DEU"
         },
         {
             "rank": 6,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/Ihlwu1eWhiA/hqdefault.jpg",
-            "videoId": "Ihlwu1eWhiA"
+            "image": "https://i.ytimg.com/vi/fhvy1YWBMYU/hqdefault.jpg",
+            "videoId": "fhvy1YWBMYU"
         },
         {
             "rank": 2,
@@ -465,8 +465,8 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
-            "videoId": "DoM3DiFnXxM"
+            "image": "https://i.ytimg.com/vi/PBl-xiC2Fq0/hqdefault.jpg",
+            "videoId": "PBl-xiC2Fq0"
         },
         {
             "rank": 6,
