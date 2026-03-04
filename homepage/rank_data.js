@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-03-04 08:28:47",
+    "last_updated": "2026-03-05 08:31:43",
     "billboard": [
         {
             "rank": 1,
@@ -33,8 +33,8 @@ const rankData = {
             "rank": 5,
             "title": "I Just Might",
             "artist": "Bruno Mars",
-            "image": "https://i.ytimg.com/vi/mrV8kK5t0V8/hqdefault.jpg",
-            "videoId": "mrV8kK5t0V8"
+            "image": "https://i.ytimg.com/vi/U_r2KSju0fc/hqdefault.jpg",
+            "videoId": "U_r2KSju0fc"
         },
         {
             "rank": 6,
@@ -77,8 +77,8 @@ const rankData = {
             "rank": 1,
             "title": "Back To Friends",
             "artist": "sombr",
-            "image": "https://i.ytimg.com/vi/c8zq4kAn_O0/hqdefault.jpg",
-            "videoId": "c8zq4kAn_O0"
+            "image": "https://i.ytimg.com/vi/ixKpwS44LWE/hqdefault.jpg",
+            "videoId": "ixKpwS44LWE"
         },
         {
             "rank": 2,
@@ -112,8 +112,8 @@ const rankData = {
             "rank": 6,
             "title": "Babydoll",
             "artist": "Dominic Fike",
-            "image": "https://i.ytimg.com/vi/nb8CnIo_-_A/hqdefault.jpg",
-            "videoId": "nb8CnIo_-_A"
+            "image": "https://i.ytimg.com/vi/L9w15nIljNs/hqdefault.jpg",
+            "videoId": "L9w15nIljNs"
         },
         {
             "rank": 7,
@@ -182,17 +182,17 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "그대 작은 나의 세상이 되어",
-            "artist": "카더가든",
-            "image": "https://i.ytimg.com/vi/ZurHW2kBqrw/hqdefault.jpg",
-            "videoId": "ZurHW2kBqrw"
-        },
-        {
-            "rank": 7,
             "title": "Drowning",
             "artist": "WOODZ",
             "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
             "videoId": "tiKFuzpX-NA"
+        },
+        {
+            "rank": 7,
+            "title": "그대 작은 나의 세상이 되어",
+            "artist": "카더가든",
+            "image": "https://i.ytimg.com/vi/ZurHW2kBqrw/hqdefault.jpg",
+            "videoId": "ZurHW2kBqrw"
         },
         {
             "rank": 8,
@@ -221,8 +221,8 @@ const rankData = {
             "rank": 1,
             "title": "Love Language",
             "artist": "Kim Min Seok",
-            "image": "https://i.ytimg.com/vi/ccbq5l511uU/hqdefault.jpg",
-            "videoId": "ccbq5l511uU"
+            "image": "https://i.ytimg.com/vi/zHRalE_8n1A/hqdefault.jpg",
+            "videoId": "zHRalE_8n1A"
         },
         {
             "rank": 2,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
-            "videoId": "iG2OH4whO5E"
+            "image": "https://i.ytimg.com/vi/9RspykhlGvE/hqdefault.jpg",
+            "videoId": "9RspykhlGvE"
         },
         {
             "rank": 9,
@@ -321,15 +321,15 @@ const rankData = {
             "rank": 5,
             "title": "Feeling On My Body (Remix)",
             "artist": "Taffy & PLUTO",
-            "image": "https://i.ytimg.com/vi/XLbWWFG5hYE/hqdefault.jpg",
-            "videoId": "XLbWWFG5hYE"
+            "image": "https://i.ytimg.com/vi/ve3jKGarzbI/hqdefault.jpg",
+            "videoId": "ve3jKGarzbI"
         },
         {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/6CxJWHGQlAo/hqdefault.jpg",
-            "videoId": "6CxJWHGQlAo"
+            "image": "https://i.ytimg.com/vi/aSGeQA5eRqw/hqdefault.jpg",
+            "videoId": "aSGeQA5eRqw"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/KRxHaT0bTH8/hqdefault.jpg",
-            "videoId": "KRxHaT0bTH8"
+            "image": "https://i.ytimg.com/vi/j_9LN8x2z3k/hqdefault.jpg",
+            "videoId": "j_9LN8x2z3k"
         },
         {
             "rank": 9,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/kNQNKoi1DEU/hqdefault.jpg",
-            "videoId": "kNQNKoi1DEU"
+            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
+            "videoId": "orOgilmiL_4"
         },
         {
             "rank": 6,
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/5kS7Az8Qz10/hqdefault.jpg",
-            "videoId": "5kS7Az8Qz10"
+            "image": "https://i.ytimg.com/vi/o8fzQ1e01UE/hqdefault.jpg",
+            "videoId": "o8fzQ1e01UE"
         }
     ],
     "youtube_shorts_global": [
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/fhvy1YWBMYU/hqdefault.jpg",
-            "videoId": "fhvy1YWBMYU"
+            "image": "https://i.ytimg.com/vi/Ihlwu1eWhiA/hqdefault.jpg",
+            "videoId": "Ihlwu1eWhiA"
         },
         {
             "rank": 2,
@@ -465,15 +465,15 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/PBl-xiC2Fq0/hqdefault.jpg",
-            "videoId": "PBl-xiC2Fq0"
+            "image": "https://i.ytimg.com/vi/w3zuovn3rIc/hqdefault.jpg",
+            "videoId": "w3zuovn3rIc"
         },
         {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
-            "videoId": "1XOJFuKHCck"
+            "image": "https://i.ytimg.com/vi/asc9PeaN1S0/hqdefault.jpg",
+            "videoId": "asc9PeaN1S0"
         },
         {
             "rank": 7,
