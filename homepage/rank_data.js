@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-03-06 08:53:23",
+    "last_updated": "2026-03-07 08:29:05",
     "billboard": [
         {
             "rank": 1,
@@ -84,8 +84,8 @@ const rankData = {
             "rank": 2,
             "title": "End Of Beginning",
             "artist": "Djo",
-            "image": "https://i.ytimg.com/vi/B3Z4XGAxJB0/hqdefault.jpg",
-            "videoId": "B3Z4XGAxJB0"
+            "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
+            "videoId": "aH7gkoBpN3s"
         },
         {
             "rank": 3,
@@ -161,17 +161,17 @@ const rankData = {
         },
         {
             "rank": 3,
-            "title": "RUDE!",
-            "artist": "Hearts2Hearts (하츠투하츠)",
-            "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
-            "videoId": "F7sGJVUrkjQ"
-        },
-        {
-            "rank": 4,
             "title": "Good Goodbye",
             "artist": "화사 (HWASA)",
             "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
             "videoId": "Qe8fa4b5xNU"
+        },
+        {
+            "rank": 4,
+            "title": "RUDE!",
+            "artist": "Hearts2Hearts (하츠투하츠)",
+            "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
+            "videoId": "F7sGJVUrkjQ"
         },
         {
             "rank": 5,
@@ -196,24 +196,24 @@ const rankData = {
         },
         {
             "rank": 8,
-            "title": "BLACKHOLE",
-            "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg",
-            "videoId": "1Lmy7qwmSMc"
-        },
-        {
-            "rank": 9,
             "title": "0+0",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
             "videoId": "_Ngk-DCHfD0"
         },
         {
+            "rank": 9,
+            "title": "BLACKHOLE",
+            "artist": "IVE (아이브)",
+            "image": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg",
+            "videoId": "1Lmy7qwmSMc"
+        },
+        {
             "rank": 10,
             "title": "타임캡슐",
             "artist": "다비치",
-            "image": "https://i.ytimg.com/vi/qE35JN1ogeI/hqdefault.jpg",
-            "videoId": "qE35JN1ogeI"
+            "image": "https://i.ytimg.com/vi/JQeO9K3E5ck/hqdefault.jpg",
+            "videoId": "JQeO9K3E5ck"
         }
     ],
     "shazam_korea": [
@@ -249,8 +249,8 @@ const rankData = {
             "rank": 5,
             "title": "Good bye",
             "artist": "We Are The Night",
-            "image": "https://i.ytimg.com/vi/bk8W9FYCT4Y/hqdefault.jpg",
-            "videoId": "bk8W9FYCT4Y"
+            "image": "https://i.ytimg.com/vi/O0ZtSbqGz0k/hqdefault.jpg",
+            "videoId": "O0ZtSbqGz0k"
         },
         {
             "rank": 6,
@@ -263,8 +263,8 @@ const rankData = {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/CUUDoW70ybw/hqdefault.jpg",
-            "videoId": "CUUDoW70ybw"
+            "image": "https://i.ytimg.com/vi/1lA9UlXnYIQ/hqdefault.jpg",
+            "videoId": "1lA9UlXnYIQ"
         },
         {
             "rank": 8,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/0Ev497uJkEs/hqdefault.jpg",
-            "videoId": "0Ev497uJkEs"
+            "image": "https://i.ytimg.com/vi/Jfli40l4JZc/hqdefault.jpg",
+            "videoId": "Jfli40l4JZc"
         },
         {
             "rank": 7,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/SXDGecvtxOY/hqdefault.jpg",
-            "videoId": "SXDGecvtxOY"
+            "image": "https://i.ytimg.com/vi/vJKF_apMgcc/hqdefault.jpg",
+            "videoId": "vJKF_apMgcc"
         },
         {
             "rank": 2,
@@ -379,8 +379,8 @@ const rankData = {
             "rank": 3,
             "title": "blue",
             "artist": "yung kai",
-            "image": "https://i.ytimg.com/vi/IpFX2vq8HKw/hqdefault.jpg",
-            "videoId": "IpFX2vq8HKw"
+            "image": "https://i.ytimg.com/vi/I_zj4AE3aKw/hqdefault.jpg",
+            "videoId": "I_zj4AE3aKw"
         },
         {
             "rank": 4,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
-            "videoId": "orOgilmiL_4"
+            "image": "https://i.ytimg.com/vi/RR40iq6QDIw/hqdefault.jpg",
+            "videoId": "RR40iq6QDIw"
         },
         {
             "rank": 6,
@@ -421,15 +421,15 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/uESO0F6OcvE/hqdefault.jpg",
-            "videoId": "uESO0F6OcvE"
+            "image": "https://i.ytimg.com/vi/pkI2tWl0v04/hqdefault.jpg",
+            "videoId": "pkI2tWl0v04"
         },
         {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/HdRKxLRoJ3c/hqdefault.jpg",
-            "videoId": "HdRKxLRoJ3c"
+            "image": "https://i.ytimg.com/vi/5kS7Az8Qz10/hqdefault.jpg",
+            "videoId": "5kS7Az8Qz10"
         }
     ],
     "youtube_shorts_global": [
@@ -451,22 +451,22 @@ const rankData = {
             "rank": 3,
             "title": "PASSO BEM SLOWED (Slowed)",
             "artist": "ATLXG",
-            "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
-            "videoId": "KgayxOF4Y7E"
+            "image": "https://i.ytimg.com/vi/kHgZryRBLHA/hqdefault.jpg",
+            "videoId": "kHgZryRBLHA"
         },
         {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/LUkpMxaZlDA/hqdefault.jpg",
-            "videoId": "LUkpMxaZlDA"
+            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
+            "videoId": "mPmoojB54xI"
         },
         {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
-            "videoId": "DoM3DiFnXxM"
+            "image": "https://i.ytimg.com/vi/PBl-xiC2Fq0/hqdefault.jpg",
+            "videoId": "PBl-xiC2Fq0"
         },
         {
             "rank": 6,
@@ -486,15 +486,15 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/JVJZ8Dbwaro/hqdefault.jpg",
-            "videoId": "JVJZ8Dbwaro"
+            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
+            "videoId": "s8A9qvAnSg0"
         },
         {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/0PoVO_p3OvA/hqdefault.jpg",
-            "videoId": "0PoVO_p3OvA"
+            "image": "https://i.ytimg.com/vi/-ZRMiQwWxj0/hqdefault.jpg",
+            "videoId": "-ZRMiQwWxj0"
         },
         {
             "rank": 10,
