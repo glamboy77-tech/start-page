@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-03-07 08:29:05",
+    "last_updated": "2026-03-07 19:40:46",
     "billboard": [
         {
             "rank": 1,
@@ -33,8 +33,8 @@ const rankData = {
             "rank": 5,
             "title": "I Just Might",
             "artist": "Bruno Mars",
-            "image": "https://i.ytimg.com/vi/mrV8kK5t0V8/hqdefault.jpg",
-            "videoId": "mrV8kK5t0V8"
+            "image": "https://i.ytimg.com/vi/Je_LisMm130/hqdefault.jpg",
+            "videoId": "Je_LisMm130"
         },
         {
             "rank": 6,
@@ -149,8 +149,8 @@ const rankData = {
             "rank": 1,
             "title": "BANG BANG",
             "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
-            "videoId": "9qkpcLK422o"
+            "image": "https://i.ytimg.com/vi/eZjGoXOD82w/hqdefault.jpg",
+            "videoId": "eZjGoXOD82w"
         },
         {
             "rank": 2,
@@ -161,17 +161,17 @@ const rankData = {
         },
         {
             "rank": 3,
+            "title": "RUDE!",
+            "artist": "Hearts2Hearts (하츠투하츠)",
+            "image": "https://i.ytimg.com/vi/37VtoDg5O2o/hqdefault.jpg",
+            "videoId": "37VtoDg5O2o"
+        },
+        {
+            "rank": 4,
             "title": "Good Goodbye",
             "artist": "화사 (HWASA)",
             "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
             "videoId": "Qe8fa4b5xNU"
-        },
-        {
-            "rank": 4,
-            "title": "RUDE!",
-            "artist": "Hearts2Hearts (하츠투하츠)",
-            "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
-            "videoId": "F7sGJVUrkjQ"
         },
         {
             "rank": 5,
@@ -203,17 +203,17 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "BLACKHOLE",
-            "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg",
-            "videoId": "1Lmy7qwmSMc"
-        },
-        {
-            "rank": 10,
             "title": "타임캡슐",
             "artist": "다비치",
             "image": "https://i.ytimg.com/vi/JQeO9K3E5ck/hqdefault.jpg",
             "videoId": "JQeO9K3E5ck"
+        },
+        {
+            "rank": 10,
+            "title": "BLACKHOLE",
+            "artist": "IVE (아이브)",
+            "image": "https://i.ytimg.com/vi/31GRJUUpYHI/hqdefault.jpg",
+            "videoId": "31GRJUUpYHI"
         }
     ],
     "shazam_korea": [
@@ -263,8 +263,8 @@ const rankData = {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/1lA9UlXnYIQ/hqdefault.jpg",
-            "videoId": "1lA9UlXnYIQ"
+            "image": "https://i.ytimg.com/vi/CUUDoW70ybw/hqdefault.jpg",
+            "videoId": "CUUDoW70ybw"
         },
         {
             "rank": 8,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/vJKF_apMgcc/hqdefault.jpg",
-            "videoId": "vJKF_apMgcc"
+            "image": "https://i.ytimg.com/vi/RFb6Xomb_cg/hqdefault.jpg",
+            "videoId": "RFb6Xomb_cg"
         },
         {
             "rank": 2,
@@ -379,8 +379,8 @@ const rankData = {
             "rank": 3,
             "title": "blue",
             "artist": "yung kai",
-            "image": "https://i.ytimg.com/vi/I_zj4AE3aKw/hqdefault.jpg",
-            "videoId": "I_zj4AE3aKw"
+            "image": "https://i.ytimg.com/vi/IpFX2vq8HKw/hqdefault.jpg",
+            "videoId": "IpFX2vq8HKw"
         },
         {
             "rank": 4,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/RR40iq6QDIw/hqdefault.jpg",
-            "videoId": "RR40iq6QDIw"
+            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
+            "videoId": "orOgilmiL_4"
         },
         {
             "rank": 6,
@@ -451,8 +451,8 @@ const rankData = {
             "rank": 3,
             "title": "PASSO BEM SLOWED (Slowed)",
             "artist": "ATLXG",
-            "image": "https://i.ytimg.com/vi/kHgZryRBLHA/hqdefault.jpg",
-            "videoId": "kHgZryRBLHA"
+            "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
+            "videoId": "KgayxOF4Y7E"
         },
         {
             "rank": 4,
@@ -465,8 +465,8 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/PBl-xiC2Fq0/hqdefault.jpg",
-            "videoId": "PBl-xiC2Fq0"
+            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
+            "videoId": "DoM3DiFnXxM"
         },
         {
             "rank": 6,
@@ -500,8 +500,8 @@ const rankData = {
             "rank": 10,
             "title": "Ishq Jalakar - KGF:Chapter 2",
             "artist": "Shahzad Sachdev , Shahzad Ali , ... ",
-            "image": "https://i.ytimg.com/vi/8qCVXCFREkQ/hqdefault.jpg",
-            "videoId": "8qCVXCFREkQ"
+            "image": "https://i.ytimg.com/vi/ElXoMnKsnu0/hqdefault.jpg",
+            "videoId": "ElXoMnKsnu0"
         }
     ]
 };
