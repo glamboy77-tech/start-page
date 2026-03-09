@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-03-09 08:25:05",
+    "last_updated": "2026-03-10 08:30:43",
     "billboard": [
         {
             "rank": 1,
@@ -189,31 +189,31 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "0+0",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
-            "videoId": "_Ngk-DCHfD0"
-        },
-        {
-            "rank": 8,
-            "title": "그대 작은 나의 세상이 되어",
-            "artist": "카더가든",
-            "image": "https://i.ytimg.com/vi/ZurHW2kBqrw/hqdefault.jpg",
-            "videoId": "ZurHW2kBqrw"
-        },
-        {
-            "rank": 9,
             "title": "TICK TOCK (Feat. ZICO) (Prod. by ZICO, Crush)",
             "artist": "김하온 (HAON)",
             "image": "https://i.ytimg.com/vi/0sxLgAVPWVs/hqdefault.jpg",
             "videoId": "0sxLgAVPWVs"
         },
         {
-            "rank": 10,
+            "rank": 8,
+            "title": "0+0",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
+            "videoId": "_Ngk-DCHfD0"
+        },
+        {
+            "rank": 9,
             "title": "BLACKHOLE",
             "artist": "IVE (아이브)",
             "image": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg",
             "videoId": "1Lmy7qwmSMc"
+        },
+        {
+            "rank": 10,
+            "title": "그대 작은 나의 세상이 되어",
+            "artist": "카더가든",
+            "image": "https://i.ytimg.com/vi/ZurHW2kBqrw/hqdefault.jpg",
+            "videoId": "ZurHW2kBqrw"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
-            "videoId": "L1rR_smhD78"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/Ubl7FytpH0A/hqdefault.jpg",
-            "videoId": "Ubl7FytpH0A"
+            "image": "https://i.ytimg.com/vi/Yi8muPjjjcU/hqdefault.jpg",
+            "videoId": "Yi8muPjjjcU"
         },
         {
             "rank": 5,
@@ -263,15 +263,15 @@ const rankData = {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/snW35zrNE60/hqdefault.jpg",
-            "videoId": "snW35zrNE60"
+            "image": "https://i.ytimg.com/vi/1lA9UlXnYIQ/hqdefault.jpg",
+            "videoId": "1lA9UlXnYIQ"
         },
         {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
-            "videoId": "iG2OH4whO5E"
+            "image": "https://i.ytimg.com/vi/9RspykhlGvE/hqdefault.jpg",
+            "videoId": "9RspykhlGvE"
         },
         {
             "rank": 9,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/fcwEFW7yozs/hqdefault.jpg",
-            "videoId": "fcwEFW7yozs"
+            "image": "https://i.ytimg.com/vi/CL4j7viiN6A/hqdefault.jpg",
+            "videoId": "CL4j7viiN6A"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
-            "videoId": "yxKA0NnNJeo"
+            "image": "https://i.ytimg.com/vi/j_9LN8x2z3k/hqdefault.jpg",
+            "videoId": "j_9LN8x2z3k"
         },
         {
             "rank": 9,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/o6ryW79G_mY/hqdefault.jpg",
-            "videoId": "o6ryW79G_mY"
+            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
+            "videoId": "orOgilmiL_4"
         },
         {
             "rank": 6,
@@ -486,15 +486,15 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
-            "videoId": "s8A9qvAnSg0"
+            "image": "https://i.ytimg.com/vi/rWCY-0svDQg/hqdefault.jpg",
+            "videoId": "rWCY-0svDQg"
         },
         {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/-ZRMiQwWxj0/hqdefault.jpg",
-            "videoId": "-ZRMiQwWxj0"
+            "image": "https://i.ytimg.com/vi/QUH0_vbeggQ/hqdefault.jpg",
+            "videoId": "QUH0_vbeggQ"
         },
         {
             "rank": 10,
