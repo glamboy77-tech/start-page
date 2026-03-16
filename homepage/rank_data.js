@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-03-16 08:30:38",
+    "last_updated": "2026-03-17 08:33:47",
     "billboard": [
         {
             "rank": 1,
@@ -149,8 +149,8 @@ const rankData = {
             "rank": 1,
             "title": "BANG BANG",
             "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
-            "videoId": "9qkpcLK422o"
+            "image": "https://i.ytimg.com/vi/7Hej_xxZB8o/hqdefault.jpg",
+            "videoId": "7Hej_xxZB8o"
         },
         {
             "rank": 2,
@@ -182,17 +182,17 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "TICK TOCK (Feat. ZICO) (Prod. by ZICO, Crush)",
-            "artist": "김하온 (HAON)",
-            "image": "https://i.ytimg.com/vi/Nx9pNz6-Wns/hqdefault.jpg",
-            "videoId": "Nx9pNz6-Wns"
-        },
-        {
-            "rank": 7,
             "title": "Drowning",
             "artist": "WOODZ",
             "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
             "videoId": "tiKFuzpX-NA"
+        },
+        {
+            "rank": 7,
+            "title": "TICK TOCK (Feat. ZICO) (Prod. by ZICO, Crush)",
+            "artist": "김하온 (HAON)",
+            "image": "https://i.ytimg.com/vi/0sxLgAVPWVs/hqdefault.jpg",
+            "videoId": "0sxLgAVPWVs"
         },
         {
             "rank": 8,
@@ -242,15 +242,15 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/HMUDVMiITOU/hqdefault.jpg",
-            "videoId": "HMUDVMiITOU"
+            "image": "https://i.ytimg.com/vi/8MPF0VmPMLs/hqdefault.jpg",
+            "videoId": "8MPF0VmPMLs"
         },
         {
             "rank": 5,
             "title": "Good bye",
             "artist": "We Are The Night",
-            "image": "https://i.ytimg.com/vi/bk8W9FYCT4Y/hqdefault.jpg",
-            "videoId": "bk8W9FYCT4Y"
+            "image": "https://i.ytimg.com/vi/O0ZtSbqGz0k/hqdefault.jpg",
+            "videoId": "O0ZtSbqGz0k"
         },
         {
             "rank": 6,
@@ -263,15 +263,15 @@ const rankData = {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/CUUDoW70ybw/hqdefault.jpg",
-            "videoId": "CUUDoW70ybw"
+            "image": "https://i.ytimg.com/vi/1lA9UlXnYIQ/hqdefault.jpg",
+            "videoId": "1lA9UlXnYIQ"
         },
         {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/9RspykhlGvE/hqdefault.jpg",
-            "videoId": "9RspykhlGvE"
+            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
+            "videoId": "iG2OH4whO5E"
         },
         {
             "rank": 9,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/ndT6ypn7H0E/hqdefault.jpg",
-            "videoId": "ndT6ypn7H0E"
+            "image": "https://i.ytimg.com/vi/VBPZvuQoWy8/hqdefault.jpg",
+            "videoId": "VBPZvuQoWy8"
         }
     ],
     "shazam_global": [
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
-            "videoId": "eCLI6mbb7Dg"
+            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
+            "videoId": "oY75OIjru0o"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/aSGeQA5eRqw/hqdefault.jpg",
-            "videoId": "aSGeQA5eRqw"
+            "image": "https://i.ytimg.com/vi/0Ev497uJkEs/hqdefault.jpg",
+            "videoId": "0Ev497uJkEs"
         },
         {
             "rank": 7,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/RFb6Xomb_cg/hqdefault.jpg",
-            "videoId": "RFb6Xomb_cg"
+            "image": "https://i.ytimg.com/vi/0TjhlMxQqzw/hqdefault.jpg",
+            "videoId": "0TjhlMxQqzw"
         },
         {
             "rank": 2,
@@ -493,15 +493,15 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/0PoVO_p3OvA/hqdefault.jpg",
-            "videoId": "0PoVO_p3OvA"
+            "image": "https://i.ytimg.com/vi/QUH0_vbeggQ/hqdefault.jpg",
+            "videoId": "QUH0_vbeggQ"
         },
         {
             "rank": 10,
             "title": "Ishq Jalakar - KGF:Chapter 2",
             "artist": "Shahzad Sachdev , Shahzad Ali , ... ",
-            "image": "https://i.ytimg.com/vi/ElXoMnKsnu0/hqdefault.jpg",
-            "videoId": "ElXoMnKsnu0"
+            "image": "https://i.ytimg.com/vi/o44cdvY5pAE/hqdefault.jpg",
+            "videoId": "o44cdvY5pAE"
         }
     ]
 };
