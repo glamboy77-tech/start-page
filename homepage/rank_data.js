@@ -1,33 +1,33 @@
 const rankData = {
-    "last_updated": "2026-03-17 08:33:47",
+    "last_updated": "2026-03-18 08:33:42",
     "billboard": [
         {
             "rank": 1,
-            "title": "I Just Might",
-            "artist": "Bruno Mars",
-            "image": "https://i.ytimg.com/vi/mrV8kK5t0V8/hqdefault.jpg",
-            "videoId": "mrV8kK5t0V8"
-        },
-        {
-            "rank": 2,
             "title": "Choosin' Texas",
             "artist": "Ella Langley",
             "image": "https://i.ytimg.com/vi/hLOheGDwD_0/hqdefault.jpg",
             "videoId": "hLOheGDwD_0"
         },
         {
-            "rank": 3,
+            "rank": 2,
             "title": "Man I Need",
             "artist": "Olivia Dean",
             "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
             "videoId": "oIv_Y2RPQ_A"
         },
         {
-            "rank": 4,
-            "title": "Risk It All",
+            "rank": 3,
+            "title": "I Just Might",
             "artist": "Bruno Mars",
-            "image": "https://i.ytimg.com/vi/lY5V4hSLWY8/hqdefault.jpg",
-            "videoId": "lY5V4hSLWY8"
+            "image": "https://i.ytimg.com/vi/mrV8kK5t0V8/hqdefault.jpg",
+            "videoId": "mrV8kK5t0V8"
+        },
+        {
+            "rank": 4,
+            "title": "American Girls",
+            "artist": "Harry Styles",
+            "image": "https://i.ytimg.com/vi/o6jQo3-iCao/hqdefault.jpg",
+            "videoId": "o6jQo3-iCao"
         },
         {
             "rank": 5,
@@ -38,38 +38,38 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "Opalite",
-            "artist": "Taylor Swift",
-            "image": "https://i.ytimg.com/vi/1FVF-9KQiPo/hqdefault.jpg",
-            "videoId": "1FVF-9KQiPo"
-        },
-        {
-            "rank": 7,
             "title": "Stateside",
             "artist": "PinkPantheress With Zara Larsson",
             "image": "https://i.ytimg.com/vi/lIxQe1R5hs0/hqdefault.jpg",
             "videoId": "lIxQe1R5hs0"
         },
         {
-            "rank": 8,
+            "rank": 7,
             "title": "Golden",
             "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
             "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
             "videoId": "yebNIHKAC4A"
         },
         {
-            "rank": 9,
+            "rank": 8,
             "title": "The Fate Of Ophelia",
             "artist": "Taylor Swift",
             "image": "https://i.ytimg.com/vi/ko70cExuzZM/hqdefault.jpg",
             "videoId": "ko70cExuzZM"
         },
         {
+            "rank": 9,
+            "title": "Aperture",
+            "artist": "Harry Styles",
+            "image": "https://i.ytimg.com/vi/7sxVHYZ_PnA/hqdefault.jpg",
+            "videoId": "7sxVHYZ_PnA"
+        },
+        {
             "rank": 10,
-            "title": "Back To Friends",
-            "artist": "sombr",
-            "image": "https://i.ytimg.com/vi/c8zq4kAn_O0/hqdefault.jpg",
-            "videoId": "c8zq4kAn_O0"
+            "title": "Opalite",
+            "artist": "Taylor Swift",
+            "image": "https://i.ytimg.com/vi/1FVF-9KQiPo/hqdefault.jpg",
+            "videoId": "1FVF-9KQiPo"
         }
     ],
     "billboard_rock": [
@@ -89,31 +89,31 @@ const rankData = {
         },
         {
             "rank": 3,
-            "title": "Homewrecker",
-            "artist": "sombr",
-            "image": "https://i.ytimg.com/vi/mQezde_qeXw/hqdefault.jpg",
-            "videoId": "mQezde_qeXw"
-        },
-        {
-            "rank": 4,
             "title": "Babydoll",
             "artist": "Dominic Fike",
             "image": "https://i.ytimg.com/vi/KqMOKCRgvD8/hqdefault.jpg",
             "videoId": "KqMOKCRgvD8"
         },
         {
-            "rank": 5,
-            "title": "The Great Divide",
-            "artist": "Noah Kahan",
-            "image": "https://i.ytimg.com/vi/SKs80r2Lp34/hqdefault.jpg",
-            "videoId": "SKs80r2Lp34"
+            "rank": 4,
+            "title": "Homewrecker",
+            "artist": "sombr",
+            "image": "https://i.ytimg.com/vi/mQezde_qeXw/hqdefault.jpg",
+            "videoId": "mQezde_qeXw"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "title": "Dracula",
             "artist": "Tame Impala",
             "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
             "videoId": "xnP7qKxwzjg"
+        },
+        {
+            "rank": 6,
+            "title": "The Great Divide",
+            "artist": "Noah Kahan",
+            "image": "https://i.ytimg.com/vi/SKs80r2Lp34/hqdefault.jpg",
+            "videoId": "SKs80r2Lp34"
         },
         {
             "rank": 7,
@@ -131,17 +131,17 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "I Thought I Saw Your Face Today",
-            "artist": "She & Him",
-            "image": "https://i.ytimg.com/vi/pyGU-UudvrM/hqdefault.jpg",
-            "videoId": "pyGU-UudvrM"
-        },
-        {
-            "rank": 10,
             "title": "Plastic Cigarette",
             "artist": "Zach Bryan",
             "image": "https://i.ytimg.com/vi/MBWmVXzGdVs/hqdefault.jpg",
             "videoId": "MBWmVXzGdVs"
+        },
+        {
+            "rank": 10,
+            "title": "I Thought I Saw Your Face Today",
+            "artist": "She & Him",
+            "image": "https://i.ytimg.com/vi/pyGU-UudvrM/hqdefault.jpg",
+            "videoId": "pyGU-UudvrM"
         }
     ],
     "melon": [
@@ -149,8 +149,8 @@ const rankData = {
             "rank": 1,
             "title": "BANG BANG",
             "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/7Hej_xxZB8o/hqdefault.jpg",
-            "videoId": "7Hej_xxZB8o"
+            "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
+            "videoId": "9qkpcLK422o"
         },
         {
             "rank": 2,
@@ -191,8 +191,8 @@ const rankData = {
             "rank": 7,
             "title": "TICK TOCK (Feat. ZICO) (Prod. by ZICO, Crush)",
             "artist": "김하온 (HAON)",
-            "image": "https://i.ytimg.com/vi/0sxLgAVPWVs/hqdefault.jpg",
-            "videoId": "0sxLgAVPWVs"
+            "image": "https://i.ytimg.com/vi/Nx9pNz6-Wns/hqdefault.jpg",
+            "videoId": "Nx9pNz6-Wns"
         },
         {
             "rank": 8,
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -263,15 +263,15 @@ const rankData = {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/1lA9UlXnYIQ/hqdefault.jpg",
-            "videoId": "1lA9UlXnYIQ"
+            "image": "https://i.ytimg.com/vi/CUUDoW70ybw/hqdefault.jpg",
+            "videoId": "CUUDoW70ybw"
         },
         {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
-            "videoId": "iG2OH4whO5E"
+            "image": "https://i.ytimg.com/vi/9RspykhlGvE/hqdefault.jpg",
+            "videoId": "9RspykhlGvE"
         },
         {
             "rank": 9,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/VBPZvuQoWy8/hqdefault.jpg",
-            "videoId": "VBPZvuQoWy8"
+            "image": "https://i.ytimg.com/vi/u4P94G9Mhig/hqdefault.jpg",
+            "videoId": "u4P94G9Mhig"
         }
     ],
     "shazam_global": [
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
-            "videoId": "oY75OIjru0o"
+            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
+            "videoId": "eCLI6mbb7Dg"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/0Ev497uJkEs/hqdefault.jpg",
-            "videoId": "0Ev497uJkEs"
+            "image": "https://i.ytimg.com/vi/Jfli40l4JZc/hqdefault.jpg",
+            "videoId": "Jfli40l4JZc"
         },
         {
             "rank": 7,
@@ -458,8 +458,8 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
-            "videoId": "mPmoojB54xI"
+            "image": "https://i.ytimg.com/vi/1g3Toj4-RMg/hqdefault.jpg",
+            "videoId": "1g3Toj4-RMg"
         },
         {
             "rank": 5,
@@ -486,8 +486,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
-            "videoId": "s8A9qvAnSg0"
+            "image": "https://i.ytimg.com/vi/Sp92bGrxWB4/hqdefault.jpg",
+            "videoId": "Sp92bGrxWB4"
         },
         {
             "rank": 9,
@@ -500,8 +500,8 @@ const rankData = {
             "rank": 10,
             "title": "Ishq Jalakar - KGF:Chapter 2",
             "artist": "Shahzad Sachdev , Shahzad Ali , ... ",
-            "image": "https://i.ytimg.com/vi/o44cdvY5pAE/hqdefault.jpg",
-            "videoId": "o44cdvY5pAE"
+            "image": "https://i.ytimg.com/vi/-0zu77tgpX8/hqdefault.jpg",
+            "videoId": "-0zu77tgpX8"
         }
     ]
 };
