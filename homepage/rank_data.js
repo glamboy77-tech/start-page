@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-03-18 08:33:42",
+    "last_updated": "2026-03-19 08:18:03",
     "billboard": [
         {
             "rank": 1,
@@ -149,8 +149,8 @@ const rankData = {
             "rank": 1,
             "title": "BANG BANG",
             "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
-            "videoId": "9qkpcLK422o"
+            "image": "https://i.ytimg.com/vi/uVpGElT--E8/hqdefault.jpg",
+            "videoId": "uVpGElT--E8"
         },
         {
             "rank": 2,
@@ -203,17 +203,17 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "BLACKHOLE",
-            "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg",
-            "videoId": "1Lmy7qwmSMc"
-        },
-        {
-            "rank": 10,
             "title": "그대 작은 나의 세상이 되어",
             "artist": "카더가든",
             "image": "https://i.ytimg.com/vi/ZurHW2kBqrw/hqdefault.jpg",
             "videoId": "ZurHW2kBqrw"
+        },
+        {
+            "rank": 10,
+            "title": "BLACKHOLE",
+            "artist": "IVE (아이브)",
+            "image": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg",
+            "videoId": "1Lmy7qwmSMc"
         }
     ],
     "shazam_korea": [
@@ -249,8 +249,8 @@ const rankData = {
             "rank": 5,
             "title": "Good bye",
             "artist": "We Are The Night",
-            "image": "https://i.ytimg.com/vi/O0ZtSbqGz0k/hqdefault.jpg",
-            "videoId": "O0ZtSbqGz0k"
+            "image": "https://i.ytimg.com/vi/bk8W9FYCT4Y/hqdefault.jpg",
+            "videoId": "bk8W9FYCT4Y"
         },
         {
             "rank": 6,
@@ -263,8 +263,8 @@ const rankData = {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/CUUDoW70ybw/hqdefault.jpg",
-            "videoId": "CUUDoW70ybw"
+            "image": "https://i.ytimg.com/vi/1lA9UlXnYIQ/hqdefault.jpg",
+            "videoId": "1lA9UlXnYIQ"
         },
         {
             "rank": 8,
@@ -300,8 +300,8 @@ const rankData = {
             "rank": 2,
             "title": "Jogodo",
             "artist": "Victony & Asake",
-            "image": "https://i.ytimg.com/vi/vp0b_fqPvkM/hqdefault.jpg",
-            "videoId": "vp0b_fqPvkM"
+            "image": "https://i.ytimg.com/vi/RZJ3gXRcYQM/hqdefault.jpg",
+            "videoId": "RZJ3gXRcYQM"
         },
         {
             "rank": 3,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
-            "videoId": "eCLI6mbb7Dg"
+            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
+            "videoId": "oY75OIjru0o"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/Jfli40l4JZc/hqdefault.jpg",
-            "videoId": "Jfli40l4JZc"
+            "image": "https://i.ytimg.com/vi/UQ32RS8JYck/hqdefault.jpg",
+            "videoId": "UQ32RS8JYck"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/j_9LN8x2z3k/hqdefault.jpg",
-            "videoId": "j_9LN8x2z3k"
+            "image": "https://i.ytimg.com/vi/tscMSXk_jaQ/hqdefault.jpg",
+            "videoId": "tscMSXk_jaQ"
         },
         {
             "rank": 9,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
-            "videoId": "orOgilmiL_4"
+            "image": "https://i.ytimg.com/vi/vz2CMETs5ZE/hqdefault.jpg",
+            "videoId": "vz2CMETs5ZE"
         },
         {
             "rank": 6,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/fhvy1YWBMYU/hqdefault.jpg",
-            "videoId": "fhvy1YWBMYU"
+            "image": "https://i.ytimg.com/vi/MeOoJOt1P0Y/hqdefault.jpg",
+            "videoId": "MeOoJOt1P0Y"
         },
         {
             "rank": 2,
@@ -458,8 +458,8 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/1g3Toj4-RMg/hqdefault.jpg",
-            "videoId": "1g3Toj4-RMg"
+            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
+            "videoId": "mPmoojB54xI"
         },
         {
             "rank": 5,
@@ -486,8 +486,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/Sp92bGrxWB4/hqdefault.jpg",
-            "videoId": "Sp92bGrxWB4"
+            "image": "https://i.ytimg.com/vi/EJHPdfWZEWY/hqdefault.jpg",
+            "videoId": "EJHPdfWZEWY"
         },
         {
             "rank": 9,
@@ -500,8 +500,8 @@ const rankData = {
             "rank": 10,
             "title": "Ishq Jalakar - KGF:Chapter 2",
             "artist": "Shahzad Sachdev , Shahzad Ali , ... ",
-            "image": "https://i.ytimg.com/vi/-0zu77tgpX8/hqdefault.jpg",
-            "videoId": "-0zu77tgpX8"
+            "image": "https://i.ytimg.com/vi/amdOdzmAbSk/hqdefault.jpg",
+            "videoId": "amdOdzmAbSk"
         }
     ]
 };
