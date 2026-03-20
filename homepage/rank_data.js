@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-03-20 08:12:06",
+    "last_updated": "2026-03-21 08:11:36",
     "billboard": [
         {
             "rank": 1,
@@ -147,73 +147,73 @@ const rankData = {
     "melon": [
         {
             "rank": 1,
+            "title": "SWIM",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
+            "videoId": "b4iVv91Z6lY"
+        },
+        {
+            "rank": 2,
+            "title": "Body to Body",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/RBaSiVjtKR4/hqdefault.jpg",
+            "videoId": "RBaSiVjtKR4"
+        },
+        {
+            "rank": 3,
             "title": "BANG BANG",
             "artist": "IVE (아이브)",
             "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
             "videoId": "9qkpcLK422o"
         },
         {
-            "rank": 2,
-            "title": "404 (New Era)",
-            "artist": "KiiiKiii (키키)",
-            "image": "https://i.ytimg.com/vi/heTF-dZguOk/hqdefault.jpg",
-            "videoId": "heTF-dZguOk"
+            "rank": 4,
+            "title": "Hooligan",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/SpkOesMnW9U/hqdefault.jpg",
+            "videoId": "SpkOesMnW9U"
         },
         {
-            "rank": 3,
+            "rank": 5,
+            "title": "404 (New Era)",
+            "artist": "KiiiKiii (키키)",
+            "image": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg",
+            "videoId": "zhHB4dZTChw"
+        },
+        {
+            "rank": 6,
+            "title": "Aliens",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/EC9_h_elSAY/hqdefault.jpg",
+            "videoId": "EC9_h_elSAY"
+        },
+        {
+            "rank": 7,
+            "title": "FYA",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/QWDayFgPDjQ/hqdefault.jpg",
+            "videoId": "QWDayFgPDjQ"
+        },
+        {
+            "rank": 8,
             "title": "RUDE!",
             "artist": "Hearts2Hearts (하츠투하츠)",
             "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
             "videoId": "F7sGJVUrkjQ"
         },
         {
-            "rank": 4,
-            "title": "Good Goodbye",
-            "artist": "화사 (HWASA)",
-            "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
-            "videoId": "Qe8fa4b5xNU"
-        },
-        {
-            "rank": 5,
-            "title": "사랑하게 될 거야",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
-            "videoId": "h0KIWaUEIgQ"
-        },
-        {
-            "rank": 6,
-            "title": "Drowning",
-            "artist": "WOODZ",
-            "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
-            "videoId": "tiKFuzpX-NA"
-        },
-        {
-            "rank": 7,
-            "title": "TICK TOCK (Feat. ZICO) (Prod. by ZICO, Crush)",
-            "artist": "김하온 (HAON)",
-            "image": "https://i.ytimg.com/vi/Nx9pNz6-Wns/hqdefault.jpg",
-            "videoId": "Nx9pNz6-Wns"
-        },
-        {
-            "rank": 8,
-            "title": "0+0",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
-            "videoId": "_Ngk-DCHfD0"
-        },
-        {
             "rank": 9,
-            "title": "BLACKHOLE",
-            "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg",
-            "videoId": "1Lmy7qwmSMc"
+            "title": "Merry Go Round",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/8Lbbz4v7Ul8/hqdefault.jpg",
+            "videoId": "8Lbbz4v7Ul8"
         },
         {
             "rank": 10,
-            "title": "그대 작은 나의 세상이 되어",
-            "artist": "카더가든",
-            "image": "https://i.ytimg.com/vi/ZurHW2kBqrw/hqdefault.jpg",
-            "videoId": "ZurHW2kBqrw"
+            "title": "2.0",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/T24g72UlXok/hqdefault.jpg",
+            "videoId": "T24g72UlXok"
         }
     ],
     "shazam_korea": [
@@ -242,15 +242,15 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/UsRgOKvLiQk/hqdefault.jpg",
-            "videoId": "UsRgOKvLiQk"
+            "image": "https://i.ytimg.com/vi/8MPF0VmPMLs/hqdefault.jpg",
+            "videoId": "8MPF0VmPMLs"
         },
         {
             "rank": 5,
             "title": "Good bye",
             "artist": "We Are The Night",
-            "image": "https://i.ytimg.com/vi/bk8W9FYCT4Y/hqdefault.jpg",
-            "videoId": "bk8W9FYCT4Y"
+            "image": "https://i.ytimg.com/vi/O0ZtSbqGz0k/hqdefault.jpg",
+            "videoId": "O0ZtSbqGz0k"
         },
         {
             "rank": 6,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/hIf8xtu3FlQ/hqdefault.jpg",
-            "videoId": "hIf8xtu3FlQ"
+            "image": "https://i.ytimg.com/vi/Jfli40l4JZc/hqdefault.jpg",
+            "videoId": "Jfli40l4JZc"
         },
         {
             "rank": 7,
@@ -437,15 +437,15 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/MeOoJOt1P0Y/hqdefault.jpg",
-            "videoId": "MeOoJOt1P0Y"
+            "image": "https://i.ytimg.com/vi/fhvy1YWBMYU/hqdefault.jpg",
+            "videoId": "fhvy1YWBMYU"
         },
         {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/Z6G-QekDEWE/hqdefault.jpg",
-            "videoId": "Z6G-QekDEWE"
+            "image": "https://i.ytimg.com/vi/tA1UwsU4ysM/hqdefault.jpg",
+            "videoId": "tA1UwsU4ysM"
         },
         {
             "rank": 3,
@@ -486,8 +486,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/EJHPdfWZEWY/hqdefault.jpg",
-            "videoId": "EJHPdfWZEWY"
+            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
+            "videoId": "s8A9qvAnSg0"
         },
         {
             "rank": 9,
