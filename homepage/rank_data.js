@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-03-22 08:10:19",
+    "last_updated": "2026-03-23 08:11:19",
     "billboard": [
         {
             "rank": 1,
@@ -156,64 +156,64 @@ const rankData = {
             "rank": 2,
             "title": "Body to Body",
             "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/4ZWjFEvgczc/hqdefault.jpg",
-            "videoId": "4ZWjFEvgczc"
+            "image": "https://i.ytimg.com/vi/x0E9RbVP9-s/hqdefault.jpg",
+            "videoId": "x0E9RbVP9-s"
         },
         {
             "rank": 3,
-            "title": "Hooligan",
-            "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/PsMgMTuPsy8/hqdefault.jpg",
-            "videoId": "PsMgMTuPsy8"
-        },
-        {
-            "rank": 4,
             "title": "BANG BANG",
             "artist": "IVE (아이브)",
             "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
             "videoId": "9qkpcLK422o"
         },
         {
-            "rank": 5,
-            "title": "Aliens",
-            "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/R5wEBeU6TRg/hqdefault.jpg",
-            "videoId": "R5wEBeU6TRg"
-        },
-        {
-            "rank": 6,
-            "title": "FYA",
-            "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/QWDayFgPDjQ/hqdefault.jpg",
-            "videoId": "QWDayFgPDjQ"
-        },
-        {
-            "rank": 7,
+            "rank": 4,
             "title": "404 (New Era)",
             "artist": "KiiiKiii (키키)",
             "image": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg",
             "videoId": "zhHB4dZTChw"
         },
         {
-            "rank": 8,
-            "title": "Merry Go Round",
-            "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/8Lbbz4v7Ul8/hqdefault.jpg",
-            "videoId": "8Lbbz4v7Ul8"
-        },
-        {
-            "rank": 9,
-            "title": "2.0",
-            "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/T24g72UlXok/hqdefault.jpg",
-            "videoId": "T24g72UlXok"
-        },
-        {
-            "rank": 10,
+            "rank": 5,
             "title": "RUDE!",
             "artist": "Hearts2Hearts (하츠투하츠)",
             "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
             "videoId": "F7sGJVUrkjQ"
+        },
+        {
+            "rank": 6,
+            "title": "Hooligan",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/PsMgMTuPsy8/hqdefault.jpg",
+            "videoId": "PsMgMTuPsy8"
+        },
+        {
+            "rank": 7,
+            "title": "Good Goodbye",
+            "artist": "화사 (HWASA)",
+            "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
+            "videoId": "Qe8fa4b5xNU"
+        },
+        {
+            "rank": 8,
+            "title": "사랑하게 될 거야",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
+            "videoId": "h0KIWaUEIgQ"
+        },
+        {
+            "rank": 9,
+            "title": "Aliens",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/EC9_h_elSAY/hqdefault.jpg",
+            "videoId": "EC9_h_elSAY"
+        },
+        {
+            "rank": 10,
+            "title": "Drowning",
+            "artist": "WOODZ",
+            "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
+            "videoId": "tiKFuzpX-NA"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/UsRgOKvLiQk/hqdefault.jpg",
-            "videoId": "UsRgOKvLiQk"
+            "image": "https://i.ytimg.com/vi/8MPF0VmPMLs/hqdefault.jpg",
+            "videoId": "8MPF0VmPMLs"
         },
         {
             "rank": 5,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
-            "videoId": "eCLI6mbb7Dg"
+            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
+            "videoId": "oY75OIjru0o"
         },
         {
             "rank": 5,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/KRxHaT0bTH8/hqdefault.jpg",
-            "videoId": "KRxHaT0bTH8"
+            "image": "https://i.ytimg.com/vi/j_9LN8x2z3k/hqdefault.jpg",
+            "videoId": "j_9LN8x2z3k"
         },
         {
             "rank": 9,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/RFb6Xomb_cg/hqdefault.jpg",
-            "videoId": "RFb6Xomb_cg"
+            "image": "https://i.ytimg.com/vi/0TjhlMxQqzw/hqdefault.jpg",
+            "videoId": "0TjhlMxQqzw"
         },
         {
             "rank": 2,
@@ -421,15 +421,15 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/pkI2tWl0v04/hqdefault.jpg",
-            "videoId": "pkI2tWl0v04"
+            "image": "https://i.ytimg.com/vi/uESO0F6OcvE/hqdefault.jpg",
+            "videoId": "uESO0F6OcvE"
         },
         {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/0TjhlMxQqzw/hqdefault.jpg",
-            "videoId": "0TjhlMxQqzw"
+            "image": "https://i.ytimg.com/vi/5kS7Az8Qz10/hqdefault.jpg",
+            "videoId": "5kS7Az8Qz10"
         }
     ],
     "youtube_shorts_global": [
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/fhvy1YWBMYU/hqdefault.jpg",
-            "videoId": "fhvy1YWBMYU"
+            "image": "https://i.ytimg.com/vi/MeOoJOt1P0Y/hqdefault.jpg",
+            "videoId": "MeOoJOt1P0Y"
         },
         {
             "rank": 2,
@@ -458,8 +458,8 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/LUkpMxaZlDA/hqdefault.jpg",
-            "videoId": "LUkpMxaZlDA"
+            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
+            "videoId": "mPmoojB54xI"
         },
         {
             "rank": 5,
@@ -486,8 +486,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
-            "videoId": "s8A9qvAnSg0"
+            "image": "https://i.ytimg.com/vi/_RRHaZrqwn4/hqdefault.jpg",
+            "videoId": "_RRHaZrqwn4"
         },
         {
             "rank": 9,
