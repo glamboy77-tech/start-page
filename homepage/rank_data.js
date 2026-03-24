@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-03-24 08:13:30",
+    "last_updated": "2026-03-25 08:13:09",
     "billboard": [
         {
             "rank": 1,
@@ -24,17 +24,17 @@ const rankData = {
         },
         {
             "rank": 4,
-            "title": "American Girls",
-            "artist": "Harry Styles",
-            "image": "https://i.ytimg.com/vi/o6jQo3-iCao/hqdefault.jpg",
-            "videoId": "o6jQo3-iCao"
-        },
-        {
-            "rank": 5,
             "title": "Ordinary",
             "artist": "Alex Warren",
             "image": "https://i.ytimg.com/vi/u2ah9tWTkmk/hqdefault.jpg",
             "videoId": "u2ah9tWTkmk"
+        },
+        {
+            "rank": 5,
+            "title": "Golden",
+            "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
+            "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
+            "videoId": "yebNIHKAC4A"
         },
         {
             "rank": 6,
@@ -45,10 +45,10 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "Golden",
-            "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
-            "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
-            "videoId": "yebNIHKAC4A"
+            "title": "Opalite",
+            "artist": "Taylor Swift",
+            "image": "https://i.ytimg.com/vi/1FVF-9KQiPo/hqdefault.jpg",
+            "videoId": "1FVF-9KQiPo"
         },
         {
             "rank": 8,
@@ -59,17 +59,17 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "Aperture",
-            "artist": "Harry Styles",
-            "image": "https://i.ytimg.com/vi/7sxVHYZ_PnA/hqdefault.jpg",
-            "videoId": "7sxVHYZ_PnA"
+            "title": "So Easy (To Fall In Love)",
+            "artist": "Olivia Dean",
+            "image": "https://i.ytimg.com/vi/3sur4BmjQt8/hqdefault.jpg",
+            "videoId": "3sur4BmjQt8"
         },
         {
             "rank": 10,
-            "title": "Opalite",
-            "artist": "Taylor Swift",
-            "image": "https://i.ytimg.com/vi/1FVF-9KQiPo/hqdefault.jpg",
-            "videoId": "1FVF-9KQiPo"
+            "title": "American Girls",
+            "artist": "Harry Styles",
+            "image": "https://i.ytimg.com/vi/o6jQo3-iCao/hqdefault.jpg",
+            "videoId": "o6jQo3-iCao"
         }
     ],
     "billboard_rock": [
@@ -82,66 +82,66 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "End Of Beginning",
-            "artist": "Djo",
-            "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
-            "videoId": "aH7gkoBpN3s"
-        },
-        {
-            "rank": 3,
             "title": "Babydoll",
             "artist": "Dominic Fike",
             "image": "https://i.ytimg.com/vi/KqMOKCRgvD8/hqdefault.jpg",
             "videoId": "KqMOKCRgvD8"
         },
         {
-            "rank": 4,
-            "title": "Homewrecker",
-            "artist": "sombr",
-            "image": "https://i.ytimg.com/vi/mQezde_qeXw/hqdefault.jpg",
-            "videoId": "mQezde_qeXw"
+            "rank": 3,
+            "title": "Porch Light",
+            "artist": "Noah Kahan",
+            "image": "https://i.ytimg.com/vi/hQSO9vFXnBU/hqdefault.jpg",
+            "videoId": "hQSO9vFXnBU"
         },
         {
-            "rank": 5,
+            "rank": 4,
             "title": "Dracula",
             "artist": "Tame Impala",
             "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
             "videoId": "xnP7qKxwzjg"
         },
         {
+            "rank": 5,
+            "title": "End Of Beginning",
+            "artist": "Djo",
+            "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
+            "videoId": "aH7gkoBpN3s"
+        },
+        {
             "rank": 6,
+            "title": "Homewrecker",
+            "artist": "sombr",
+            "image": "https://i.ytimg.com/vi/mQezde_qeXw/hqdefault.jpg",
+            "videoId": "mQezde_qeXw"
+        },
+        {
+            "rank": 7,
             "title": "The Great Divide",
             "artist": "Noah Kahan",
             "image": "https://i.ytimg.com/vi/SKs80r2Lp34/hqdefault.jpg",
             "videoId": "SKs80r2Lp34"
         },
         {
-            "rank": 7,
+            "rank": 8,
             "title": "12 To 12",
             "artist": "sombr",
             "image": "https://i.ytimg.com/vi/cZgUiR31m-Y/hqdefault.jpg",
             "videoId": "cZgUiR31m-Y"
         },
         {
-            "rank": 8,
+            "rank": 9,
+            "title": "In My Room",
+            "artist": "Julia Wolf",
+            "image": "https://i.ytimg.com/vi/AhaISeg6zpE/hqdefault.jpg",
+            "videoId": "AhaISeg6zpE"
+        },
+        {
+            "rank": 10,
             "title": "Say Why",
             "artist": "Zach Bryan",
             "image": "https://i.ytimg.com/vi/SzMu9Cf7xeQ/hqdefault.jpg",
             "videoId": "SzMu9Cf7xeQ"
-        },
-        {
-            "rank": 9,
-            "title": "Plastic Cigarette",
-            "artist": "Zach Bryan",
-            "image": "https://i.ytimg.com/vi/MBWmVXzGdVs/hqdefault.jpg",
-            "videoId": "MBWmVXzGdVs"
-        },
-        {
-            "rank": 10,
-            "title": "I Thought I Saw Your Face Today",
-            "artist": "She & Him",
-            "image": "https://i.ytimg.com/vi/pyGU-UudvrM/hqdefault.jpg",
-            "videoId": "pyGU-UudvrM"
         }
     ],
     "melon": [
@@ -156,8 +156,8 @@ const rankData = {
             "rank": 2,
             "title": "Body to Body",
             "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/x0E9RbVP9-s/hqdefault.jpg",
-            "videoId": "x0E9RbVP9-s"
+            "image": "https://i.ytimg.com/vi/4AaqTRa_azY/hqdefault.jpg",
+            "videoId": "4AaqTRa_azY"
         },
         {
             "rank": 3,
@@ -189,31 +189,31 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "사랑하게 될 거야",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
-            "videoId": "h0KIWaUEIgQ"
-        },
-        {
-            "rank": 8,
-            "title": "Hooligan",
-            "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/PsMgMTuPsy8/hqdefault.jpg",
-            "videoId": "PsMgMTuPsy8"
-        },
-        {
-            "rank": 9,
             "title": "Drowning",
             "artist": "WOODZ",
             "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
             "videoId": "tiKFuzpX-NA"
         },
         {
+            "rank": 8,
+            "title": "사랑하게 될 거야",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
+            "videoId": "h0KIWaUEIgQ"
+        },
+        {
+            "rank": 9,
+            "title": "Hooligan",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/PsMgMTuPsy8/hqdefault.jpg",
+            "videoId": "PsMgMTuPsy8"
+        },
+        {
             "rank": 10,
             "title": "Aliens",
             "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/EC9_h_elSAY/hqdefault.jpg",
-            "videoId": "EC9_h_elSAY"
+            "image": "https://i.ytimg.com/vi/OqQcUsNG5kQ/hqdefault.jpg",
+            "videoId": "OqQcUsNG5kQ"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/6Pmz392qyeA/hqdefault.jpg",
-            "videoId": "6Pmz392qyeA"
+            "image": "https://i.ytimg.com/vi/Rp-2DkHMG44/hqdefault.jpg",
+            "videoId": "Rp-2DkHMG44"
         },
         {
             "rank": 5,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/VBPZvuQoWy8/hqdefault.jpg",
-            "videoId": "VBPZvuQoWy8"
+            "image": "https://i.ytimg.com/vi/6h4POqtAbag/hqdefault.jpg",
+            "videoId": "6h4POqtAbag"
         }
     ],
     "shazam_global": [
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/UQ32RS8JYck/hqdefault.jpg",
-            "videoId": "UQ32RS8JYck"
+            "image": "https://i.ytimg.com/vi/gXWVGlpIH20/hqdefault.jpg",
+            "videoId": "gXWVGlpIH20"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/KRxHaT0bTH8/hqdefault.jpg",
-            "videoId": "KRxHaT0bTH8"
+            "image": "https://i.ytimg.com/vi/j_9LN8x2z3k/hqdefault.jpg",
+            "videoId": "j_9LN8x2z3k"
         },
         {
             "rank": 9,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/0TjhlMxQqzw/hqdefault.jpg",
-            "videoId": "0TjhlMxQqzw"
+            "image": "https://i.ytimg.com/vi/tuRfuhoDQiE/hqdefault.jpg",
+            "videoId": "tuRfuhoDQiE"
         },
         {
             "rank": 2,
@@ -421,8 +421,8 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/pkI2tWl0v04/hqdefault.jpg",
-            "videoId": "pkI2tWl0v04"
+            "image": "https://i.ytimg.com/vi/uESO0F6OcvE/hqdefault.jpg",
+            "videoId": "uESO0F6OcvE"
         },
         {
             "rank": 10,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/fhvy1YWBMYU/hqdefault.jpg",
-            "videoId": "fhvy1YWBMYU"
+            "image": "https://i.ytimg.com/vi/MeOoJOt1P0Y/hqdefault.jpg",
+            "videoId": "MeOoJOt1P0Y"
         },
         {
             "rank": 2,
