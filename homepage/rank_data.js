@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-03-25 08:13:09",
+    "last_updated": "2026-03-26 08:15:31",
     "billboard": [
         {
             "rank": 1,
@@ -149,22 +149,22 @@ const rankData = {
             "rank": 1,
             "title": "SWIM",
             "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
-            "videoId": "b4iVv91Z6lY"
+            "image": "https://i.ytimg.com/vi/h-Y97xErGL8/hqdefault.jpg",
+            "videoId": "h-Y97xErGL8"
         },
         {
             "rank": 2,
-            "title": "Body to Body",
-            "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/4AaqTRa_azY/hqdefault.jpg",
-            "videoId": "4AaqTRa_azY"
-        },
-        {
-            "rank": 3,
             "title": "BANG BANG",
             "artist": "IVE (아이브)",
             "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
             "videoId": "9qkpcLK422o"
+        },
+        {
+            "rank": 3,
+            "title": "Body to Body",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/3PHs-o5JPHM/hqdefault.jpg",
+            "videoId": "3PHs-o5JPHM"
         },
         {
             "rank": 4,
@@ -205,15 +205,15 @@ const rankData = {
             "rank": 9,
             "title": "Hooligan",
             "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/PsMgMTuPsy8/hqdefault.jpg",
-            "videoId": "PsMgMTuPsy8"
+            "image": "https://i.ytimg.com/vi/lwzNFdIoNvc/hqdefault.jpg",
+            "videoId": "lwzNFdIoNvc"
         },
         {
             "rank": 10,
-            "title": "Aliens",
-            "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/OqQcUsNG5kQ/hqdefault.jpg",
-            "videoId": "OqQcUsNG5kQ"
+            "title": "0+0",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
+            "videoId": "_Ngk-DCHfD0"
         }
     ],
     "shazam_korea": [
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/Rp-2DkHMG44/hqdefault.jpg",
-            "videoId": "Rp-2DkHMG44"
+            "image": "https://i.ytimg.com/vi/8MPF0VmPMLs/hqdefault.jpg",
+            "videoId": "8MPF0VmPMLs"
         },
         {
             "rank": 5,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/6h4POqtAbag/hqdefault.jpg",
-            "videoId": "6h4POqtAbag"
+            "image": "https://i.ytimg.com/vi/u4P94G9Mhig/hqdefault.jpg",
+            "videoId": "u4P94G9Mhig"
         }
     ],
     "shazam_global": [
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
-            "videoId": "eCLI6mbb7Dg"
+            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
+            "videoId": "oY75OIjru0o"
         },
         {
             "rank": 5,
@@ -328,22 +328,22 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/gXWVGlpIH20/hqdefault.jpg",
-            "videoId": "gXWVGlpIH20"
+            "image": "https://i.ytimg.com/vi/alnGXMIY3ZM/hqdefault.jpg",
+            "videoId": "alnGXMIY3ZM"
         },
         {
             "rank": 7,
             "title": "Moonwalkin'",
             "artist": "LNGSHOT",
-            "image": "https://i.ytimg.com/vi/HJgdT15UT4k/hqdefault.jpg",
-            "videoId": "HJgdT15UT4k"
+            "image": "https://i.ytimg.com/vi/xdAbB3sCQH0/hqdefault.jpg",
+            "videoId": "xdAbB3sCQH0"
         },
         {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/j_9LN8x2z3k/hqdefault.jpg",
-            "videoId": "j_9LN8x2z3k"
+            "image": "https://i.ytimg.com/vi/KRxHaT0bTH8/hqdefault.jpg",
+            "videoId": "KRxHaT0bTH8"
         },
         {
             "rank": 9,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/tuRfuhoDQiE/hqdefault.jpg",
-            "videoId": "tuRfuhoDQiE"
+            "image": "https://i.ytimg.com/vi/NwkRYRhsFpA/hqdefault.jpg",
+            "videoId": "NwkRYRhsFpA"
         },
         {
             "rank": 2,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/MeOoJOt1P0Y/hqdefault.jpg",
-            "videoId": "MeOoJOt1P0Y"
+            "image": "https://i.ytimg.com/vi/WQxW1DtlMEI/hqdefault.jpg",
+            "videoId": "WQxW1DtlMEI"
         },
         {
             "rank": 2,
