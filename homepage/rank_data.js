@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-03-29 08:12:14",
+    "last_updated": "2026-03-30 08:13:29",
     "billboard": [
         {
             "rank": 1,
@@ -154,66 +154,66 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "Body to Body",
-            "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/FYX1bKDnXrM/hqdefault.jpg",
-            "videoId": "FYX1bKDnXrM"
-        },
-        {
-            "rank": 3,
             "title": "BANG BANG",
             "artist": "IVE (아이브)",
             "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
             "videoId": "9qkpcLK422o"
         },
         {
-            "rank": 4,
-            "title": "Hooligan",
-            "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/lwzNFdIoNvc/hqdefault.jpg",
-            "videoId": "lwzNFdIoNvc"
-        },
-        {
-            "rank": 5,
-            "title": "404 (New Era)",
-            "artist": "KiiiKiii (키키)",
-            "image": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg",
-            "videoId": "zhHB4dZTChw"
-        },
-        {
-            "rank": 6,
-            "title": "FYA",
-            "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/qXHIxcZyy3s/hqdefault.jpg",
-            "videoId": "qXHIxcZyy3s"
-        },
-        {
-            "rank": 7,
-            "title": "Aliens",
-            "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/OqQcUsNG5kQ/hqdefault.jpg",
-            "videoId": "OqQcUsNG5kQ"
-        },
-        {
-            "rank": 8,
+            "rank": 3,
             "title": "RUDE!",
             "artist": "Hearts2Hearts (하츠투하츠)",
             "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
             "videoId": "F7sGJVUrkjQ"
         },
         {
-            "rank": 9,
-            "title": "Like Animals",
+            "rank": 4,
+            "title": "404 (New Era)",
+            "artist": "KiiiKiii (키키)",
+            "image": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg",
+            "videoId": "zhHB4dZTChw"
+        },
+        {
+            "rank": 5,
+            "title": "Body to Body",
             "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/MjyRgfMUbxY/hqdefault.jpg",
-            "videoId": "MjyRgfMUbxY"
+            "image": "https://i.ytimg.com/vi/FYX1bKDnXrM/hqdefault.jpg",
+            "videoId": "FYX1bKDnXrM"
+        },
+        {
+            "rank": 6,
+            "title": "Drowning",
+            "artist": "WOODZ",
+            "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
+            "videoId": "tiKFuzpX-NA"
+        },
+        {
+            "rank": 7,
+            "title": "사랑하게 될 거야",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
+            "videoId": "h0KIWaUEIgQ"
+        },
+        {
+            "rank": 8,
+            "title": "Good Goodbye",
+            "artist": "화사 (HWASA)",
+            "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
+            "videoId": "Qe8fa4b5xNU"
+        },
+        {
+            "rank": 9,
+            "title": "0+0",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
+            "videoId": "_Ngk-DCHfD0"
         },
         {
             "rank": 10,
-            "title": "2.0",
+            "title": "Hooligan",
             "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/IiKP9iokqSI/hqdefault.jpg",
-            "videoId": "IiKP9iokqSI"
+            "image": "https://i.ytimg.com/vi/lwzNFdIoNvc/hqdefault.jpg",
+            "videoId": "lwzNFdIoNvc"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/z0Xc_rzYZV8/hqdefault.jpg",
-            "videoId": "z0Xc_rzYZV8"
+            "image": "https://i.ytimg.com/vi/wRM1OqXJ5TY/hqdefault.jpg",
+            "videoId": "wRM1OqXJ5TY"
         },
         {
             "rank": 7,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/UQ32RS8JYck/hqdefault.jpg",
-            "videoId": "UQ32RS8JYck"
+            "image": "https://i.ytimg.com/vi/Jfli40l4JZc/hqdefault.jpg",
+            "videoId": "Jfli40l4JZc"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/KRxHaT0bTH8/hqdefault.jpg",
-            "videoId": "KRxHaT0bTH8"
+            "image": "https://i.ytimg.com/vi/tscMSXk_jaQ/hqdefault.jpg",
+            "videoId": "tscMSXk_jaQ"
         },
         {
             "rank": 9,
@@ -421,8 +421,8 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
-            "videoId": "ul0V77Yl78o"
+            "image": "https://i.ytimg.com/vi/XQglsRW3B-M/hqdefault.jpg",
+            "videoId": "XQglsRW3B-M"
         },
         {
             "rank": 10,
