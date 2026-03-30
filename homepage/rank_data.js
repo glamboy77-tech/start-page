@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-03-30 08:13:29",
+    "last_updated": "2026-03-31 08:15:47",
     "billboard": [
         {
             "rank": 1,
@@ -149,8 +149,8 @@ const rankData = {
             "rank": 1,
             "title": "SWIM",
             "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
-            "videoId": "b4iVv91Z6lY"
+            "image": "https://i.ytimg.com/vi/h-Y97xErGL8/hqdefault.jpg",
+            "videoId": "h-Y97xErGL8"
         },
         {
             "rank": 2,
@@ -161,24 +161,24 @@ const rankData = {
         },
         {
             "rank": 3,
+            "title": "Body to Body",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/OOcAnav8ASk/hqdefault.jpg",
+            "videoId": "OOcAnav8ASk"
+        },
+        {
+            "rank": 4,
             "title": "RUDE!",
             "artist": "Hearts2Hearts (하츠투하츠)",
             "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
             "videoId": "F7sGJVUrkjQ"
         },
         {
-            "rank": 4,
+            "rank": 5,
             "title": "404 (New Era)",
             "artist": "KiiiKiii (키키)",
             "image": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg",
             "videoId": "zhHB4dZTChw"
-        },
-        {
-            "rank": 5,
-            "title": "Body to Body",
-            "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/FYX1bKDnXrM/hqdefault.jpg",
-            "videoId": "FYX1bKDnXrM"
         },
         {
             "rank": 6,
@@ -189,17 +189,17 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "사랑하게 될 거야",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
-            "videoId": "h0KIWaUEIgQ"
-        },
-        {
-            "rank": 8,
             "title": "Good Goodbye",
             "artist": "화사 (HWASA)",
             "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
             "videoId": "Qe8fa4b5xNU"
+        },
+        {
+            "rank": 8,
+            "title": "사랑하게 될 거야",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
+            "videoId": "h0KIWaUEIgQ"
         },
         {
             "rank": 9,
@@ -249,8 +249,8 @@ const rankData = {
             "rank": 5,
             "title": "Good bye",
             "artist": "We Are The Night",
-            "image": "https://i.ytimg.com/vi/bk8W9FYCT4Y/hqdefault.jpg",
-            "videoId": "bk8W9FYCT4Y"
+            "image": "https://i.ytimg.com/vi/O0ZtSbqGz0k/hqdefault.jpg",
+            "videoId": "O0ZtSbqGz0k"
         },
         {
             "rank": 6,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/Jfli40l4JZc/hqdefault.jpg",
-            "videoId": "Jfli40l4JZc"
+            "image": "https://i.ytimg.com/vi/UQ32RS8JYck/hqdefault.jpg",
+            "videoId": "UQ32RS8JYck"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/tscMSXk_jaQ/hqdefault.jpg",
-            "videoId": "tscMSXk_jaQ"
+            "image": "https://i.ytimg.com/vi/50VNCymT-Cs/hqdefault.jpg",
+            "videoId": "50VNCymT-Cs"
         },
         {
             "rank": 9,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/n3e9lwoAmj4/hqdefault.jpg",
-            "videoId": "n3e9lwoAmj4"
+            "image": "https://i.ytimg.com/vi/fhvy1YWBMYU/hqdefault.jpg",
+            "videoId": "fhvy1YWBMYU"
         },
         {
             "rank": 2,
@@ -458,8 +458,8 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
-            "videoId": "mPmoojB54xI"
+            "image": "https://i.ytimg.com/vi/LUkpMxaZlDA/hqdefault.jpg",
+            "videoId": "LUkpMxaZlDA"
         },
         {
             "rank": 5,
