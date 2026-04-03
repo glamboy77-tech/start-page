@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-04-03 08:13:45",
+    "last_updated": "2026-04-04 08:14:08",
     "billboard": [
         {
             "rank": 1,
@@ -105,8 +105,8 @@ const rankData = {
             "rank": 5,
             "title": "End Of Beginning",
             "artist": "Djo",
-            "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
-            "videoId": "aH7gkoBpN3s"
+            "image": "https://i.ytimg.com/vi/B3Z4XGAxJB0/hqdefault.jpg",
+            "videoId": "B3Z4XGAxJB0"
         },
         {
             "rank": 6,
@@ -154,31 +154,31 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "BANG BANG",
-            "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
-            "videoId": "9qkpcLK422o"
+            "title": "Body to Body",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/3PHs-o5JPHM/hqdefault.jpg",
+            "videoId": "3PHs-o5JPHM"
         },
         {
             "rank": 3,
+            "title": "BANG BANG",
+            "artist": "IVE (아이브)",
+            "image": "https://i.ytimg.com/vi/7Hej_xxZB8o/hqdefault.jpg",
+            "videoId": "7Hej_xxZB8o"
+        },
+        {
+            "rank": 4,
             "title": "404 (New Era)",
             "artist": "KiiiKiii (키키)",
             "image": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg",
             "videoId": "zhHB4dZTChw"
         },
         {
-            "rank": 4,
+            "rank": 5,
             "title": "RUDE!",
             "artist": "Hearts2Hearts (하츠투하츠)",
             "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
             "videoId": "F7sGJVUrkjQ"
-        },
-        {
-            "rank": 5,
-            "title": "Body to Body",
-            "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/3PHs-o5JPHM/hqdefault.jpg",
-            "videoId": "3PHs-o5JPHM"
         },
         {
             "rank": 6,
@@ -189,10 +189,10 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "사랑하게 될 거야",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
-            "videoId": "h0KIWaUEIgQ"
+            "title": "Hooligan",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/lwzNFdIoNvc/hqdefault.jpg",
+            "videoId": "lwzNFdIoNvc"
         },
         {
             "rank": 8,
@@ -203,17 +203,17 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "0+0",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
-            "videoId": "_Ngk-DCHfD0"
+            "title": "2.0",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/_gyultVTesk/hqdefault.jpg",
+            "videoId": "_gyultVTesk"
         },
         {
             "rank": 10,
-            "title": "Hooligan",
-            "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/lwzNFdIoNvc/hqdefault.jpg",
-            "videoId": "lwzNFdIoNvc"
+            "title": "사랑하게 될 거야",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
+            "videoId": "h0KIWaUEIgQ"
         }
     ],
     "shazam_korea": [
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
-            "videoId": "oY75OIjru0o"
+            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
+            "videoId": "eCLI6mbb7Dg"
         },
         {
             "rank": 5,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/0TjhlMxQqzw/hqdefault.jpg",
-            "videoId": "0TjhlMxQqzw"
+            "image": "https://i.ytimg.com/vi/vJKF_apMgcc/hqdefault.jpg",
+            "videoId": "vJKF_apMgcc"
         },
         {
             "rank": 2,
