@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-04-04 08:14:08",
+    "last_updated": "2026-04-05 08:12:36",
     "billboard": [
         {
             "rank": 1,
@@ -40,8 +40,8 @@ const rankData = {
             "rank": 6,
             "title": "Golden",
             "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
-            "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
-            "videoId": "yebNIHKAC4A"
+            "image": "https://i.ytimg.com/vi/oTqB-o-SL7c/hqdefault.jpg",
+            "videoId": "oTqB-o-SL7c"
         },
         {
             "rank": 7,
@@ -105,8 +105,8 @@ const rankData = {
             "rank": 5,
             "title": "End Of Beginning",
             "artist": "Djo",
-            "image": "https://i.ytimg.com/vi/B3Z4XGAxJB0/hqdefault.jpg",
-            "videoId": "B3Z4XGAxJB0"
+            "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
+            "videoId": "aH7gkoBpN3s"
         },
         {
             "rank": 6,
@@ -163,8 +163,8 @@ const rankData = {
             "rank": 3,
             "title": "BANG BANG",
             "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/7Hej_xxZB8o/hqdefault.jpg",
-            "videoId": "7Hej_xxZB8o"
+            "image": "https://i.ytimg.com/vi/uVpGElT--E8/hqdefault.jpg",
+            "videoId": "uVpGElT--E8"
         },
         {
             "rank": 4,
@@ -182,31 +182,31 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "Drowning",
-            "artist": "WOODZ",
-            "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
-            "videoId": "tiKFuzpX-NA"
-        },
-        {
-            "rank": 7,
             "title": "Hooligan",
             "artist": "방탄소년단",
             "image": "https://i.ytimg.com/vi/lwzNFdIoNvc/hqdefault.jpg",
             "videoId": "lwzNFdIoNvc"
         },
         {
-            "rank": 8,
-            "title": "Good Goodbye",
-            "artist": "화사 (HWASA)",
-            "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
-            "videoId": "Qe8fa4b5xNU"
-        },
-        {
-            "rank": 9,
+            "rank": 7,
             "title": "2.0",
             "artist": "방탄소년단",
             "image": "https://i.ytimg.com/vi/_gyultVTesk/hqdefault.jpg",
             "videoId": "_gyultVTesk"
+        },
+        {
+            "rank": 8,
+            "title": "Drowning",
+            "artist": "WOODZ",
+            "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
+            "videoId": "tiKFuzpX-NA"
+        },
+        {
+            "rank": 9,
+            "title": "FYA",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/qXHIxcZyy3s/hqdefault.jpg",
+            "videoId": "qXHIxcZyy3s"
         },
         {
             "rank": 10,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/u4P94G9Mhig/hqdefault.jpg",
-            "videoId": "u4P94G9Mhig"
+            "image": "https://i.ytimg.com/vi/6h4POqtAbag/hqdefault.jpg",
+            "videoId": "6h4POqtAbag"
         }
     ],
     "shazam_global": [
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
-            "videoId": "eCLI6mbb7Dg"
+            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
+            "videoId": "oY75OIjru0o"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/UQ32RS8JYck/hqdefault.jpg",
-            "videoId": "UQ32RS8JYck"
+            "image": "https://i.ytimg.com/vi/I5xKZ-p-2R8/hqdefault.jpg",
+            "videoId": "I5xKZ-p-2R8"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/KRxHaT0bTH8/hqdefault.jpg",
-            "videoId": "KRxHaT0bTH8"
+            "image": "https://i.ytimg.com/vi/j_9LN8x2z3k/hqdefault.jpg",
+            "videoId": "j_9LN8x2z3k"
         },
         {
             "rank": 9,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/vJKF_apMgcc/hqdefault.jpg",
-            "videoId": "vJKF_apMgcc"
+            "image": "https://i.ytimg.com/vi/Xz-_b4Nvn_Q/hqdefault.jpg",
+            "videoId": "Xz-_b4Nvn_Q"
         },
         {
             "rank": 2,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/n3e9lwoAmj4/hqdefault.jpg",
-            "videoId": "n3e9lwoAmj4"
+            "image": "https://i.ytimg.com/vi/MeOoJOt1P0Y/hqdefault.jpg",
+            "videoId": "MeOoJOt1P0Y"
         },
         {
             "rank": 2,
@@ -458,8 +458,8 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
-            "videoId": "mPmoojB54xI"
+            "image": "https://i.ytimg.com/vi/LUkpMxaZlDA/hqdefault.jpg",
+            "videoId": "LUkpMxaZlDA"
         },
         {
             "rank": 5,
