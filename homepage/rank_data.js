@@ -1,19 +1,19 @@
 const rankData = {
-    "last_updated": "2026-04-07 08:15:35",
+    "last_updated": "2026-04-08 08:17:24",
     "billboard": [
         {
             "rank": 1,
+            "title": "Choosin' Texas",
+            "artist": "Ella Langley",
+            "image": "https://i.ytimg.com/vi/nUsrYVxrDwI/hqdefault.jpg",
+            "videoId": "nUsrYVxrDwI"
+        },
+        {
+            "rank": 2,
             "title": "Swim",
             "artist": "BTS",
             "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
             "videoId": "b4iVv91Z6lY"
-        },
-        {
-            "rank": 2,
-            "title": "Choosin' Texas",
-            "artist": "Ella Langley",
-            "image": "https://i.ytimg.com/vi/hLOheGDwD_0/hqdefault.jpg",
-            "videoId": "hLOheGDwD_0"
         },
         {
             "rank": 3,
@@ -38,17 +38,17 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "Golden",
-            "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
-            "image": "https://i.ytimg.com/vi/slq4-4UKVRw/hqdefault.jpg",
-            "videoId": "slq4-4UKVRw"
-        },
-        {
-            "rank": 7,
             "title": "So Easy (To Fall In Love)",
             "artist": "Olivia Dean",
             "image": "https://i.ytimg.com/vi/3sur4BmjQt8/hqdefault.jpg",
             "videoId": "3sur4BmjQt8"
+        },
+        {
+            "rank": 7,
+            "title": "Golden",
+            "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
+            "image": "https://i.ytimg.com/vi/slq4-4UKVRw/hqdefault.jpg",
+            "videoId": "slq4-4UKVRw"
         },
         {
             "rank": 8,
@@ -138,10 +138,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "Rein Me In",
-            "artist": "Sam Fender & Olivia Dean",
-            "image": "https://i.ytimg.com/vi/3triLkS0nq4/hqdefault.jpg",
-            "videoId": "3triLkS0nq4"
+            "title": "Freakin' Out",
+            "artist": "Dexter And The Moonrocks",
+            "image": "https://i.ytimg.com/vi/Sf73y9GrJ4I/hqdefault.jpg",
+            "videoId": "Sf73y9GrJ4I"
         }
     ],
     "melon": [
@@ -156,8 +156,8 @@ const rankData = {
             "rank": 2,
             "title": "BANG BANG",
             "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/qQ1XSG2awPY/hqdefault.jpg",
-            "videoId": "qQ1XSG2awPY"
+            "image": "https://i.ytimg.com/vi/uVpGElT--E8/hqdefault.jpg",
+            "videoId": "uVpGElT--E8"
         },
         {
             "rank": 3,
@@ -168,52 +168,52 @@ const rankData = {
         },
         {
             "rank": 4,
+            "title": "기쁨, 슬픔, 아름다운 마음",
+            "artist": "AKMU (악뮤)",
+            "image": "https://i.ytimg.com/vi/SNn_H_Q2moo/hqdefault.jpg",
+            "videoId": "SNn_H_Q2moo"
+        },
+        {
+            "rank": 5,
             "title": "404 (New Era)",
             "artist": "KiiiKiii (키키)",
             "image": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg",
             "videoId": "zhHB4dZTChw"
         },
         {
-            "rank": 5,
+            "rank": 6,
             "title": "Body to Body",
             "artist": "방탄소년단",
             "image": "https://i.ytimg.com/vi/3PHs-o5JPHM/hqdefault.jpg",
             "videoId": "3PHs-o5JPHM"
         },
         {
-            "rank": 6,
+            "rank": 7,
+            "title": "소문의 낙원",
+            "artist": "AKMU (악뮤)",
+            "image": "https://i.ytimg.com/vi/D54StAZFUrc/hqdefault.jpg",
+            "videoId": "D54StAZFUrc"
+        },
+        {
+            "rank": 8,
             "title": "Drowning",
             "artist": "WOODZ",
             "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
             "videoId": "tiKFuzpX-NA"
         },
         {
-            "rank": 7,
+            "rank": 9,
             "title": "Good Goodbye",
             "artist": "화사 (HWASA)",
             "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
             "videoId": "Qe8fa4b5xNU"
         },
         {
-            "rank": 8,
+            "rank": 10,
             "title": "사랑하게 될 거야",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
             "videoId": "h0KIWaUEIgQ"
-        },
-        {
-            "rank": 9,
-            "title": "0+0",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
-            "videoId": "_Ngk-DCHfD0"
-        },
-        {
-            "rank": 10,
-            "title": "타임캡슐",
-            "artist": "다비치",
-            "image": "https://i.ytimg.com/vi/qE35JN1ogeI/hqdefault.jpg",
-            "videoId": "qE35JN1ogeI"
         }
     ],
     "shazam_korea": [
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/z0Xc_rzYZV8/hqdefault.jpg",
-            "videoId": "z0Xc_rzYZV8"
+            "image": "https://i.ytimg.com/vi/wRM1OqXJ5TY/hqdefault.jpg",
+            "videoId": "wRM1OqXJ5TY"
         },
         {
             "rank": 7,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
-            "videoId": "eCLI6mbb7Dg"
+            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
+            "videoId": "oY75OIjru0o"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/1AziMB3bVAA/hqdefault.jpg",
-            "videoId": "1AziMB3bVAA"
+            "image": "https://i.ytimg.com/vi/5hzuuykPAa0/hqdefault.jpg",
+            "videoId": "5hzuuykPAa0"
         },
         {
             "rank": 7,
@@ -421,8 +421,8 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
-            "videoId": "ul0V77Yl78o"
+            "image": "https://i.ytimg.com/vi/uESO0F6OcvE/hqdefault.jpg",
+            "videoId": "uESO0F6OcvE"
         },
         {
             "rank": 10,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/MeOoJOt1P0Y/hqdefault.jpg",
-            "videoId": "MeOoJOt1P0Y"
+            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
+            "videoId": "y9pELY1qWzM"
         },
         {
             "rank": 2,
