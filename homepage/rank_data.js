@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-04-08 08:17:24",
+    "last_updated": "2026-04-09 08:18:16",
     "billboard": [
         {
             "rank": 1,
@@ -47,8 +47,8 @@ const rankData = {
             "rank": 7,
             "title": "Golden",
             "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
-            "image": "https://i.ytimg.com/vi/slq4-4UKVRw/hqdefault.jpg",
-            "videoId": "slq4-4UKVRw"
+            "image": "https://i.ytimg.com/vi/oTqB-o-SL7c/hqdefault.jpg",
+            "videoId": "oTqB-o-SL7c"
         },
         {
             "rank": 8,
@@ -147,52 +147,52 @@ const rankData = {
     "melon": [
         {
             "rank": 1,
-            "title": "SWIM",
-            "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
-            "videoId": "b4iVv91Z6lY"
-        },
-        {
-            "rank": 2,
-            "title": "BANG BANG",
-            "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/uVpGElT--E8/hqdefault.jpg",
-            "videoId": "uVpGElT--E8"
-        },
-        {
-            "rank": 3,
-            "title": "RUDE!",
-            "artist": "Hearts2Hearts (하츠투하츠)",
-            "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
-            "videoId": "F7sGJVUrkjQ"
-        },
-        {
-            "rank": 4,
             "title": "기쁨, 슬픔, 아름다운 마음",
             "artist": "AKMU (악뮤)",
             "image": "https://i.ytimg.com/vi/SNn_H_Q2moo/hqdefault.jpg",
             "videoId": "SNn_H_Q2moo"
         },
         {
+            "rank": 2,
+            "title": "SWIM",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
+            "videoId": "b4iVv91Z6lY"
+        },
+        {
+            "rank": 3,
+            "title": "소문의 낙원",
+            "artist": "AKMU (악뮤)",
+            "image": "https://i.ytimg.com/vi/D54StAZFUrc/hqdefault.jpg",
+            "videoId": "D54StAZFUrc"
+        },
+        {
+            "rank": 4,
+            "title": "BANG BANG",
+            "artist": "IVE (아이브)",
+            "image": "https://i.ytimg.com/vi/uVpGElT--E8/hqdefault.jpg",
+            "videoId": "uVpGElT--E8"
+        },
+        {
             "rank": 5,
+            "title": "RUDE!",
+            "artist": "Hearts2Hearts (하츠투하츠)",
+            "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
+            "videoId": "F7sGJVUrkjQ"
+        },
+        {
+            "rank": 6,
             "title": "404 (New Era)",
             "artist": "KiiiKiii (키키)",
             "image": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg",
             "videoId": "zhHB4dZTChw"
         },
         {
-            "rank": 6,
+            "rank": 7,
             "title": "Body to Body",
             "artist": "방탄소년단",
             "image": "https://i.ytimg.com/vi/3PHs-o5JPHM/hqdefault.jpg",
             "videoId": "3PHs-o5JPHM"
-        },
-        {
-            "rank": 7,
-            "title": "소문의 낙원",
-            "artist": "AKMU (악뮤)",
-            "image": "https://i.ytimg.com/vi/D54StAZFUrc/hqdefault.jpg",
-            "videoId": "D54StAZFUrc"
         },
         {
             "rank": 8,
@@ -203,17 +203,17 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "Good Goodbye",
-            "artist": "화사 (HWASA)",
-            "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
-            "videoId": "Qe8fa4b5xNU"
-        },
-        {
-            "rank": 10,
             "title": "사랑하게 될 거야",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
             "videoId": "h0KIWaUEIgQ"
+        },
+        {
+            "rank": 10,
+            "title": "Good Goodbye",
+            "artist": "화사 (HWASA)",
+            "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
+            "videoId": "Qe8fa4b5xNU"
         }
     ],
     "shazam_korea": [
@@ -249,15 +249,15 @@ const rankData = {
             "rank": 5,
             "title": "Good bye",
             "artist": "We Are The Night",
-            "image": "https://i.ytimg.com/vi/O0ZtSbqGz0k/hqdefault.jpg",
-            "videoId": "O0ZtSbqGz0k"
+            "image": "https://i.ytimg.com/vi/bk8W9FYCT4Y/hqdefault.jpg",
+            "videoId": "bk8W9FYCT4Y"
         },
         {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/wRM1OqXJ5TY/hqdefault.jpg",
-            "videoId": "wRM1OqXJ5TY"
+            "image": "https://i.ytimg.com/vi/z0Xc_rzYZV8/hqdefault.jpg",
+            "videoId": "z0Xc_rzYZV8"
         },
         {
             "rank": 7,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/u4P94G9Mhig/hqdefault.jpg",
-            "videoId": "u4P94G9Mhig"
+            "image": "https://i.ytimg.com/vi/VBPZvuQoWy8/hqdefault.jpg",
+            "videoId": "VBPZvuQoWy8"
         }
     ],
     "shazam_global": [
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
-            "videoId": "oY75OIjru0o"
+            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
+            "videoId": "eCLI6mbb7Dg"
         },
         {
             "rank": 5,
@@ -414,8 +414,8 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/Vre8mMqbQMs/hqdefault.jpg",
-            "videoId": "Vre8mMqbQMs"
+            "image": "https://i.ytimg.com/vi/KRAFmgTECWw/hqdefault.jpg",
+            "videoId": "KRAFmgTECWw"
         },
         {
             "rank": 9,
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/5kS7Az8Qz10/hqdefault.jpg",
-            "videoId": "5kS7Az8Qz10"
+            "image": "https://i.ytimg.com/vi/o8fzQ1e01UE/hqdefault.jpg",
+            "videoId": "o8fzQ1e01UE"
         }
     ],
     "youtube_shorts_global": [
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
-            "videoId": "y9pELY1qWzM"
+            "image": "https://i.ytimg.com/vi/MeOoJOt1P0Y/hqdefault.jpg",
+            "videoId": "MeOoJOt1P0Y"
         },
         {
             "rank": 2,
