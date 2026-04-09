@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-04-09 08:18:16",
+    "last_updated": "2026-04-10 08:19:42",
     "billboard": [
         {
             "rank": 1,
@@ -154,17 +154,17 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "SWIM",
-            "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
-            "videoId": "b4iVv91Z6lY"
-        },
-        {
-            "rank": 3,
             "title": "소문의 낙원",
             "artist": "AKMU (악뮤)",
             "image": "https://i.ytimg.com/vi/D54StAZFUrc/hqdefault.jpg",
             "videoId": "D54StAZFUrc"
+        },
+        {
+            "rank": 3,
+            "title": "SWIM",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
+            "videoId": "b4iVv91Z6lY"
         },
         {
             "rank": 4,
@@ -196,17 +196,17 @@ const rankData = {
         },
         {
             "rank": 8,
-            "title": "Drowning",
-            "artist": "WOODZ",
-            "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
-            "videoId": "tiKFuzpX-NA"
-        },
-        {
-            "rank": 9,
             "title": "사랑하게 될 거야",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
             "videoId": "h0KIWaUEIgQ"
+        },
+        {
+            "rank": 9,
+            "title": "Drowning",
+            "artist": "WOODZ",
+            "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
+            "videoId": "tiKFuzpX-NA"
         },
         {
             "rank": 10,
@@ -249,15 +249,15 @@ const rankData = {
             "rank": 5,
             "title": "Good bye",
             "artist": "We Are The Night",
-            "image": "https://i.ytimg.com/vi/bk8W9FYCT4Y/hqdefault.jpg",
-            "videoId": "bk8W9FYCT4Y"
+            "image": "https://i.ytimg.com/vi/O0ZtSbqGz0k/hqdefault.jpg",
+            "videoId": "O0ZtSbqGz0k"
         },
         {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/z0Xc_rzYZV8/hqdefault.jpg",
-            "videoId": "z0Xc_rzYZV8"
+            "image": "https://i.ytimg.com/vi/wRM1OqXJ5TY/hqdefault.jpg",
+            "videoId": "wRM1OqXJ5TY"
         },
         {
             "rank": 7,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/9RspykhlGvE/hqdefault.jpg",
-            "videoId": "9RspykhlGvE"
+            "image": "https://i.ytimg.com/vi/xgkW5AnspnM/hqdefault.jpg",
+            "videoId": "xgkW5AnspnM"
         },
         {
             "rank": 9,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/VBPZvuQoWy8/hqdefault.jpg",
-            "videoId": "VBPZvuQoWy8"
+            "image": "https://i.ytimg.com/vi/u4P94G9Mhig/hqdefault.jpg",
+            "videoId": "u4P94G9Mhig"
         }
     ],
     "shazam_global": [
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
-            "videoId": "eCLI6mbb7Dg"
+            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
+            "videoId": "oY75OIjru0o"
         },
         {
             "rank": 5,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/0TjhlMxQqzw/hqdefault.jpg",
-            "videoId": "0TjhlMxQqzw"
+            "image": "https://i.ytimg.com/vi/V4Onahadtek/hqdefault.jpg",
+            "videoId": "V4Onahadtek"
         },
         {
             "rank": 2,
@@ -414,8 +414,8 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/KRAFmgTECWw/hqdefault.jpg",
-            "videoId": "KRAFmgTECWw"
+            "image": "https://i.ytimg.com/vi/Vre8mMqbQMs/hqdefault.jpg",
+            "videoId": "Vre8mMqbQMs"
         },
         {
             "rank": 9,
