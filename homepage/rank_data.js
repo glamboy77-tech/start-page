@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-04-10 08:19:42",
+    "last_updated": "2026-04-11 08:15:37",
     "billboard": [
         {
             "rank": 1,
@@ -47,8 +47,8 @@ const rankData = {
             "rank": 7,
             "title": "Golden",
             "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
-            "image": "https://i.ytimg.com/vi/oTqB-o-SL7c/hqdefault.jpg",
-            "videoId": "oTqB-o-SL7c"
+            "image": "https://i.ytimg.com/vi/Pn8MSGMwIs4/hqdefault.jpg",
+            "videoId": "Pn8MSGMwIs4"
         },
         {
             "rank": 8,
@@ -168,17 +168,17 @@ const rankData = {
         },
         {
             "rank": 4,
-            "title": "BANG BANG",
-            "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/uVpGElT--E8/hqdefault.jpg",
-            "videoId": "uVpGElT--E8"
+            "title": "Body to Body",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/3PHs-o5JPHM/hqdefault.jpg",
+            "videoId": "3PHs-o5JPHM"
         },
         {
             "rank": 5,
-            "title": "RUDE!",
-            "artist": "Hearts2Hearts (하츠투하츠)",
-            "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
-            "videoId": "F7sGJVUrkjQ"
+            "title": "BANG BANG",
+            "artist": "IVE (아이브)",
+            "image": "https://i.ytimg.com/vi/T9SPtGa1LhE/hqdefault.jpg",
+            "videoId": "T9SPtGa1LhE"
         },
         {
             "rank": 6,
@@ -189,10 +189,10 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "Body to Body",
-            "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/3PHs-o5JPHM/hqdefault.jpg",
-            "videoId": "3PHs-o5JPHM"
+            "title": "RUDE!",
+            "artist": "Hearts2Hearts (하츠투하츠)",
+            "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
+            "videoId": "F7sGJVUrkjQ"
         },
         {
             "rank": 8,
@@ -210,10 +210,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "Good Goodbye",
-            "artist": "화사 (HWASA)",
-            "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
-            "videoId": "Qe8fa4b5xNU"
+            "title": "2.0",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/_gyultVTesk/hqdefault.jpg",
+            "videoId": "_gyultVTesk"
         }
     ],
     "shazam_korea": [
@@ -249,8 +249,8 @@ const rankData = {
             "rank": 5,
             "title": "Good bye",
             "artist": "We Are The Night",
-            "image": "https://i.ytimg.com/vi/O0ZtSbqGz0k/hqdefault.jpg",
-            "videoId": "O0ZtSbqGz0k"
+            "image": "https://i.ytimg.com/vi/bk8W9FYCT4Y/hqdefault.jpg",
+            "videoId": "bk8W9FYCT4Y"
         },
         {
             "rank": 6,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/xgkW5AnspnM/hqdefault.jpg",
-            "videoId": "xgkW5AnspnM"
+            "image": "https://i.ytimg.com/vi/9RspykhlGvE/hqdefault.jpg",
+            "videoId": "9RspykhlGvE"
         },
         {
             "rank": 9,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
-            "videoId": "oY75OIjru0o"
+            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
+            "videoId": "eCLI6mbb7Dg"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/5hzuuykPAa0/hqdefault.jpg",
-            "videoId": "5hzuuykPAa0"
+            "image": "https://i.ytimg.com/vi/aSGeQA5eRqw/hqdefault.jpg",
+            "videoId": "aSGeQA5eRqw"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/KRxHaT0bTH8/hqdefault.jpg",
-            "videoId": "KRxHaT0bTH8"
+            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
+            "videoId": "yxKA0NnNJeo"
         },
         {
             "rank": 9,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/V4Onahadtek/hqdefault.jpg",
-            "videoId": "V4Onahadtek"
+            "image": "https://i.ytimg.com/vi/0TjhlMxQqzw/hqdefault.jpg",
+            "videoId": "0TjhlMxQqzw"
         },
         {
             "rank": 2,
@@ -386,8 +386,8 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/kVLen4bFlNI/hqdefault.jpg",
-            "videoId": "kVLen4bFlNI"
+            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
+            "videoId": "YEMBk076jGM"
         },
         {
             "rank": 5,
@@ -414,22 +414,22 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/Vre8mMqbQMs/hqdefault.jpg",
-            "videoId": "Vre8mMqbQMs"
+            "image": "https://i.ytimg.com/vi/KRAFmgTECWw/hqdefault.jpg",
+            "videoId": "KRAFmgTECWw"
         },
         {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/uESO0F6OcvE/hqdefault.jpg",
-            "videoId": "uESO0F6OcvE"
+            "image": "https://i.ytimg.com/vi/XQglsRW3B-M/hqdefault.jpg",
+            "videoId": "XQglsRW3B-M"
         },
         {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/o8fzQ1e01UE/hqdefault.jpg",
-            "videoId": "o8fzQ1e01UE"
+            "image": "https://i.ytimg.com/vi/V4Onahadtek/hqdefault.jpg",
+            "videoId": "V4Onahadtek"
         }
     ],
     "youtube_shorts_global": [
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/MeOoJOt1P0Y/hqdefault.jpg",
-            "videoId": "MeOoJOt1P0Y"
+            "image": "https://i.ytimg.com/vi/n3e9lwoAmj4/hqdefault.jpg",
+            "videoId": "n3e9lwoAmj4"
         },
         {
             "rank": 2,
@@ -458,8 +458,8 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/LUkpMxaZlDA/hqdefault.jpg",
-            "videoId": "LUkpMxaZlDA"
+            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
+            "videoId": "mPmoojB54xI"
         },
         {
             "rank": 5,
