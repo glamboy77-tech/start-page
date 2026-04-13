@@ -1,12 +1,12 @@
 const rankData = {
-    "last_updated": "2026-04-13 08:14:27",
+    "last_updated": "2026-04-14 08:21:05",
     "billboard": [
         {
             "rank": 1,
             "title": "Choosin' Texas",
             "artist": "Ella Langley",
-            "image": "https://i.ytimg.com/vi/nUsrYVxrDwI/hqdefault.jpg",
-            "videoId": "nUsrYVxrDwI"
+            "image": "https://i.ytimg.com/vi/hLOheGDwD_0/hqdefault.jpg",
+            "videoId": "hLOheGDwD_0"
         },
         {
             "rank": 2,
@@ -47,8 +47,8 @@ const rankData = {
             "rank": 7,
             "title": "Golden",
             "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
-            "image": "https://i.ytimg.com/vi/WuFmWmr-XX0/hqdefault.jpg",
-            "videoId": "WuFmWmr-XX0"
+            "image": "https://i.ytimg.com/vi/8y-ViyUk7Dk/hqdefault.jpg",
+            "videoId": "8y-ViyUk7Dk"
         },
         {
             "rank": 8,
@@ -168,17 +168,17 @@ const rankData = {
         },
         {
             "rank": 4,
-            "title": "BANG BANG",
-            "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
-            "videoId": "9qkpcLK422o"
-        },
-        {
-            "rank": 5,
             "title": "SWIM",
             "artist": "방탄소년단",
             "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
             "videoId": "b4iVv91Z6lY"
+        },
+        {
+            "rank": 5,
+            "title": "BANG BANG",
+            "artist": "IVE (아이브)",
+            "image": "https://i.ytimg.com/vi/s2GudBDxJ5c/hqdefault.jpg",
+            "videoId": "s2GudBDxJ5c"
         },
         {
             "rank": 6,
@@ -196,24 +196,24 @@ const rankData = {
         },
         {
             "rank": 8,
-            "title": "0+0",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
-            "videoId": "_Ngk-DCHfD0"
-        },
-        {
-            "rank": 9,
             "title": "Body to Body",
             "artist": "방탄소년단",
             "image": "https://i.ytimg.com/vi/3PHs-o5JPHM/hqdefault.jpg",
             "videoId": "3PHs-o5JPHM"
         },
         {
-            "rank": 10,
+            "rank": 9,
             "title": "Drowning",
             "artist": "WOODZ",
             "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
             "videoId": "tiKFuzpX-NA"
+        },
+        {
+            "rank": 10,
+            "title": "0+0",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
+            "videoId": "_Ngk-DCHfD0"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/c3JTb6faUco/hqdefault.jpg",
-            "videoId": "c3JTb6faUco"
+            "image": "https://i.ytimg.com/vi/UsRgOKvLiQk/hqdefault.jpg",
+            "videoId": "UsRgOKvLiQk"
         },
         {
             "rank": 5,
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/z0Xc_rzYZV8/hqdefault.jpg",
-            "videoId": "z0Xc_rzYZV8"
+            "image": "https://i.ytimg.com/vi/idG5wnFm0fc/hqdefault.jpg",
+            "videoId": "idG5wnFm0fc"
         },
         {
             "rank": 7,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/xgkW5AnspnM/hqdefault.jpg",
-            "videoId": "xgkW5AnspnM"
+            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
+            "videoId": "iG2OH4whO5E"
         },
         {
             "rank": 9,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/ophKoUW_lFs/hqdefault.jpg",
-            "videoId": "ophKoUW_lFs"
+            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
+            "videoId": "eCLI6mbb7Dg"
         },
         {
             "rank": 5,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/0TjhlMxQqzw/hqdefault.jpg",
-            "videoId": "0TjhlMxQqzw"
+            "image": "https://i.ytimg.com/vi/1ZPykiRNeBY/hqdefault.jpg",
+            "videoId": "1ZPykiRNeBY"
         },
         {
             "rank": 2,
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/o8fzQ1e01UE/hqdefault.jpg",
-            "videoId": "o8fzQ1e01UE"
+            "image": "https://i.ytimg.com/vi/5kS7Az8Qz10/hqdefault.jpg",
+            "videoId": "5kS7Az8Qz10"
         }
     ],
     "youtube_shorts_global": [
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/g5idrebJVQE/hqdefault.jpg",
-            "videoId": "g5idrebJVQE"
+            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
+            "videoId": "y9pELY1qWzM"
         },
         {
             "rank": 2,
