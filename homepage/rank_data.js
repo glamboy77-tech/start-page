@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-04-16 08:25:55",
+    "last_updated": "2026-04-17 08:22:01",
     "billboard": [
         {
             "rank": 1,
@@ -47,8 +47,8 @@ const rankData = {
             "rank": 7,
             "title": "Golden",
             "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
-            "image": "https://i.ytimg.com/vi/sjbeB7qL6fc/hqdefault.jpg",
-            "videoId": "sjbeB7qL6fc"
+            "image": "https://i.ytimg.com/vi/Rhi1CcdJgGc/hqdefault.jpg",
+            "videoId": "Rhi1CcdJgGc"
         },
         {
             "rank": 8,
@@ -184,8 +184,8 @@ const rankData = {
             "rank": 6,
             "title": "404 (New Era)",
             "artist": "KiiiKiii (키키)",
-            "image": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg",
-            "videoId": "zhHB4dZTChw"
+            "image": "https://i.ytimg.com/vi/fAjS2NC7lsQ/hqdefault.jpg",
+            "videoId": "fAjS2NC7lsQ"
         },
         {
             "rank": 7,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/UsRgOKvLiQk/hqdefault.jpg",
-            "videoId": "UsRgOKvLiQk"
+            "image": "https://i.ytimg.com/vi/Ubl7FytpH0A/hqdefault.jpg",
+            "videoId": "Ubl7FytpH0A"
         },
         {
             "rank": 5,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/ox76JJED8dY/hqdefault.jpg",
-            "videoId": "ox76JJED8dY"
+            "image": "https://i.ytimg.com/vi/m5TUI07hjN8/hqdefault.jpg",
+            "videoId": "m5TUI07hjN8"
         },
         {
             "rank": 9,
@@ -414,8 +414,8 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/KRAFmgTECWw/hqdefault.jpg",
-            "videoId": "KRAFmgTECWw"
+            "image": "https://i.ytimg.com/vi/Vre8mMqbQMs/hqdefault.jpg",
+            "videoId": "Vre8mMqbQMs"
         },
         {
             "rank": 9,
