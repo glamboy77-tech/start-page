@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-04-20 08:15:53",
+    "last_updated": "2026-04-21 08:20:19",
     "billboard": [
         {
             "rank": 1,
@@ -47,8 +47,8 @@ const rankData = {
             "rank": 7,
             "title": "Golden",
             "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
-            "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
-            "videoId": "yebNIHKAC4A"
+            "image": "https://i.ytimg.com/vi/8y-ViyUk7Dk/hqdefault.jpg",
+            "videoId": "8y-ViyUk7Dk"
         },
         {
             "rank": 8,
@@ -210,10 +210,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "Good Goodbye",
-            "artist": "화사 (HWASA)",
-            "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
-            "videoId": "Qe8fa4b5xNU"
+            "title": "Ode to Love",
+            "artist": "NCT WISH",
+            "image": "https://i.ytimg.com/vi/1o5O2YvV3HU/hqdefault.jpg",
+            "videoId": "1o5O2YvV3HU"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
-            "videoId": "L1rR_smhD78"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/oiKj0Z_Xnjc/hqdefault.jpg",
-            "videoId": "oiKj0Z_Xnjc"
+            "image": "https://i.ytimg.com/vi/_4FGVRpNoEs/hqdefault.jpg",
+            "videoId": "_4FGVRpNoEs"
         },
         {
             "rank": 2,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
-            "videoId": "oY75OIjru0o"
+            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
+            "videoId": "eCLI6mbb7Dg"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/rfTAcRJRmNc/hqdefault.jpg",
-            "videoId": "rfTAcRJRmNc"
+            "image": "https://i.ytimg.com/vi/aSGeQA5eRqw/hqdefault.jpg",
+            "videoId": "aSGeQA5eRqw"
         },
         {
             "rank": 7,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/o8fzQ1e01UE/hqdefault.jpg",
-            "videoId": "o8fzQ1e01UE"
+            "image": "https://i.ytimg.com/vi/1ZPykiRNeBY/hqdefault.jpg",
+            "videoId": "1ZPykiRNeBY"
         },
         {
             "rank": 2,
@@ -421,15 +421,15 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/IHvR_MvM_bE/hqdefault.jpg",
-            "videoId": "IHvR_MvM_bE"
+            "image": "https://i.ytimg.com/vi/DmyKw1DZdeQ/hqdefault.jpg",
+            "videoId": "DmyKw1DZdeQ"
         },
         {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/o8fzQ1e01UE/hqdefault.jpg",
-            "videoId": "o8fzQ1e01UE"
+            "image": "https://i.ytimg.com/vi/5kS7Az8Qz10/hqdefault.jpg",
+            "videoId": "5kS7Az8Qz10"
         }
     ],
     "youtube_shorts_global": [
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/GhMW0QeFWZE/hqdefault.jpg",
-            "videoId": "GhMW0QeFWZE"
+            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
+            "videoId": "y9pELY1qWzM"
         },
         {
             "rank": 2,
