@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-04-21 08:20:19",
+    "last_updated": "2026-04-22 08:17:36",
     "billboard": [
         {
             "rank": 1,
@@ -24,17 +24,17 @@ const rankData = {
         },
         {
             "rank": 4,
+            "title": "Be Her",
+            "artist": "Ella Langley",
+            "image": "https://i.ytimg.com/vi/Dg47eNL_Usw/hqdefault.jpg",
+            "videoId": "Dg47eNL_Usw"
+        },
+        {
+            "rank": 5,
             "title": "Ordinary",
             "artist": "Alex Warren",
             "image": "https://i.ytimg.com/vi/u2ah9tWTkmk/hqdefault.jpg",
             "videoId": "u2ah9tWTkmk"
-        },
-        {
-            "rank": 5,
-            "title": "Swim",
-            "artist": "BTS",
-            "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
-            "videoId": "b4iVv91Z6lY"
         },
         {
             "rank": 6,
@@ -47,29 +47,29 @@ const rankData = {
             "rank": 7,
             "title": "Golden",
             "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
-            "image": "https://i.ytimg.com/vi/8y-ViyUk7Dk/hqdefault.jpg",
-            "videoId": "8y-ViyUk7Dk"
+            "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
+            "videoId": "yebNIHKAC4A"
         },
         {
             "rank": 8,
-            "title": "Be Her",
-            "artist": "Ella Langley",
-            "image": "https://i.ytimg.com/vi/Dg47eNL_Usw/hqdefault.jpg",
-            "videoId": "Dg47eNL_Usw"
-        },
-        {
-            "rank": 9,
             "title": "Stateside",
             "artist": "PinkPantheress With Zara Larsson",
             "image": "https://i.ytimg.com/vi/lIxQe1R5hs0/hqdefault.jpg",
             "videoId": "lIxQe1R5hs0"
         },
         {
-            "rank": 10,
+            "rank": 9,
             "title": "Folded",
             "artist": "Kehlani",
             "image": "https://i.ytimg.com/vi/KFMYx1TibeQ/hqdefault.jpg",
             "videoId": "KFMYx1TibeQ"
+        },
+        {
+            "rank": 10,
+            "title": "Swim",
+            "artist": "BTS",
+            "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
+            "videoId": "b4iVv91Z6lY"
         }
     ],
     "billboard_rock": [
@@ -82,17 +82,17 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "Babydoll",
-            "artist": "Dominic Fike",
-            "image": "https://i.ytimg.com/vi/KqMOKCRgvD8/hqdefault.jpg",
-            "videoId": "KqMOKCRgvD8"
-        },
-        {
-            "rank": 3,
             "title": "Dracula",
             "artist": "Tame Impala & JENNIE",
             "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
             "videoId": "xnP7qKxwzjg"
+        },
+        {
+            "rank": 3,
+            "title": "Babydoll",
+            "artist": "Dominic Fike",
+            "image": "https://i.ytimg.com/vi/KqMOKCRgvD8/hqdefault.jpg",
+            "videoId": "KqMOKCRgvD8"
         },
         {
             "rank": 4,
@@ -110,38 +110,38 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "The Great Divide",
-            "artist": "Noah Kahan",
-            "image": "https://i.ytimg.com/vi/SKs80r2Lp34/hqdefault.jpg",
-            "videoId": "SKs80r2Lp34"
-        },
-        {
-            "rank": 7,
-            "title": "Porch Light",
-            "artist": "Noah Kahan",
-            "image": "https://i.ytimg.com/vi/hQSO9vFXnBU/hqdefault.jpg",
-            "videoId": "hQSO9vFXnBU"
-        },
-        {
-            "rank": 8,
             "title": "Freakin' Out",
             "artist": "Dexter And The Moonrocks",
             "image": "https://i.ytimg.com/vi/Sf73y9GrJ4I/hqdefault.jpg",
             "videoId": "Sf73y9GrJ4I"
         },
         {
-            "rank": 9,
+            "rank": 7,
+            "title": "The Great Divide",
+            "artist": "Noah Kahan",
+            "image": "https://i.ytimg.com/vi/SKs80r2Lp34/hqdefault.jpg",
+            "videoId": "SKs80r2Lp34"
+        },
+        {
+            "rank": 8,
             "title": "In My Room",
             "artist": "Julia Wolf",
             "image": "https://i.ytimg.com/vi/AhaISeg6zpE/hqdefault.jpg",
             "videoId": "AhaISeg6zpE"
         },
         {
+            "rank": 9,
+            "title": "Porch Light",
+            "artist": "Noah Kahan",
+            "image": "https://i.ytimg.com/vi/hQSO9vFXnBU/hqdefault.jpg",
+            "videoId": "hQSO9vFXnBU"
+        },
+        {
             "rank": 10,
-            "title": "Go Away",
-            "artist": "Weezer",
-            "image": "https://i.ytimg.com/vi/pnTIsubYbCU/hqdefault.jpg",
-            "videoId": "pnTIsubYbCU"
+            "title": "Rein Me In",
+            "artist": "Sam Fender & Olivia Dean",
+            "image": "https://i.ytimg.com/vi/3triLkS0nq4/hqdefault.jpg",
+            "videoId": "3triLkS0nq4"
         }
     ],
     "melon": [
@@ -168,17 +168,17 @@ const rankData = {
         },
         {
             "rank": 4,
-            "title": "BANG BANG",
-            "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
-            "videoId": "9qkpcLK422o"
-        },
-        {
-            "rank": 5,
             "title": "SWIM",
             "artist": "방탄소년단",
             "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
             "videoId": "b4iVv91Z6lY"
+        },
+        {
+            "rank": 5,
+            "title": "BANG BANG",
+            "artist": "IVE (아이브)",
+            "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
+            "videoId": "9qkpcLK422o"
         },
         {
             "rank": 6,
@@ -196,24 +196,24 @@ const rankData = {
         },
         {
             "rank": 8,
+            "title": "Ode to Love",
+            "artist": "NCT WISH",
+            "image": "https://i.ytimg.com/vi/1o5O2YvV3HU/hqdefault.jpg",
+            "videoId": "1o5O2YvV3HU"
+        },
+        {
+            "rank": 9,
             "title": "Drowning",
             "artist": "WOODZ",
             "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
             "videoId": "tiKFuzpX-NA"
         },
         {
-            "rank": 9,
+            "rank": 10,
             "title": "0+0",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
             "videoId": "_Ngk-DCHfD0"
-        },
-        {
-            "rank": 10,
-            "title": "Ode to Love",
-            "artist": "NCT WISH",
-            "image": "https://i.ytimg.com/vi/1o5O2YvV3HU/hqdefault.jpg",
-            "videoId": "1o5O2YvV3HU"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/z0Xc_rzYZV8/hqdefault.jpg",
-            "videoId": "z0Xc_rzYZV8"
+            "image": "https://i.ytimg.com/vi/idG5wnFm0fc/hqdefault.jpg",
+            "videoId": "idG5wnFm0fc"
         },
         {
             "rank": 7,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/jpJ1TQENa_4/hqdefault.jpg",
-            "videoId": "jpJ1TQENa_4"
+            "image": "https://i.ytimg.com/vi/9RspykhlGvE/hqdefault.jpg",
+            "videoId": "9RspykhlGvE"
         },
         {
             "rank": 9,
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/_4FGVRpNoEs/hqdefault.jpg",
-            "videoId": "_4FGVRpNoEs"
+            "image": "https://i.ytimg.com/vi/IlgVaGyihkU/hqdefault.jpg",
+            "videoId": "IlgVaGyihkU"
         },
         {
             "rank": 2,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/aSGeQA5eRqw/hqdefault.jpg",
-            "videoId": "aSGeQA5eRqw"
+            "image": "https://i.ytimg.com/vi/Jfli40l4JZc/hqdefault.jpg",
+            "videoId": "Jfli40l4JZc"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
-            "videoId": "yxKA0NnNJeo"
+            "image": "https://i.ytimg.com/vi/KRxHaT0bTH8/hqdefault.jpg",
+            "videoId": "KRxHaT0bTH8"
         },
         {
             "rank": 9,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/1ZPykiRNeBY/hqdefault.jpg",
-            "videoId": "1ZPykiRNeBY"
+            "image": "https://i.ytimg.com/vi/o8fzQ1e01UE/hqdefault.jpg",
+            "videoId": "o8fzQ1e01UE"
         },
         {
             "rank": 2,
