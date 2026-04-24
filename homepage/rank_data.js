@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-04-24 08:21:12",
+    "last_updated": "2026-04-25 08:18:30",
     "billboard": [
         {
             "rank": 1,
@@ -161,24 +161,24 @@ const rankData = {
         },
         {
             "rank": 3,
+            "title": "SWIM",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
+            "videoId": "b4iVv91Z6lY"
+        },
+        {
+            "rank": 4,
             "title": "RUDE!",
             "artist": "Hearts2Hearts (하츠투하츠)",
             "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
             "videoId": "F7sGJVUrkjQ"
         },
         {
-            "rank": 4,
+            "rank": 5,
             "title": "BANG BANG",
             "artist": "IVE (아이브)",
             "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
             "videoId": "9qkpcLK422o"
-        },
-        {
-            "rank": 5,
-            "title": "SWIM",
-            "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
-            "videoId": "b4iVv91Z6lY"
         },
         {
             "rank": 6,
@@ -203,17 +203,17 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "Ode to Love",
-            "artist": "NCT WISH",
-            "image": "https://i.ytimg.com/vi/1o5O2YvV3HU/hqdefault.jpg",
-            "videoId": "1o5O2YvV3HU"
+            "title": "Body to Body",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/3PHs-o5JPHM/hqdefault.jpg",
+            "videoId": "3PHs-o5JPHM"
         },
         {
             "rank": 10,
-            "title": "0+0",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
-            "videoId": "_Ngk-DCHfD0"
+            "title": "Good Goodbye",
+            "artist": "화사 (HWASA)",
+            "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
+            "videoId": "Qe8fa4b5xNU"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
-            "videoId": "L1rR_smhD78"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/Ubl7FytpH0A/hqdefault.jpg",
-            "videoId": "Ubl7FytpH0A"
+            "image": "https://i.ytimg.com/vi/5NTOhIikIL8/hqdefault.jpg",
+            "videoId": "5NTOhIikIL8"
         },
         {
             "rank": 5,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/QppCDuSlCGk/hqdefault.jpg",
-            "videoId": "QppCDuSlCGk"
+            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
+            "videoId": "iG2OH4whO5E"
         },
         {
             "rank": 9,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/VBPZvuQoWy8/hqdefault.jpg",
-            "videoId": "VBPZvuQoWy8"
+            "image": "https://i.ytimg.com/vi/u4P94G9Mhig/hqdefault.jpg",
+            "videoId": "u4P94G9Mhig"
         }
     ],
     "shazam_global": [
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/G1KEXH8qo4M/hqdefault.jpg",
-            "videoId": "G1KEXH8qo4M"
+            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
+            "videoId": "oY75OIjru0o"
         },
         {
             "rank": 5,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/KRxHaT0bTH8/hqdefault.jpg",
-            "videoId": "KRxHaT0bTH8"
+            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
+            "videoId": "yxKA0NnNJeo"
         },
         {
             "rank": 9,
@@ -421,8 +421,8 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/DmyKw1DZdeQ/hqdefault.jpg",
-            "videoId": "DmyKw1DZdeQ"
+            "image": "https://i.ytimg.com/vi/XQglsRW3B-M/hqdefault.jpg",
+            "videoId": "XQglsRW3B-M"
         },
         {
             "rank": 10,
@@ -486,8 +486,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
-            "videoId": "s8A9qvAnSg0"
+            "image": "https://i.ytimg.com/vi/mRVs2ArYuw8/hqdefault.jpg",
+            "videoId": "mRVs2ArYuw8"
         },
         {
             "rank": 9,
