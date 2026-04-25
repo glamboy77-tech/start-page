@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-04-25 08:18:30",
+    "last_updated": "2026-04-26 08:16:42",
     "billboard": [
         {
             "rank": 1,
@@ -147,17 +147,17 @@ const rankData = {
     "melon": [
         {
             "rank": 1,
-            "title": "기쁨, 슬픔, 아름다운 마음",
-            "artist": "AKMU (악뮤)",
-            "image": "https://i.ytimg.com/vi/SNn_H_Q2moo/hqdefault.jpg",
-            "videoId": "SNn_H_Q2moo"
-        },
-        {
-            "rank": 2,
             "title": "소문의 낙원",
             "artist": "AKMU (악뮤)",
             "image": "https://i.ytimg.com/vi/D54StAZFUrc/hqdefault.jpg",
             "videoId": "D54StAZFUrc"
+        },
+        {
+            "rank": 2,
+            "title": "기쁨, 슬픔, 아름다운 마음",
+            "artist": "AKMU (악뮤)",
+            "image": "https://i.ytimg.com/vi/SNn_H_Q2moo/hqdefault.jpg",
+            "videoId": "SNn_H_Q2moo"
         },
         {
             "rank": 3,
@@ -182,38 +182,38 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "404 (New Era)",
-            "artist": "KiiiKiii (키키)",
-            "image": "https://i.ytimg.com/vi/fAjS2NC7lsQ/hqdefault.jpg",
-            "videoId": "fAjS2NC7lsQ"
-        },
-        {
-            "rank": 7,
             "title": "사랑하게 될 거야",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
             "videoId": "h0KIWaUEIgQ"
         },
         {
-            "rank": 8,
-            "title": "Drowning",
-            "artist": "WOODZ",
-            "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
-            "videoId": "tiKFuzpX-NA"
-        },
-        {
-            "rank": 9,
+            "rank": 7,
             "title": "Body to Body",
             "artist": "방탄소년단",
             "image": "https://i.ytimg.com/vi/3PHs-o5JPHM/hqdefault.jpg",
             "videoId": "3PHs-o5JPHM"
         },
         {
+            "rank": 8,
+            "title": "404 (New Era)",
+            "artist": "KiiiKiii (키키)",
+            "image": "https://i.ytimg.com/vi/fAjS2NC7lsQ/hqdefault.jpg",
+            "videoId": "fAjS2NC7lsQ"
+        },
+        {
+            "rank": 9,
+            "title": "Ode to Love",
+            "artist": "NCT WISH",
+            "image": "https://i.ytimg.com/vi/1o5O2YvV3HU/hqdefault.jpg",
+            "videoId": "1o5O2YvV3HU"
+        },
+        {
             "rank": 10,
-            "title": "Good Goodbye",
-            "artist": "화사 (HWASA)",
-            "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
-            "videoId": "Qe8fa4b5xNU"
+            "title": "Drowning",
+            "artist": "WOODZ",
+            "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
+            "videoId": "tiKFuzpX-NA"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/5NTOhIikIL8/hqdefault.jpg",
-            "videoId": "5NTOhIikIL8"
+            "image": "https://i.ytimg.com/vi/c1piT8WfAjM/hqdefault.jpg",
+            "videoId": "c1piT8WfAjM"
         },
         {
             "rank": 5,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
-            "videoId": "iG2OH4whO5E"
+            "image": "https://i.ytimg.com/vi/QppCDuSlCGk/hqdefault.jpg",
+            "videoId": "QppCDuSlCGk"
         },
         {
             "rank": 9,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/yhrkoP3cJeo/hqdefault.jpg",
-            "videoId": "yhrkoP3cJeo"
+            "image": "https://i.ytimg.com/vi/DgplwisyBpk/hqdefault.jpg",
+            "videoId": "DgplwisyBpk"
         },
         {
             "rank": 7,
@@ -414,22 +414,22 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/Vre8mMqbQMs/hqdefault.jpg",
-            "videoId": "Vre8mMqbQMs"
+            "image": "https://i.ytimg.com/vi/KRAFmgTECWw/hqdefault.jpg",
+            "videoId": "KRAFmgTECWw"
         },
         {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/XQglsRW3B-M/hqdefault.jpg",
-            "videoId": "XQglsRW3B-M"
+            "image": "https://i.ytimg.com/vi/DmyKw1DZdeQ/hqdefault.jpg",
+            "videoId": "DmyKw1DZdeQ"
         },
         {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/5kS7Az8Qz10/hqdefault.jpg",
-            "videoId": "5kS7Az8Qz10"
+            "image": "https://i.ytimg.com/vi/o8fzQ1e01UE/hqdefault.jpg",
+            "videoId": "o8fzQ1e01UE"
         }
     ],
     "youtube_shorts_global": [
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
-            "videoId": "y9pELY1qWzM"
+            "image": "https://i.ytimg.com/vi/osOu2Yz-JjE/hqdefault.jpg",
+            "videoId": "osOu2Yz-JjE"
         },
         {
             "rank": 2,
@@ -458,8 +458,8 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/LUkpMxaZlDA/hqdefault.jpg",
-            "videoId": "LUkpMxaZlDA"
+            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
+            "videoId": "mPmoojB54xI"
         },
         {
             "rank": 5,
@@ -486,8 +486,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/mRVs2ArYuw8/hqdefault.jpg",
-            "videoId": "mRVs2ArYuw8"
+            "image": "https://i.ytimg.com/vi/JimdweQHu00/hqdefault.jpg",
+            "videoId": "JimdweQHu00"
         },
         {
             "rank": 9,
