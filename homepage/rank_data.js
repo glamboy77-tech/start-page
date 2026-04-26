@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-04-26 08:16:42",
+    "last_updated": "2026-04-27 08:18:02",
     "billboard": [
         {
             "rank": 1,
@@ -161,24 +161,24 @@ const rankData = {
         },
         {
             "rank": 3,
-            "title": "SWIM",
-            "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
-            "videoId": "b4iVv91Z6lY"
-        },
-        {
-            "rank": 4,
             "title": "RUDE!",
             "artist": "Hearts2Hearts (하츠투하츠)",
             "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
             "videoId": "F7sGJVUrkjQ"
         },
         {
-            "rank": 5,
+            "rank": 4,
             "title": "BANG BANG",
             "artist": "IVE (아이브)",
             "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
             "videoId": "9qkpcLK422o"
+        },
+        {
+            "rank": 5,
+            "title": "404 (New Era)",
+            "artist": "KiiiKiii (키키)",
+            "image": "https://i.ytimg.com/vi/fAjS2NC7lsQ/hqdefault.jpg",
+            "videoId": "fAjS2NC7lsQ"
         },
         {
             "rank": 6,
@@ -189,31 +189,31 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "Body to Body",
+            "title": "SWIM",
             "artist": "방탄소년단",
-            "image": "https://i.ytimg.com/vi/3PHs-o5JPHM/hqdefault.jpg",
-            "videoId": "3PHs-o5JPHM"
+            "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
+            "videoId": "b4iVv91Z6lY"
         },
         {
             "rank": 8,
-            "title": "404 (New Era)",
-            "artist": "KiiiKiii (키키)",
-            "image": "https://i.ytimg.com/vi/fAjS2NC7lsQ/hqdefault.jpg",
-            "videoId": "fAjS2NC7lsQ"
-        },
-        {
-            "rank": 9,
-            "title": "Ode to Love",
-            "artist": "NCT WISH",
-            "image": "https://i.ytimg.com/vi/1o5O2YvV3HU/hqdefault.jpg",
-            "videoId": "1o5O2YvV3HU"
-        },
-        {
-            "rank": 10,
             "title": "Drowning",
             "artist": "WOODZ",
             "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
             "videoId": "tiKFuzpX-NA"
+        },
+        {
+            "rank": 9,
+            "title": "0+0",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
+            "videoId": "_Ngk-DCHfD0"
+        },
+        {
+            "rank": 10,
+            "title": "타임캡슐",
+            "artist": "다비치",
+            "image": "https://i.ytimg.com/vi/qE35JN1ogeI/hqdefault.jpg",
+            "videoId": "qE35JN1ogeI"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
-            "videoId": "L1rR_smhD78"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/c1piT8WfAjM/hqdefault.jpg",
-            "videoId": "c1piT8WfAjM"
+            "image": "https://i.ytimg.com/vi/ota438zHeGw/hqdefault.jpg",
+            "videoId": "ota438zHeGw"
         },
         {
             "rank": 5,
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/oiKj0Z_Xnjc/hqdefault.jpg",
-            "videoId": "oiKj0Z_Xnjc"
+            "image": "https://i.ytimg.com/vi/qocTV5Ak8B8/hqdefault.jpg",
+            "videoId": "qocTV5Ak8B8"
         },
         {
             "rank": 2,
@@ -414,8 +414,8 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/KRAFmgTECWw/hqdefault.jpg",
-            "videoId": "KRAFmgTECWw"
+            "image": "https://i.ytimg.com/vi/Vre8mMqbQMs/hqdefault.jpg",
+            "videoId": "Vre8mMqbQMs"
         },
         {
             "rank": 9,
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/o8fzQ1e01UE/hqdefault.jpg",
-            "videoId": "o8fzQ1e01UE"
+            "image": "https://i.ytimg.com/vi/0TjhlMxQqzw/hqdefault.jpg",
+            "videoId": "0TjhlMxQqzw"
         }
     ],
     "youtube_shorts_global": [
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/osOu2Yz-JjE/hqdefault.jpg",
-            "videoId": "osOu2Yz-JjE"
+            "image": "https://i.ytimg.com/vi/WQxW1DtlMEI/hqdefault.jpg",
+            "videoId": "WQxW1DtlMEI"
         },
         {
             "rank": 2,
@@ -486,8 +486,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/JimdweQHu00/hqdefault.jpg",
-            "videoId": "JimdweQHu00"
+            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
+            "videoId": "s8A9qvAnSg0"
         },
         {
             "rank": 9,
