@@ -1,19 +1,19 @@
 const rankData = {
-    "last_updated": "2026-04-28 08:23:44",
+    "last_updated": "2026-04-29 08:23:28",
     "billboard": [
         {
             "rank": 1,
+            "title": "Drop Dead",
+            "artist": "Olivia Rodrigo",
+            "image": "https://i.ytimg.com/vi/78wrful9cVU/hqdefault.jpg",
+            "videoId": "78wrful9cVU"
+        },
+        {
+            "rank": 2,
             "title": "Choosin' Texas",
             "artist": "Ella Langley",
             "image": "https://i.ytimg.com/vi/nUsrYVxrDwI/hqdefault.jpg",
             "videoId": "nUsrYVxrDwI"
-        },
-        {
-            "rank": 2,
-            "title": "Man I Need",
-            "artist": "Olivia Dean",
-            "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
-            "videoId": "oIv_Y2RPQ_A"
         },
         {
             "rank": 3,
@@ -24,68 +24,68 @@ const rankData = {
         },
         {
             "rank": 4,
+            "title": "Man I Need",
+            "artist": "Olivia Dean",
+            "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
+            "videoId": "oIv_Y2RPQ_A"
+        },
+        {
+            "rank": 5,
             "title": "Be Her",
             "artist": "Ella Langley",
             "image": "https://i.ytimg.com/vi/Dg47eNL_Usw/hqdefault.jpg",
             "videoId": "Dg47eNL_Usw"
         },
         {
-            "rank": 5,
+            "rank": 6,
             "title": "Ordinary",
             "artist": "Alex Warren",
             "image": "https://i.ytimg.com/vi/u2ah9tWTkmk/hqdefault.jpg",
             "videoId": "u2ah9tWTkmk"
         },
         {
-            "rank": 6,
+            "rank": 7,
             "title": "So Easy (To Fall In Love)",
             "artist": "Olivia Dean",
             "image": "https://i.ytimg.com/vi/3sur4BmjQt8/hqdefault.jpg",
             "videoId": "3sur4BmjQt8"
         },
         {
-            "rank": 7,
+            "rank": 8,
+            "title": "Daisies",
+            "artist": "Justin Bieber",
+            "image": "https://i.ytimg.com/vi/QyvREl7epGY/hqdefault.jpg",
+            "videoId": "QyvREl7epGY"
+        },
+        {
+            "rank": 9,
             "title": "Golden",
             "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
             "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
             "videoId": "yebNIHKAC4A"
         },
         {
-            "rank": 8,
-            "title": "Stateside",
-            "artist": "PinkPantheress With Zara Larsson",
-            "image": "https://i.ytimg.com/vi/lIxQe1R5hs0/hqdefault.jpg",
-            "videoId": "lIxQe1R5hs0"
-        },
-        {
-            "rank": 9,
+            "rank": 10,
             "title": "Folded",
             "artist": "Kehlani",
             "image": "https://i.ytimg.com/vi/KFMYx1TibeQ/hqdefault.jpg",
             "videoId": "KFMYx1TibeQ"
-        },
-        {
-            "rank": 10,
-            "title": "Swim",
-            "artist": "BTS",
-            "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
-            "videoId": "b4iVv91Z6lY"
         }
     ],
     "billboard_rock": [
         {
             "rank": 1,
-            "title": "Back To Friends",
-            "artist": "sombr",
-            "image": "https://i.ytimg.com/vi/c8zq4kAn_O0/hqdefault.jpg",
-            "videoId": "c8zq4kAn_O0"
-        },
-        {
-            "rank": 2,
             "title": "Dracula",
             "artist": "Tame Impala & JENNIE",
             "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
             "videoId": "xnP7qKxwzjg"
+        },
+        {
+            "rank": 2,
+            "title": "Back To Friends",
+            "artist": "sombr",
+            "image": "https://i.ytimg.com/vi/c8zq4kAn_O0/hqdefault.jpg",
+            "videoId": "c8zq4kAn_O0"
         },
         {
             "rank": 3,
@@ -103,17 +103,17 @@ const rankData = {
         },
         {
             "rank": 5,
-            "title": "End Of Beginning",
-            "artist": "Djo",
-            "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
-            "videoId": "aH7gkoBpN3s"
-        },
-        {
-            "rank": 6,
             "title": "Freakin' Out",
             "artist": "Dexter And The Moonrocks",
             "image": "https://i.ytimg.com/vi/Sf73y9GrJ4I/hqdefault.jpg",
             "videoId": "Sf73y9GrJ4I"
+        },
+        {
+            "rank": 6,
+            "title": "End Of Beginning",
+            "artist": "Djo",
+            "image": "https://i.ytimg.com/vi/aH7gkoBpN3s/hqdefault.jpg",
+            "videoId": "aH7gkoBpN3s"
         },
         {
             "rank": 7,
@@ -124,24 +124,24 @@ const rankData = {
         },
         {
             "rank": 8,
-            "title": "In My Room",
-            "artist": "Julia Wolf",
-            "image": "https://i.ytimg.com/vi/AhaISeg6zpE/hqdefault.jpg",
-            "videoId": "AhaISeg6zpE"
-        },
-        {
-            "rank": 9,
             "title": "Porch Light",
             "artist": "Noah Kahan",
             "image": "https://i.ytimg.com/vi/hQSO9vFXnBU/hqdefault.jpg",
             "videoId": "hQSO9vFXnBU"
         },
         {
+            "rank": 9,
+            "title": "Potential",
+            "artist": "sombr",
+            "image": "https://i.ytimg.com/vi/KoBUE6I4R9I/hqdefault.jpg",
+            "videoId": "KoBUE6I4R9I"
+        },
+        {
             "rank": 10,
-            "title": "Rein Me In",
-            "artist": "Sam Fender & Olivia Dean",
-            "image": "https://i.ytimg.com/vi/3triLkS0nq4/hqdefault.jpg",
-            "videoId": "3triLkS0nq4"
+            "title": "In My Room",
+            "artist": "Julia Wolf",
+            "image": "https://i.ytimg.com/vi/AhaISeg6zpE/hqdefault.jpg",
+            "videoId": "AhaISeg6zpE"
         }
     ],
     "melon": [
@@ -184,8 +184,8 @@ const rankData = {
             "rank": 6,
             "title": "404 (New Era)",
             "artist": "KiiiKiii (키키)",
-            "image": "https://i.ytimg.com/vi/fAjS2NC7lsQ/hqdefault.jpg",
-            "videoId": "fAjS2NC7lsQ"
+            "image": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg",
+            "videoId": "zhHB4dZTChw"
         },
         {
             "rank": 7,
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/oiKj0Z_Xnjc/hqdefault.jpg",
-            "videoId": "oiKj0Z_Xnjc"
+            "image": "https://i.ytimg.com/vi/2sp5HeLNW5o/hqdefault.jpg",
+            "videoId": "2sp5HeLNW5o"
         },
         {
             "rank": 2,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/KRxHaT0bTH8/hqdefault.jpg",
-            "videoId": "KRxHaT0bTH8"
+            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
+            "videoId": "yxKA0NnNJeo"
         },
         {
             "rank": 9,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
-            "videoId": "y9pELY1qWzM"
+            "image": "https://i.ytimg.com/vi/n3e9lwoAmj4/hqdefault.jpg",
+            "videoId": "n3e9lwoAmj4"
         },
         {
             "rank": 2,
@@ -486,8 +486,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/mRVs2ArYuw8/hqdefault.jpg",
-            "videoId": "mRVs2ArYuw8"
+            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
+            "videoId": "s8A9qvAnSg0"
         },
         {
             "rank": 9,
