@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-05-02 08:23:31",
+    "last_updated": "2026-05-03 08:21:03",
     "billboard": [
         {
             "rank": 1,
@@ -161,17 +161,17 @@ const rankData = {
         },
         {
             "rank": 3,
-            "title": "RUDE!",
-            "artist": "Hearts2Hearts (하츠투하츠)",
-            "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
-            "videoId": "F7sGJVUrkjQ"
-        },
-        {
-            "rank": 4,
             "title": "SWIM",
             "artist": "방탄소년단",
             "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
             "videoId": "b4iVv91Z6lY"
+        },
+        {
+            "rank": 4,
+            "title": "RUDE!",
+            "artist": "Hearts2Hearts (하츠투하츠)",
+            "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
+            "videoId": "F7sGJVUrkjQ"
         },
         {
             "rank": 5,
@@ -189,24 +189,24 @@ const rankData = {
         },
         {
             "rank": 7,
+            "title": "Body to Body",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/3PHs-o5JPHM/hqdefault.jpg",
+            "videoId": "3PHs-o5JPHM"
+        },
+        {
+            "rank": 8,
             "title": "404 (New Era)",
             "artist": "KiiiKiii (키키)",
             "image": "https://i.ytimg.com/vi/fAjS2NC7lsQ/hqdefault.jpg",
             "videoId": "fAjS2NC7lsQ"
         },
         {
-            "rank": 8,
+            "rank": 9,
             "title": "Drowning",
             "artist": "WOODZ",
             "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
             "videoId": "tiKFuzpX-NA"
-        },
-        {
-            "rank": 9,
-            "title": "Good Goodbye",
-            "artist": "화사 (HWASA)",
-            "image": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg",
-            "videoId": "Qe8fa4b5xNU"
         },
         {
             "rank": 10,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
-            "videoId": "iG2OH4whO5E"
+            "image": "https://i.ytimg.com/vi/QppCDuSlCGk/hqdefault.jpg",
+            "videoId": "QppCDuSlCGk"
         },
         {
             "rank": 9,
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/2sp5HeLNW5o/hqdefault.jpg",
-            "videoId": "2sp5HeLNW5o"
+            "image": "https://i.ytimg.com/vi/oiKj0Z_Xnjc/hqdefault.jpg",
+            "videoId": "oiKj0Z_Xnjc"
         },
         {
             "rank": 2,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/G1KEXH8qo4M/hqdefault.jpg",
-            "videoId": "G1KEXH8qo4M"
+            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
+            "videoId": "eCLI6mbb7Dg"
         },
         {
             "rank": 5,
@@ -458,8 +458,8 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
-            "videoId": "mPmoojB54xI"
+            "image": "https://i.ytimg.com/vi/LUkpMxaZlDA/hqdefault.jpg",
+            "videoId": "LUkpMxaZlDA"
         },
         {
             "rank": 5,
@@ -493,8 +493,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/QUH0_vbeggQ/hqdefault.jpg",
-            "videoId": "QUH0_vbeggQ"
+            "image": "https://i.ytimg.com/vi/pEQr8ig6tHk/hqdefault.jpg",
+            "videoId": "pEQr8ig6tHk"
         },
         {
             "rank": 10,
