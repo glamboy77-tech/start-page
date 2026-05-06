@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-05-06 08:23:35",
+    "last_updated": "2026-05-07 08:22:55",
     "billboard": [
         {
             "rank": 1,
@@ -168,31 +168,31 @@ const rankData = {
         },
         {
             "rank": 4,
+            "title": "REDRED",
+            "artist": "CORTIS (코르티스)",
+            "image": "https://i.ytimg.com/vi/U6BDbXIah-Y/hqdefault.jpg",
+            "videoId": "U6BDbXIah-Y"
+        },
+        {
+            "rank": 5,
             "title": "BANG BANG",
             "artist": "IVE (아이브)",
             "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
             "videoId": "9qkpcLK422o"
         },
         {
-            "rank": 5,
+            "rank": 6,
             "title": "사랑하게 될 거야",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
             "videoId": "h0KIWaUEIgQ"
         },
         {
-            "rank": 6,
+            "rank": 7,
             "title": "404 (New Era)",
             "artist": "KiiiKiii (키키)",
-            "image": "https://i.ytimg.com/vi/fAjS2NC7lsQ/hqdefault.jpg",
-            "videoId": "fAjS2NC7lsQ"
-        },
-        {
-            "rank": 7,
-            "title": "REDRED",
-            "artist": "CORTIS (코르티스)",
-            "image": "https://i.ytimg.com/vi/U6BDbXIah-Y/hqdefault.jpg",
-            "videoId": "U6BDbXIah-Y"
+            "image": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg",
+            "videoId": "zhHB4dZTChw"
         },
         {
             "rank": 8,
@@ -210,10 +210,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "캐치 캐치",
-            "artist": "YENA (최예나)",
-            "image": "https://i.ytimg.com/vi/NOiyDlWl534/hqdefault.jpg",
-            "videoId": "NOiyDlWl534"
+            "title": "SWIM",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
+            "videoId": "b4iVv91Z6lY"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
-            "videoId": "L1rR_smhD78"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/gnDhz9NQP7s/hqdefault.jpg",
-            "videoId": "gnDhz9NQP7s"
+            "image": "https://i.ytimg.com/vi/Elanur6LRLg/hqdefault.jpg",
+            "videoId": "Elanur6LRLg"
         },
         {
             "rank": 7,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/QppCDuSlCGk/hqdefault.jpg",
-            "videoId": "QppCDuSlCGk"
+            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
+            "videoId": "iG2OH4whO5E"
         },
         {
             "rank": 9,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/4Db-xZQ4sEQ/hqdefault.jpg",
-            "videoId": "4Db-xZQ4sEQ"
+            "image": "https://i.ytimg.com/vi/u4P94G9Mhig/hqdefault.jpg",
+            "videoId": "u4P94G9Mhig"
         }
     ],
     "shazam_global": [
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/0TjhlMxQqzw/hqdefault.jpg",
-            "videoId": "0TjhlMxQqzw"
+            "image": "https://i.ytimg.com/vi/5kS7Az8Qz10/hqdefault.jpg",
+            "videoId": "5kS7Az8Qz10"
         }
     ],
     "youtube_shorts_global": [
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/qvEtxJY0URM/hqdefault.jpg",
-            "videoId": "qvEtxJY0URM"
+            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
+            "videoId": "y9pELY1qWzM"
         },
         {
             "rank": 2,
@@ -486,8 +486,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/eAkHJpR3hA8/hqdefault.jpg",
-            "videoId": "eAkHJpR3hA8"
+            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
+            "videoId": "s8A9qvAnSg0"
         },
         {
             "rank": 9,
