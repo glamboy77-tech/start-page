@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-05-08 08:23:39",
+    "last_updated": "2026-05-09 08:24:41",
     "billboard": [
         {
             "rank": 1,
@@ -168,31 +168,31 @@ const rankData = {
         },
         {
             "rank": 4,
-            "title": "REDRED",
-            "artist": "CORTIS (코르티스)",
-            "image": "https://i.ytimg.com/vi/U6BDbXIah-Y/hqdefault.jpg",
-            "videoId": "U6BDbXIah-Y"
-        },
-        {
-            "rank": 5,
-            "title": "BANG BANG",
-            "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
-            "videoId": "9qkpcLK422o"
-        },
-        {
-            "rank": 6,
             "title": "사랑하게 될 거야",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
             "videoId": "h0KIWaUEIgQ"
         },
         {
+            "rank": 5,
+            "title": "REDRED",
+            "artist": "CORTIS (코르티스)",
+            "image": "https://i.ytimg.com/vi/U6BDbXIah-Y/hqdefault.jpg",
+            "videoId": "U6BDbXIah-Y"
+        },
+        {
+            "rank": 6,
+            "title": "SWIM",
+            "artist": "방탄소년단",
+            "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
+            "videoId": "b4iVv91Z6lY"
+        },
+        {
             "rank": 7,
-            "title": "404 (New Era)",
-            "artist": "KiiiKiii (키키)",
-            "image": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg",
-            "videoId": "zhHB4dZTChw"
+            "title": "BANG BANG",
+            "artist": "IVE (아이브)",
+            "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
+            "videoId": "9qkpcLK422o"
         },
         {
             "rank": 8,
@@ -210,10 +210,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "캐치 캐치",
-            "artist": "YENA (최예나)",
-            "image": "https://i.ytimg.com/vi/NOiyDlWl534/hqdefault.jpg",
-            "videoId": "NOiyDlWl534"
+            "title": "404 (New Era)",
+            "artist": "KiiiKiii (키키)",
+            "image": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg",
+            "videoId": "zhHB4dZTChw"
         }
     ],
     "shazam_korea": [
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/Dr3k-c-K5ZU/hqdefault.jpg",
-            "videoId": "Dr3k-c-K5ZU"
+            "image": "https://i.ytimg.com/vi/Ubl7FytpH0A/hqdefault.jpg",
+            "videoId": "Ubl7FytpH0A"
         },
         {
             "rank": 5,
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/z0Xc_rzYZV8/hqdefault.jpg",
-            "videoId": "z0Xc_rzYZV8"
+            "image": "https://i.ytimg.com/vi/CtHwcfNHfPM/hqdefault.jpg",
+            "videoId": "CtHwcfNHfPM"
         },
         {
             "rank": 7,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
-            "videoId": "iG2OH4whO5E"
+            "image": "https://i.ytimg.com/vi/QppCDuSlCGk/hqdefault.jpg",
+            "videoId": "QppCDuSlCGk"
         },
         {
             "rank": 9,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/zAJjT9R-ADg/hqdefault.jpg",
-            "videoId": "zAJjT9R-ADg"
+            "image": "https://i.ytimg.com/vi/u4P94G9Mhig/hqdefault.jpg",
+            "videoId": "u4P94G9Mhig"
         }
     ],
     "shazam_global": [
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/qocTV5Ak8B8/hqdefault.jpg",
-            "videoId": "qocTV5Ak8B8"
+            "image": "https://i.ytimg.com/vi/ScDIkNcqZjE/hqdefault.jpg",
+            "videoId": "ScDIkNcqZjE"
         },
         {
             "rank": 2,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/G1KEXH8qo4M/hqdefault.jpg",
-            "videoId": "G1KEXH8qo4M"
+            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
+            "videoId": "oY75OIjru0o"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/yGUfmWosEbI/hqdefault.jpg",
-            "videoId": "yGUfmWosEbI"
+            "image": "https://i.ytimg.com/vi/Jfli40l4JZc/hqdefault.jpg",
+            "videoId": "Jfli40l4JZc"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/50VNCymT-Cs/hqdefault.jpg",
-            "videoId": "50VNCymT-Cs"
+            "image": "https://i.ytimg.com/vi/oP8u9ilxow4/hqdefault.jpg",
+            "videoId": "oP8u9ilxow4"
         },
         {
             "rank": 9,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/osOu2Yz-JjE/hqdefault.jpg",
-            "videoId": "osOu2Yz-JjE"
+            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
+            "videoId": "y9pELY1qWzM"
         },
         {
             "rank": 2,
@@ -465,8 +465,8 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
-            "videoId": "DoM3DiFnXxM"
+            "image": "https://i.ytimg.com/vi/PBl-xiC2Fq0/hqdefault.jpg",
+            "videoId": "PBl-xiC2Fq0"
         },
         {
             "rank": 6,
@@ -486,8 +486,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
-            "videoId": "s8A9qvAnSg0"
+            "image": "https://i.ytimg.com/vi/mRVs2ArYuw8/hqdefault.jpg",
+            "videoId": "mRVs2ArYuw8"
         },
         {
             "rank": 9,
