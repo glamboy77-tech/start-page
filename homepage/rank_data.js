@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-05-12 08:24:04",
+    "last_updated": "2026-05-13 08:27:55",
     "billboard": [
         {
             "rank": 1,
@@ -10,31 +10,31 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "I Just Might",
-            "artist": "Bruno Mars",
-            "image": "https://i.ytimg.com/vi/mrV8kK5t0V8/hqdefault.jpg",
-            "videoId": "mrV8kK5t0V8"
+            "title": "Be Her",
+            "artist": "Ella Langley",
+            "image": "https://i.ytimg.com/vi/Dg47eNL_Usw/hqdefault.jpg",
+            "videoId": "Dg47eNL_Usw"
         },
         {
             "rank": 3,
-            "title": "Man I Need",
-            "artist": "Olivia Dean",
-            "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
-            "videoId": "oIv_Y2RPQ_A"
-        },
-        {
-            "rank": 4,
             "title": "Drop Dead",
             "artist": "Olivia Rodrigo",
             "image": "https://i.ytimg.com/vi/78wrful9cVU/hqdefault.jpg",
             "videoId": "78wrful9cVU"
         },
         {
+            "rank": 4,
+            "title": "Man I Need",
+            "artist": "Olivia Dean",
+            "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
+            "videoId": "oIv_Y2RPQ_A"
+        },
+        {
             "rank": 5,
-            "title": "Be Her",
-            "artist": "Ella Langley",
-            "image": "https://i.ytimg.com/vi/Dg47eNL_Usw/hqdefault.jpg",
-            "videoId": "Dg47eNL_Usw"
+            "title": "I Just Might",
+            "artist": "Bruno Mars",
+            "image": "https://i.ytimg.com/vi/mrV8kK5t0V8/hqdefault.jpg",
+            "videoId": "mrV8kK5t0V8"
         },
         {
             "rank": 6,
@@ -45,40 +45,40 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "I Can't Love You Anymore",
-            "artist": "Ella Langley & Morgan Wallen",
-            "image": "https://i.ytimg.com/vi/A3G_7XgK2B4/hqdefault.jpg",
-            "videoId": "A3G_7XgK2B4"
-        },
-        {
-            "rank": 8,
             "title": "Ordinary",
             "artist": "Alex Warren",
             "image": "https://i.ytimg.com/vi/u2ah9tWTkmk/hqdefault.jpg",
             "videoId": "u2ah9tWTkmk"
         },
         {
-            "rank": 9,
-            "title": "Doors",
-            "artist": "Noah Kahan",
-            "image": "https://i.ytimg.com/vi/IAYJ4iTDkQ0/hqdefault.jpg",
-            "videoId": "IAYJ4iTDkQ0"
+            "rank": 8,
+            "title": "I Can't Love You Anymore",
+            "artist": "Ella Langley & Morgan Wallen",
+            "image": "https://i.ytimg.com/vi/A3G_7XgK2B4/hqdefault.jpg",
+            "videoId": "A3G_7XgK2B4"
         },
         {
-            "rank": 10,
+            "rank": 9,
             "title": "Folded",
             "artist": "Kehlani",
             "image": "https://i.ytimg.com/vi/KFMYx1TibeQ/hqdefault.jpg",
             "videoId": "KFMYx1TibeQ"
+        },
+        {
+            "rank": 10,
+            "title": "Dracula",
+            "artist": "Tame Impala & JENNIE",
+            "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
+            "videoId": "xnP7qKxwzjg"
         }
     ],
     "billboard_rock": [
         {
             "rank": 1,
-            "title": "Doors",
-            "artist": "Noah Kahan",
-            "image": "https://i.ytimg.com/vi/IAYJ4iTDkQ0/hqdefault.jpg",
-            "videoId": "IAYJ4iTDkQ0"
+            "title": "Dracula",
+            "artist": "Tame Impala & JENNIE",
+            "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
+            "videoId": "xnP7qKxwzjg"
         },
         {
             "rank": 2,
@@ -89,59 +89,59 @@ const rankData = {
         },
         {
             "rank": 3,
-            "title": "End Of August",
+            "title": "Doors",
             "artist": "Noah Kahan",
-            "image": "https://i.ytimg.com/vi/X2ImEvbY6qY/hqdefault.jpg",
-            "videoId": "X2ImEvbY6qY"
+            "image": "https://i.ytimg.com/vi/IAYJ4iTDkQ0/hqdefault.jpg",
+            "videoId": "IAYJ4iTDkQ0"
         },
         {
             "rank": 4,
-            "title": "American Cars",
-            "artist": "Noah Kahan",
-            "image": "https://i.ytimg.com/vi/3lWSXWWy3_w/hqdefault.jpg",
-            "videoId": "3lWSXWWy3_w"
+            "title": "Babydoll",
+            "artist": "Dominic Fike",
+            "image": "https://i.ytimg.com/vi/KqMOKCRgvD8/hqdefault.jpg",
+            "videoId": "KqMOKCRgvD8"
         },
         {
             "rank": 5,
-            "title": "Dracula",
-            "artist": "Tame Impala & JENNIE",
-            "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
-            "videoId": "xnP7qKxwzjg"
+            "title": "Homewrecker",
+            "artist": "sombr",
+            "image": "https://i.ytimg.com/vi/mQezde_qeXw/hqdefault.jpg",
+            "videoId": "mQezde_qeXw"
         },
         {
             "rank": 6,
-            "title": "Dashboard",
-            "artist": "Noah Kahan",
-            "image": "https://i.ytimg.com/vi/NRCGLetHSow/hqdefault.jpg",
-            "videoId": "NRCGLetHSow"
-        },
-        {
-            "rank": 7,
             "title": "Porch Light",
             "artist": "Noah Kahan",
             "image": "https://i.ytimg.com/vi/hQSO9vFXnBU/hqdefault.jpg",
             "videoId": "hQSO9vFXnBU"
         },
         {
+            "rank": 7,
+            "title": "Freakin' Out",
+            "artist": "Dexter And The Moonrocks",
+            "image": "https://i.ytimg.com/vi/Sf73y9GrJ4I/hqdefault.jpg",
+            "videoId": "Sf73y9GrJ4I"
+        },
+        {
             "rank": 8,
-            "title": "Downfall",
+            "title": "End Of August",
             "artist": "Noah Kahan",
-            "image": "https://i.ytimg.com/vi/3jNMO_Z9ecg/hqdefault.jpg",
-            "videoId": "3jNMO_Z9ecg"
+            "image": "https://i.ytimg.com/vi/X2ImEvbY6qY/hqdefault.jpg",
+            "videoId": "X2ImEvbY6qY"
         },
         {
             "rank": 9,
+            "title": "Dashboard",
+            "artist": "Noah Kahan",
+            "image": "https://i.ytimg.com/vi/NRCGLetHSow/hqdefault.jpg",
+            "videoId": "NRCGLetHSow"
+        },
+        {
+            "rank": 10,
             "title": "Willing And Able",
             "artist": "Noah Kahan",
             "image": "https://i.ytimg.com/vi/2f4gu97XWFg/hqdefault.jpg",
             "videoId": "2f4gu97XWFg"
-        },
-        {
-            "rank": 10,
-            "title": "Babydoll",
-            "artist": "Dominic Fike",
-            "image": "https://i.ytimg.com/vi/KqMOKCRgvD8/hqdefault.jpg",
-            "videoId": "KqMOKCRgvD8"
         }
     ],
     "melon": [
@@ -149,8 +149,8 @@ const rankData = {
             "rank": 1,
             "title": "소문의 낙원",
             "artist": "AKMU (악뮤)",
-            "image": "https://i.ytimg.com/vi/D54StAZFUrc/hqdefault.jpg",
-            "videoId": "D54StAZFUrc"
+            "image": "https://i.ytimg.com/vi/wwk-dTr3CcE/hqdefault.jpg",
+            "videoId": "wwk-dTr3CcE"
         },
         {
             "rank": 2,
@@ -189,17 +189,17 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "BANG BANG",
-            "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
-            "videoId": "9qkpcLK422o"
-        },
-        {
-            "rank": 8,
             "title": "캐치 캐치",
             "artist": "YENA (최예나)",
             "image": "https://i.ytimg.com/vi/NOiyDlWl534/hqdefault.jpg",
             "videoId": "NOiyDlWl534"
+        },
+        {
+            "rank": 8,
+            "title": "BANG BANG",
+            "artist": "IVE (아이브)",
+            "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
+            "videoId": "9qkpcLK422o"
         },
         {
             "rank": 9,
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
-            "videoId": "L1rR_smhD78"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/btVxh4fM8f8/hqdefault.jpg",
-            "videoId": "btVxh4fM8f8"
+            "image": "https://i.ytimg.com/vi/Jg5SgHW6KKg/hqdefault.jpg",
+            "videoId": "Jg5SgHW6KKg"
         },
         {
             "rank": 5,
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/oiKj0Z_Xnjc/hqdefault.jpg",
-            "videoId": "oiKj0Z_Xnjc"
+            "image": "https://i.ytimg.com/vi/_4FGVRpNoEs/hqdefault.jpg",
+            "videoId": "_4FGVRpNoEs"
         },
         {
             "rank": 2,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
-            "videoId": "eCLI6mbb7Dg"
+            "image": "https://i.ytimg.com/vi/vez3ZaH04nU/hqdefault.jpg",
+            "videoId": "vez3ZaH04nU"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/yGUfmWosEbI/hqdefault.jpg",
-            "videoId": "yGUfmWosEbI"
+            "image": "https://i.ytimg.com/vi/iWemo1Gr4YY/hqdefault.jpg",
+            "videoId": "iWemo1Gr4YY"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
-            "videoId": "yxKA0NnNJeo"
+            "image": "https://i.ytimg.com/vi/50VNCymT-Cs/hqdefault.jpg",
+            "videoId": "50VNCymT-Cs"
         },
         {
             "rank": 9,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/o8fzQ1e01UE/hqdefault.jpg",
-            "videoId": "o8fzQ1e01UE"
+            "image": "https://i.ytimg.com/vi/Xz-_b4Nvn_Q/hqdefault.jpg",
+            "videoId": "Xz-_b4Nvn_Q"
         },
         {
             "rank": 2,
@@ -421,8 +421,8 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/DmyKw1DZdeQ/hqdefault.jpg",
-            "videoId": "DmyKw1DZdeQ"
+            "image": "https://i.ytimg.com/vi/XQglsRW3B-M/hqdefault.jpg",
+            "videoId": "XQglsRW3B-M"
         },
         {
             "rank": 10,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
-            "videoId": "y9pELY1qWzM"
+            "image": "https://i.ytimg.com/vi/GhMW0QeFWZE/hqdefault.jpg",
+            "videoId": "GhMW0QeFWZE"
         },
         {
             "rank": 2,
@@ -472,8 +472,8 @@ const rankData = {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
-            "videoId": "1XOJFuKHCck"
+            "image": "https://i.ytimg.com/vi/1ytBfJQnLNI/hqdefault.jpg",
+            "videoId": "1ytBfJQnLNI"
         },
         {
             "rank": 7,
@@ -486,8 +486,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
-            "videoId": "s8A9qvAnSg0"
+            "image": "https://i.ytimg.com/vi/2wIVqjT0uMQ/hqdefault.jpg",
+            "videoId": "2wIVqjT0uMQ"
         },
         {
             "rank": 9,
