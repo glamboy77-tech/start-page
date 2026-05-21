@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-05-21 08:32:30",
+    "last_updated": "2026-05-22 08:27:44",
     "billboard": [
         {
             "rank": 1,
@@ -189,17 +189,17 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "사랑하게 될 거야",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
-            "videoId": "h0KIWaUEIgQ"
-        },
-        {
-            "rank": 8,
             "title": "Heavy Serenade",
             "artist": "NMIXX",
             "image": "https://i.ytimg.com/vi/6Ycn9qZK09I/hqdefault.jpg",
             "videoId": "6Ycn9qZK09I"
+        },
+        {
+            "rank": 8,
+            "title": "사랑하게 될 거야",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
+            "videoId": "h0KIWaUEIgQ"
         },
         {
             "rank": 9,
@@ -210,10 +210,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "BANG BANG",
-            "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg",
-            "videoId": "9qkpcLK422o"
+            "title": "0+0",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
+            "videoId": "_Ngk-DCHfD0"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
-            "videoId": "L1rR_smhD78"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/Ubl7FytpH0A/hqdefault.jpg",
-            "videoId": "Ubl7FytpH0A"
+            "image": "https://i.ytimg.com/vi/npybPWzu6Vo/hqdefault.jpg",
+            "videoId": "npybPWzu6Vo"
         },
         {
             "rank": 5,
@@ -263,15 +263,15 @@ const rankData = {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/snW35zrNE60/hqdefault.jpg",
-            "videoId": "snW35zrNE60"
+            "image": "https://i.ytimg.com/vi/1lA9UlXnYIQ/hqdefault.jpg",
+            "videoId": "1lA9UlXnYIQ"
         },
         {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/9RspykhlGvE/hqdefault.jpg",
-            "videoId": "9RspykhlGvE"
+            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
+            "videoId": "iG2OH4whO5E"
         },
         {
             "rank": 9,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/u4P94G9Mhig/hqdefault.jpg",
-            "videoId": "u4P94G9Mhig"
+            "image": "https://i.ytimg.com/vi/6h4POqtAbag/hqdefault.jpg",
+            "videoId": "6h4POqtAbag"
         }
     ],
     "shazam_global": [
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
-            "videoId": "eCLI6mbb7Dg"
+            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
+            "videoId": "oY75OIjru0o"
         },
         {
             "rank": 5,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/ZlzSRaTQqJ4/hqdefault.jpg",
-            "videoId": "ZlzSRaTQqJ4"
+            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
+            "videoId": "yxKA0NnNJeo"
         },
         {
             "rank": 9,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/3Clg66_DzH4/hqdefault.jpg",
-            "videoId": "3Clg66_DzH4"
+            "image": "https://i.ytimg.com/vi/Xz-_b4Nvn_Q/hqdefault.jpg",
+            "videoId": "Xz-_b4Nvn_Q"
         },
         {
             "rank": 2,
@@ -421,8 +421,8 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/DmyKw1DZdeQ/hqdefault.jpg",
-            "videoId": "DmyKw1DZdeQ"
+            "image": "https://i.ytimg.com/vi/XQglsRW3B-M/hqdefault.jpg",
+            "videoId": "XQglsRW3B-M"
         },
         {
             "rank": 10,
@@ -465,8 +465,8 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
-            "videoId": "DoM3DiFnXxM"
+            "image": "https://i.ytimg.com/vi/PBl-xiC2Fq0/hqdefault.jpg",
+            "videoId": "PBl-xiC2Fq0"
         },
         {
             "rank": 6,
@@ -493,8 +493,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/QUH0_vbeggQ/hqdefault.jpg",
-            "videoId": "QUH0_vbeggQ"
+            "image": "https://i.ytimg.com/vi/nWJdabiKpm0/hqdefault.jpg",
+            "videoId": "nWJdabiKpm0"
         },
         {
             "rank": 10,
