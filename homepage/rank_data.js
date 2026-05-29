@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-05-29 08:33:38",
+    "last_updated": "2026-05-30 08:33:54",
     "billboard": [
         {
             "rank": 1,
@@ -19,8 +19,8 @@ const rankData = {
             "rank": 3,
             "title": "Whisper My Name",
             "artist": "Drake",
-            "image": "https://i.ytimg.com/vi/YhUqxWR4mnE/hqdefault.jpg",
-            "videoId": "YhUqxWR4mnE"
+            "image": "https://i.ytimg.com/vi/8N9sEfYZwtg/hqdefault.jpg",
+            "videoId": "8N9sEfYZwtg"
         },
         {
             "rank": 4,
@@ -196,24 +196,24 @@ const rankData = {
         },
         {
             "rank": 8,
-            "title": "Heavy Serenade",
-            "artist": "NMIXX",
-            "image": "https://i.ytimg.com/vi/6Ycn9qZK09I/hqdefault.jpg",
-            "videoId": "6Ycn9qZK09I"
-        },
-        {
-            "rank": 9,
             "title": "사랑하게 될 거야",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
             "videoId": "h0KIWaUEIgQ"
         },
         {
+            "rank": 9,
+            "title": "Heavy Serenade",
+            "artist": "NMIXX",
+            "image": "https://i.ytimg.com/vi/6Ycn9qZK09I/hqdefault.jpg",
+            "videoId": "6Ycn9qZK09I"
+        },
+        {
             "rank": 10,
-            "title": "0+0",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/_Ngk-DCHfD0/hqdefault.jpg",
-            "videoId": "_Ngk-DCHfD0"
+            "title": "Drowning",
+            "artist": "WOODZ",
+            "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
+            "videoId": "tiKFuzpX-NA"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/npybPWzu6Vo/hqdefault.jpg",
-            "videoId": "npybPWzu6Vo"
+            "image": "https://i.ytimg.com/vi/HMUDVMiITOU/hqdefault.jpg",
+            "videoId": "HMUDVMiITOU"
         },
         {
             "rank": 5,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
-            "videoId": "iG2OH4whO5E"
+            "image": "https://i.ytimg.com/vi/xgkW5AnspnM/hqdefault.jpg",
+            "videoId": "xgkW5AnspnM"
         },
         {
             "rank": 9,
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/oiKj0Z_Xnjc/hqdefault.jpg",
-            "videoId": "oiKj0Z_Xnjc"
+            "image": "https://i.ytimg.com/vi/_4FGVRpNoEs/hqdefault.jpg",
+            "videoId": "_4FGVRpNoEs"
         },
         {
             "rank": 2,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/612p88Gj1u8/hqdefault.jpg",
-            "videoId": "612p88Gj1u8"
+            "image": "https://i.ytimg.com/vi/BNwkz9-e-8E/hqdefault.jpg",
+            "videoId": "BNwkz9-e-8E"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
-            "videoId": "yxKA0NnNJeo"
+            "image": "https://i.ytimg.com/vi/pzKWfIzQEMI/hqdefault.jpg",
+            "videoId": "pzKWfIzQEMI"
         },
         {
             "rank": 9,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/HZX7MB_m13M/hqdefault.jpg",
-            "videoId": "HZX7MB_m13M"
+            "image": "https://i.ytimg.com/vi/Xz-_b4Nvn_Q/hqdefault.jpg",
+            "videoId": "Xz-_b4Nvn_Q"
         },
         {
             "rank": 2,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/yghVDhdZRKU/hqdefault.jpg",
-            "videoId": "yghVDhdZRKU"
+            "image": "https://i.ytimg.com/vi/N6k2PlU-h5c/hqdefault.jpg",
+            "videoId": "N6k2PlU-h5c"
         },
         {
             "rank": 2,
@@ -458,8 +458,8 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
-            "videoId": "mPmoojB54xI"
+            "image": "https://i.ytimg.com/vi/WTVvPBTT3zM/hqdefault.jpg",
+            "videoId": "WTVvPBTT3zM"
         },
         {
             "rank": 5,
@@ -486,22 +486,22 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
-            "videoId": "s8A9qvAnSg0"
+            "image": "https://i.ytimg.com/vi/mRVs2ArYuw8/hqdefault.jpg",
+            "videoId": "mRVs2ArYuw8"
         },
         {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/6vtc1BLa8uc/hqdefault.jpg",
-            "videoId": "6vtc1BLa8uc"
+            "image": "https://i.ytimg.com/vi/y9oP-ZP2Z28/hqdefault.jpg",
+            "videoId": "y9oP-ZP2Z28"
         },
         {
             "rank": 10,
             "title": "Ishq Jalakar - KGF:Chapter 2",
             "artist": "Shahzad Sachdev , Shahzad Ali , ... ",
-            "image": "https://i.ytimg.com/vi/lOLmBoJGx_Q/hqdefault.jpg",
-            "videoId": "lOLmBoJGx_Q"
+            "image": "https://i.ytimg.com/vi/amdOdzmAbSk/hqdefault.jpg",
+            "videoId": "amdOdzmAbSk"
         }
     ]
 };
