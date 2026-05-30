@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-05-30 08:33:54",
+    "last_updated": "2026-05-31 08:26:27",
     "billboard": [
         {
             "rank": 1,
@@ -11,7 +11,7 @@ const rankData = {
         {
             "rank": 2,
             "title": "Ran To Atlanta",
-            "artist": "Drake Feauring Future & Molly Santana",
+            "artist": "Drake Featuring Future & Molly Santana",
             "image": "https://i.ytimg.com/vi/ipOSrQNrp1U/hqdefault.jpg",
             "videoId": "ipOSrQNrp1U"
         },
@@ -19,8 +19,8 @@ const rankData = {
             "rank": 3,
             "title": "Whisper My Name",
             "artist": "Drake",
-            "image": "https://i.ytimg.com/vi/8N9sEfYZwtg/hqdefault.jpg",
-            "videoId": "8N9sEfYZwtg"
+            "image": "https://i.ytimg.com/vi/YhUqxWR4mnE/hqdefault.jpg",
+            "videoId": "YhUqxWR4mnE"
         },
         {
             "rank": 4,
@@ -47,8 +47,8 @@ const rankData = {
             "rank": 7,
             "title": "Make Them Cry",
             "artist": "Drake",
-            "image": "https://i.ytimg.com/vi/3-jY1JrtqeY/hqdefault.jpg",
-            "videoId": "3-jY1JrtqeY"
+            "image": "https://i.ytimg.com/vi/uxNuuys19XE/hqdefault.jpg",
+            "videoId": "uxNuuys19XE"
         },
         {
             "rank": 8,
@@ -175,17 +175,17 @@ const rankData = {
         },
         {
             "rank": 5,
-            "title": "기쁨, 슬픔, 아름다운 마음",
-            "artist": "AKMU (악뮤)",
-            "image": "https://i.ytimg.com/vi/SNn_H_Q2moo/hqdefault.jpg",
-            "videoId": "SNn_H_Q2moo"
-        },
-        {
-            "rank": 6,
             "title": "캐치 캐치",
             "artist": "YENA (최예나)",
             "image": "https://i.ytimg.com/vi/NOiyDlWl534/hqdefault.jpg",
             "videoId": "NOiyDlWl534"
+        },
+        {
+            "rank": 6,
+            "title": "기쁨, 슬픔, 아름다운 마음",
+            "artist": "AKMU (악뮤)",
+            "image": "https://i.ytimg.com/vi/SNn_H_Q2moo/hqdefault.jpg",
+            "videoId": "SNn_H_Q2moo"
         },
         {
             "rank": 7,
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/r0eiQbRIANg/hqdefault.jpg",
-            "videoId": "r0eiQbRIANg"
+            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
+            "videoId": "b6DzYwwS6Ng"
         },
         {
             "rank": 7,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/xgkW5AnspnM/hqdefault.jpg",
-            "videoId": "xgkW5AnspnM"
+            "image": "https://i.ytimg.com/vi/9RspykhlGvE/hqdefault.jpg",
+            "videoId": "9RspykhlGvE"
         },
         {
             "rank": 9,
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/_4FGVRpNoEs/hqdefault.jpg",
-            "videoId": "_4FGVRpNoEs"
+            "image": "https://i.ytimg.com/vi/oiKj0Z_Xnjc/hqdefault.jpg",
+            "videoId": "oiKj0Z_Xnjc"
         },
         {
             "rank": 2,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/BNwkz9-e-8E/hqdefault.jpg",
-            "videoId": "BNwkz9-e-8E"
+            "image": "https://i.ytimg.com/vi/dbSv5Bc6uVY/hqdefault.jpg",
+            "videoId": "dbSv5Bc6uVY"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/pzKWfIzQEMI/hqdefault.jpg",
-            "videoId": "pzKWfIzQEMI"
+            "image": "https://i.ytimg.com/vi/50VNCymT-Cs/hqdefault.jpg",
+            "videoId": "50VNCymT-Cs"
         },
         {
             "rank": 9,
@@ -356,8 +356,8 @@ const rankData = {
             "rank": 10,
             "title": "B.M.S (by my side)",
             "artist": "jmoney & goyard",
-            "image": "https://i.ytimg.com/vi/DPSGMTknY9s/hqdefault.jpg",
-            "videoId": "DPSGMTknY9s"
+            "image": "https://i.ytimg.com/vi/BFAIDkgrp2M/hqdefault.jpg",
+            "videoId": "BFAIDkgrp2M"
         }
     ],
     "youtube_shorts_korea": [
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/Xz-_b4Nvn_Q/hqdefault.jpg",
-            "videoId": "Xz-_b4Nvn_Q"
+            "image": "https://i.ytimg.com/vi/HZX7MB_m13M/hqdefault.jpg",
+            "videoId": "HZX7MB_m13M"
         },
         {
             "rank": 2,
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/HdRKxLRoJ3c/hqdefault.jpg",
-            "videoId": "HdRKxLRoJ3c"
+            "image": "https://i.ytimg.com/vi/o8fzQ1e01UE/hqdefault.jpg",
+            "videoId": "o8fzQ1e01UE"
         }
     ],
     "youtube_shorts_global": [
@@ -458,22 +458,22 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/WTVvPBTT3zM/hqdefault.jpg",
-            "videoId": "WTVvPBTT3zM"
+            "image": "https://i.ytimg.com/vi/LUkpMxaZlDA/hqdefault.jpg",
+            "videoId": "LUkpMxaZlDA"
         },
         {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
-            "videoId": "DoM3DiFnXxM"
+            "image": "https://i.ytimg.com/vi/PBl-xiC2Fq0/hqdefault.jpg",
+            "videoId": "PBl-xiC2Fq0"
         },
         {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/asc9PeaN1S0/hqdefault.jpg",
-            "videoId": "asc9PeaN1S0"
+            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
+            "videoId": "1XOJFuKHCck"
         },
         {
             "rank": 7,
@@ -486,8 +486,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/mRVs2ArYuw8/hqdefault.jpg",
-            "videoId": "mRVs2ArYuw8"
+            "image": "https://i.ytimg.com/vi/rWCY-0svDQg/hqdefault.jpg",
+            "videoId": "rWCY-0svDQg"
         },
         {
             "rank": 9,
