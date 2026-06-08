@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-06-08 08:28:23",
+    "last_updated": "2026-06-09 08:31:11",
     "billboard": [
         {
             "rank": 1,
@@ -149,8 +149,8 @@ const rankData = {
             "rank": 1,
             "title": "갑자기",
             "artist": "아이오아이 (I.O.I)",
-            "image": "https://i.ytimg.com/vi/XDxgGpt6uno/hqdefault.jpg",
-            "videoId": "XDxgGpt6uno"
+            "image": "https://i.ytimg.com/vi/Jxgbfc89hNI/hqdefault.jpg",
+            "videoId": "Jxgbfc89hNI"
         },
         {
             "rank": 2,
@@ -161,17 +161,17 @@ const rankData = {
         },
         {
             "rank": 3,
-            "title": "It′s Me",
-            "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
-            "videoId": "bMhDJ0S0OBA"
-        },
-        {
-            "rank": 4,
             "title": "LEMONADE",
             "artist": "aespa",
             "image": "https://i.ytimg.com/vi/83C3TZ4Zm_o/hqdefault.jpg",
             "videoId": "83C3TZ4Zm_o"
+        },
+        {
+            "rank": 4,
+            "title": "It′s Me",
+            "artist": "아일릿(ILLIT)",
+            "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
+            "videoId": "bMhDJ0S0OBA"
         },
         {
             "rank": 5,
@@ -184,8 +184,8 @@ const rankData = {
             "rank": 6,
             "title": "캐치 캐치",
             "artist": "YENA (최예나)",
-            "image": "https://i.ytimg.com/vi/ggzpdbgJUp8/hqdefault.jpg",
-            "videoId": "ggzpdbgJUp8"
+            "image": "https://i.ytimg.com/vi/NOiyDlWl534/hqdefault.jpg",
+            "videoId": "NOiyDlWl534"
         },
         {
             "rank": 7,
@@ -196,24 +196,24 @@ const rankData = {
         },
         {
             "rank": 8,
+            "title": "LOVE ATTACK",
+            "artist": "RESCENE (리센느)",
+            "image": "https://i.ytimg.com/vi/9XttLI0oH0I/hqdefault.jpg",
+            "videoId": "9XttLI0oH0I"
+        },
+        {
+            "rank": 9,
             "title": "RUDE!",
             "artist": "Hearts2Hearts (하츠투하츠)",
             "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
             "videoId": "F7sGJVUrkjQ"
         },
         {
-            "rank": 9,
+            "rank": 10,
             "title": "사랑하게 될 거야",
             "artist": "한로로",
             "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
             "videoId": "h0KIWaUEIgQ"
-        },
-        {
-            "rank": 10,
-            "title": "LOVE ATTACK",
-            "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/9XttLI0oH0I/hqdefault.jpg",
-            "videoId": "9XttLI0oH0I"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/tN-IiOPcvLM/hqdefault.jpg",
-            "videoId": "tN-IiOPcvLM"
+            "image": "https://i.ytimg.com/vi/0u8teXR8VE4/hqdefault.jpg",
+            "videoId": "0u8teXR8VE4"
         },
         {
             "rank": 5,
@@ -256,15 +256,15 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/r0eiQbRIANg/hqdefault.jpg",
-            "videoId": "r0eiQbRIANg"
+            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
+            "videoId": "b6DzYwwS6Ng"
         },
         {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/snW35zrNE60/hqdefault.jpg",
-            "videoId": "snW35zrNE60"
+            "image": "https://i.ytimg.com/vi/1lA9UlXnYIQ/hqdefault.jpg",
+            "videoId": "1lA9UlXnYIQ"
         },
         {
             "rank": 8,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/zAJjT9R-ADg/hqdefault.jpg",
-            "videoId": "zAJjT9R-ADg"
+            "image": "https://i.ytimg.com/vi/u4P94G9Mhig/hqdefault.jpg",
+            "videoId": "u4P94G9Mhig"
         }
     ],
     "shazam_global": [
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/ScDIkNcqZjE/hqdefault.jpg",
-            "videoId": "ScDIkNcqZjE"
+            "image": "https://i.ytimg.com/vi/_4FGVRpNoEs/hqdefault.jpg",
+            "videoId": "_4FGVRpNoEs"
         },
         {
             "rank": 2,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/Oq851S9qLfM/hqdefault.jpg",
-            "videoId": "Oq851S9qLfM"
+            "image": "https://i.ytimg.com/vi/N6vuuiHBUXw/hqdefault.jpg",
+            "videoId": "N6vuuiHBUXw"
         },
         {
             "rank": 7,
@@ -458,8 +458,8 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/LUkpMxaZlDA/hqdefault.jpg",
-            "videoId": "LUkpMxaZlDA"
+            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
+            "videoId": "mPmoojB54xI"
         },
         {
             "rank": 5,
@@ -472,8 +472,8 @@ const rankData = {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/37soJxAYudM/hqdefault.jpg",
-            "videoId": "37soJxAYudM"
+            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
+            "videoId": "1XOJFuKHCck"
         },
         {
             "rank": 7,
@@ -486,8 +486,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/iDjCGw9G_Gs/hqdefault.jpg",
-            "videoId": "iDjCGw9G_Gs"
+            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
+            "videoId": "s8A9qvAnSg0"
         },
         {
             "rank": 9,
