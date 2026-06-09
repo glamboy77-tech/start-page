@@ -1,12 +1,12 @@
 const rankData = {
-    "last_updated": "2026-06-09 08:31:11",
+    "last_updated": "2026-06-10 08:36:23",
     "billboard": [
         {
             "rank": 1,
-            "title": "Janice STFU",
-            "artist": "Drake",
-            "image": "https://i.ytimg.com/vi/SD4yRDY9mek/hqdefault.jpg",
-            "videoId": "SD4yRDY9mek"
+            "title": "Hate That I Made You Love Me",
+            "artist": "Ariana Grande",
+            "image": "https://i.ytimg.com/vi/82-jTNka3uc/hqdefault.jpg",
+            "videoId": "82-jTNka3uc"
         },
         {
             "rank": 2,
@@ -17,31 +17,31 @@ const rankData = {
         },
         {
             "rank": 3,
+            "title": "Janice STFU",
+            "artist": "Drake",
+            "image": "https://i.ytimg.com/vi/SD4yRDY9mek/hqdefault.jpg",
+            "videoId": "SD4yRDY9mek"
+        },
+        {
+            "rank": 4,
             "title": "Be Her",
             "artist": "Ella Langley",
             "image": "https://i.ytimg.com/vi/Dg47eNL_Usw/hqdefault.jpg",
             "videoId": "Dg47eNL_Usw"
         },
         {
-            "rank": 4,
-            "title": "Shabang",
-            "artist": "Drake",
-            "image": "https://i.ytimg.com/vi/MoR47PedfaU/hqdefault.jpg",
-            "videoId": "MoR47PedfaU"
-        },
-        {
             "rank": 5,
-            "title": "The Cure",
-            "artist": "Olivia Rodrigo",
-            "image": "https://i.ytimg.com/vi/B402rKl4bUg/hqdefault.jpg",
-            "videoId": "B402rKl4bUg"
+            "title": "I Just Might",
+            "artist": "Bruno Mars",
+            "image": "https://i.ytimg.com/vi/mrV8kK5t0V8/hqdefault.jpg",
+            "videoId": "mrV8kK5t0V8"
         },
         {
             "rank": 6,
-            "title": "Ran To Atlanta",
-            "artist": "Drake Featuring Future & Molly Santana",
-            "image": "https://i.ytimg.com/vi/ipOSrQNrp1U/hqdefault.jpg",
-            "videoId": "ipOSrQNrp1U"
+            "title": "Man I Need",
+            "artist": "Olivia Dean",
+            "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
+            "videoId": "oIv_Y2RPQ_A"
         },
         {
             "rank": 7,
@@ -52,24 +52,24 @@ const rankData = {
         },
         {
             "rank": 8,
-            "title": "I Just Might",
-            "artist": "Bruno Mars",
-            "image": "https://i.ytimg.com/vi/mrV8kK5t0V8/hqdefault.jpg",
-            "videoId": "mrV8kK5t0V8"
+            "title": "Shabang",
+            "artist": "Drake",
+            "image": "https://i.ytimg.com/vi/MoR47PedfaU/hqdefault.jpg",
+            "videoId": "MoR47PedfaU"
         },
         {
             "rank": 9,
-            "title": "Whisper My Name",
-            "artist": "Drake",
-            "image": "https://i.ytimg.com/vi/YhUqxWR4mnE/hqdefault.jpg",
-            "videoId": "YhUqxWR4mnE"
+            "title": "I Can't Love You Anymore",
+            "artist": "Ella Langley & Morgan Wallen",
+            "image": "https://i.ytimg.com/vi/A3G_7XgK2B4/hqdefault.jpg",
+            "videoId": "A3G_7XgK2B4"
         },
         {
             "rank": 10,
-            "title": "Man I Need",
-            "artist": "Olivia Dean",
-            "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
-            "videoId": "oIv_Y2RPQ_A"
+            "title": "Dracula",
+            "artist": "Tame Impala & JENNIE",
+            "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
+            "videoId": "xnP7qKxwzjg"
         }
     ],
     "billboard_rock": [
@@ -131,17 +131,17 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "Porch Light",
-            "artist": "Noah Kahan",
-            "image": "https://i.ytimg.com/vi/hQSO9vFXnBU/hqdefault.jpg",
-            "videoId": "hQSO9vFXnBU"
-        },
-        {
-            "rank": 10,
             "title": "Willing And Able",
             "artist": "Noah Kahan",
             "image": "https://i.ytimg.com/vi/2f4gu97XWFg/hqdefault.jpg",
             "videoId": "2f4gu97XWFg"
+        },
+        {
+            "rank": 10,
+            "title": "Rein Me In",
+            "artist": "Sam Fender & Olivia Dean",
+            "image": "https://i.ytimg.com/vi/3triLkS0nq4/hqdefault.jpg",
+            "videoId": "3triLkS0nq4"
         }
     ],
     "melon": [
@@ -184,22 +184,22 @@ const rankData = {
             "rank": 6,
             "title": "캐치 캐치",
             "artist": "YENA (최예나)",
-            "image": "https://i.ytimg.com/vi/NOiyDlWl534/hqdefault.jpg",
-            "videoId": "NOiyDlWl534"
+            "image": "https://i.ytimg.com/vi/U_dovCbZ_O8/hqdefault.jpg",
+            "videoId": "U_dovCbZ_O8"
         },
         {
             "rank": 7,
+            "title": "LOVE ATTACK",
+            "artist": "RESCENE (리센느)",
+            "image": "https://i.ytimg.com/vi/WucNtsXxqpI/hqdefault.jpg",
+            "videoId": "WucNtsXxqpI"
+        },
+        {
+            "rank": 8,
             "title": "기쁨, 슬픔, 아름다운 마음",
             "artist": "AKMU (악뮤)",
             "image": "https://i.ytimg.com/vi/SNn_H_Q2moo/hqdefault.jpg",
             "videoId": "SNn_H_Q2moo"
-        },
-        {
-            "rank": 8,
-            "title": "LOVE ATTACK",
-            "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/9XttLI0oH0I/hqdefault.jpg",
-            "videoId": "9XttLI0oH0I"
         },
         {
             "rank": 9,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/0u8teXR8VE4/hqdefault.jpg",
-            "videoId": "0u8teXR8VE4"
+            "image": "https://i.ytimg.com/vi/Xh9veJq7MRU/hqdefault.jpg",
+            "videoId": "Xh9veJq7MRU"
         },
         {
             "rank": 5,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
-            "videoId": "iG2OH4whO5E"
+            "image": "https://i.ytimg.com/vi/9RspykhlGvE/hqdefault.jpg",
+            "videoId": "9RspykhlGvE"
         },
         {
             "rank": 9,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/u4P94G9Mhig/hqdefault.jpg",
-            "videoId": "u4P94G9Mhig"
+            "image": "https://i.ytimg.com/vi/WxwvJ_NSncw/hqdefault.jpg",
+            "videoId": "WxwvJ_NSncw"
         }
     ],
     "shazam_global": [
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/_4FGVRpNoEs/hqdefault.jpg",
-            "videoId": "_4FGVRpNoEs"
+            "image": "https://i.ytimg.com/vi/ScDIkNcqZjE/hqdefault.jpg",
+            "videoId": "ScDIkNcqZjE"
         },
         {
             "rank": 2,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/N6vuuiHBUXw/hqdefault.jpg",
-            "videoId": "N6vuuiHBUXw"
+            "image": "https://i.ytimg.com/vi/R1Bdi7zCgh8/hqdefault.jpg",
+            "videoId": "R1Bdi7zCgh8"
         },
         {
             "rank": 7,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/Xz-_b4Nvn_Q/hqdefault.jpg",
-            "videoId": "Xz-_b4Nvn_Q"
+            "image": "https://i.ytimg.com/vi/HZX7MB_m13M/hqdefault.jpg",
+            "videoId": "HZX7MB_m13M"
         },
         {
             "rank": 2,
@@ -472,8 +472,8 @@ const rankData = {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
-            "videoId": "1XOJFuKHCck"
+            "image": "https://i.ytimg.com/vi/1ytBfJQnLNI/hqdefault.jpg",
+            "videoId": "1ytBfJQnLNI"
         },
         {
             "rank": 7,
@@ -486,15 +486,15 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
-            "videoId": "s8A9qvAnSg0"
+            "image": "https://i.ytimg.com/vi/mRVs2ArYuw8/hqdefault.jpg",
+            "videoId": "mRVs2ArYuw8"
         },
         {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/y9oP-ZP2Z28/hqdefault.jpg",
-            "videoId": "y9oP-ZP2Z28"
+            "image": "https://i.ytimg.com/vi/_S04LZNIzj4/hqdefault.jpg",
+            "videoId": "_S04LZNIzj4"
         },
         {
             "rank": 10,
