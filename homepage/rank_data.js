@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-06-10 08:36:23",
+    "last_updated": "2026-06-11 08:36:25",
     "billboard": [
         {
             "rank": 1,
@@ -156,8 +156,8 @@ const rankData = {
             "rank": 2,
             "title": "REDRED",
             "artist": "CORTIS (코르티스)",
-            "image": "https://i.ytimg.com/vi/U6BDbXIah-Y/hqdefault.jpg",
-            "videoId": "U6BDbXIah-Y"
+            "image": "https://i.ytimg.com/vi/n8J_qQfYPXI/hqdefault.jpg",
+            "videoId": "n8J_qQfYPXI"
         },
         {
             "rank": 3,
@@ -182,17 +182,17 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "캐치 캐치",
-            "artist": "YENA (최예나)",
-            "image": "https://i.ytimg.com/vi/U_dovCbZ_O8/hqdefault.jpg",
-            "videoId": "U_dovCbZ_O8"
+            "title": "LOVE ATTACK",
+            "artist": "RESCENE (리센느)",
+            "image": "https://i.ytimg.com/vi/Pwy_yswRGc4/hqdefault.jpg",
+            "videoId": "Pwy_yswRGc4"
         },
         {
             "rank": 7,
-            "title": "LOVE ATTACK",
-            "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/WucNtsXxqpI/hqdefault.jpg",
-            "videoId": "WucNtsXxqpI"
+            "title": "캐치 캐치",
+            "artist": "YENA (최예나)",
+            "image": "https://i.ytimg.com/vi/NOiyDlWl534/hqdefault.jpg",
+            "videoId": "NOiyDlWl534"
         },
         {
             "rank": 8,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/Xh9veJq7MRU/hqdefault.jpg",
-            "videoId": "Xh9veJq7MRU"
+            "image": "https://i.ytimg.com/vi/HMUDVMiITOU/hqdefault.jpg",
+            "videoId": "HMUDVMiITOU"
         },
         {
             "rank": 5,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/9RspykhlGvE/hqdefault.jpg",
-            "videoId": "9RspykhlGvE"
+            "image": "https://i.ytimg.com/vi/xgkW5AnspnM/hqdefault.jpg",
+            "videoId": "xgkW5AnspnM"
         },
         {
             "rank": 9,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/WxwvJ_NSncw/hqdefault.jpg",
-            "videoId": "WxwvJ_NSncw"
+            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
+            "videoId": "oXCXlPJ57rE"
         }
     ],
     "shazam_global": [
@@ -293,15 +293,15 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/ScDIkNcqZjE/hqdefault.jpg",
-            "videoId": "ScDIkNcqZjE"
+            "image": "https://i.ytimg.com/vi/oiKj0Z_Xnjc/hqdefault.jpg",
+            "videoId": "oiKj0Z_Xnjc"
         },
         {
             "rank": 2,
             "title": "Jogodo",
             "artist": "Victony & Asake",
-            "image": "https://i.ytimg.com/vi/vp0b_fqPvkM/hqdefault.jpg",
-            "videoId": "vp0b_fqPvkM"
+            "image": "https://i.ytimg.com/vi/iW2zG7am5yk/hqdefault.jpg",
+            "videoId": "iW2zG7am5yk"
         },
         {
             "rank": 3,
@@ -328,15 +328,15 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/R1Bdi7zCgh8/hqdefault.jpg",
-            "videoId": "R1Bdi7zCgh8"
+            "image": "https://i.ytimg.com/vi/F2p3E7-pqX0/hqdefault.jpg",
+            "videoId": "F2p3E7-pqX0"
         },
         {
             "rank": 7,
             "title": "Moonwalkin'",
             "artist": "LNGSHOT",
-            "image": "https://i.ytimg.com/vi/HJgdT15UT4k/hqdefault.jpg",
-            "videoId": "HJgdT15UT4k"
+            "image": "https://i.ytimg.com/vi/D7rgV0jAWzY/hqdefault.jpg",
+            "videoId": "D7rgV0jAWzY"
         },
         {
             "rank": 8,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/HZX7MB_m13M/hqdefault.jpg",
-            "videoId": "HZX7MB_m13M"
+            "image": "https://i.ytimg.com/vi/Xz-_b4Nvn_Q/hqdefault.jpg",
+            "videoId": "Xz-_b4Nvn_Q"
         },
         {
             "rank": 2,
@@ -400,15 +400,15 @@ const rankData = {
             "rank": 6,
             "title": "OVERDRIVE",
             "artist": "TWS",
-            "image": "https://i.ytimg.com/vi/TzbGBkEh9ms/hqdefault.jpg",
-            "videoId": "TzbGBkEh9ms"
+            "image": "https://i.ytimg.com/vi/ALepksA4z0M/hqdefault.jpg",
+            "videoId": "ALepksA4z0M"
         },
         {
             "rank": 7,
             "title": "Zoo",
             "artist": "Shakira",
-            "image": "https://i.ytimg.com/vi/Kw3935PH01E/hqdefault.jpg",
-            "videoId": "Kw3935PH01E"
+            "image": "https://i.ytimg.com/vi/R0BdBFNYyLk/hqdefault.jpg",
+            "videoId": "R0BdBFNYyLk"
         },
         {
             "rank": 8,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/osOu2Yz-JjE/hqdefault.jpg",
-            "videoId": "osOu2Yz-JjE"
+            "image": "https://i.ytimg.com/vi/j9bRP5RDlV8/hqdefault.jpg",
+            "videoId": "j9bRP5RDlV8"
         },
         {
             "rank": 2,
@@ -458,8 +458,8 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
-            "videoId": "mPmoojB54xI"
+            "image": "https://i.ytimg.com/vi/LUkpMxaZlDA/hqdefault.jpg",
+            "videoId": "LUkpMxaZlDA"
         },
         {
             "rank": 5,
@@ -472,8 +472,8 @@ const rankData = {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/1ytBfJQnLNI/hqdefault.jpg",
-            "videoId": "1ytBfJQnLNI"
+            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
+            "videoId": "1XOJFuKHCck"
         },
         {
             "rank": 7,
@@ -486,15 +486,15 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/mRVs2ArYuw8/hqdefault.jpg",
-            "videoId": "mRVs2ArYuw8"
+            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
+            "videoId": "s8A9qvAnSg0"
         },
         {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/_S04LZNIzj4/hqdefault.jpg",
-            "videoId": "_S04LZNIzj4"
+            "image": "https://i.ytimg.com/vi/6vtc1BLa8uc/hqdefault.jpg",
+            "videoId": "6vtc1BLa8uc"
         },
         {
             "rank": 10,
