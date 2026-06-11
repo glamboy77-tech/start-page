@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-06-11 08:36:25",
+    "last_updated": "2026-06-12 08:36:40",
     "billboard": [
         {
             "rank": 1,
@@ -19,8 +19,8 @@ const rankData = {
             "rank": 3,
             "title": "Janice STFU",
             "artist": "Drake",
-            "image": "https://i.ytimg.com/vi/SD4yRDY9mek/hqdefault.jpg",
-            "videoId": "SD4yRDY9mek"
+            "image": "https://i.ytimg.com/vi/maXBXLdIJ8I/hqdefault.jpg",
+            "videoId": "maXBXLdIJ8I"
         },
         {
             "rank": 4,
@@ -47,8 +47,8 @@ const rankData = {
             "rank": 7,
             "title": "So Easy (To Fall In Love)",
             "artist": "Olivia Dean",
-            "image": "https://i.ytimg.com/vi/3sur4BmjQt8/hqdefault.jpg",
-            "videoId": "3sur4BmjQt8"
+            "image": "https://i.ytimg.com/vi/TrXkz_xiJcg/hqdefault.jpg",
+            "videoId": "TrXkz_xiJcg"
         },
         {
             "rank": 8,
@@ -68,8 +68,8 @@ const rankData = {
             "rank": 10,
             "title": "Dracula",
             "artist": "Tame Impala & JENNIE",
-            "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
-            "videoId": "xnP7qKxwzjg"
+            "image": "https://i.ytimg.com/vi/W2FmUiTiIlg/hqdefault.jpg",
+            "videoId": "W2FmUiTiIlg"
         }
     ],
     "billboard_rock": [
@@ -156,8 +156,8 @@ const rankData = {
             "rank": 2,
             "title": "REDRED",
             "artist": "CORTIS (코르티스)",
-            "image": "https://i.ytimg.com/vi/n8J_qQfYPXI/hqdefault.jpg",
-            "videoId": "n8J_qQfYPXI"
+            "image": "https://i.ytimg.com/vi/U6BDbXIah-Y/hqdefault.jpg",
+            "videoId": "U6BDbXIah-Y"
         },
         {
             "rank": 3,
@@ -184,8 +184,8 @@ const rankData = {
             "rank": 6,
             "title": "LOVE ATTACK",
             "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/Pwy_yswRGc4/hqdefault.jpg",
-            "videoId": "Pwy_yswRGc4"
+            "image": "https://i.ytimg.com/vi/0ox3wZxg5HQ/hqdefault.jpg",
+            "videoId": "0ox3wZxg5HQ"
         },
         {
             "rank": 7,
@@ -242,22 +242,22 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/HMUDVMiITOU/hqdefault.jpg",
-            "videoId": "HMUDVMiITOU"
+            "image": "https://i.ytimg.com/vi/Vmp-301lvT4/hqdefault.jpg",
+            "videoId": "Vmp-301lvT4"
         },
         {
             "rank": 5,
             "title": "Good bye",
             "artist": "We Are The Night",
-            "image": "https://i.ytimg.com/vi/bk8W9FYCT4Y/hqdefault.jpg",
-            "videoId": "bk8W9FYCT4Y"
+            "image": "https://i.ytimg.com/vi/qucakwuwFOc/hqdefault.jpg",
+            "videoId": "qucakwuwFOc"
         },
         {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
-            "videoId": "b6DzYwwS6Ng"
+            "image": "https://i.ytimg.com/vi/z0Xc_rzYZV8/hqdefault.jpg",
+            "videoId": "z0Xc_rzYZV8"
         },
         {
             "rank": 7,
@@ -300,8 +300,8 @@ const rankData = {
             "rank": 2,
             "title": "Jogodo",
             "artist": "Victony & Asake",
-            "image": "https://i.ytimg.com/vi/iW2zG7am5yk/hqdefault.jpg",
-            "videoId": "iW2zG7am5yk"
+            "image": "https://i.ytimg.com/vi/vp0b_fqPvkM/hqdefault.jpg",
+            "videoId": "vp0b_fqPvkM"
         },
         {
             "rank": 3,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/areb0uDi8mU/hqdefault.jpg",
-            "videoId": "areb0uDi8mU"
+            "image": "https://i.ytimg.com/vi/vez3ZaH04nU/hqdefault.jpg",
+            "videoId": "vez3ZaH04nU"
         },
         {
             "rank": 5,
@@ -328,22 +328,22 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/F2p3E7-pqX0/hqdefault.jpg",
-            "videoId": "F2p3E7-pqX0"
+            "image": "https://i.ytimg.com/vi/dDY-VyONTJ4/hqdefault.jpg",
+            "videoId": "dDY-VyONTJ4"
         },
         {
             "rank": 7,
             "title": "Moonwalkin'",
             "artist": "LNGSHOT",
-            "image": "https://i.ytimg.com/vi/D7rgV0jAWzY/hqdefault.jpg",
-            "videoId": "D7rgV0jAWzY"
+            "image": "https://i.ytimg.com/vi/HJgdT15UT4k/hqdefault.jpg",
+            "videoId": "HJgdT15UT4k"
         },
         {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
-            "videoId": "yxKA0NnNJeo"
+            "image": "https://i.ytimg.com/vi/50VNCymT-Cs/hqdefault.jpg",
+            "videoId": "50VNCymT-Cs"
         },
         {
             "rank": 9,
@@ -400,15 +400,15 @@ const rankData = {
             "rank": 6,
             "title": "OVERDRIVE",
             "artist": "TWS",
-            "image": "https://i.ytimg.com/vi/ALepksA4z0M/hqdefault.jpg",
-            "videoId": "ALepksA4z0M"
+            "image": "https://i.ytimg.com/vi/TzbGBkEh9ms/hqdefault.jpg",
+            "videoId": "TzbGBkEh9ms"
         },
         {
             "rank": 7,
             "title": "Zoo",
             "artist": "Shakira",
-            "image": "https://i.ytimg.com/vi/R0BdBFNYyLk/hqdefault.jpg",
-            "videoId": "R0BdBFNYyLk"
+            "image": "https://i.ytimg.com/vi/Kw3935PH01E/hqdefault.jpg",
+            "videoId": "Kw3935PH01E"
         },
         {
             "rank": 8,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/j9bRP5RDlV8/hqdefault.jpg",
-            "videoId": "j9bRP5RDlV8"
+            "image": "https://i.ytimg.com/vi/osOu2Yz-JjE/hqdefault.jpg",
+            "videoId": "osOu2Yz-JjE"
         },
         {
             "rank": 2,
@@ -472,8 +472,8 @@ const rankData = {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
-            "videoId": "1XOJFuKHCck"
+            "image": "https://i.ytimg.com/vi/asc9PeaN1S0/hqdefault.jpg",
+            "videoId": "asc9PeaN1S0"
         },
         {
             "rank": 7,
@@ -493,8 +493,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/6vtc1BLa8uc/hqdefault.jpg",
-            "videoId": "6vtc1BLa8uc"
+            "image": "https://i.ytimg.com/vi/y9oP-ZP2Z28/hqdefault.jpg",
+            "videoId": "y9oP-ZP2Z28"
         },
         {
             "rank": 10,
