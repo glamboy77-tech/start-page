@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-06-14 08:29:44",
+    "last_updated": "2026-06-15 08:32:24",
     "billboard": [
         {
             "rank": 1,
@@ -156,43 +156,43 @@ const rankData = {
             "rank": 2,
             "title": "REDRED",
             "artist": "CORTIS (코르티스)",
-            "image": "https://i.ytimg.com/vi/oE5LYkqipUk/hqdefault.jpg",
-            "videoId": "oE5LYkqipUk"
+            "image": "https://i.ytimg.com/vi/n8J_qQfYPXI/hqdefault.jpg",
+            "videoId": "n8J_qQfYPXI"
         },
         {
             "rank": 3,
-            "title": "It′s Me",
-            "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
-            "videoId": "bMhDJ0S0OBA"
-        },
-        {
-            "rank": 4,
             "title": "LEMONADE",
             "artist": "aespa",
             "image": "https://i.ytimg.com/vi/83C3TZ4Zm_o/hqdefault.jpg",
             "videoId": "83C3TZ4Zm_o"
         },
         {
+            "rank": 4,
+            "title": "It′s Me",
+            "artist": "아일릿(ILLIT)",
+            "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
+            "videoId": "bMhDJ0S0OBA"
+        },
+        {
             "rank": 5,
+            "title": "LOVE ATTACK",
+            "artist": "RESCENE (리센느)",
+            "image": "https://i.ytimg.com/vi/9XttLI0oH0I/hqdefault.jpg",
+            "videoId": "9XttLI0oH0I"
+        },
+        {
+            "rank": 6,
             "title": "소문의 낙원",
             "artist": "AKMU (악뮤)",
             "image": "https://i.ytimg.com/vi/D54StAZFUrc/hqdefault.jpg",
             "videoId": "D54StAZFUrc"
         },
         {
-            "rank": 6,
+            "rank": 7,
             "title": "캐치 캐치",
             "artist": "YENA (최예나)",
             "image": "https://i.ytimg.com/vi/NOiyDlWl534/hqdefault.jpg",
             "videoId": "NOiyDlWl534"
-        },
-        {
-            "rank": 7,
-            "title": "LOVE ATTACK",
-            "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/9XttLI0oH0I/hqdefault.jpg",
-            "videoId": "9XttLI0oH0I"
         },
         {
             "rank": 8,
@@ -203,17 +203,17 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "사랑하게 될 거야",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
-            "videoId": "h0KIWaUEIgQ"
-        },
-        {
-            "rank": 10,
             "title": "RUDE!",
             "artist": "Hearts2Hearts (하츠투하츠)",
             "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
             "videoId": "F7sGJVUrkjQ"
+        },
+        {
+            "rank": 10,
+            "title": "사랑하게 될 거야",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
+            "videoId": "h0KIWaUEIgQ"
         }
     ],
     "shazam_korea": [
@@ -256,22 +256,22 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
-            "videoId": "b6DzYwwS6Ng"
+            "image": "https://i.ytimg.com/vi/z0Xc_rzYZV8/hqdefault.jpg",
+            "videoId": "z0Xc_rzYZV8"
         },
         {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/1lA9UlXnYIQ/hqdefault.jpg",
-            "videoId": "1lA9UlXnYIQ"
+            "image": "https://i.ytimg.com/vi/emdggJnwc2w/hqdefault.jpg",
+            "videoId": "emdggJnwc2w"
         },
         {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/xgkW5AnspnM/hqdefault.jpg",
-            "videoId": "xgkW5AnspnM"
+            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
+            "videoId": "iG2OH4whO5E"
         },
         {
             "rank": 9,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/u4P94G9Mhig/hqdefault.jpg",
-            "videoId": "u4P94G9Mhig"
+            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
+            "videoId": "oXCXlPJ57rE"
         }
     ],
     "shazam_global": [
@@ -300,8 +300,8 @@ const rankData = {
             "rank": 2,
             "title": "Jogodo",
             "artist": "Victony & Asake",
-            "image": "https://i.ytimg.com/vi/Vqba4e0MkJE/hqdefault.jpg",
-            "videoId": "Vqba4e0MkJE"
+            "image": "https://i.ytimg.com/vi/vp0b_fqPvkM/hqdefault.jpg",
+            "videoId": "vp0b_fqPvkM"
         },
         {
             "rank": 3,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/areb0uDi8mU/hqdefault.jpg",
-            "videoId": "areb0uDi8mU"
+            "image": "https://i.ytimg.com/vi/G1KEXH8qo4M/hqdefault.jpg",
+            "videoId": "G1KEXH8qo4M"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/dDY-VyONTJ4/hqdefault.jpg",
-            "videoId": "dDY-VyONTJ4"
+            "image": "https://i.ytimg.com/vi/FOoQn9DXlQM/hqdefault.jpg",
+            "videoId": "FOoQn9DXlQM"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
-            "videoId": "yxKA0NnNJeo"
+            "image": "https://i.ytimg.com/vi/Bp-u8Y2fuF4/hqdefault.jpg",
+            "videoId": "Bp-u8Y2fuF4"
         },
         {
             "rank": 9,
@@ -356,8 +356,8 @@ const rankData = {
             "rank": 10,
             "title": "B.M.S (by my side)",
             "artist": "jmoney & goyard",
-            "image": "https://i.ytimg.com/vi/DPSGMTknY9s/hqdefault.jpg",
-            "videoId": "DPSGMTknY9s"
+            "image": "https://i.ytimg.com/vi/BpATPs370Z4/hqdefault.jpg",
+            "videoId": "BpATPs370Z4"
         }
     ],
     "youtube_shorts_korea": [
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/5kS7Az8Qz10/hqdefault.jpg",
-            "videoId": "5kS7Az8Qz10"
+            "image": "https://i.ytimg.com/vi/HdRKxLRoJ3c/hqdefault.jpg",
+            "videoId": "HdRKxLRoJ3c"
         }
     ],
     "youtube_shorts_global": [
@@ -472,8 +472,8 @@ const rankData = {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/37soJxAYudM/hqdefault.jpg",
-            "videoId": "37soJxAYudM"
+            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
+            "videoId": "1XOJFuKHCck"
         },
         {
             "rank": 7,
@@ -486,8 +486,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/mRVs2ArYuw8/hqdefault.jpg",
-            "videoId": "mRVs2ArYuw8"
+            "image": "https://i.ytimg.com/vi/UFitizlqu4U/hqdefault.jpg",
+            "videoId": "UFitizlqu4U"
         },
         {
             "rank": 9,
