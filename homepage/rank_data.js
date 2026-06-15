@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-06-15 08:32:24",
+    "last_updated": "2026-06-16 08:38:04",
     "billboard": [
         {
             "rank": 1,
@@ -26,8 +26,8 @@ const rankData = {
             "rank": 4,
             "title": "Be Her",
             "artist": "Ella Langley",
-            "image": "https://i.ytimg.com/vi/Dg47eNL_Usw/hqdefault.jpg",
-            "videoId": "Dg47eNL_Usw"
+            "image": "https://i.ytimg.com/vi/tYT8WiwlQgM/hqdefault.jpg",
+            "videoId": "tYT8WiwlQgM"
         },
         {
             "rank": 5,
@@ -84,8 +84,8 @@ const rankData = {
             "rank": 2,
             "title": "Homewrecker",
             "artist": "sombr",
-            "image": "https://i.ytimg.com/vi/mQezde_qeXw/hqdefault.jpg",
-            "videoId": "mQezde_qeXw"
+            "image": "https://i.ytimg.com/vi/YKButxzo95w/hqdefault.jpg",
+            "videoId": "YKButxzo95w"
         },
         {
             "rank": 3,
@@ -140,8 +140,8 @@ const rankData = {
             "rank": 10,
             "title": "Rein Me In",
             "artist": "Sam Fender & Olivia Dean",
-            "image": "https://i.ytimg.com/vi/3triLkS0nq4/hqdefault.jpg",
-            "videoId": "3triLkS0nq4"
+            "image": "https://i.ytimg.com/vi/A4BMtTMnUw0/hqdefault.jpg",
+            "videoId": "A4BMtTMnUw0"
         }
     ],
     "melon": [
@@ -156,8 +156,8 @@ const rankData = {
             "rank": 2,
             "title": "REDRED",
             "artist": "CORTIS (코르티스)",
-            "image": "https://i.ytimg.com/vi/n8J_qQfYPXI/hqdefault.jpg",
-            "videoId": "n8J_qQfYPXI"
+            "image": "https://i.ytimg.com/vi/U6BDbXIah-Y/hqdefault.jpg",
+            "videoId": "U6BDbXIah-Y"
         },
         {
             "rank": 3,
@@ -191,15 +191,15 @@ const rankData = {
             "rank": 7,
             "title": "캐치 캐치",
             "artist": "YENA (최예나)",
-            "image": "https://i.ytimg.com/vi/NOiyDlWl534/hqdefault.jpg",
-            "videoId": "NOiyDlWl534"
+            "image": "https://i.ytimg.com/vi/x6nrhDYEBdQ/hqdefault.jpg",
+            "videoId": "x6nrhDYEBdQ"
         },
         {
             "rank": 8,
             "title": "기쁨, 슬픔, 아름다운 마음",
             "artist": "AKMU (악뮤)",
-            "image": "https://i.ytimg.com/vi/SNn_H_Q2moo/hqdefault.jpg",
-            "videoId": "SNn_H_Q2moo"
+            "image": "https://i.ytimg.com/vi/Nen9tYlNbLs/hqdefault.jpg",
+            "videoId": "Nen9tYlNbLs"
         },
         {
             "rank": 9,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/HMUDVMiITOU/hqdefault.jpg",
-            "videoId": "HMUDVMiITOU"
+            "image": "https://i.ytimg.com/vi/Xh9veJq7MRU/hqdefault.jpg",
+            "videoId": "Xh9veJq7MRU"
         },
         {
             "rank": 5,
@@ -256,22 +256,22 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/z0Xc_rzYZV8/hqdefault.jpg",
-            "videoId": "z0Xc_rzYZV8"
+            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
+            "videoId": "b6DzYwwS6Ng"
         },
         {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/emdggJnwc2w/hqdefault.jpg",
-            "videoId": "emdggJnwc2w"
+            "image": "https://i.ytimg.com/vi/1lA9UlXnYIQ/hqdefault.jpg",
+            "videoId": "1lA9UlXnYIQ"
         },
         {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
-            "videoId": "iG2OH4whO5E"
+            "image": "https://i.ytimg.com/vi/xgkW5AnspnM/hqdefault.jpg",
+            "videoId": "xgkW5AnspnM"
         },
         {
             "rank": 9,
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/oiKj0Z_Xnjc/hqdefault.jpg",
-            "videoId": "oiKj0Z_Xnjc"
+            "image": "https://i.ytimg.com/vi/ScDIkNcqZjE/hqdefault.jpg",
+            "videoId": "ScDIkNcqZjE"
         },
         {
             "rank": 2,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/G1KEXH8qo4M/hqdefault.jpg",
-            "videoId": "G1KEXH8qo4M"
+            "image": "https://i.ytimg.com/vi/P4jbXCQ52Ts/hqdefault.jpg",
+            "videoId": "P4jbXCQ52Ts"
         },
         {
             "rank": 5,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/Bp-u8Y2fuF4/hqdefault.jpg",
-            "videoId": "Bp-u8Y2fuF4"
+            "image": "https://i.ytimg.com/vi/50VNCymT-Cs/hqdefault.jpg",
+            "videoId": "50VNCymT-Cs"
         },
         {
             "rank": 9,
@@ -356,8 +356,8 @@ const rankData = {
             "rank": 10,
             "title": "B.M.S (by my side)",
             "artist": "jmoney & goyard",
-            "image": "https://i.ytimg.com/vi/BpATPs370Z4/hqdefault.jpg",
-            "videoId": "BpATPs370Z4"
+            "image": "https://i.ytimg.com/vi/DPSGMTknY9s/hqdefault.jpg",
+            "videoId": "DPSGMTknY9s"
         }
     ],
     "youtube_shorts_korea": [
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/HdRKxLRoJ3c/hqdefault.jpg",
-            "videoId": "HdRKxLRoJ3c"
+            "image": "https://i.ytimg.com/vi/0TjhlMxQqzw/hqdefault.jpg",
+            "videoId": "0TjhlMxQqzw"
         }
     ],
     "youtube_shorts_global": [
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/osOu2Yz-JjE/hqdefault.jpg",
-            "videoId": "osOu2Yz-JjE"
+            "image": "https://i.ytimg.com/vi/iXmaT0qI9-k/hqdefault.jpg",
+            "videoId": "iXmaT0qI9-k"
         },
         {
             "rank": 2,
@@ -458,8 +458,8 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/LUkpMxaZlDA/hqdefault.jpg",
-            "videoId": "LUkpMxaZlDA"
+            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
+            "videoId": "mPmoojB54xI"
         },
         {
             "rank": 5,
@@ -472,8 +472,8 @@ const rankData = {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
-            "videoId": "1XOJFuKHCck"
+            "image": "https://i.ytimg.com/vi/37soJxAYudM/hqdefault.jpg",
+            "videoId": "37soJxAYudM"
         },
         {
             "rank": 7,
@@ -486,15 +486,15 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/UFitizlqu4U/hqdefault.jpg",
-            "videoId": "UFitizlqu4U"
+            "image": "https://i.ytimg.com/vi/mRVs2ArYuw8/hqdefault.jpg",
+            "videoId": "mRVs2ArYuw8"
         },
         {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/y9oP-ZP2Z28/hqdefault.jpg",
-            "videoId": "y9oP-ZP2Z28"
+            "image": "https://i.ytimg.com/vi/6vtc1BLa8uc/hqdefault.jpg",
+            "videoId": "6vtc1BLa8uc"
         },
         {
             "rank": 10,
