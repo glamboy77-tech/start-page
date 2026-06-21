@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-06-21 08:31:31",
+    "last_updated": "2026-06-22 08:33:52",
     "billboard": [
         {
             "rank": 1,
@@ -161,17 +161,17 @@ const rankData = {
         },
         {
             "rank": 3,
-            "title": "It′s Me",
-            "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
-            "videoId": "bMhDJ0S0OBA"
-        },
-        {
-            "rank": 4,
             "title": "LEMONADE",
             "artist": "aespa",
             "image": "https://i.ytimg.com/vi/83C3TZ4Zm_o/hqdefault.jpg",
             "videoId": "83C3TZ4Zm_o"
+        },
+        {
+            "rank": 4,
+            "title": "It′s Me",
+            "artist": "아일릿(ILLIT)",
+            "image": "https://i.ytimg.com/vi/we0iGfysR8M/hqdefault.jpg",
+            "videoId": "we0iGfysR8M"
         },
         {
             "rank": 5,
@@ -203,17 +203,17 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "사랑하게 될 거야",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
-            "videoId": "h0KIWaUEIgQ"
-        },
-        {
-            "rank": 10,
             "title": "RUDE!",
             "artist": "Hearts2Hearts (하츠투하츠)",
             "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
             "videoId": "F7sGJVUrkjQ"
+        },
+        {
+            "rank": 10,
+            "title": "사랑하게 될 거야",
+            "artist": "한로로",
+            "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
+            "videoId": "h0KIWaUEIgQ"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/u4P94G9Mhig/hqdefault.jpg",
-            "videoId": "u4P94G9Mhig"
+            "image": "https://i.ytimg.com/vi/VBPZvuQoWy8/hqdefault.jpg",
+            "videoId": "VBPZvuQoWy8"
         }
     ],
     "shazam_global": [
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/oiKj0Z_Xnjc/hqdefault.jpg",
-            "videoId": "oiKj0Z_Xnjc"
+            "image": "https://i.ytimg.com/vi/vWkH6YKFYSA/hqdefault.jpg",
+            "videoId": "vWkH6YKFYSA"
         },
         {
             "rank": 2,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/LOZuFCZcZyQ/hqdefault.jpg",
-            "videoId": "LOZuFCZcZyQ"
+            "image": "https://i.ytimg.com/vi/AiMAYShMKKc/hqdefault.jpg",
+            "videoId": "AiMAYShMKKc"
         },
         {
             "rank": 7,
@@ -386,15 +386,15 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/3KT0kaSQcPo/hqdefault.jpg",
-            "videoId": "3KT0kaSQcPo"
+            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
+            "videoId": "YEMBk076jGM"
         },
         {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
-            "videoId": "y9pELY1qWzM"
+            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
+            "videoId": "orOgilmiL_4"
         },
         {
             "rank": 6,
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/0TjhlMxQqzw/hqdefault.jpg",
-            "videoId": "0TjhlMxQqzw"
+            "image": "https://i.ytimg.com/vi/5kS7Az8Qz10/hqdefault.jpg",
+            "videoId": "5kS7Az8Qz10"
         }
     ],
     "youtube_shorts_global": [
@@ -444,8 +444,8 @@ const rankData = {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/tA1UwsU4ysM/hqdefault.jpg",
-            "videoId": "tA1UwsU4ysM"
+            "image": "https://i.ytimg.com/vi/U9IVqsSCYQU/hqdefault.jpg",
+            "videoId": "U9IVqsSCYQU"
         },
         {
             "rank": 3,
@@ -465,8 +465,8 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/E7G9TtjmVrg/hqdefault.jpg",
-            "videoId": "E7G9TtjmVrg"
+            "image": "https://i.ytimg.com/vi/PBl-xiC2Fq0/hqdefault.jpg",
+            "videoId": "PBl-xiC2Fq0"
         },
         {
             "rank": 6,
@@ -493,8 +493,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/_S04LZNIzj4/hqdefault.jpg",
-            "videoId": "_S04LZNIzj4"
+            "image": "https://i.ytimg.com/vi/y9oP-ZP2Z28/hqdefault.jpg",
+            "videoId": "y9oP-ZP2Z28"
         },
         {
             "rank": 10,
