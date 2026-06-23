@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-06-23 08:34:27",
+    "last_updated": "2026-06-24 08:28:33",
     "billboard": [
         {
             "rank": 1,
@@ -17,59 +17,59 @@ const rankData = {
         },
         {
             "rank": 3,
-            "title": "Janice STFU",
-            "artist": "Drake",
-            "image": "https://i.ytimg.com/vi/SD4yRDY9mek/hqdefault.jpg",
-            "videoId": "SD4yRDY9mek"
+            "title": "Stupid Song",
+            "artist": "Olivia Rodrigo",
+            "image": "https://i.ytimg.com/vi/Rt9tW3cMLhI/hqdefault.jpg",
+            "videoId": "Rt9tW3cMLhI"
         },
         {
             "rank": 4,
+            "title": "Drop Dead",
+            "artist": "Olivia Rodrigo",
+            "image": "https://i.ytimg.com/vi/78wrful9cVU/hqdefault.jpg",
+            "videoId": "78wrful9cVU"
+        },
+        {
+            "rank": 5,
             "title": "Be Her",
             "artist": "Ella Langley",
             "image": "https://i.ytimg.com/vi/Dg47eNL_Usw/hqdefault.jpg",
             "videoId": "Dg47eNL_Usw"
         },
         {
-            "rank": 5,
+            "rank": 6,
+            "title": "The Cure",
+            "artist": "Olivia Rodrigo",
+            "image": "https://i.ytimg.com/vi/B402rKl4bUg/hqdefault.jpg",
+            "videoId": "B402rKl4bUg"
+        },
+        {
+            "rank": 7,
+            "title": "Janice STFU",
+            "artist": "Drake",
+            "image": "https://i.ytimg.com/vi/SD4yRDY9mek/hqdefault.jpg",
+            "videoId": "SD4yRDY9mek"
+        },
+        {
+            "rank": 8,
             "title": "Hate That I Made You Love Me",
             "artist": "Ariana Grande",
             "image": "https://i.ytimg.com/vi/82-jTNka3uc/hqdefault.jpg",
             "videoId": "82-jTNka3uc"
         },
         {
-            "rank": 6,
-            "title": "I Just Might",
-            "artist": "Bruno Mars",
-            "image": "https://i.ytimg.com/vi/mrV8kK5t0V8/hqdefault.jpg",
-            "videoId": "mrV8kK5t0V8"
+            "rank": 9,
+            "title": "Honeybee",
+            "artist": "Olivia Rodrigo",
+            "image": "https://i.ytimg.com/vi/60rlboK94mE/hqdefault.jpg",
+            "videoId": "60rlboK94mE"
         },
         {
-            "rank": 7,
+            "rank": 10,
             "title": "Man I Need",
             "artist": "Olivia Dean",
             "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
             "videoId": "oIv_Y2RPQ_A"
-        },
-        {
-            "rank": 8,
-            "title": "So Easy (To Fall In Love)",
-            "artist": "Olivia Dean",
-            "image": "https://i.ytimg.com/vi/3sur4BmjQt8/hqdefault.jpg",
-            "videoId": "3sur4BmjQt8"
-        },
-        {
-            "rank": 9,
-            "title": "I Can't Love You Anymore",
-            "artist": "Ella Langley & Morgan Wallen",
-            "image": "https://i.ytimg.com/vi/A3G_7XgK2B4/hqdefault.jpg",
-            "videoId": "A3G_7XgK2B4"
-        },
-        {
-            "rank": 10,
-            "title": "Dracula",
-            "artist": "Tame Impala & JENNIE",
-            "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
-            "videoId": "xnP7qKxwzjg"
         }
     ],
     "billboard_rock": [
@@ -110,31 +110,31 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "Doors",
-            "artist": "Noah Kahan",
-            "image": "https://i.ytimg.com/vi/IAYJ4iTDkQ0/hqdefault.jpg",
-            "videoId": "IAYJ4iTDkQ0"
-        },
-        {
-            "rank": 7,
-            "title": "Self Aware",
-            "artist": "Temper City",
-            "image": "https://i.ytimg.com/vi/mh4AQkw4Jjc/hqdefault.jpg",
-            "videoId": "mh4AQkw4Jjc"
-        },
-        {
-            "rank": 8,
             "title": "Orbiter",
             "artist": "Noah Kahan",
             "image": "https://i.ytimg.com/vi/OFcKm-5jSQE/hqdefault.jpg",
             "videoId": "OFcKm-5jSQE"
         },
         {
+            "rank": 7,
+            "title": "Doors",
+            "artist": "Noah Kahan",
+            "image": "https://i.ytimg.com/vi/IAYJ4iTDkQ0/hqdefault.jpg",
+            "videoId": "IAYJ4iTDkQ0"
+        },
+        {
+            "rank": 8,
+            "title": "Self Aware",
+            "artist": "Temper City",
+            "image": "https://i.ytimg.com/vi/mh4AQkw4Jjc/hqdefault.jpg",
+            "videoId": "mh4AQkw4Jjc"
+        },
+        {
             "rank": 9,
-            "title": "Rein Me In",
-            "artist": "Sam Fender & Olivia Dean",
-            "image": "https://i.ytimg.com/vi/3triLkS0nq4/hqdefault.jpg",
-            "videoId": "3triLkS0nq4"
+            "title": "Life Goes On",
+            "artist": "Oliver Tree",
+            "image": "https://i.ytimg.com/vi/8F2s8ivKXNY/hqdefault.jpg",
+            "videoId": "8F2s8ivKXNY"
         },
         {
             "rank": 10,
@@ -149,8 +149,8 @@ const rankData = {
             "rank": 1,
             "title": "갑자기",
             "artist": "아이오아이 (I.O.I)",
-            "image": "https://i.ytimg.com/vi/Jxgbfc89hNI/hqdefault.jpg",
-            "videoId": "Jxgbfc89hNI"
+            "image": "https://i.ytimg.com/vi/TDhpQfG2Pak/hqdefault.jpg",
+            "videoId": "TDhpQfG2Pak"
         },
         {
             "rank": 2,
@@ -163,8 +163,8 @@ const rankData = {
             "rank": 3,
             "title": "LEMONADE",
             "artist": "aespa",
-            "image": "https://i.ytimg.com/vi/jKJC1Mx-e4c/hqdefault.jpg",
-            "videoId": "jKJC1Mx-e4c"
+            "image": "https://i.ytimg.com/vi/83C3TZ4Zm_o/hqdefault.jpg",
+            "videoId": "83C3TZ4Zm_o"
         },
         {
             "rank": 4,
@@ -177,15 +177,15 @@ const rankData = {
             "rank": 5,
             "title": "LOVE ATTACK",
             "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/0ox3wZxg5HQ/hqdefault.jpg",
-            "videoId": "0ox3wZxg5HQ"
+            "image": "https://i.ytimg.com/vi/9XttLI0oH0I/hqdefault.jpg",
+            "videoId": "9XttLI0oH0I"
         },
         {
             "rank": 6,
             "title": "소문의 낙원",
             "artist": "AKMU (악뮤)",
-            "image": "https://i.ytimg.com/vi/D54StAZFUrc/hqdefault.jpg",
-            "videoId": "D54StAZFUrc"
+            "image": "https://i.ytimg.com/vi/7TR0W6he8Yo/hqdefault.jpg",
+            "videoId": "7TR0W6he8Yo"
         },
         {
             "rank": 7,
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/zAJjT9R-ADg/hqdefault.jpg",
-            "videoId": "zAJjT9R-ADg"
+            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
+            "videoId": "oXCXlPJ57rE"
         }
     ],
     "shazam_global": [
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
-            "videoId": "eCLI6mbb7Dg"
+            "image": "https://i.ytimg.com/vi/G1KEXH8qo4M/hqdefault.jpg",
+            "videoId": "G1KEXH8qo4M"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/AiMAYShMKKc/hqdefault.jpg",
-            "videoId": "AiMAYShMKKc"
+            "image": "https://i.ytimg.com/vi/_WowlpETaZI/hqdefault.jpg",
+            "videoId": "_WowlpETaZI"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
-            "videoId": "yxKA0NnNJeo"
+            "image": "https://i.ytimg.com/vi/50VNCymT-Cs/hqdefault.jpg",
+            "videoId": "50VNCymT-Cs"
         },
         {
             "rank": 9,
@@ -386,15 +386,15 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/shAEdIovcCU/hqdefault.jpg",
-            "videoId": "shAEdIovcCU"
+            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
+            "videoId": "YEMBk076jGM"
         },
         {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
-            "videoId": "orOgilmiL_4"
+            "image": "https://i.ytimg.com/vi/lVK3BazW3ik/hqdefault.jpg",
+            "videoId": "lVK3BazW3ik"
         },
         {
             "rank": 6,
@@ -421,8 +421,8 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/IHvR_MvM_bE/hqdefault.jpg",
-            "videoId": "IHvR_MvM_bE"
+            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
+            "videoId": "ul0V77Yl78o"
         },
         {
             "rank": 10,
@@ -437,15 +437,15 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/osOu2Yz-JjE/hqdefault.jpg",
-            "videoId": "osOu2Yz-JjE"
+            "image": "https://i.ytimg.com/vi/5yoWTC-akT4/hqdefault.jpg",
+            "videoId": "5yoWTC-akT4"
         },
         {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/pW3COMlqH5w/hqdefault.jpg",
-            "videoId": "pW3COMlqH5w"
+            "image": "https://i.ytimg.com/vi/U9IVqsSCYQU/hqdefault.jpg",
+            "videoId": "U9IVqsSCYQU"
         },
         {
             "rank": 3,
@@ -465,8 +465,8 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
-            "videoId": "DoM3DiFnXxM"
+            "image": "https://i.ytimg.com/vi/E7G9TtjmVrg/hqdefault.jpg",
+            "videoId": "E7G9TtjmVrg"
         },
         {
             "rank": 6,
@@ -493,8 +493,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/6vtc1BLa8uc/hqdefault.jpg",
-            "videoId": "6vtc1BLa8uc"
+            "image": "https://i.ytimg.com/vi/y9oP-ZP2Z28/hqdefault.jpg",
+            "videoId": "y9oP-ZP2Z28"
         },
         {
             "rank": 10,
