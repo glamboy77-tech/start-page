@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-06-25 08:29:53",
+    "last_updated": "2026-06-26 08:33:28",
     "billboard": [
         {
             "rank": 1,
@@ -61,8 +61,8 @@ const rankData = {
             "rank": 9,
             "title": "Honeybee",
             "artist": "Olivia Rodrigo",
-            "image": "https://i.ytimg.com/vi/RUSAvAzzIVc/hqdefault.jpg",
-            "videoId": "RUSAvAzzIVc"
+            "image": "https://i.ytimg.com/vi/60rlboK94mE/hqdefault.jpg",
+            "videoId": "60rlboK94mE"
         },
         {
             "rank": 10,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/HMUDVMiITOU/hqdefault.jpg",
-            "videoId": "HMUDVMiITOU"
+            "image": "https://i.ytimg.com/vi/0u8teXR8VE4/hqdefault.jpg",
+            "videoId": "0u8teXR8VE4"
         },
         {
             "rank": 5,
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/z0Xc_rzYZV8/hqdefault.jpg",
-            "videoId": "z0Xc_rzYZV8"
+            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
+            "videoId": "b6DzYwwS6Ng"
         },
         {
             "rank": 7,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/IpTT-trUyck/hqdefault.jpg",
-            "videoId": "IpTT-trUyck"
+            "image": "https://i.ytimg.com/vi/aVZwbF4wskk/hqdefault.jpg",
+            "videoId": "aVZwbF4wskk"
         },
         {
             "rank": 7,
@@ -421,15 +421,15 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/IHvR_MvM_bE/hqdefault.jpg",
-            "videoId": "IHvR_MvM_bE"
+            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
+            "videoId": "ul0V77Yl78o"
         },
         {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/5kS7Az8Qz10/hqdefault.jpg",
-            "videoId": "5kS7Az8Qz10"
+            "image": "https://i.ytimg.com/vi/0TjhlMxQqzw/hqdefault.jpg",
+            "videoId": "0TjhlMxQqzw"
         }
     ],
     "youtube_shorts_global": [
@@ -444,8 +444,8 @@ const rankData = {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/U9IVqsSCYQU/hqdefault.jpg",
-            "videoId": "U9IVqsSCYQU"
+            "image": "https://i.ytimg.com/vi/tA1UwsU4ysM/hqdefault.jpg",
+            "videoId": "tA1UwsU4ysM"
         },
         {
             "rank": 3,
