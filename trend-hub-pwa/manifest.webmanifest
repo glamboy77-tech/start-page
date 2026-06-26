@@ -1,0 +1,20 @@
+{
+  "name": "Trend Hub",
+  "short_name": "Trend Hub",
+  "description": "모바일에 최적화된 차트/트렌드 허브",
+  "start_url": "/start-page/trend-hub-pwa/",
+  "scope": "/start-page/trend-hub-pwa/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "categories": ["music", "news", "entertainment"],
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

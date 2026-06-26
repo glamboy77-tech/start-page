@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="theme-color" content="#050505">
+    <meta name="description" content="모바일에 최적화된 Trend Hub PWA">
+    <title>Trend Hub App</title>
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="icons/icon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            color-scheme: dark;
+            --bg: #050505;
+            --surface: rgba(255, 255, 255, 0.06);
+            --surface-strong: rgba(255, 255, 255, 0.1);
+            --border: rgba(255, 255, 255, 0.12);
+            --text: #ffffff;
+            --muted: #a7a7a7;
+            --accent: #4facfe;
+            --accent-2: #a18cd1;
+            --danger: #ff5f6d;
+            --safe-bottom: env(safe-area-inset-bottom, 0px);
+            --safe-top: env(safe-area-inset-top, 0px);
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            min-height: 100vh;
+            font-family: 'Outfit', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+            background:
+                radial-gradient(circle at 20% 0%, rgba(79, 172, 254, 0.22), transparent 35%),
+                radial-gradient(circle at 90% 20%, rgba(161, 140, 209, 0.16), transparent 32%),
+                var(--bg);
+            color: var(--text);
+        }
+
+        button,
+        select {
+            font: inherit;
+        }
+
+        .app {
+            width: min(100%, 560px);
+            min-height: 100vh;
+            margin: 0 auto;
+            padding: calc(18px + var(--safe-top)) 16px calc(96px + var(--safe-bottom));
+        }
+
+        .topbar {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            gap: 12px;
+            margin-bottom: 18px;
+        }
+
+        .eyebrow {
+            color: var(--accent);
+            font-size: 0.75rem;
+            font-weight: 700;
+            letter-spacing: 0.16em;
+            text-transform: uppercase;
+        }
+
+        h1 {
+            margin: 4px 0 0;
+            font-size: clamp(2rem, 9vw, 3.2rem);
+            line-height: 0.95;
+            letter-spacing: -0.06em;
+        }
+
+        .status-pill {
+            flex: 0 0 auto;
+            max-width: 44%;
+            padding: 9px 12px;
+            border: 1px solid var(--border);
+            border-radius: 999px;
+            background: rgba(255, 255, 255, 0.05);
+            color: var(--muted);
+            font-size: 0.74rem;
+            line-height: 1.25;
+            text-align: right;
+        }
+
+        .control-card {
+            position: sticky;
+            top: calc(10px + var(--safe-top));
+            z-index: 10;
+            margin-bottom: 16px;
+            padding: 14px;
+            border: 1px solid var(--border);
+            border-radius: 24px;
+            background: rgba(12, 12, 16, 0.78);
+            backdrop-filter: blur(20px);
+            box-shadow: 0 16px 50px rgba(0, 0, 0, 0.35);
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: var(--muted);
+            font-size: 0.78rem;
+            font-weight: 600;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+        }
+
+        .chart-select {
+            width: 100%;
+            min-height: 48px;
+            padding: 0 42px 0 16px;
+            border: 1px solid rgba(255, 255, 255, 0.16);
+            border-radius: 16px;
+            background: linear-gradient(135deg, rgba(79, 172, 254, 0.18), rgba(161, 140, 209, 0.12));
+            color: var(--text);
+            outline: none;
+        }
+
+        .chart-select option {
+            background: #141414;
+            color: #fff;
+        }
+
+        .quick-chips {
+            display: flex;
+            gap: 8px;
+            margin-top: 12px;
+            overflow-x: auto;
+            padding-bottom: 2px;
+            scrollbar-width: none;
+        }
+
+        .quick-chips::-webkit-scrollbar {
+            display: none;
+        }
+
+        .chip {
+            flex: 0 0 auto;
+            border: 1px solid var(--border);
+            border-radius: 999px;
+            padding: 9px 12px;
+            background: rgba(255, 255, 255, 0.04);
+            color: var(--muted);
+            cursor: pointer;
+        }
+
+        .chip.active {
+            border-color: rgba(79, 172, 254, 0.7);
+            background: rgba(79, 172, 254, 0.16);
+            color: var(--text);
+        }
+
+        .chart-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
+            margin: 20px 2px 12px;
+        }
+
+        .chart-title {
+            margin: 0;
+            font-size: 1.35rem;
+            letter-spacing: -0.03em;
+        }
+
+        .chart-meta {
+            color: var(--muted);
+            font-size: 0.8rem;
+            white-space: nowrap;
+        }
+
+        .list {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .rank-item {
+            display: grid;
+            grid-template-columns: 34px 54px 1fr;
+            gap: 12px;
+            align-items: center;
+            min-height: 78px;
+            padding: 12px;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 20px;
+            background: rgba(255, 255, 255, 0.055);
+            box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.04);
+            cursor: pointer;
+        }
+
+        .rank-item:active {
+            transform: scale(0.99);
+            background: var(--surface-strong);
+        }
+
+        .rank-number {
+            color: var(--muted);
+            font-size: 1.1rem;
+            font-weight: 800;
+            text-align: center;
+        }
+
+        .rank-item:nth-child(1) .rank-number {
+            color: #ffd700;
+        }
+
+        .rank-item:nth-child(2) .rank-number {
+            color: #d8d8d8;
+        }
+
+        .rank-item:nth-child(3) .rank-number {
+            color: #d78b4c;
+        }
+
+        .cover {
+            width: 54px;
+            height: 54px;
+            border-radius: 14px;
+            object-fit: cover;
+            background: linear-gradient(135deg, #252525, #111);
+        }
+
+        .keyword-icon {
+            display: grid;
+            place-items: center;
+            width: 54px;
+            height: 54px;
+            border-radius: 14px;
+            background: linear-gradient(135deg, rgba(79, 172, 254, 0.3), rgba(161, 140, 209, 0.28));
+            font-size: 1.35rem;
+        }
+
+        .item-title {
+            overflow: hidden;
+            margin-bottom: 5px;
+            font-weight: 650;
+            line-height: 1.2;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .item-subtitle {
+            overflow: hidden;
+            color: var(--muted);
+            font-size: 0.88rem;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .empty,
+        .loading {
+            padding: 28px 18px;
+            border: 1px dashed var(--border);
+            border-radius: 22px;
+            color: var(--muted);
+            text-align: center;
+        }
+
+        .player {
+            position: fixed;
+            right: 12px;
+            bottom: calc(12px + var(--safe-bottom));
+            left: 12px;
+            z-index: 30;
+            max-width: 560px;
+            margin: 0 auto;
+            border: 1px solid var(--border);
+            border-radius: 22px;
+            background: rgba(14, 14, 18, 0.95);
+            backdrop-filter: blur(20px);
+            box-shadow: 0 20px 70px rgba(0, 0, 0, 0.6);
+            overflow: hidden;
+            transform: translateY(120%);
+            transition: transform 0.35s ease;
+        }
+
+        .player.active {
+            transform: translateY(0);
+        }
+
+        .player-bar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px;
+            padding: 12px 14px;
+        }
+
+        .now-playing {
+            overflow: hidden;
+            color: var(--accent);
+            font-size: 0.88rem;
+            font-weight: 650;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .close {
+            width: 34px;
+            height: 34px;
+            border: 0;
+            border-radius: 999px;
+            background: rgba(255, 255, 255, 0.08);
+            color: var(--text);
+            cursor: pointer;
+        }
+
+        .player iframe {
+            display: block;
+            width: 100%;
+            height: 215px;
+            border: 0;
+            background: #000;
+        }
+
+        .install-btn {
+            display: none;
+            margin-top: 10px;
+            width: 100%;
+            min-height: 44px;
+            border: 0;
+            border-radius: 15px;
+            background: linear-gradient(135deg, var(--accent), var(--accent-2));
+            color: #fff;
+            font-weight: 800;
+            cursor: pointer;
+        }
+
+        .install-btn.visible {
+            display: block;
+        }
+
+        @media (min-width: 700px) {
+            .app {
+                padding-inline: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <main class="app">
+        <header class="topbar">
+            <div>
+                <div class="eyebrow">Mobile PWA</div>
+                <h1>Trend Hub</h1>
+            </div>
+            <div class="status-pill" id="lastUpdated">데이터 확인 중...</div>
+        </header>
+
+        <section class="control-card" aria-label="차트 선택">
+            <label for="chartSelect">보고 싶은 차트</label>
+            <select id="chartSelect" class="chart-select"></select>
+            <div class="quick-chips" id="quickChips" aria-label="빠른 카테고리"></div>
+            <button id="installBtn" class="install-btn" type="button">홈 화면에 설치</button>
+        </section>
+
+        <section class="chart-header">
+            <h2 class="chart-title" id="chartTitle">차트</h2>
+            <div class="chart-meta" id="chartMeta">Top 10</div>
+        </section>
+
+        <section class="list" id="rankList" aria-live="polite">
+            <div class="loading">차트를 불러오는 중입니다...</div>
+        </section>
+    </main>
+
+    <aside class="player" id="player" aria-label="YouTube player">
+        <div class="player-bar">
+            <div class="now-playing" id="nowPlaying">Ready to play</div>
+            <button class="close" type="button" onclick="closePlayer()" aria-label="플레이어 닫기">✕</button>
+        </div>
+        <iframe id="ytFrame" src="" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </aside>
+
+    <script src="../homepage/rank_data.js"></script>
+    <script>
+        const chartConfigs = [
+            { id: 'billboard', label: 'Billboard Hot 100', short: 'Billboard', type: 'music', source: () => rankData?.billboard || [] },
+            { id: 'billboard_rock', label: 'Billboard Hot Rock', short: 'Rock', type: 'music', source: () => rankData?.billboard_rock || [] },
+            { id: 'melon', label: 'Melon Top 100', short: 'Melon', type: 'music', source: () => rankData?.melon || [] },
+            { id: 'shazam_korea', label: 'Shazam Viral Korea', short: 'Shazam KR', type: 'music', source: () => rankData?.shazam_korea || [] },
+            { id: 'shazam_global', label: 'Shazam Viral Global', short: 'Shazam Global', type: 'music', source: () => rankData?.shazam_global || [] },
+            { id: 'youtube_shorts_korea', label: 'YouTube Shorts Korea', short: 'Shorts KR', type: 'music', source: () => rankData?.youtube_shorts_korea || [] },
+            { id: 'youtube_shorts_global', label: 'YouTube Shorts Global', short: 'Shorts Global', type: 'music', source: () => rankData?.youtube_shorts_global || [] },
+            { id: 'google_kr', label: 'KR Google Trends', short: 'KR Trends', type: 'keyword', geo: 'KR', source: () => liveTrendCache.KR || [] },
+            { id: 'google_us', label: 'US Google Trends', short: 'US Trends', type: 'keyword', geo: 'US', source: () => liveTrendCache.US || [] }
+        ];
+
+        const liveTrendCache = { KR: [], US: [] };
+        const select = document.getElementById('chartSelect');
+        const chips = document.getElementById('quickChips');
+        const list = document.getElementById('rankList');
+        const title = document.getElementById('chartTitle');
+        const meta = document.getElementById('chartMeta');
+        const lastUpdated = document.getElementById('lastUpdated');
+        const installBtn = document.getElementById('installBtn');
+        let currentChartId = localStorage.getItem('trend_hub_current_chart') || 'billboard';
+        let deferredInstallPrompt = null;
+
+        function initControls() {
+            select.innerHTML = chartConfigs.map(chart => `<option value="${chart.id}">${chart.label}</option>`).join('');
+            select.value = currentChartId;
+            select.addEventListener('change', () => setChart(select.value));
+
+            chips.innerHTML = chartConfigs.map(chart => `
+                <button class="chip" type="button" data-chart-id="${chart.id}">${chart.short}</button>
+            `).join('');
+            chips.addEventListener('click', event => {
+                const button = event.target.closest('[data-chart-id]');
+                if (button) setChart(button.dataset.chartId);
+            });
+        }
+
+        function updateActiveChip() {
+            document.querySelectorAll('.chip').forEach(chip => {
+                chip.classList.toggle('active', chip.dataset.chartId === currentChartId);
+            });
+        }
+
+        async function setChart(chartId) {
+            currentChartId = chartId;
+            localStorage.setItem('trend_hub_current_chart', chartId);
+            select.value = chartId;
+            updateActiveChip();
+
+            const chart = chartConfigs.find(item => item.id === chartId) || chartConfigs[0];
+            title.textContent = chart.label;
+
+            if (chart.type === 'keyword' && chart.geo && chart.source().length === 0) {
+                list.innerHTML = '<div class="loading">실시간 트렌드를 불러오는 중입니다...</div>';
+                await loadLiveTrends(chart.geo);
+            }
+
+            renderChart(chart);
+        }
+
+        function renderChart(chart) {
+            const items = chart.source();
+            meta.textContent = chart.type === 'keyword' ? 'Live Top 10' : `Top ${items.length}`;
+
+            if (!items.length) {
+                list.innerHTML = '<div class="empty">표시할 데이터가 없습니다. 잠시 후 다시 시도해 주세요.</div>';
+                return;
+            }
+
+            list.innerHTML = items.map((item, index) => chart.type === 'keyword'
+                ? renderKeywordItem(item, index)
+                : renderMusicItem(item)
+            ).join('');
+        }
+
+        function renderMusicItem(item) {
+            const image = item.image || '';
+            return `
+                <article class="rank-item" onclick="playMusic(${escapeForJs(item.artist)}, ${escapeForJs(item.title)}, ${escapeForJs(item.videoId || '')})">
+                    <div class="rank-number">${item.rank}</div>
+                    <img class="cover" src="${image}" alt="" loading="lazy" onerror="this.style.display='none'; this.insertAdjacentHTML('afterend','<div class=&quot;keyword-icon&quot;>♪</div>')">
+                    <div>
+                        <div class="item-title">${escapeHtml(item.title)}</div>
+                        <div class="item-subtitle">${escapeHtml(item.artist)}</div>
+                    </div>
+                </article>
+            `;
+        }
+
+        function renderKeywordItem(keyword, index) {
+            const encoded = encodeURIComponent(keyword);
+            return `
+                <article class="rank-item" onclick="window.open('https://www.google.com/search?q=${encoded}', '_blank')">
+                    <div class="rank-number">${index + 1}</div>
+                    <div class="keyword-icon">⌕</div>
+                    <div>
+                        <div class="item-title">${escapeHtml(keyword)}</div>
+                        <div class="item-subtitle">Google에서 검색하기</div>
+                    </div>
+                </article>
+            `;
+        }
+
+        function playMusic(artist, songTitle, videoId) {
+            const player = document.getElementById('player');
+            const frame = document.getElementById('ytFrame');
+            document.getElementById('nowPlaying').textContent = `${songTitle} - ${artist}`;
+            player.classList.add('active');
+
+            if (videoId) {
+                frame.src = `https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1&playsinline=1`;
+            } else {
+                const query = encodeURIComponent(`${artist} ${songTitle} official audio`);
+                frame.src = `https://www.youtube.com/embed?listType=search&list=${query}&autoplay=1&playsinline=1`;
+            }
+        }
+
+        function closePlayer() {
+            document.getElementById('player').classList.remove('active');
+            setTimeout(() => {
+                document.getElementById('ytFrame').src = '';
+                document.getElementById('nowPlaying').textContent = 'Ready to play';
+            }, 300);
+        }
+
+        async function loadLiveTrends(geo) {
+            const hl = geo === 'KR' ? 'ko' : 'en-US';
+            const rssUrl = `https://trends.google.com/trending/rss?geo=${geo}&hl=${hl}&gl=${geo}&_t=${Date.now()}`;
+            const proxies = [
+                {
+                    url: url => `https://corsproxy.io/?${encodeURIComponent(url)}`,
+                    handle: response => response.text()
+                },
+                {
+                    url: url => `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`,
+                    handle: async response => (await response.json()).contents
+                }
+            ];
+
+            for (const proxy of proxies) {
+                try {
+                    const response = await fetch(proxy.url(rssUrl));
+                    if (!response.ok) continue;
+                    const xml = await proxy.handle(response);
+                    const doc = new DOMParser().parseFromString(xml, 'text/xml');
+                    const items = [...doc.querySelectorAll('item title')].slice(0, 10).map(node => node.textContent.trim()).filter(Boolean);
+                    if (items.length) {
+                        liveTrendCache[geo] = items;
+                        return;
+                    }
+                } catch (error) {
+                    console.warn(`Failed to load ${geo} trends`, error);
+                }
+            }
+            liveTrendCache[geo] = ['실시간 데이터 로딩 실패', '잠시 후 새로고침 해주세요'];
+        }
+
+        function escapeHtml(value = '') {
+            return String(value).replace(/[&<>"]/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[char]));
+        }
+
+        function escapeForJs(value = '') {
+            return JSON.stringify(String(value));
+        }
+
+        function initPwa() {
+            if ('serviceWorker' in navigator) {
+                navigator.serviceWorker.register('sw.js').catch(error => console.warn('Service worker registration failed', error));
+            }
+
+            window.addEventListener('beforeinstallprompt', event => {
+                event.preventDefault();
+                deferredInstallPrompt = event;
+                installBtn.classList.add('visible');
+            });
+
+            installBtn.addEventListener('click', async () => {
+                if (!deferredInstallPrompt) return;
+                deferredInstallPrompt.prompt();
+                await deferredInstallPrompt.userChoice;
+                deferredInstallPrompt = null;
+                installBtn.classList.remove('visible');
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            lastUpdated.textContent = typeof rankData !== 'undefined' && rankData.last_updated
+                ? `Updated ${rankData.last_updated}`
+                : '로컬 데이터 사용 중';
+            initControls();
+            initPwa();
+            setChart(currentChartId);
+        });
+    </script>
+</body>
+
+</html>

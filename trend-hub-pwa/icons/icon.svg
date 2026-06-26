@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Trend Hub icon">
+  <defs>
+    <linearGradient id="bg" x1="70" y1="42" x2="442" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4facfe"/>
+      <stop offset="0.52" stop-color="#a18cd1"/>
+      <stop offset="1" stop-color="#ff5f6d"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="116" fill="#050505"/>
+  <circle cx="154" cy="142" r="124" fill="#4facfe" opacity="0.2"/>
+  <circle cx="386" cy="368" r="150" fill="#a18cd1" opacity="0.16"/>
+  <g filter="url(#shadow)">
+    <rect x="96" y="96" width="320" height="320" rx="88" fill="url(#bg)"/>
+    <path d="M156 319c44-96 91-139 141-129 24 5 40 21 54 44" fill="none" stroke="white" stroke-width="34" stroke-linecap="round"/>
+    <path d="M335 168h54v54" fill="none" stroke="white" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M333 224l55-55" fill="none" stroke="white" stroke-width="34" stroke-linecap="round"/>
+  </g>
+</svg>
