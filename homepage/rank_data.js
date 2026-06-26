@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-06-26 08:33:28",
+    "last_updated": "2026-06-27 01:06:16",
     "billboard": [
         {
             "rank": 1,
@@ -161,17 +161,17 @@ const rankData = {
         },
         {
             "rank": 3,
-            "title": "LEMONADE",
-            "artist": "aespa",
-            "image": "https://i.ytimg.com/vi/83C3TZ4Zm_o/hqdefault.jpg",
-            "videoId": "83C3TZ4Zm_o"
-        },
-        {
-            "rank": 4,
             "title": "It′s Me",
             "artist": "아일릿(ILLIT)",
             "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
             "videoId": "bMhDJ0S0OBA"
+        },
+        {
+            "rank": 4,
+            "title": "LEMONADE",
+            "artist": "aespa",
+            "image": "https://i.ytimg.com/vi/83C3TZ4Zm_o/hqdefault.jpg",
+            "videoId": "83C3TZ4Zm_o"
         },
         {
             "rank": 5,
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
-            "videoId": "L1rR_smhD78"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
-            "videoId": "eCLI6mbb7Dg"
+            "image": "https://i.ytimg.com/vi/vez3ZaH04nU/hqdefault.jpg",
+            "videoId": "vez3ZaH04nU"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/aVZwbF4wskk/hqdefault.jpg",
-            "videoId": "aVZwbF4wskk"
+            "image": "https://i.ytimg.com/vi/5xI1y37Goro/hqdefault.jpg",
+            "videoId": "5xI1y37Goro"
         },
         {
             "rank": 7,
@@ -421,8 +421,8 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
-            "videoId": "ul0V77Yl78o"
+            "image": "https://i.ytimg.com/vi/IHvR_MvM_bE/hqdefault.jpg",
+            "videoId": "IHvR_MvM_bE"
         },
         {
             "rank": 10,
@@ -493,8 +493,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/6vtc1BLa8uc/hqdefault.jpg",
-            "videoId": "6vtc1BLa8uc"
+            "image": "https://i.ytimg.com/vi/_S04LZNIzj4/hqdefault.jpg",
+            "videoId": "_S04LZNIzj4"
         },
         {
             "rank": 10,
