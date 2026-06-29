@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-06-29 08:28:09",
+    "last_updated": "2026-06-30 08:26:57",
     "billboard": [
         {
             "rank": 1,
@@ -177,8 +177,8 @@ const rankData = {
             "rank": 5,
             "title": "LOVE ATTACK",
             "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/OBxzy2X4mZI/hqdefault.jpg",
-            "videoId": "OBxzy2X4mZI"
+            "image": "https://i.ytimg.com/vi/9XttLI0oH0I/hqdefault.jpg",
+            "videoId": "9XttLI0oH0I"
         },
         {
             "rank": 6,
@@ -191,8 +191,8 @@ const rankData = {
             "rank": 7,
             "title": "캐치 캐치",
             "artist": "YENA (최예나)",
-            "image": "https://i.ytimg.com/vi/NOiyDlWl534/hqdefault.jpg",
-            "videoId": "NOiyDlWl534"
+            "image": "https://i.ytimg.com/vi/hWGmoNhF4Qg/hqdefault.jpg",
+            "videoId": "hWGmoNhF4Qg"
         },
         {
             "rank": 8,
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
-            "videoId": "L1rR_smhD78"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/DFaU8PaMiz8/hqdefault.jpg",
-            "videoId": "DFaU8PaMiz8"
+            "image": "https://i.ytimg.com/vi/HMUDVMiITOU/hqdefault.jpg",
+            "videoId": "HMUDVMiITOU"
         },
         {
             "rank": 5,
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/mm1OP6CCsEQ/hqdefault.jpg",
-            "videoId": "mm1OP6CCsEQ"
+            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
+            "videoId": "b6DzYwwS6Ng"
         },
         {
             "rank": 7,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/5xI1y37Goro/hqdefault.jpg",
-            "videoId": "5xI1y37Goro"
+            "image": "https://i.ytimg.com/vi/9rOFscKgZtw/hqdefault.jpg",
+            "videoId": "9rOFscKgZtw"
         },
         {
             "rank": 7,
@@ -372,8 +372,8 @@ const rankData = {
             "rank": 2,
             "title": "NOT CUTE ANYMORE",
             "artist": "ILLIT",
-            "image": "https://i.ytimg.com/vi/x_RYZsOfpKY/hqdefault.jpg",
-            "videoId": "x_RYZsOfpKY"
+            "image": "https://i.ytimg.com/vi/NmGn7OE1CEI/hqdefault.jpg",
+            "videoId": "NmGn7OE1CEI"
         },
         {
             "rank": 3,
@@ -414,8 +414,8 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/Vre8mMqbQMs/hqdefault.jpg",
-            "videoId": "Vre8mMqbQMs"
+            "image": "https://i.ytimg.com/vi/cI5W2aH8BeI/hqdefault.jpg",
+            "videoId": "cI5W2aH8BeI"
         },
         {
             "rank": 9,
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/5kS7Az8Qz10/hqdefault.jpg",
-            "videoId": "5kS7Az8Qz10"
+            "image": "https://i.ytimg.com/vi/0TjhlMxQqzw/hqdefault.jpg",
+            "videoId": "0TjhlMxQqzw"
         }
     ],
     "youtube_shorts_global": [
@@ -493,8 +493,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/hfcR-PZbVfQ/hqdefault.jpg",
-            "videoId": "hfcR-PZbVfQ"
+            "image": "https://i.ytimg.com/vi/0PoVO_p3OvA/hqdefault.jpg",
+            "videoId": "0PoVO_p3OvA"
         },
         {
             "rank": 10,
