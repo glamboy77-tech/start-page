@@ -1,4 +1,4 @@
-const CACHE_NAME = 'trend-hub-pwa-v1';
+onst CACHE_NAME = 'trend-hub-pwa-v2';
 
 const APP_SHELL = [
   './',

@@ -491,17 +491,15 @@
         }
 
         function playMusic(artist, songTitle, videoId) {
-            const player = document.getElementById('player');
-            const frame = document.getElementById('ytFrame');
-            document.getElementById('nowPlaying').textContent = `${songTitle} - ${artist}`;
-            player.classList.add('active');
-
+            let youtubeUrl = '';
             if (videoId) {
-                frame.src = `https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1&playsinline=1`;
+                youtubeUrl = `https://www.youtube.com/watch?v=${encodeURIComponent(videoId)}`;
             } else {
                 const query = encodeURIComponent(`${artist} ${songTitle} official audio`);
-                frame.src = `https://www.youtube.com/embed?listType=search&list=${query}&autoplay=1&playsinline=1`;
+                youtubeUrl = `https://www.youtube.com/results?search_query=${query}`;
             }
+
+            window.open(youtubeUrl, '_blank', 'noopener,noreferrer');
         }
 
         function closePlayer() {
