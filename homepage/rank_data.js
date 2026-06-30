@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-06-30 10:46:29",
+    "last_updated": "2026-06-30 10:57:38",
     "billboard": [
         {
             "rank": 1,
@@ -77,8 +77,8 @@ const rankData = {
             "rank": 1,
             "title": "Dracula",
             "artist": "Tame Impala & JENNIE",
-            "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
-            "videoId": "xnP7qKxwzjg"
+            "image": "https://i.ytimg.com/vi/fFawxZW2RZs/hqdefault.jpg",
+            "videoId": "fFawxZW2RZs"
         },
         {
             "rank": 2,
@@ -170,8 +170,8 @@ const rankData = {
             "rank": 4,
             "title": "It′s Me",
             "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/yOrggAlABo0/hqdefault.jpg",
-            "videoId": "yOrggAlABo0"
+            "image": "https://i.ytimg.com/vi/LsHJodrt-Nw/hqdefault.jpg",
+            "videoId": "LsHJodrt-Nw"
         },
         {
             "rank": 5,
@@ -221,15 +221,15 @@ const rankData = {
             "rank": 1,
             "title": "Love Language",
             "artist": "Kim Min Seok",
-            "image": "https://i.ytimg.com/vi/ccbq5l511uU/hqdefault.jpg",
-            "videoId": "ccbq5l511uU"
+            "image": "https://i.ytimg.com/vi/zHRalE_8n1A/hqdefault.jpg",
+            "videoId": "zHRalE_8n1A"
         },
         {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
-            "videoId": "L1rR_smhD78"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -386,8 +386,8 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/bS7xdNrNAuM/hqdefault.jpg",
-            "videoId": "bS7xdNrNAuM"
+            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
+            "videoId": "YEMBk076jGM"
         },
         {
             "rank": 5,
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/5kS7Az8Qz10/hqdefault.jpg",
-            "videoId": "5kS7Az8Qz10"
+            "image": "https://i.ytimg.com/vi/0TjhlMxQqzw/hqdefault.jpg",
+            "videoId": "0TjhlMxQqzw"
         }
     ],
     "youtube_shorts_global": [
@@ -472,8 +472,8 @@ const rankData = {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
-            "videoId": "1XOJFuKHCck"
+            "image": "https://i.ytimg.com/vi/37soJxAYudM/hqdefault.jpg",
+            "videoId": "37soJxAYudM"
         },
         {
             "rank": 7,
