@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-06-30 10:57:38",
+    "last_updated": "2026-06-30 11:07:56",
     "billboard": [
         {
             "rank": 1,
@@ -77,8 +77,8 @@ const rankData = {
             "rank": 1,
             "title": "Dracula",
             "artist": "Tame Impala & JENNIE",
-            "image": "https://i.ytimg.com/vi/fFawxZW2RZs/hqdefault.jpg",
-            "videoId": "fFawxZW2RZs"
+            "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
+            "videoId": "xnP7qKxwzjg"
         },
         {
             "rank": 2,
@@ -170,8 +170,8 @@ const rankData = {
             "rank": 4,
             "title": "It′s Me",
             "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/LsHJodrt-Nw/hqdefault.jpg",
-            "videoId": "LsHJodrt-Nw"
+            "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
+            "videoId": "bMhDJ0S0OBA"
         },
         {
             "rank": 5,
@@ -184,8 +184,8 @@ const rankData = {
             "rank": 6,
             "title": "소문의 낙원",
             "artist": "AKMU (악뮤)",
-            "image": "https://i.ytimg.com/vi/D54StAZFUrc/hqdefault.jpg",
-            "videoId": "D54StAZFUrc"
+            "image": "https://i.ytimg.com/vi/XI2tFHOSqNQ/hqdefault.jpg",
+            "videoId": "XI2tFHOSqNQ"
         },
         {
             "rank": 7,
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/vWkH6YKFYSA/hqdefault.jpg",
-            "videoId": "vWkH6YKFYSA"
+            "image": "https://i.ytimg.com/vi/oiKj0Z_Xnjc/hqdefault.jpg",
+            "videoId": "oiKj0Z_Xnjc"
         },
         {
             "rank": 2,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
-            "videoId": "oY75OIjru0o"
+            "image": "https://i.ytimg.com/vi/G1KEXH8qo4M/hqdefault.jpg",
+            "videoId": "G1KEXH8qo4M"
         },
         {
             "rank": 5,
@@ -472,8 +472,8 @@ const rankData = {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/37soJxAYudM/hqdefault.jpg",
-            "videoId": "37soJxAYudM"
+            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
+            "videoId": "1XOJFuKHCck"
         },
         {
             "rank": 7,
@@ -493,8 +493,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/6vtc1BLa8uc/hqdefault.jpg",
-            "videoId": "6vtc1BLa8uc"
+            "image": "https://i.ytimg.com/vi/_S04LZNIzj4/hqdefault.jpg",
+            "videoId": "_S04LZNIzj4"
         },
         {
             "rank": 10,
