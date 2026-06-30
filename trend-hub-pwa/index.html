@@ -191,13 +191,24 @@
             grid-template-columns: 34px 54px 1fr;
             gap: 12px;
             align-items: center;
+            min-width: 0;
             min-height: 78px;
             padding: 12px;
             border: 1px solid rgba(255, 255, 255, 0.08);
             border-radius: 20px;
             background: rgba(255, 255, 255, 0.055);
             box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.04);
+            color: var(--text);
             cursor: pointer;
+            text-decoration: none;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        .rank-item:visited,
+        .rank-item:hover,
+        .rank-item:focus {
+            color: var(--text);
+            text-decoration: none;
         }
 
         .rank-item:active {
@@ -240,6 +251,11 @@
             border-radius: 14px;
             background: linear-gradient(135deg, rgba(79, 172, 254, 0.3), rgba(161, 140, 209, 0.28));
             font-size: 1.35rem;
+        }
+
+        .item-info {
+            min-width: 0;
+            overflow: hidden;
         }
 
         .item-title {
@@ -469,7 +485,7 @@
                 <a class="rank-item" href="${youtubeUrl}" target="_blank" rel="noopener noreferrer" aria-label="YouTube에서 ${escapeHtml(item.title)} 재생">
                     <div class="rank-number">${item.rank}</div>
                     <img class="cover" src="${image}" alt="" loading="lazy" onerror="this.style.display='none'; this.insertAdjacentHTML('afterend','<div class=&quot;keyword-icon&quot;>♪</div>')">
-                    <div>
+                    <div class="item-info">
                         <div class="item-title">${escapeHtml(item.title)}</div>
                         <div class="item-subtitle">${escapeHtml(item.artist)}</div>
                     </div>
