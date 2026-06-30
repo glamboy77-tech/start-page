@@ -464,15 +464,16 @@
 
         function renderMusicItem(item) {
             const image = item.image || '';
+            const youtubeUrl = getYoutubeUrl(item.artist, item.title, item.videoId || '');
             return `
-                <article class="rank-item" onclick="playMusic(${escapeForJs(item.artist)}, ${escapeForJs(item.title)}, ${escapeForJs(item.videoId || '')})">
+                <a class="rank-item" href="${youtubeUrl}" target="_blank" rel="noopener noreferrer" aria-label="YouTube에서 ${escapeHtml(item.title)} 재생">
                     <div class="rank-number">${item.rank}</div>
                     <img class="cover" src="${image}" alt="" loading="lazy" onerror="this.style.display='none'; this.insertAdjacentHTML('afterend','<div class=&quot;keyword-icon&quot;>♪</div>')">
                     <div>
                         <div class="item-title">${escapeHtml(item.title)}</div>
                         <div class="item-subtitle">${escapeHtml(item.artist)}</div>
                     </div>
-                </article>
+                </a>
             `;
         }
 
@@ -491,15 +492,18 @@
         }
 
         function playMusic(artist, songTitle, videoId) {
-            let youtubeUrl = '';
-            if (videoId) {
-                youtubeUrl = `https://www.youtube.com/watch?v=${encodeURIComponent(videoId)}`;
-            } else {
-                const query = encodeURIComponent(`${artist} ${songTitle} official audio`);
-                youtubeUrl = `https://www.youtube.com/results?search_query=${query}`;
-            }
+            const youtubeUrl = getYoutubeUrl(artist, songTitle, videoId);
 
             window.open(youtubeUrl, '_blank', 'noopener,noreferrer');
+        }
+
+        function getYoutubeUrl(artist, songTitle, videoId) {
+            if (videoId) {
+                return `https://www.youtube.com/watch?v=${encodeURIComponent(videoId)}`;
+            }
+
+            const query = encodeURIComponent(`${artist} ${songTitle} official audio`);
+            return `https://www.youtube.com/results?search_query=${query}`;
         }
 
         function closePlayer() {
