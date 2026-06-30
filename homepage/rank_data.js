@@ -1,75 +1,75 @@
 const rankData = {
-    "last_updated": "2026-06-30 11:07:56",
+    "last_updated": "2026-07-01 08:33:09",
     "billboard": [
         {
             "rank": 1,
-            "title": "I Knew It, I Knew You",
-            "artist": "Taylor Swift",
-            "image": "https://i.ytimg.com/vi/hDU4GB1PTxc/hqdefault.jpg",
-            "videoId": "hDU4GB1PTxc"
-        },
-        {
-            "rank": 2,
             "title": "Choosin' Texas",
             "artist": "Ella Langley",
             "image": "https://i.ytimg.com/vi/nUsrYVxrDwI/hqdefault.jpg",
             "videoId": "nUsrYVxrDwI"
         },
         {
+            "rank": 2,
+            "title": "I Knew It, I Knew You",
+            "artist": "Taylor Swift",
+            "image": "https://i.ytimg.com/vi/hDU4GB1PTxc/hqdefault.jpg",
+            "videoId": "hDU4GB1PTxc"
+        },
+        {
             "rank": 3,
-            "title": "Stupid Song",
-            "artist": "Olivia Rodrigo",
-            "image": "https://i.ytimg.com/vi/Rt9tW3cMLhI/hqdefault.jpg",
-            "videoId": "Rt9tW3cMLhI"
-        },
-        {
-            "rank": 4,
-            "title": "Drop Dead",
-            "artist": "Olivia Rodrigo",
-            "image": "https://i.ytimg.com/vi/78wrful9cVU/hqdefault.jpg",
-            "videoId": "78wrful9cVU"
-        },
-        {
-            "rank": 5,
             "title": "Be Her",
             "artist": "Ella Langley",
             "image": "https://i.ytimg.com/vi/Dg47eNL_Usw/hqdefault.jpg",
             "videoId": "Dg47eNL_Usw"
         },
         {
-            "rank": 6,
-            "title": "The Cure",
+            "rank": 4,
+            "title": "Stupid Song",
             "artist": "Olivia Rodrigo",
-            "image": "https://i.ytimg.com/vi/B402rKl4bUg/hqdefault.jpg",
-            "videoId": "B402rKl4bUg"
+            "image": "https://i.ytimg.com/vi/Rt9tW3cMLhI/hqdefault.jpg",
+            "videoId": "Rt9tW3cMLhI"
         },
         {
-            "rank": 7,
+            "rank": 5,
+            "title": "Drop Dead",
+            "artist": "Olivia Rodrigo",
+            "image": "https://i.ytimg.com/vi/78wrful9cVU/hqdefault.jpg",
+            "videoId": "78wrful9cVU"
+        },
+        {
+            "rank": 6,
             "title": "Janice STFU",
             "artist": "Drake",
             "image": "https://i.ytimg.com/vi/SD4yRDY9mek/hqdefault.jpg",
             "videoId": "SD4yRDY9mek"
         },
         {
-            "rank": 8,
+            "rank": 7,
             "title": "Hate That I Made You Love Me",
             "artist": "Ariana Grande",
             "image": "https://i.ytimg.com/vi/82-jTNka3uc/hqdefault.jpg",
             "videoId": "82-jTNka3uc"
         },
         {
-            "rank": 9,
-            "title": "Honeybee",
-            "artist": "Olivia Rodrigo",
-            "image": "https://i.ytimg.com/vi/60rlboK94mE/hqdefault.jpg",
-            "videoId": "60rlboK94mE"
-        },
-        {
-            "rank": 10,
+            "rank": 8,
             "title": "Man I Need",
             "artist": "Olivia Dean",
             "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
             "videoId": "oIv_Y2RPQ_A"
+        },
+        {
+            "rank": 9,
+            "title": "I Can't Love You Anymore",
+            "artist": "Ella Langley & Morgan Wallen",
+            "image": "https://i.ytimg.com/vi/A3G_7XgK2B4/hqdefault.jpg",
+            "videoId": "A3G_7XgK2B4"
+        },
+        {
+            "rank": 10,
+            "title": "Dracula",
+            "artist": "Tame Impala & JENNIE",
+            "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
+            "videoId": "xnP7qKxwzjg"
         }
     ],
     "billboard_rock": [
@@ -117,24 +117,24 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "Doors",
-            "artist": "Noah Kahan",
-            "image": "https://i.ytimg.com/vi/IAYJ4iTDkQ0/hqdefault.jpg",
-            "videoId": "IAYJ4iTDkQ0"
-        },
-        {
-            "rank": 8,
             "title": "Self Aware",
             "artist": "Temper City",
             "image": "https://i.ytimg.com/vi/mh4AQkw4Jjc/hqdefault.jpg",
             "videoId": "mh4AQkw4Jjc"
         },
         {
-            "rank": 9,
+            "rank": 8,
             "title": "Life Goes On",
             "artist": "Oliver Tree",
             "image": "https://i.ytimg.com/vi/8F2s8ivKXNY/hqdefault.jpg",
             "videoId": "8F2s8ivKXNY"
+        },
+        {
+            "rank": 9,
+            "title": "Doors",
+            "artist": "Noah Kahan",
+            "image": "https://i.ytimg.com/vi/IAYJ4iTDkQ0/hqdefault.jpg",
+            "videoId": "IAYJ4iTDkQ0"
         },
         {
             "rank": 10,
@@ -149,8 +149,8 @@ const rankData = {
             "rank": 1,
             "title": "갑자기",
             "artist": "아이오아이 (I.O.I)",
-            "image": "https://i.ytimg.com/vi/Jxgbfc89hNI/hqdefault.jpg",
-            "videoId": "Jxgbfc89hNI"
+            "image": "https://i.ytimg.com/vi/X0UPyWBupjk/hqdefault.jpg",
+            "videoId": "X0UPyWBupjk"
         },
         {
             "rank": 2,
@@ -170,8 +170,8 @@ const rankData = {
             "rank": 4,
             "title": "It′s Me",
             "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
-            "videoId": "bMhDJ0S0OBA"
+            "image": "https://i.ytimg.com/vi/yOrggAlABo0/hqdefault.jpg",
+            "videoId": "yOrggAlABo0"
         },
         {
             "rank": 5,
@@ -184,15 +184,15 @@ const rankData = {
             "rank": 6,
             "title": "소문의 낙원",
             "artist": "AKMU (악뮤)",
-            "image": "https://i.ytimg.com/vi/XI2tFHOSqNQ/hqdefault.jpg",
-            "videoId": "XI2tFHOSqNQ"
+            "image": "https://i.ytimg.com/vi/d-mhXzbEMJg/hqdefault.jpg",
+            "videoId": "d-mhXzbEMJg"
         },
         {
             "rank": 7,
             "title": "캐치 캐치",
             "artist": "YENA (최예나)",
-            "image": "https://i.ytimg.com/vi/NOiyDlWl534/hqdefault.jpg",
-            "videoId": "NOiyDlWl534"
+            "image": "https://i.ytimg.com/vi/hWGmoNhF4Qg/hqdefault.jpg",
+            "videoId": "hWGmoNhF4Qg"
         },
         {
             "rank": 8,
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
-            "videoId": "b6DzYwwS6Ng"
+            "image": "https://i.ytimg.com/vi/vmhiFFxr0MY/hqdefault.jpg",
+            "videoId": "vmhiFFxr0MY"
         },
         {
             "rank": 7,
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/oiKj0Z_Xnjc/hqdefault.jpg",
-            "videoId": "oiKj0Z_Xnjc"
+            "image": "https://i.ytimg.com/vi/vWkH6YKFYSA/hqdefault.jpg",
+            "videoId": "vWkH6YKFYSA"
         },
         {
             "rank": 2,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/G1KEXH8qo4M/hqdefault.jpg",
-            "videoId": "G1KEXH8qo4M"
+            "image": "https://i.ytimg.com/vi/vez3ZaH04nU/hqdefault.jpg",
+            "videoId": "vez3ZaH04nU"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/gXWVGlpIH20/hqdefault.jpg",
-            "videoId": "gXWVGlpIH20"
+            "image": "https://i.ytimg.com/vi/zK4bv8A8-YI/hqdefault.jpg",
+            "videoId": "zK4bv8A8-YI"
         },
         {
             "rank": 7,
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/0TjhlMxQqzw/hqdefault.jpg",
-            "videoId": "0TjhlMxQqzw"
+            "image": "https://i.ytimg.com/vi/o8fzQ1e01UE/hqdefault.jpg",
+            "videoId": "o8fzQ1e01UE"
         }
     ],
     "youtube_shorts_global": [
@@ -458,8 +458,8 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
-            "videoId": "mPmoojB54xI"
+            "image": "https://i.ytimg.com/vi/LUkpMxaZlDA/hqdefault.jpg",
+            "videoId": "LUkpMxaZlDA"
         },
         {
             "rank": 5,
@@ -493,8 +493,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/_S04LZNIzj4/hqdefault.jpg",
-            "videoId": "_S04LZNIzj4"
+            "image": "https://i.ytimg.com/vi/y9oP-ZP2Z28/hqdefault.jpg",
+            "videoId": "y9oP-ZP2Z28"
         },
         {
             "rank": 10,
