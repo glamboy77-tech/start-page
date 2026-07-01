@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-07-01 08:33:09",
+    "last_updated": "2026-07-02 08:34:32",
     "billboard": [
         {
             "rank": 1,
@@ -168,31 +168,31 @@ const rankData = {
         },
         {
             "rank": 4,
-            "title": "It′s Me",
-            "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/yOrggAlABo0/hqdefault.jpg",
-            "videoId": "yOrggAlABo0"
-        },
-        {
-            "rank": 5,
             "title": "LOVE ATTACK",
             "artist": "RESCENE (리센느)",
             "image": "https://i.ytimg.com/vi/9XttLI0oH0I/hqdefault.jpg",
             "videoId": "9XttLI0oH0I"
         },
         {
+            "rank": 5,
+            "title": "It′s Me",
+            "artist": "아일릿(ILLIT)",
+            "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
+            "videoId": "bMhDJ0S0OBA"
+        },
+        {
             "rank": 6,
             "title": "소문의 낙원",
             "artist": "AKMU (악뮤)",
-            "image": "https://i.ytimg.com/vi/d-mhXzbEMJg/hqdefault.jpg",
-            "videoId": "d-mhXzbEMJg"
+            "image": "https://i.ytimg.com/vi/D54StAZFUrc/hqdefault.jpg",
+            "videoId": "D54StAZFUrc"
         },
         {
             "rank": 7,
             "title": "캐치 캐치",
             "artist": "YENA (최예나)",
-            "image": "https://i.ytimg.com/vi/hWGmoNhF4Qg/hqdefault.jpg",
-            "videoId": "hWGmoNhF4Qg"
+            "image": "https://i.ytimg.com/vi/NOiyDlWl534/hqdefault.jpg",
+            "videoId": "NOiyDlWl534"
         },
         {
             "rank": 8,
@@ -221,15 +221,15 @@ const rankData = {
             "rank": 1,
             "title": "Love Language",
             "artist": "Kim Min Seok",
-            "image": "https://i.ytimg.com/vi/zHRalE_8n1A/hqdefault.jpg",
-            "videoId": "zHRalE_8n1A"
+            "image": "https://i.ytimg.com/vi/ccbq5l511uU/hqdefault.jpg",
+            "videoId": "ccbq5l511uU"
         },
         {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
-            "videoId": "L1rR_smhD78"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/vmhiFFxr0MY/hqdefault.jpg",
-            "videoId": "vmhiFFxr0MY"
+            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
+            "videoId": "b6DzYwwS6Ng"
         },
         {
             "rank": 7,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/vez3ZaH04nU/hqdefault.jpg",
-            "videoId": "vez3ZaH04nU"
+            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
+            "videoId": "oY75OIjru0o"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/zK4bv8A8-YI/hqdefault.jpg",
-            "videoId": "zK4bv8A8-YI"
+            "image": "https://i.ytimg.com/vi/5xI1y37Goro/hqdefault.jpg",
+            "videoId": "5xI1y37Goro"
         },
         {
             "rank": 7,
@@ -414,8 +414,8 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/Vre8mMqbQMs/hqdefault.jpg",
-            "videoId": "Vre8mMqbQMs"
+            "image": "https://i.ytimg.com/vi/SUkrIcgmi4w/hqdefault.jpg",
+            "videoId": "SUkrIcgmi4w"
         },
         {
             "rank": 9,
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/o8fzQ1e01UE/hqdefault.jpg",
-            "videoId": "o8fzQ1e01UE"
+            "image": "https://i.ytimg.com/vi/0TjhlMxQqzw/hqdefault.jpg",
+            "videoId": "0TjhlMxQqzw"
         }
     ],
     "youtube_shorts_global": [
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/osOu2Yz-JjE/hqdefault.jpg",
-            "videoId": "osOu2Yz-JjE"
+            "image": "https://i.ytimg.com/vi/GhMW0QeFWZE/hqdefault.jpg",
+            "videoId": "GhMW0QeFWZE"
         },
         {
             "rank": 2,
@@ -465,8 +465,8 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/PBl-xiC2Fq0/hqdefault.jpg",
-            "videoId": "PBl-xiC2Fq0"
+            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
+            "videoId": "DoM3DiFnXxM"
         },
         {
             "rank": 6,
@@ -486,8 +486,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/mRVs2ArYuw8/hqdefault.jpg",
-            "videoId": "mRVs2ArYuw8"
+            "image": "https://i.ytimg.com/vi/C-1bq2ueUSQ/hqdefault.jpg",
+            "videoId": "C-1bq2ueUSQ"
         },
         {
             "rank": 9,
