@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-07-06 08:27:08",
+    "last_updated": "2026-07-07 08:29:52",
     "billboard": [
         {
             "rank": 1,
@@ -149,15 +149,15 @@ const rankData = {
             "rank": 1,
             "title": "갑자기",
             "artist": "아이오아이 (I.O.I)",
-            "image": "https://i.ytimg.com/vi/Jxgbfc89hNI/hqdefault.jpg",
-            "videoId": "Jxgbfc89hNI"
+            "image": "https://i.ytimg.com/vi/UA1ojI8uxh0/hqdefault.jpg",
+            "videoId": "UA1ojI8uxh0"
         },
         {
             "rank": 2,
             "title": "REDRED",
             "artist": "CORTIS (코르티스)",
-            "image": "https://i.ytimg.com/vi/U6BDbXIah-Y/hqdefault.jpg",
-            "videoId": "U6BDbXIah-Y"
+            "image": "https://i.ytimg.com/vi/HybXnv_NarY/hqdefault.jpg",
+            "videoId": "HybXnv_NarY"
         },
         {
             "rank": 3,
@@ -184,22 +184,22 @@ const rankData = {
             "rank": 6,
             "title": "소문의 낙원",
             "artist": "AKMU (악뮤)",
-            "image": "https://i.ytimg.com/vi/d-mhXzbEMJg/hqdefault.jpg",
-            "videoId": "d-mhXzbEMJg"
+            "image": "https://i.ytimg.com/vi/7TR0W6he8Yo/hqdefault.jpg",
+            "videoId": "7TR0W6he8Yo"
         },
         {
             "rank": 7,
             "title": "캐치 캐치",
             "artist": "YENA (최예나)",
-            "image": "https://i.ytimg.com/vi/NOiyDlWl534/hqdefault.jpg",
-            "videoId": "NOiyDlWl534"
+            "image": "https://i.ytimg.com/vi/r-rYPXBoWOA/hqdefault.jpg",
+            "videoId": "r-rYPXBoWOA"
         },
         {
             "rank": 8,
-            "title": "RUDE!",
-            "artist": "Hearts2Hearts (하츠투하츠)",
-            "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
-            "videoId": "F7sGJVUrkjQ"
+            "title": "기쁨, 슬픔, 아름다운 마음",
+            "artist": "AKMU (악뮤)",
+            "image": "https://i.ytimg.com/vi/SNn_H_Q2moo/hqdefault.jpg",
+            "videoId": "SNn_H_Q2moo"
         },
         {
             "rank": 9,
@@ -210,10 +210,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "기쁨, 슬픔, 아름다운 마음",
-            "artist": "AKMU (악뮤)",
-            "image": "https://i.ytimg.com/vi/SNn_H_Q2moo/hqdefault.jpg",
-            "videoId": "SNn_H_Q2moo"
+            "title": "RUDE!",
+            "artist": "Hearts2Hearts (하츠투하츠)",
+            "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
+            "videoId": "F7sGJVUrkjQ"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/wEO1ZPBpq2g/hqdefault.jpg",
-            "videoId": "wEO1ZPBpq2g"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -249,8 +249,8 @@ const rankData = {
             "rank": 5,
             "title": "Good bye",
             "artist": "We Are The Night",
-            "image": "https://i.ytimg.com/vi/bk8W9FYCT4Y/hqdefault.jpg",
-            "videoId": "bk8W9FYCT4Y"
+            "image": "https://i.ytimg.com/vi/O0ZtSbqGz0k/hqdefault.jpg",
+            "videoId": "O0ZtSbqGz0k"
         },
         {
             "rank": 6,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/sMaCejBs9oo/hqdefault.jpg",
-            "videoId": "sMaCejBs9oo"
+            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
+            "videoId": "iG2OH4whO5E"
         },
         {
             "rank": 9,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/z5Q6kkOTjgI/hqdefault.jpg",
-            "videoId": "z5Q6kkOTjgI"
+            "image": "https://i.ytimg.com/vi/VZJCnXEZjvQ/hqdefault.jpg",
+            "videoId": "VZJCnXEZjvQ"
         },
         {
             "rank": 7,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
-            "videoId": "orOgilmiL_4"
+            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
+            "videoId": "y9pELY1qWzM"
         },
         {
             "rank": 6,
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/V4Onahadtek/hqdefault.jpg",
-            "videoId": "V4Onahadtek"
+            "image": "https://i.ytimg.com/vi/5kS7Az8Qz10/hqdefault.jpg",
+            "videoId": "5kS7Az8Qz10"
         }
     ],
     "youtube_shorts_global": [
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/osOu2Yz-JjE/hqdefault.jpg",
-            "videoId": "osOu2Yz-JjE"
+            "image": "https://i.ytimg.com/vi/hPgVGaNyybI/hqdefault.jpg",
+            "videoId": "hPgVGaNyybI"
         },
         {
             "rank": 2,
@@ -465,8 +465,8 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/PBl-xiC2Fq0/hqdefault.jpg",
-            "videoId": "PBl-xiC2Fq0"
+            "image": "https://i.ytimg.com/vi/E7G9TtjmVrg/hqdefault.jpg",
+            "videoId": "E7G9TtjmVrg"
         },
         {
             "rank": 6,
@@ -493,8 +493,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/ksv0KKnoxlk/hqdefault.jpg",
-            "videoId": "ksv0KKnoxlk"
+            "image": "https://i.ytimg.com/vi/6vtc1BLa8uc/hqdefault.jpg",
+            "videoId": "6vtc1BLa8uc"
         },
         {
             "rank": 10,
