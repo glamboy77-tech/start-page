@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-07-07 08:29:52",
+    "last_updated": "2026-07-08 08:24:30",
     "billboard": [
         {
             "rank": 1,
@@ -24,24 +24,24 @@ const rankData = {
         },
         {
             "rank": 4,
-            "title": "Stupid Song",
-            "artist": "Olivia Rodrigo",
-            "image": "https://i.ytimg.com/vi/Rt9tW3cMLhI/hqdefault.jpg",
-            "videoId": "Rt9tW3cMLhI"
-        },
-        {
-            "rank": 5,
-            "title": "Drop Dead",
-            "artist": "Olivia Rodrigo",
-            "image": "https://i.ytimg.com/vi/78wrful9cVU/hqdefault.jpg",
-            "videoId": "78wrful9cVU"
-        },
-        {
-            "rank": 6,
             "title": "Janice STFU",
             "artist": "Drake",
             "image": "https://i.ytimg.com/vi/SD4yRDY9mek/hqdefault.jpg",
             "videoId": "SD4yRDY9mek"
+        },
+        {
+            "rank": 5,
+            "title": "Man I Need",
+            "artist": "Olivia Dean",
+            "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
+            "videoId": "oIv_Y2RPQ_A"
+        },
+        {
+            "rank": 6,
+            "title": "I Can't Love You Anymore",
+            "artist": "Ella Langley & Morgan Wallen",
+            "image": "https://i.ytimg.com/vi/A3G_7XgK2B4/hqdefault.jpg",
+            "videoId": "A3G_7XgK2B4"
         },
         {
             "rank": 7,
@@ -52,24 +52,24 @@ const rankData = {
         },
         {
             "rank": 8,
-            "title": "Man I Need",
-            "artist": "Olivia Dean",
-            "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
-            "videoId": "oIv_Y2RPQ_A"
-        },
-        {
-            "rank": 9,
-            "title": "I Can't Love You Anymore",
-            "artist": "Ella Langley & Morgan Wallen",
-            "image": "https://i.ytimg.com/vi/A3G_7XgK2B4/hqdefault.jpg",
-            "videoId": "A3G_7XgK2B4"
-        },
-        {
-            "rank": 10,
             "title": "Dracula",
             "artist": "Tame Impala & JENNIE",
             "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
             "videoId": "xnP7qKxwzjg"
+        },
+        {
+            "rank": 9,
+            "title": "Drop Dead",
+            "artist": "Olivia Rodrigo",
+            "image": "https://i.ytimg.com/vi/78wrful9cVU/hqdefault.jpg",
+            "videoId": "78wrful9cVU"
+        },
+        {
+            "rank": 10,
+            "title": "I Just Might",
+            "artist": "Bruno Mars",
+            "image": "https://i.ytimg.com/vi/mrV8kK5t0V8/hqdefault.jpg",
+            "videoId": "mrV8kK5t0V8"
         }
     ],
     "billboard_rock": [
@@ -124,24 +124,24 @@ const rankData = {
         },
         {
             "rank": 8,
-            "title": "Life Goes On",
-            "artist": "Oliver Tree",
-            "image": "https://i.ytimg.com/vi/8F2s8ivKXNY/hqdefault.jpg",
-            "videoId": "8F2s8ivKXNY"
-        },
-        {
-            "rank": 9,
             "title": "Doors",
             "artist": "Noah Kahan",
             "image": "https://i.ytimg.com/vi/IAYJ4iTDkQ0/hqdefault.jpg",
             "videoId": "IAYJ4iTDkQ0"
         },
         {
-            "rank": 10,
+            "rank": 9,
             "title": "Willing And Able",
             "artist": "Noah Kahan",
             "image": "https://i.ytimg.com/vi/2f4gu97XWFg/hqdefault.jpg",
             "videoId": "2f4gu97XWFg"
+        },
+        {
+            "rank": 10,
+            "title": "Rein Me In",
+            "artist": "Sam Fender & Olivia Dean",
+            "image": "https://i.ytimg.com/vi/3triLkS0nq4/hqdefault.jpg",
+            "videoId": "3triLkS0nq4"
         }
     ],
     "melon": [
@@ -149,15 +149,15 @@ const rankData = {
             "rank": 1,
             "title": "갑자기",
             "artist": "아이오아이 (I.O.I)",
-            "image": "https://i.ytimg.com/vi/UA1ojI8uxh0/hqdefault.jpg",
-            "videoId": "UA1ojI8uxh0"
+            "image": "https://i.ytimg.com/vi/Jxgbfc89hNI/hqdefault.jpg",
+            "videoId": "Jxgbfc89hNI"
         },
         {
             "rank": 2,
             "title": "REDRED",
             "artist": "CORTIS (코르티스)",
-            "image": "https://i.ytimg.com/vi/HybXnv_NarY/hqdefault.jpg",
-            "videoId": "HybXnv_NarY"
+            "image": "https://i.ytimg.com/vi/U6BDbXIah-Y/hqdefault.jpg",
+            "videoId": "U6BDbXIah-Y"
         },
         {
             "rank": 3,
@@ -177,22 +177,22 @@ const rankData = {
             "rank": 5,
             "title": "It′s Me",
             "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
-            "videoId": "bMhDJ0S0OBA"
+            "image": "https://i.ytimg.com/vi/we0iGfysR8M/hqdefault.jpg",
+            "videoId": "we0iGfysR8M"
         },
         {
             "rank": 6,
             "title": "소문의 낙원",
             "artist": "AKMU (악뮤)",
-            "image": "https://i.ytimg.com/vi/7TR0W6he8Yo/hqdefault.jpg",
-            "videoId": "7TR0W6he8Yo"
+            "image": "https://i.ytimg.com/vi/d-mhXzbEMJg/hqdefault.jpg",
+            "videoId": "d-mhXzbEMJg"
         },
         {
             "rank": 7,
             "title": "캐치 캐치",
             "artist": "YENA (최예나)",
-            "image": "https://i.ytimg.com/vi/r-rYPXBoWOA/hqdefault.jpg",
-            "videoId": "r-rYPXBoWOA"
+            "image": "https://i.ytimg.com/vi/NOiyDlWl534/hqdefault.jpg",
+            "videoId": "NOiyDlWl534"
         },
         {
             "rank": 8,
@@ -203,17 +203,17 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "사랑하게 될 거야",
-            "artist": "한로로",
-            "image": "https://i.ytimg.com/vi/h0KIWaUEIgQ/hqdefault.jpg",
-            "videoId": "h0KIWaUEIgQ"
-        },
-        {
-            "rank": 10,
             "title": "RUDE!",
             "artist": "Hearts2Hearts (하츠투하츠)",
             "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
             "videoId": "F7sGJVUrkjQ"
+        },
+        {
+            "rank": 10,
+            "title": "Drowning",
+            "artist": "WOODZ",
+            "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
+            "videoId": "tiKFuzpX-NA"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
-            "videoId": "L1rR_smhD78"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -249,8 +249,8 @@ const rankData = {
             "rank": 5,
             "title": "Good bye",
             "artist": "We Are The Night",
-            "image": "https://i.ytimg.com/vi/O0ZtSbqGz0k/hqdefault.jpg",
-            "videoId": "O0ZtSbqGz0k"
+            "image": "https://i.ytimg.com/vi/bk8W9FYCT4Y/hqdefault.jpg",
+            "videoId": "bk8W9FYCT4Y"
         },
         {
             "rank": 6,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
-            "videoId": "eCLI6mbb7Dg"
+            "image": "https://i.ytimg.com/vi/IRZJHEHSD_8/hqdefault.jpg",
+            "videoId": "IRZJHEHSD_8"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/VZJCnXEZjvQ/hqdefault.jpg",
-            "videoId": "VZJCnXEZjvQ"
+            "image": "https://i.ytimg.com/vi/8i7itO183Tk/hqdefault.jpg",
+            "videoId": "8i7itO183Tk"
         },
         {
             "rank": 7,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
-            "videoId": "y9pELY1qWzM"
+            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
+            "videoId": "orOgilmiL_4"
         },
         {
             "rank": 6,
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/5kS7Az8Qz10/hqdefault.jpg",
-            "videoId": "5kS7Az8Qz10"
+            "image": "https://i.ytimg.com/vi/0TjhlMxQqzw/hqdefault.jpg",
+            "videoId": "0TjhlMxQqzw"
         }
     ],
     "youtube_shorts_global": [
@@ -437,15 +437,15 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/hPgVGaNyybI/hqdefault.jpg",
-            "videoId": "hPgVGaNyybI"
+            "image": "https://i.ytimg.com/vi/osOu2Yz-JjE/hqdefault.jpg",
+            "videoId": "osOu2Yz-JjE"
         },
         {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/U9IVqsSCYQU/hqdefault.jpg",
-            "videoId": "U9IVqsSCYQU"
+            "image": "https://i.ytimg.com/vi/rd0gco-zQBQ/hqdefault.jpg",
+            "videoId": "rd0gco-zQBQ"
         },
         {
             "rank": 3,
@@ -465,8 +465,8 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/E7G9TtjmVrg/hqdefault.jpg",
-            "videoId": "E7G9TtjmVrg"
+            "image": "https://i.ytimg.com/vi/PBl-xiC2Fq0/hqdefault.jpg",
+            "videoId": "PBl-xiC2Fq0"
         },
         {
             "rank": 6,
@@ -493,8 +493,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/6vtc1BLa8uc/hqdefault.jpg",
-            "videoId": "6vtc1BLa8uc"
+            "image": "https://i.ytimg.com/vi/_S04LZNIzj4/hqdefault.jpg",
+            "videoId": "_S04LZNIzj4"
         },
         {
             "rank": 10,
