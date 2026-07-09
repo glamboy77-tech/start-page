@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-07-09 08:28:43",
+    "last_updated": "2026-07-10 08:31:30",
     "billboard": [
         {
             "rank": 1,
@@ -54,8 +54,8 @@ const rankData = {
             "rank": 8,
             "title": "Dracula",
             "artist": "Tame Impala & JENNIE",
-            "image": "https://i.ytimg.com/vi/fFawxZW2RZs/hqdefault.jpg",
-            "videoId": "fFawxZW2RZs"
+            "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
+            "videoId": "xnP7qKxwzjg"
         },
         {
             "rank": 9,
@@ -77,8 +77,8 @@ const rankData = {
             "rank": 1,
             "title": "Dracula",
             "artist": "Tame Impala & JENNIE",
-            "image": "https://i.ytimg.com/vi/fFawxZW2RZs/hqdefault.jpg",
-            "videoId": "fFawxZW2RZs"
+            "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
+            "videoId": "xnP7qKxwzjg"
         },
         {
             "rank": 2,
@@ -177,8 +177,8 @@ const rankData = {
             "rank": 5,
             "title": "It′s Me",
             "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/yOrggAlABo0/hqdefault.jpg",
-            "videoId": "yOrggAlABo0"
+            "image": "https://i.ytimg.com/vi/Bl15nY4XVqs/hqdefault.jpg",
+            "videoId": "Bl15nY4XVqs"
         },
         {
             "rank": 6,
@@ -191,15 +191,15 @@ const rankData = {
             "rank": 7,
             "title": "소문의 낙원",
             "artist": "AKMU (악뮤)",
-            "image": "https://i.ytimg.com/vi/d-mhXzbEMJg/hqdefault.jpg",
-            "videoId": "d-mhXzbEMJg"
+            "image": "https://i.ytimg.com/vi/D54StAZFUrc/hqdefault.jpg",
+            "videoId": "D54StAZFUrc"
         },
         {
             "rank": 8,
             "title": "캐치 캐치",
             "artist": "YENA (최예나)",
-            "image": "https://i.ytimg.com/vi/NOiyDlWl534/hqdefault.jpg",
-            "videoId": "NOiyDlWl534"
+            "image": "https://i.ytimg.com/vi/Nz_1K9a67gI/hqdefault.jpg",
+            "videoId": "Nz_1K9a67gI"
         },
         {
             "rank": 9,
@@ -249,8 +249,8 @@ const rankData = {
             "rank": 5,
             "title": "Good bye",
             "artist": "We Are The Night",
-            "image": "https://i.ytimg.com/vi/8G-bm_flQRk/hqdefault.jpg",
-            "videoId": "8G-bm_flQRk"
+            "image": "https://i.ytimg.com/vi/bk8W9FYCT4Y/hqdefault.jpg",
+            "videoId": "bk8W9FYCT4Y"
         },
         {
             "rank": 6,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/vez3ZaH04nU/hqdefault.jpg",
-            "videoId": "vez3ZaH04nU"
+            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
+            "videoId": "eCLI6mbb7Dg"
         },
         {
             "rank": 5,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/50VNCymT-Cs/hqdefault.jpg",
-            "videoId": "50VNCymT-Cs"
+            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
+            "videoId": "yxKA0NnNJeo"
         },
         {
             "rank": 9,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
-            "videoId": "orOgilmiL_4"
+            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
+            "videoId": "y9pELY1qWzM"
         },
         {
             "rank": 6,
@@ -458,8 +458,8 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/LUkpMxaZlDA/hqdefault.jpg",
-            "videoId": "LUkpMxaZlDA"
+            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
+            "videoId": "mPmoojB54xI"
         },
         {
             "rank": 5,
@@ -472,8 +472,8 @@ const rankData = {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/37soJxAYudM/hqdefault.jpg",
-            "videoId": "37soJxAYudM"
+            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
+            "videoId": "1XOJFuKHCck"
         },
         {
             "rank": 7,
