@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-07-14 08:22:34",
+    "last_updated": "2026-07-15 08:21:45",
     "billboard": [
         {
             "rank": 1,
@@ -24,52 +24,52 @@ const rankData = {
         },
         {
             "rank": 4,
-            "title": "Janice STFU",
-            "artist": "Drake",
-            "image": "https://i.ytimg.com/vi/SD4yRDY9mek/hqdefault.jpg",
-            "videoId": "SD4yRDY9mek"
-        },
-        {
-            "rank": 5,
-            "title": "Man I Need",
-            "artist": "Olivia Dean",
-            "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
-            "videoId": "oIv_Y2RPQ_A"
-        },
-        {
-            "rank": 6,
             "title": "I Can't Love You Anymore",
             "artist": "Ella Langley & Morgan Wallen",
             "image": "https://i.ytimg.com/vi/A3G_7XgK2B4/hqdefault.jpg",
             "videoId": "A3G_7XgK2B4"
         },
         {
-            "rank": 7,
-            "title": "Hate That I Made You Love Me",
-            "artist": "Ariana Grande",
-            "image": "https://i.ytimg.com/vi/82-jTNka3uc/hqdefault.jpg",
-            "videoId": "82-jTNka3uc"
-        },
-        {
-            "rank": 8,
+            "rank": 5,
             "title": "Dracula",
             "artist": "Tame Impala & JENNIE",
             "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
             "videoId": "xnP7qKxwzjg"
         },
         {
-            "rank": 9,
-            "title": "Drop Dead",
-            "artist": "Olivia Rodrigo",
-            "image": "https://i.ytimg.com/vi/78wrful9cVU/hqdefault.jpg",
-            "videoId": "78wrful9cVU"
+            "rank": 6,
+            "title": "Hate That I Made You Love Me",
+            "artist": "Ariana Grande",
+            "image": "https://i.ytimg.com/vi/82-jTNka3uc/hqdefault.jpg",
+            "videoId": "82-jTNka3uc"
         },
         {
-            "rank": 10,
+            "rank": 7,
             "title": "I Just Might",
             "artist": "Bruno Mars",
             "image": "https://i.ytimg.com/vi/mrV8kK5t0V8/hqdefault.jpg",
             "videoId": "mrV8kK5t0V8"
+        },
+        {
+            "rank": 8,
+            "title": "Janice STFU",
+            "artist": "Drake",
+            "image": "https://i.ytimg.com/vi/SD4yRDY9mek/hqdefault.jpg",
+            "videoId": "SD4yRDY9mek"
+        },
+        {
+            "rank": 9,
+            "title": "So Easy (To Fall In Love)",
+            "artist": "Olivia Dean",
+            "image": "https://i.ytimg.com/vi/3sur4BmjQt8/hqdefault.jpg",
+            "videoId": "3sur4BmjQt8"
+        },
+        {
+            "rank": 10,
+            "title": "Man I Need",
+            "artist": "Olivia Dean",
+            "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
+            "videoId": "oIv_Y2RPQ_A"
         }
     ],
     "billboard_rock": [
@@ -103,10 +103,10 @@ const rankData = {
         },
         {
             "rank": 5,
-            "title": "The Great Divide",
-            "artist": "Noah Kahan",
-            "image": "https://i.ytimg.com/vi/SKs80r2Lp34/hqdefault.jpg",
-            "videoId": "SKs80r2Lp34"
+            "title": "Self Aware",
+            "artist": "Temper City",
+            "image": "https://i.ytimg.com/vi/mh4AQkw4Jjc/hqdefault.jpg",
+            "videoId": "mh4AQkw4Jjc"
         },
         {
             "rank": 6,
@@ -117,10 +117,10 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "Self Aware",
-            "artist": "Temper City",
-            "image": "https://i.ytimg.com/vi/mh4AQkw4Jjc/hqdefault.jpg",
-            "videoId": "mh4AQkw4Jjc"
+            "title": "The Great Divide",
+            "artist": "Noah Kahan",
+            "image": "https://i.ytimg.com/vi/SKs80r2Lp34/hqdefault.jpg",
+            "videoId": "SKs80r2Lp34"
         },
         {
             "rank": 8,
@@ -131,17 +131,17 @@ const rankData = {
         },
         {
             "rank": 9,
+            "title": "Wonderwall",
+            "artist": "Oasis",
+            "image": "https://i.ytimg.com/vi/bx1Bh8ZvH84/hqdefault.jpg",
+            "videoId": "bx1Bh8ZvH84"
+        },
+        {
+            "rank": 10,
             "title": "Willing And Able",
             "artist": "Noah Kahan",
             "image": "https://i.ytimg.com/vi/2f4gu97XWFg/hqdefault.jpg",
             "videoId": "2f4gu97XWFg"
-        },
-        {
-            "rank": 10,
-            "title": "Rein Me In",
-            "artist": "Sam Fender & Olivia Dean",
-            "image": "https://i.ytimg.com/vi/3triLkS0nq4/hqdefault.jpg",
-            "videoId": "3triLkS0nq4"
         }
     ],
     "melon": [
@@ -175,17 +175,17 @@ const rankData = {
         },
         {
             "rank": 5,
-            "title": "It′s Me",
-            "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
-            "videoId": "bMhDJ0S0OBA"
-        },
-        {
-            "rank": 6,
             "title": "Pretty Girl",
             "artist": "RESCENE (리센느)",
             "image": "https://i.ytimg.com/vi/qZlu2j2SiBA/hqdefault.jpg",
             "videoId": "qZlu2j2SiBA"
+        },
+        {
+            "rank": 6,
+            "title": "It′s Me",
+            "artist": "아일릿(ILLIT)",
+            "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
+            "videoId": "bMhDJ0S0OBA"
         },
         {
             "rank": 7,
@@ -196,24 +196,24 @@ const rankData = {
         },
         {
             "rank": 8,
-            "title": "캐치 캐치",
-            "artist": "YENA (최예나)",
-            "image": "https://i.ytimg.com/vi/VHoDEaW5i5M/hqdefault.jpg",
-            "videoId": "VHoDEaW5i5M"
-        },
-        {
-            "rank": 9,
             "title": "Drowning",
             "artist": "WOODZ",
             "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
             "videoId": "tiKFuzpX-NA"
         },
         {
+            "rank": 9,
+            "title": "캐치 캐치",
+            "artist": "YENA (최예나)",
+            "image": "https://i.ytimg.com/vi/NOiyDlWl534/hqdefault.jpg",
+            "videoId": "NOiyDlWl534"
+        },
+        {
             "rank": 10,
-            "title": "RUDE!",
-            "artist": "Hearts2Hearts (하츠투하츠)",
-            "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg",
-            "videoId": "F7sGJVUrkjQ"
+            "title": "기쁨, 슬픔, 아름다운 마음",
+            "artist": "AKMU (악뮤)",
+            "image": "https://i.ytimg.com/vi/SNn_H_Q2moo/hqdefault.jpg",
+            "videoId": "SNn_H_Q2moo"
         }
     ],
     "shazam_korea": [
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/u4P94G9Mhig/hqdefault.jpg",
-            "videoId": "u4P94G9Mhig"
+            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
+            "videoId": "oXCXlPJ57rE"
         }
     ],
     "shazam_global": [
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/sWKbGypyCTM/hqdefault.jpg",
-            "videoId": "sWKbGypyCTM"
+            "image": "https://i.ytimg.com/vi/FOoQn9DXlQM/hqdefault.jpg",
+            "videoId": "FOoQn9DXlQM"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/AlZBIxGxFPE/hqdefault.jpg",
-            "videoId": "AlZBIxGxFPE"
+            "image": "https://i.ytimg.com/vi/50VNCymT-Cs/hqdefault.jpg",
+            "videoId": "50VNCymT-Cs"
         },
         {
             "rank": 9,
