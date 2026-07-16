@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-07-16 08:23:52",
+    "last_updated": "2026-07-17 08:21:44",
     "billboard": [
         {
             "rank": 1,
@@ -19,8 +19,8 @@ const rankData = {
             "rank": 3,
             "title": "Be Her",
             "artist": "Ella Langley",
-            "image": "https://i.ytimg.com/vi/j-nlmRLAjbU/hqdefault.jpg",
-            "videoId": "j-nlmRLAjbU"
+            "image": "https://i.ytimg.com/vi/Dg47eNL_Usw/hqdefault.jpg",
+            "videoId": "Dg47eNL_Usw"
         },
         {
             "rank": 4,
@@ -33,8 +33,8 @@ const rankData = {
             "rank": 5,
             "title": "Dracula",
             "artist": "Tame Impala & JENNIE",
-            "image": "https://i.ytimg.com/vi/fFawxZW2RZs/hqdefault.jpg",
-            "videoId": "fFawxZW2RZs"
+            "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
+            "videoId": "xnP7qKxwzjg"
         },
         {
             "rank": 6,
@@ -77,8 +77,8 @@ const rankData = {
             "rank": 1,
             "title": "Dracula",
             "artist": "Tame Impala & JENNIE",
-            "image": "https://i.ytimg.com/vi/fFawxZW2RZs/hqdefault.jpg",
-            "videoId": "fFawxZW2RZs"
+            "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
+            "videoId": "xnP7qKxwzjg"
         },
         {
             "rank": 2,
@@ -163,8 +163,8 @@ const rankData = {
             "rank": 3,
             "title": "REDRED",
             "artist": "CORTIS (코르티스)",
-            "image": "https://i.ytimg.com/vi/HybXnv_NarY/hqdefault.jpg",
-            "videoId": "HybXnv_NarY"
+            "image": "https://i.ytimg.com/vi/U6BDbXIah-Y/hqdefault.jpg",
+            "videoId": "U6BDbXIah-Y"
         },
         {
             "rank": 4,
@@ -175,45 +175,45 @@ const rankData = {
         },
         {
             "rank": 5,
+            "title": "It′s Me",
+            "artist": "아일릿(ILLIT)",
+            "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
+            "videoId": "bMhDJ0S0OBA"
+        },
+        {
+            "rank": 6,
             "title": "Pretty Girl",
             "artist": "RESCENE (리센느)",
             "image": "https://i.ytimg.com/vi/qZlu2j2SiBA/hqdefault.jpg",
             "videoId": "qZlu2j2SiBA"
         },
         {
-            "rank": 6,
-            "title": "It′s Me",
-            "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/yOrggAlABo0/hqdefault.jpg",
-            "videoId": "yOrggAlABo0"
-        },
-        {
             "rank": 7,
             "title": "소문의 낙원",
             "artist": "AKMU (악뮤)",
-            "image": "https://i.ytimg.com/vi/OB8tiDObZ1I/hqdefault.jpg",
-            "videoId": "OB8tiDObZ1I"
+            "image": "https://i.ytimg.com/vi/D54StAZFUrc/hqdefault.jpg",
+            "videoId": "D54StAZFUrc"
         },
         {
             "rank": 8,
-            "title": "캐치 캐치",
-            "artist": "YENA (최예나)",
-            "image": "https://i.ytimg.com/vi/NOiyDlWl534/hqdefault.jpg",
-            "videoId": "NOiyDlWl534"
-        },
-        {
-            "rank": 9,
             "title": "Drowning",
             "artist": "WOODZ",
             "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
             "videoId": "tiKFuzpX-NA"
         },
         {
+            "rank": 9,
+            "title": "캐치 캐치",
+            "artist": "YENA (최예나)",
+            "image": "https://i.ytimg.com/vi/NOiyDlWl534/hqdefault.jpg",
+            "videoId": "NOiyDlWl534"
+        },
+        {
             "rank": 10,
-            "title": "만찬가",
-            "artist": "태연 (TAEYEON)",
-            "image": "https://i.ytimg.com/vi/VVO05mYGFY8/hqdefault.jpg",
-            "videoId": "VVO05mYGFY8"
+            "title": "기쁨, 슬픔, 아름다운 마음",
+            "artist": "AKMU (악뮤)",
+            "image": "https://i.ytimg.com/vi/SNn_H_Q2moo/hqdefault.jpg",
+            "videoId": "SNn_H_Q2moo"
         }
     ],
     "shazam_korea": [
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
-            "videoId": "iG2OH4whO5E"
+            "image": "https://i.ytimg.com/vi/sMaCejBs9oo/hqdefault.jpg",
+            "videoId": "sMaCejBs9oo"
         },
         {
             "rank": 9,
@@ -307,8 +307,8 @@ const rankData = {
             "rank": 3,
             "title": "NO BATIDÃO",
             "artist": "ZXKAI & slxughter",
-            "image": "https://i.ytimg.com/vi/1GDOndn8BPs/hqdefault.jpg",
-            "videoId": "1GDOndn8BPs"
+            "image": "https://i.ytimg.com/vi/0G4xz8A9lrE/hqdefault.jpg",
+            "videoId": "0G4xz8A9lrE"
         },
         {
             "rank": 4,
@@ -407,8 +407,8 @@ const rankData = {
             "rank": 7,
             "title": "Zoo",
             "artist": "Shakira",
-            "image": "https://i.ytimg.com/vi/1ejyN_NjPug/hqdefault.jpg",
-            "videoId": "1ejyN_NjPug"
+            "image": "https://i.ytimg.com/vi/Kw3935PH01E/hqdefault.jpg",
+            "videoId": "Kw3935PH01E"
         },
         {
             "rank": 8,
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/5kS7Az8Qz10/hqdefault.jpg",
-            "videoId": "5kS7Az8Qz10"
+            "image": "https://i.ytimg.com/vi/0TjhlMxQqzw/hqdefault.jpg",
+            "videoId": "0TjhlMxQqzw"
         }
     ],
     "youtube_shorts_global": [
@@ -486,15 +486,15 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/mRVs2ArYuw8/hqdefault.jpg",
-            "videoId": "mRVs2ArYuw8"
+            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
+            "videoId": "s8A9qvAnSg0"
         },
         {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/6vtc1BLa8uc/hqdefault.jpg",
-            "videoId": "6vtc1BLa8uc"
+            "image": "https://i.ytimg.com/vi/_S04LZNIzj4/hqdefault.jpg",
+            "videoId": "_S04LZNIzj4"
         },
         {
             "rank": 10,
