@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-07-21 08:57:35",
+    "last_updated": "2026-07-22 08:57:16",
     "billboard": [
         {
             "rank": 1,
@@ -24,10 +24,10 @@ const rankData = {
         },
         {
             "rank": 4,
-            "title": "I Can't Love You Anymore",
-            "artist": "Ella Langley & Morgan Wallen",
-            "image": "https://i.ytimg.com/vi/OWrWAE2WQpU/hqdefault.jpg",
-            "videoId": "OWrWAE2WQpU"
+            "title": "Hate That I Made You Love Me",
+            "artist": "Ariana Grande",
+            "image": "https://i.ytimg.com/vi/82-jTNka3uc/hqdefault.jpg",
+            "videoId": "82-jTNka3uc"
         },
         {
             "rank": 5,
@@ -38,24 +38,24 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "Hate That I Made You Love Me",
-            "artist": "Ariana Grande",
-            "image": "https://i.ytimg.com/vi/82-jTNka3uc/hqdefault.jpg",
-            "videoId": "82-jTNka3uc"
+            "title": "Boston",
+            "artist": "Stella Lefty",
+            "image": "https://i.ytimg.com/vi/Xh0GyxWgKPs/hqdefault.jpg",
+            "videoId": "Xh0GyxWgKPs"
         },
         {
             "rank": 7,
-            "title": "I Just Might",
-            "artist": "Bruno Mars",
-            "image": "https://i.ytimg.com/vi/mrV8kK5t0V8/hqdefault.jpg",
-            "videoId": "mrV8kK5t0V8"
+            "title": "I Can't Love You Anymore",
+            "artist": "Ella Langley & Morgan Wallen",
+            "image": "https://i.ytimg.com/vi/A3G_7XgK2B4/hqdefault.jpg",
+            "videoId": "A3G_7XgK2B4"
         },
         {
             "rank": 8,
-            "title": "Janice STFU",
-            "artist": "Drake",
-            "image": "https://i.ytimg.com/vi/SD4yRDY9mek/hqdefault.jpg",
-            "videoId": "SD4yRDY9mek"
+            "title": "Man I Need",
+            "artist": "Olivia Dean",
+            "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
+            "videoId": "oIv_Y2RPQ_A"
         },
         {
             "rank": 9,
@@ -66,10 +66,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "Man I Need",
-            "artist": "Olivia Dean",
-            "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
-            "videoId": "oIv_Y2RPQ_A"
+            "title": "I Just Might",
+            "artist": "Bruno Mars",
+            "image": "https://i.ytimg.com/vi/mrV8kK5t0V8/hqdefault.jpg",
+            "videoId": "mrV8kK5t0V8"
         }
     ],
     "billboard_rock": [
@@ -96,31 +96,31 @@ const rankData = {
         },
         {
             "rank": 4,
-            "title": "Freakin' Out",
-            "artist": "Dexter And The Moonrocks",
-            "image": "https://i.ytimg.com/vi/Sf73y9GrJ4I/hqdefault.jpg",
-            "videoId": "Sf73y9GrJ4I"
+            "title": "Wonderwall",
+            "artist": "Oasis",
+            "image": "https://i.ytimg.com/vi/bx1Bh8ZvH84/hqdefault.jpg",
+            "videoId": "bx1Bh8ZvH84"
         },
         {
             "rank": 5,
-            "title": "Self Aware",
-            "artist": "Temper City",
-            "image": "https://i.ytimg.com/vi/mh4AQkw4Jjc/hqdefault.jpg",
-            "videoId": "mh4AQkw4Jjc"
-        },
-        {
-            "rank": 6,
             "title": "Orbiter",
             "artist": "Noah Kahan",
             "image": "https://i.ytimg.com/vi/OFcKm-5jSQE/hqdefault.jpg",
             "videoId": "OFcKm-5jSQE"
         },
         {
+            "rank": 6,
+            "title": "Freakin' Out",
+            "artist": "Dexter And The Moonrocks",
+            "image": "https://i.ytimg.com/vi/Sf73y9GrJ4I/hqdefault.jpg",
+            "videoId": "Sf73y9GrJ4I"
+        },
+        {
             "rank": 7,
-            "title": "The Great Divide",
-            "artist": "Noah Kahan",
-            "image": "https://i.ytimg.com/vi/SKs80r2Lp34/hqdefault.jpg",
-            "videoId": "SKs80r2Lp34"
+            "title": "Self Aware",
+            "artist": "Temper City",
+            "image": "https://i.ytimg.com/vi/mh4AQkw4Jjc/hqdefault.jpg",
+            "videoId": "mh4AQkw4Jjc"
         },
         {
             "rank": 8,
@@ -131,10 +131,10 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "Wonderwall",
-            "artist": "Oasis",
-            "image": "https://i.ytimg.com/vi/bx1Bh8ZvH84/hqdefault.jpg",
-            "videoId": "bx1Bh8ZvH84"
+            "title": "The Great Divide",
+            "artist": "Noah Kahan",
+            "image": "https://i.ytimg.com/vi/SKs80r2Lp34/hqdefault.jpg",
+            "videoId": "SKs80r2Lp34"
         },
         {
             "rank": 10,
@@ -184,15 +184,15 @@ const rankData = {
             "rank": 6,
             "title": "It′s Me",
             "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/we0iGfysR8M/hqdefault.jpg",
-            "videoId": "we0iGfysR8M"
+            "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
+            "videoId": "bMhDJ0S0OBA"
         },
         {
             "rank": 7,
             "title": "만찬가",
             "artist": "태연 (TAEYEON)",
-            "image": "https://i.ytimg.com/vi/c5JVr8IpCas/hqdefault.jpg",
-            "videoId": "c5JVr8IpCas"
+            "image": "https://i.ytimg.com/vi/VVO05mYGFY8/hqdefault.jpg",
+            "videoId": "VVO05mYGFY8"
         },
         {
             "rank": 8,
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
-            "videoId": "b6DzYwwS6Ng"
+            "image": "https://i.ytimg.com/vi/xwkdh5_XA7E/hqdefault.jpg",
+            "videoId": "xwkdh5_XA7E"
         },
         {
             "rank": 7,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/jQOeOIgrY9Y/hqdefault.jpg",
-            "videoId": "jQOeOIgrY9Y"
+            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
+            "videoId": "oXCXlPJ57rE"
         }
     ],
     "shazam_global": [
@@ -293,15 +293,15 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/vWkH6YKFYSA/hqdefault.jpg",
-            "videoId": "vWkH6YKFYSA"
+            "image": "https://i.ytimg.com/vi/oiKj0Z_Xnjc/hqdefault.jpg",
+            "videoId": "oiKj0Z_Xnjc"
         },
         {
             "rank": 2,
             "title": "Jogodo",
             "artist": "Victony & Asake",
-            "image": "https://i.ytimg.com/vi/vp0b_fqPvkM/hqdefault.jpg",
-            "videoId": "vp0b_fqPvkM"
+            "image": "https://i.ytimg.com/vi/4IuUYpS9RjE/hqdefault.jpg",
+            "videoId": "4IuUYpS9RjE"
         },
         {
             "rank": 3,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
-            "videoId": "oY75OIjru0o"
+            "image": "https://i.ytimg.com/vi/schf9OK-lmo/hqdefault.jpg",
+            "videoId": "schf9OK-lmo"
         },
         {
             "rank": 5,
@@ -335,8 +335,8 @@ const rankData = {
             "rank": 7,
             "title": "Moonwalkin'",
             "artist": "LNGSHOT",
-            "image": "https://i.ytimg.com/vi/1bAq4eksmB0/hqdefault.jpg",
-            "videoId": "1bAq4eksmB0"
+            "image": "https://i.ytimg.com/vi/HJgdT15UT4k/hqdefault.jpg",
+            "videoId": "HJgdT15UT4k"
         },
         {
             "rank": 8,
@@ -414,22 +414,22 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/qsY9SJLREfE/hqdefault.jpg",
-            "videoId": "qsY9SJLREfE"
+            "image": "https://i.ytimg.com/vi/B9O-WEawUCs/hqdefault.jpg",
+            "videoId": "B9O-WEawUCs"
         },
         {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/uESO0F6OcvE/hqdefault.jpg",
-            "videoId": "uESO0F6OcvE"
+            "image": "https://i.ytimg.com/vi/IHvR_MvM_bE/hqdefault.jpg",
+            "videoId": "IHvR_MvM_bE"
         },
         {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
-            "videoId": "VDuDQNkSC6g"
+            "image": "https://i.ytimg.com/vi/pIh9DfckKK8/hqdefault.jpg",
+            "videoId": "pIh9DfckKK8"
         }
     ],
     "youtube_shorts_global": [
@@ -451,8 +451,8 @@ const rankData = {
             "rank": 3,
             "title": "PASSO BEM SLOWED (Slowed)",
             "artist": "ATLXG",
-            "image": "https://i.ytimg.com/vi/ZY8OHqutaAg/hqdefault.jpg",
-            "videoId": "ZY8OHqutaAg"
+            "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
+            "videoId": "KgayxOF4Y7E"
         },
         {
             "rank": 4,
@@ -479,8 +479,8 @@ const rankData = {
             "rank": 7,
             "title": "Big Guy",
             "artist": "Ice Spice",
-            "image": "https://i.ytimg.com/vi/EpKNs0Epi2k/hqdefault.jpg",
-            "videoId": "EpKNs0Epi2k"
+            "image": "https://i.ytimg.com/vi/7yaU0qXlgbo/hqdefault.jpg",
+            "videoId": "7yaU0qXlgbo"
         },
         {
             "rank": 8,
