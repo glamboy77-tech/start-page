@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-07-23 09:03:00",
+    "last_updated": "2026-07-24 09:01:04",
     "billboard": [
         {
             "rank": 1,
@@ -26,8 +26,8 @@ const rankData = {
             "rank": 4,
             "title": "Hate That I Made You Love Me",
             "artist": "Ariana Grande",
-            "image": "https://i.ytimg.com/vi/82-jTNka3uc/hqdefault.jpg",
-            "videoId": "82-jTNka3uc"
+            "image": "https://i.ytimg.com/vi/bTwqPPuHaqw/hqdefault.jpg",
+            "videoId": "bTwqPPuHaqw"
         },
         {
             "rank": 5,
@@ -126,8 +126,8 @@ const rankData = {
             "rank": 8,
             "title": "Doors",
             "artist": "Noah Kahan",
-            "image": "https://i.ytimg.com/vi/IAYJ4iTDkQ0/hqdefault.jpg",
-            "videoId": "IAYJ4iTDkQ0"
+            "image": "https://i.ytimg.com/vi/fV131bQhhxY/hqdefault.jpg",
+            "videoId": "fV131bQhhxY"
         },
         {
             "rank": 9,
@@ -196,24 +196,24 @@ const rankData = {
         },
         {
             "rank": 8,
+            "title": "Deja Vu",
+            "artist": "RESCENE (리센느)",
+            "image": "https://i.ytimg.com/vi/ZbO9PBdFRdc/hqdefault.jpg",
+            "videoId": "ZbO9PBdFRdc"
+        },
+        {
+            "rank": 9,
             "title": "소문의 낙원",
             "artist": "AKMU (악뮤)",
             "image": "https://i.ytimg.com/vi/D54StAZFUrc/hqdefault.jpg",
             "videoId": "D54StAZFUrc"
         },
         {
-            "rank": 9,
+            "rank": 10,
             "title": "Drowning",
             "artist": "WOODZ",
             "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
             "videoId": "tiKFuzpX-NA"
-        },
-        {
-            "rank": 10,
-            "title": "Deja Vu",
-            "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/ZbO9PBdFRdc/hqdefault.jpg",
-            "videoId": "ZbO9PBdFRdc"
         }
     ],
     "shazam_korea": [
@@ -221,15 +221,15 @@ const rankData = {
             "rank": 1,
             "title": "Love Language",
             "artist": "Kim Min Seok",
-            "image": "https://i.ytimg.com/vi/ccbq5l511uU/hqdefault.jpg",
-            "videoId": "ccbq5l511uU"
+            "image": "https://i.ytimg.com/vi/zHRalE_8n1A/hqdefault.jpg",
+            "videoId": "zHRalE_8n1A"
         },
         {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -249,8 +249,8 @@ const rankData = {
             "rank": 5,
             "title": "Good bye",
             "artist": "We Are The Night",
-            "image": "https://i.ytimg.com/vi/aJWGn5-eULc/hqdefault.jpg",
-            "videoId": "aJWGn5-eULc"
+            "image": "https://i.ytimg.com/vi/FjkSk55ek-w/hqdefault.jpg",
+            "videoId": "FjkSk55ek-w"
         },
         {
             "rank": 6,
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/sQOT57SwUEw/hqdefault.jpg",
-            "videoId": "sQOT57SwUEw"
+            "image": "https://i.ytimg.com/vi/oiKj0Z_Xnjc/hqdefault.jpg",
+            "videoId": "oiKj0Z_Xnjc"
         },
         {
             "rank": 2,
@@ -307,15 +307,15 @@ const rankData = {
             "rank": 3,
             "title": "NO BATIDÃO",
             "artist": "ZXKAI & slxughter",
-            "image": "https://i.ytimg.com/vi/1GDOndn8BPs/hqdefault.jpg",
-            "videoId": "1GDOndn8BPs"
+            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
+            "videoId": "orOgilmiL_4"
         },
         {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
-            "videoId": "oY75OIjru0o"
+            "image": "https://i.ytimg.com/vi/81075KYeM4s/hqdefault.jpg",
+            "videoId": "81075KYeM4s"
         },
         {
             "rank": 5,
@@ -386,8 +386,8 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/bS7xdNrNAuM/hqdefault.jpg",
-            "videoId": "bS7xdNrNAuM"
+            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
+            "videoId": "YEMBk076jGM"
         },
         {
             "rank": 5,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/osOu2Yz-JjE/hqdefault.jpg",
-            "videoId": "osOu2Yz-JjE"
+            "image": "https://i.ytimg.com/vi/MeOoJOt1P0Y/hqdefault.jpg",
+            "videoId": "MeOoJOt1P0Y"
         },
         {
             "rank": 2,
@@ -451,36 +451,36 @@ const rankData = {
             "rank": 3,
             "title": "PASSO BEM SLOWED (Slowed)",
             "artist": "ATLXG",
-            "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
-            "videoId": "KgayxOF4Y7E"
+            "image": "https://i.ytimg.com/vi/kHgZryRBLHA/hqdefault.jpg",
+            "videoId": "kHgZryRBLHA"
         },
         {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/LUkpMxaZlDA/hqdefault.jpg",
-            "videoId": "LUkpMxaZlDA"
+            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
+            "videoId": "mPmoojB54xI"
         },
         {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/EHXJLlHFPFw/hqdefault.jpg",
-            "videoId": "EHXJLlHFPFw"
+            "image": "https://i.ytimg.com/vi/PBl-xiC2Fq0/hqdefault.jpg",
+            "videoId": "PBl-xiC2Fq0"
         },
         {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
-            "videoId": "1XOJFuKHCck"
+            "image": "https://i.ytimg.com/vi/37soJxAYudM/hqdefault.jpg",
+            "videoId": "37soJxAYudM"
         },
         {
             "rank": 7,
             "title": "Big Guy",
             "artist": "Ice Spice",
-            "image": "https://i.ytimg.com/vi/7yaU0qXlgbo/hqdefault.jpg",
-            "videoId": "7yaU0qXlgbo"
+            "image": "https://i.ytimg.com/vi/gDb91xKfa4E/hqdefault.jpg",
+            "videoId": "gDb91xKfa4E"
         },
         {
             "rank": 8,
