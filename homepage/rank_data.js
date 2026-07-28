@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-07-28 09:02:49",
+    "last_updated": "2026-07-29 08:58:33",
     "billboard": [
         {
             "rank": 1,
@@ -17,52 +17,52 @@ const rankData = {
         },
         {
             "rank": 3,
-            "title": "Be Her",
-            "artist": "Ella Langley",
-            "image": "https://i.ytimg.com/vi/Dg47eNL_Usw/hqdefault.jpg",
-            "videoId": "Dg47eNL_Usw"
-        },
-        {
-            "rank": 4,
-            "title": "Hate That I Made You Love Me",
-            "artist": "Ariana Grande",
-            "image": "https://i.ytimg.com/vi/v1t4MTqdfyI/hqdefault.jpg",
-            "videoId": "v1t4MTqdfyI"
-        },
-        {
-            "rank": 5,
-            "title": "Dracula",
-            "artist": "Tame Impala & JENNIE",
-            "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
-            "videoId": "xnP7qKxwzjg"
-        },
-        {
-            "rank": 6,
             "title": "Boston",
             "artist": "Stella Lefty",
             "image": "https://i.ytimg.com/vi/Xh0GyxWgKPs/hqdefault.jpg",
             "videoId": "Xh0GyxWgKPs"
         },
         {
-            "rank": 7,
+            "rank": 4,
             "title": "I Can't Love You Anymore",
             "artist": "Ella Langley & Morgan Wallen",
             "image": "https://i.ytimg.com/vi/A3G_7XgK2B4/hqdefault.jpg",
             "videoId": "A3G_7XgK2B4"
         },
         {
-            "rank": 8,
-            "title": "Man I Need",
-            "artist": "Olivia Dean",
-            "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
-            "videoId": "oIv_Y2RPQ_A"
+            "rank": 5,
+            "title": "Hate That I Made You Love Me",
+            "artist": "Ariana Grande",
+            "image": "https://i.ytimg.com/vi/82-jTNka3uc/hqdefault.jpg",
+            "videoId": "82-jTNka3uc"
         },
         {
-            "rank": 9,
+            "rank": 6,
+            "title": "Dracula",
+            "artist": "Tame Impala & JENNIE",
+            "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
+            "videoId": "xnP7qKxwzjg"
+        },
+        {
+            "rank": 7,
             "title": "So Easy (To Fall In Love)",
             "artist": "Olivia Dean",
             "image": "https://i.ytimg.com/vi/3sur4BmjQt8/hqdefault.jpg",
             "videoId": "3sur4BmjQt8"
+        },
+        {
+            "rank": 8,
+            "title": "Be Her",
+            "artist": "Ella Langley",
+            "image": "https://i.ytimg.com/vi/Dg47eNL_Usw/hqdefault.jpg",
+            "videoId": "Dg47eNL_Usw"
+        },
+        {
+            "rank": 9,
+            "title": "Man I Need",
+            "artist": "Olivia Dean",
+            "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
+            "videoId": "oIv_Y2RPQ_A"
         },
         {
             "rank": 10,
@@ -82,17 +82,17 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "Homewrecker",
-            "artist": "sombr",
-            "image": "https://i.ytimg.com/vi/mQezde_qeXw/hqdefault.jpg",
-            "videoId": "mQezde_qeXw"
-        },
-        {
-            "rank": 3,
             "title": "Babydoll",
             "artist": "Dominic Fike",
             "image": "https://i.ytimg.com/vi/KqMOKCRgvD8/hqdefault.jpg",
             "videoId": "KqMOKCRgvD8"
+        },
+        {
+            "rank": 3,
+            "title": "Homewrecker",
+            "artist": "sombr",
+            "image": "https://i.ytimg.com/vi/mQezde_qeXw/hqdefault.jpg",
+            "videoId": "mQezde_qeXw"
         },
         {
             "rank": 4,
@@ -126,8 +126,8 @@ const rankData = {
             "rank": 8,
             "title": "Doors",
             "artist": "Noah Kahan",
-            "image": "https://i.ytimg.com/vi/fV131bQhhxY/hqdefault.jpg",
-            "videoId": "fV131bQhhxY"
+            "image": "https://i.ytimg.com/vi/IAYJ4iTDkQ0/hqdefault.jpg",
+            "videoId": "IAYJ4iTDkQ0"
         },
         {
             "rank": 9,
@@ -184,8 +184,8 @@ const rankData = {
             "rank": 6,
             "title": "It′s Me",
             "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
-            "videoId": "bMhDJ0S0OBA"
+            "image": "https://i.ytimg.com/vi/we0iGfysR8M/hqdefault.jpg",
+            "videoId": "we0iGfysR8M"
         },
         {
             "rank": 7,
@@ -203,17 +203,17 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "캐치 캐치",
-            "artist": "YENA (최예나)",
-            "image": "https://i.ytimg.com/vi/ItSKahBISg0/hqdefault.jpg",
-            "videoId": "ItSKahBISg0"
+            "title": "Drowning",
+            "artist": "WOODZ",
+            "image": "https://i.ytimg.com/vi/tiKFuzpX-NA/hqdefault.jpg",
+            "videoId": "tiKFuzpX-NA"
         },
         {
             "rank": 10,
-            "title": "소문의 낙원",
-            "artist": "AKMU (악뮤)",
-            "image": "https://i.ytimg.com/vi/D54StAZFUrc/hqdefault.jpg",
-            "videoId": "D54StAZFUrc"
+            "title": "캐치 캐치",
+            "artist": "YENA (최예나)",
+            "image": "https://i.ytimg.com/vi/NOiyDlWl534/hqdefault.jpg",
+            "videoId": "NOiyDlWl534"
         }
     ],
     "shazam_korea": [
@@ -221,8 +221,8 @@ const rankData = {
             "rank": 1,
             "title": "Love Language",
             "artist": "Kim Min Seok",
-            "image": "https://i.ytimg.com/vi/zHRalE_8n1A/hqdefault.jpg",
-            "videoId": "zHRalE_8n1A"
+            "image": "https://i.ytimg.com/vi/ccbq5l511uU/hqdefault.jpg",
+            "videoId": "ccbq5l511uU"
         },
         {
             "rank": 2,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/VBPZvuQoWy8/hqdefault.jpg",
-            "videoId": "VBPZvuQoWy8"
+            "image": "https://i.ytimg.com/vi/jQOeOIgrY9Y/hqdefault.jpg",
+            "videoId": "jQOeOIgrY9Y"
         }
     ],
     "shazam_global": [
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/oiKj0Z_Xnjc/hqdefault.jpg",
-            "videoId": "oiKj0Z_Xnjc"
+            "image": "https://i.ytimg.com/vi/vWkH6YKFYSA/hqdefault.jpg",
+            "videoId": "vWkH6YKFYSA"
         },
         {
             "rank": 2,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/eCLI6mbb7Dg/hqdefault.jpg",
-            "videoId": "eCLI6mbb7Dg"
+            "image": "https://i.ytimg.com/vi/pcsqIlxNstk/hqdefault.jpg",
+            "videoId": "pcsqIlxNstk"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/dYDoUONIt58/hqdefault.jpg",
-            "videoId": "dYDoUONIt58"
+            "image": "https://i.ytimg.com/vi/gXWVGlpIH20/hqdefault.jpg",
+            "videoId": "gXWVGlpIH20"
         },
         {
             "rank": 7,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/sPmul8b17AU/hqdefault.jpg",
-            "videoId": "sPmul8b17AU"
+            "image": "https://i.ytimg.com/vi/Xz-_b4Nvn_Q/hqdefault.jpg",
+            "videoId": "Xz-_b4Nvn_Q"
         },
         {
             "rank": 2,
@@ -386,15 +386,15 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/MDtauRC2m10/hqdefault.jpg",
-            "videoId": "MDtauRC2m10"
+            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
+            "videoId": "YEMBk076jGM"
         },
         {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/S28s3dfcCVQ/hqdefault.jpg",
-            "videoId": "S28s3dfcCVQ"
+            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
+            "videoId": "y9pELY1qWzM"
         },
         {
             "rank": 6,
@@ -414,8 +414,8 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/S8u8IKGNF_g/hqdefault.jpg",
-            "videoId": "S8u8IKGNF_g"
+            "image": "https://i.ytimg.com/vi/B9O-WEawUCs/hqdefault.jpg",
+            "videoId": "B9O-WEawUCs"
         },
         {
             "rank": 9,
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/HdRKxLRoJ3c/hqdefault.jpg",
-            "videoId": "HdRKxLRoJ3c"
+            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
+            "videoId": "VDuDQNkSC6g"
         }
     ],
     "youtube_shorts_global": [
@@ -458,8 +458,8 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/LUkpMxaZlDA/hqdefault.jpg",
-            "videoId": "LUkpMxaZlDA"
+            "image": "https://i.ytimg.com/vi/cMNThdNggAE/hqdefault.jpg",
+            "videoId": "cMNThdNggAE"
         },
         {
             "rank": 5,
@@ -479,8 +479,8 @@ const rankData = {
             "rank": 7,
             "title": "Big Guy",
             "artist": "Ice Spice",
-            "image": "https://i.ytimg.com/vi/7yaU0qXlgbo/hqdefault.jpg",
-            "videoId": "7yaU0qXlgbo"
+            "image": "https://i.ytimg.com/vi/gDb91xKfa4E/hqdefault.jpg",
+            "videoId": "gDb91xKfa4E"
         },
         {
             "rank": 8,
