@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-08-04 09:10:06",
+    "last_updated": "2026-08-05 09:02:26",
     "billboard": [
         {
             "rank": 1,
@@ -10,17 +10,17 @@ const rankData = {
         },
         {
             "rank": 2,
+            "title": "Been By Now",
+            "artist": "Morgan Wallen",
+            "image": "https://i.ytimg.com/vi/IpEoDLVEqVw/hqdefault.jpg",
+            "videoId": "IpEoDLVEqVw"
+        },
+        {
+            "rank": 3,
             "title": "I Knew It, I Knew You",
             "artist": "Taylor Swift",
             "image": "https://i.ytimg.com/vi/hDU4GB1PTxc/hqdefault.jpg",
             "videoId": "hDU4GB1PTxc"
-        },
-        {
-            "rank": 3,
-            "title": "Boston",
-            "artist": "Stella Lefty",
-            "image": "https://i.ytimg.com/vi/Xh0GyxWgKPs/hqdefault.jpg",
-            "videoId": "Xh0GyxWgKPs"
         },
         {
             "rank": 4,
@@ -31,10 +31,10 @@ const rankData = {
         },
         {
             "rank": 5,
-            "title": "Hate That I Made You Love Me",
-            "artist": "Ariana Grande",
-            "image": "https://i.ytimg.com/vi/82-jTNka3uc/hqdefault.jpg",
-            "videoId": "82-jTNka3uc"
+            "title": "Boston",
+            "artist": "Stella Lefty",
+            "image": "https://i.ytimg.com/vi/Xh0GyxWgKPs/hqdefault.jpg",
+            "videoId": "Xh0GyxWgKPs"
         },
         {
             "rank": 6,
@@ -52,24 +52,24 @@ const rankData = {
         },
         {
             "rank": 8,
+            "title": "Hate That I Made You Love Me",
+            "artist": "Ariana Grande",
+            "image": "https://i.ytimg.com/vi/82-jTNka3uc/hqdefault.jpg",
+            "videoId": "82-jTNka3uc"
+        },
+        {
+            "rank": 9,
             "title": "Be Her",
             "artist": "Ella Langley",
             "image": "https://i.ytimg.com/vi/Dg47eNL_Usw/hqdefault.jpg",
             "videoId": "Dg47eNL_Usw"
         },
         {
-            "rank": 9,
+            "rank": 10,
             "title": "Man I Need",
             "artist": "Olivia Dean",
             "image": "https://i.ytimg.com/vi/oIv_Y2RPQ_A/hqdefault.jpg",
             "videoId": "oIv_Y2RPQ_A"
-        },
-        {
-            "rank": 10,
-            "title": "I Just Might",
-            "artist": "Bruno Mars",
-            "image": "https://i.ytimg.com/vi/mrV8kK5t0V8/hqdefault.jpg",
-            "videoId": "mrV8kK5t0V8"
         }
     ],
     "billboard_rock": [
@@ -138,10 +138,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "Willing And Able",
-            "artist": "Noah Kahan",
-            "image": "https://i.ytimg.com/vi/2f4gu97XWFg/hqdefault.jpg",
-            "videoId": "2f4gu97XWFg"
+            "title": "Bloodstream",
+            "artist": "Alyssa Grace",
+            "image": "https://i.ytimg.com/vi/FOJ4A4wixDg/hqdefault.jpg",
+            "videoId": "FOJ4A4wixDg"
         }
     ],
     "melon": [
@@ -163,8 +163,8 @@ const rankData = {
             "rank": 3,
             "title": "REDRED",
             "artist": "CORTIS (코르티스)",
-            "image": "https://i.ytimg.com/vi/U6BDbXIah-Y/hqdefault.jpg",
-            "videoId": "U6BDbXIah-Y"
+            "image": "https://i.ytimg.com/vi/Q-ItC3Xcl3c/hqdefault.jpg",
+            "videoId": "Q-ItC3Xcl3c"
         },
         {
             "rank": 4,
@@ -184,8 +184,8 @@ const rankData = {
             "rank": 6,
             "title": "It′s Me",
             "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/we0iGfysR8M/hqdefault.jpg",
-            "videoId": "we0iGfysR8M"
+            "image": "https://i.ytimg.com/vi/Bl15nY4XVqs/hqdefault.jpg",
+            "videoId": "Bl15nY4XVqs"
         },
         {
             "rank": 7,
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/od1l0LwOtUk/hqdefault.jpg",
-            "videoId": "od1l0LwOtUk"
+            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
+            "videoId": "b6DzYwwS6Ng"
         },
         {
             "rank": 7,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/sPmul8b17AU/hqdefault.jpg",
-            "videoId": "sPmul8b17AU"
+            "image": "https://i.ytimg.com/vi/Xz-_b4Nvn_Q/hqdefault.jpg",
+            "videoId": "Xz-_b4Nvn_Q"
         },
         {
             "rank": 2,
@@ -386,15 +386,15 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
-            "videoId": "YEMBk076jGM"
+            "image": "https://i.ytimg.com/vi/tIOtR4uTIMg/hqdefault.jpg",
+            "videoId": "tIOtR4uTIMg"
         },
         {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
-            "videoId": "y9pELY1qWzM"
+            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
+            "videoId": "orOgilmiL_4"
         },
         {
             "rank": 6,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/O3rY5BTlaFI/hqdefault.jpg",
-            "videoId": "O3rY5BTlaFI"
+            "image": "https://i.ytimg.com/vi/N_4rmwMYWkc/hqdefault.jpg",
+            "videoId": "N_4rmwMYWkc"
         },
         {
             "rank": 2,
@@ -451,22 +451,22 @@ const rankData = {
             "rank": 3,
             "title": "PASSO BEM SLOWED (Slowed)",
             "artist": "ATLXG",
-            "image": "https://i.ytimg.com/vi/kacWk6jifJs/hqdefault.jpg",
-            "videoId": "kacWk6jifJs"
+            "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
+            "videoId": "KgayxOF4Y7E"
         },
         {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/OYGXOC0z0CY/hqdefault.jpg",
-            "videoId": "OYGXOC0z0CY"
+            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
+            "videoId": "mPmoojB54xI"
         },
         {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/PBl-xiC2Fq0/hqdefault.jpg",
-            "videoId": "PBl-xiC2Fq0"
+            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
+            "videoId": "DoM3DiFnXxM"
         },
         {
             "rank": 6,
