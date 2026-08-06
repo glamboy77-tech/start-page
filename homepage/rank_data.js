@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-08-05 09:02:26",
+    "last_updated": "2026-08-06 09:01:08",
     "billboard": [
         {
             "rank": 1,
@@ -184,8 +184,8 @@ const rankData = {
             "rank": 6,
             "title": "It′s Me",
             "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/Bl15nY4XVqs/hqdefault.jpg",
-            "videoId": "Bl15nY4XVqs"
+            "image": "https://i.ytimg.com/vi/we0iGfysR8M/hqdefault.jpg",
+            "videoId": "we0iGfysR8M"
         },
         {
             "rank": 7,
@@ -249,8 +249,8 @@ const rankData = {
             "rank": 5,
             "title": "Good bye",
             "artist": "We Are The Night",
-            "image": "https://i.ytimg.com/vi/aJWGn5-eULc/hqdefault.jpg",
-            "videoId": "aJWGn5-eULc"
+            "image": "https://i.ytimg.com/vi/O0ZtSbqGz0k/hqdefault.jpg",
+            "videoId": "O0ZtSbqGz0k"
         },
         {
             "rank": 6,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/k7kzc3Nof08/hqdefault.jpg",
-            "videoId": "k7kzc3Nof08"
+            "image": "https://i.ytimg.com/vi/ulUbF-VyxSo/hqdefault.jpg",
+            "videoId": "ulUbF-VyxSo"
         }
     ],
     "shazam_global": [
@@ -386,8 +386,8 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/tIOtR4uTIMg/hqdefault.jpg",
-            "videoId": "tIOtR4uTIMg"
+            "image": "https://i.ytimg.com/vi/OOZ4bOmT-5s/hqdefault.jpg",
+            "videoId": "OOZ4bOmT-5s"
         },
         {
             "rank": 5,
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/HdRKxLRoJ3c/hqdefault.jpg",
-            "videoId": "HdRKxLRoJ3c"
+            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
+            "videoId": "VDuDQNkSC6g"
         }
     ],
     "youtube_shorts_global": [
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/N_4rmwMYWkc/hqdefault.jpg",
-            "videoId": "N_4rmwMYWkc"
+            "image": "https://i.ytimg.com/vi/O3rY5BTlaFI/hqdefault.jpg",
+            "videoId": "O3rY5BTlaFI"
         },
         {
             "rank": 2,
@@ -451,22 +451,22 @@ const rankData = {
             "rank": 3,
             "title": "PASSO BEM SLOWED (Slowed)",
             "artist": "ATLXG",
-            "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
-            "videoId": "KgayxOF4Y7E"
+            "image": "https://i.ytimg.com/vi/ZY8OHqutaAg/hqdefault.jpg",
+            "videoId": "ZY8OHqutaAg"
         },
         {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
-            "videoId": "mPmoojB54xI"
+            "image": "https://i.ytimg.com/vi/LUkpMxaZlDA/hqdefault.jpg",
+            "videoId": "LUkpMxaZlDA"
         },
         {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
-            "videoId": "DoM3DiFnXxM"
+            "image": "https://i.ytimg.com/vi/w3zuovn3rIc/hqdefault.jpg",
+            "videoId": "w3zuovn3rIc"
         },
         {
             "rank": 6,
@@ -493,8 +493,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/WJtwcyujJ7Q/hqdefault.jpg",
-            "videoId": "WJtwcyujJ7Q"
+            "image": "https://i.ytimg.com/vi/QUH0_vbeggQ/hqdefault.jpg",
+            "videoId": "QUH0_vbeggQ"
         },
         {
             "rank": 10,
