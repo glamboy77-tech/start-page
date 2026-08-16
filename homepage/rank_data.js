@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-08-16 08:20:28",
+    "last_updated": "2026-08-17 08:19:40",
     "billboard": [
         {
             "rank": 1,
@@ -40,8 +40,8 @@ const rankData = {
             "rank": 6,
             "title": "Boston",
             "artist": "Stella Lefty",
-            "image": "https://i.ytimg.com/vi/Xh0GyxWgKPs/hqdefault.jpg",
-            "videoId": "Xh0GyxWgKPs"
+            "image": "https://i.ytimg.com/vi/RHH0sEkANbE/hqdefault.jpg",
+            "videoId": "RHH0sEkANbE"
         },
         {
             "rank": 7,
@@ -182,17 +182,17 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "It′s Me",
-            "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/we0iGfysR8M/hqdefault.jpg",
-            "videoId": "we0iGfysR8M"
-        },
-        {
-            "rank": 7,
             "title": "Deja Vu",
             "artist": "RESCENE (리센느)",
             "image": "https://i.ytimg.com/vi/ZbO9PBdFRdc/hqdefault.jpg",
             "videoId": "ZbO9PBdFRdc"
+        },
+        {
+            "rank": 7,
+            "title": "It′s Me",
+            "artist": "아일릿(ILLIT)",
+            "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
+            "videoId": "bMhDJ0S0OBA"
         },
         {
             "rank": 8,
@@ -205,15 +205,15 @@ const rankData = {
             "rank": 9,
             "title": "여름아 부탁해",
             "artist": "볼빨간사춘기",
-            "image": "https://i.ytimg.com/vi/-7TQpu7-IhU/hqdefault.jpg",
-            "videoId": "-7TQpu7-IhU"
+            "image": "https://i.ytimg.com/vi/CAehyewbYRI/hqdefault.jpg",
+            "videoId": "CAehyewbYRI"
         },
         {
             "rank": 10,
-            "title": "캐치 캐치",
-            "artist": "YENA (최예나)",
-            "image": "https://i.ytimg.com/vi/w69us-XVkbI/hqdefault.jpg",
-            "videoId": "w69us-XVkbI"
+            "title": "BAD",
+            "artist": "ATEEZ(에이티즈)",
+            "image": "https://i.ytimg.com/vi/-q_S27LbNKU/hqdefault.jpg",
+            "videoId": "-q_S27LbNKU"
         }
     ],
     "shazam_korea": [
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/QGsevnbItdU/hqdefault.jpg",
-            "videoId": "QGsevnbItdU"
+            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
+            "videoId": "b6DzYwwS6Ng"
         },
         {
             "rank": 7,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/32Lld2goyjc/hqdefault.jpg",
-            "videoId": "32Lld2goyjc"
+            "image": "https://i.ytimg.com/vi/f9PonL7kC80/hqdefault.jpg",
+            "videoId": "f9PonL7kC80"
         }
     ],
     "shazam_global": [
@@ -293,8 +293,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/6QBy_Oa5ZmM/hqdefault.jpg",
-            "videoId": "6QBy_Oa5ZmM"
+            "image": "https://i.ytimg.com/vi/sQOT57SwUEw/hqdefault.jpg",
+            "videoId": "sQOT57SwUEw"
         },
         {
             "rank": 2,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/-ohuTK7SJyY/hqdefault.jpg",
-            "videoId": "-ohuTK7SJyY"
+            "image": "https://i.ytimg.com/vi/5xI1y37Goro/hqdefault.jpg",
+            "videoId": "5xI1y37Goro"
         },
         {
             "rank": 7,
@@ -386,15 +386,15 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
-            "videoId": "YEMBk076jGM"
+            "image": "https://i.ytimg.com/vi/tIOtR4uTIMg/hqdefault.jpg",
+            "videoId": "tIOtR4uTIMg"
         },
         {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/ipXfBgG0lcw/hqdefault.jpg",
-            "videoId": "ipXfBgG0lcw"
+            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
+            "videoId": "y9pELY1qWzM"
         },
         {
             "rank": 6,
@@ -421,8 +421,8 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/IHvR_MvM_bE/hqdefault.jpg",
-            "videoId": "IHvR_MvM_bE"
+            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
+            "videoId": "ul0V77Yl78o"
         },
         {
             "rank": 10,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/Bf2ml3oE2JA/hqdefault.jpg",
-            "videoId": "Bf2ml3oE2JA"
+            "image": "https://i.ytimg.com/vi/ipXfBgG0lcw/hqdefault.jpg",
+            "videoId": "ipXfBgG0lcw"
         },
         {
             "rank": 2,
@@ -451,8 +451,8 @@ const rankData = {
             "rank": 3,
             "title": "PASSO BEM SLOWED (Slowed)",
             "artist": "ATLXG",
-            "image": "https://i.ytimg.com/vi/hnCqLyvPSYw/hqdefault.jpg",
-            "videoId": "hnCqLyvPSYw"
+            "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
+            "videoId": "KgayxOF4Y7E"
         },
         {
             "rank": 4,
@@ -465,15 +465,15 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/w3zuovn3rIc/hqdefault.jpg",
-            "videoId": "w3zuovn3rIc"
+            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
+            "videoId": "DoM3DiFnXxM"
         },
         {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/iMIMfBgjJFc/hqdefault.jpg",
-            "videoId": "iMIMfBgjJFc"
+            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
+            "videoId": "1XOJFuKHCck"
         },
         {
             "rank": 7,
