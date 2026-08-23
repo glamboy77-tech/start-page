@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-08-23 08:21:04",
+    "last_updated": "2026-08-24 08:21:25",
     "billboard": [
         {
             "rank": 1,
@@ -40,8 +40,8 @@ const rankData = {
             "rank": 6,
             "title": "I Can't Love You Anymore",
             "artist": "Ella Langley & Morgan Wallen",
-            "image": "https://i.ytimg.com/vi/A3G_7XgK2B4/hqdefault.jpg",
-            "videoId": "A3G_7XgK2B4"
+            "image": "https://i.ytimg.com/vi/7-SAw9wgy5I/hqdefault.jpg",
+            "videoId": "7-SAw9wgy5I"
         },
         {
             "rank": 7,
@@ -54,8 +54,8 @@ const rankData = {
             "rank": 8,
             "title": "Dracula",
             "artist": "Tame Impala & JENNIE",
-            "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
-            "videoId": "xnP7qKxwzjg"
+            "image": "https://i.ytimg.com/vi/00j9lpQFEQQ/hqdefault.jpg",
+            "videoId": "00j9lpQFEQQ"
         },
         {
             "rank": 9,
@@ -77,8 +77,8 @@ const rankData = {
             "rank": 1,
             "title": "Dracula",
             "artist": "Tame Impala & JENNIE",
-            "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
-            "videoId": "xnP7qKxwzjg"
+            "image": "https://i.ytimg.com/vi/00j9lpQFEQQ/hqdefault.jpg",
+            "videoId": "00j9lpQFEQQ"
         },
         {
             "rank": 2,
@@ -168,17 +168,17 @@ const rankData = {
         },
         {
             "rank": 4,
+            "title": "REDRED",
+            "artist": "CORTIS (코르티스)",
+            "image": "https://i.ytimg.com/vi/oE5LYkqipUk/hqdefault.jpg",
+            "videoId": "oE5LYkqipUk"
+        },
+        {
+            "rank": 5,
             "title": "Pretty Girl",
             "artist": "RESCENE (리센느)",
             "image": "https://i.ytimg.com/vi/qZlu2j2SiBA/hqdefault.jpg",
             "videoId": "qZlu2j2SiBA"
-        },
-        {
-            "rank": 5,
-            "title": "REDRED",
-            "artist": "CORTIS (코르티스)",
-            "image": "https://i.ytimg.com/vi/U6BDbXIah-Y/hqdefault.jpg",
-            "videoId": "U6BDbXIah-Y"
         },
         {
             "rank": 6,
@@ -196,24 +196,24 @@ const rankData = {
         },
         {
             "rank": 8,
-            "title": "It′s Me",
-            "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/LsHJodrt-Nw/hqdefault.jpg",
-            "videoId": "LsHJodrt-Nw"
-        },
-        {
-            "rank": 9,
             "title": "만찬가",
             "artist": "태연 (TAEYEON)",
             "image": "https://i.ytimg.com/vi/VVO05mYGFY8/hqdefault.jpg",
             "videoId": "VVO05mYGFY8"
         },
         {
-            "rank": 10,
+            "rank": 9,
             "title": "BAD",
             "artist": "ATEEZ(에이티즈)",
             "image": "https://i.ytimg.com/vi/-q_S27LbNKU/hqdefault.jpg",
             "videoId": "-q_S27LbNKU"
+        },
+        {
+            "rank": 10,
+            "title": "It′s Me",
+            "artist": "아일릿(ILLIT)",
+            "image": "https://i.ytimg.com/vi/LsHJodrt-Nw/hqdefault.jpg",
+            "videoId": "LsHJodrt-Nw"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/VgtFW_h_EEk/hqdefault.jpg",
-            "videoId": "VgtFW_h_EEk"
+            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
+            "videoId": "iG2OH4whO5E"
         },
         {
             "rank": 9,
@@ -300,15 +300,15 @@ const rankData = {
             "rank": 2,
             "title": "Jogodo",
             "artist": "Victony & Asake",
-            "image": "https://i.ytimg.com/vi/vp0b_fqPvkM/hqdefault.jpg",
-            "videoId": "vp0b_fqPvkM"
+            "image": "https://i.ytimg.com/vi/V9hp88oxJ2Q/hqdefault.jpg",
+            "videoId": "V9hp88oxJ2Q"
         },
         {
             "rank": 3,
             "title": "NO BATIDÃO",
             "artist": "ZXKAI & slxughter",
-            "image": "https://i.ytimg.com/vi/1GDOndn8BPs/hqdefault.jpg",
-            "videoId": "1GDOndn8BPs"
+            "image": "https://i.ytimg.com/vi/GWm1J08X9Kg/hqdefault.jpg",
+            "videoId": "GWm1J08X9Kg"
         },
         {
             "rank": 4,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/dDY-VyONTJ4/hqdefault.jpg",
-            "videoId": "dDY-VyONTJ4"
+            "image": "https://i.ytimg.com/vi/5xI1y37Goro/hqdefault.jpg",
+            "videoId": "5xI1y37Goro"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/jaJKPxCNO3A/hqdefault.jpg",
-            "videoId": "jaJKPxCNO3A"
+            "image": "https://i.ytimg.com/vi/WgWUJ88fL6s/hqdefault.jpg",
+            "videoId": "WgWUJ88fL6s"
         },
         {
             "rank": 9,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/RsPXWNzkN-c/hqdefault.jpg",
-            "videoId": "RsPXWNzkN-c"
+            "image": "https://i.ytimg.com/vi/Xz-_b4Nvn_Q/hqdefault.jpg",
+            "videoId": "Xz-_b4Nvn_Q"
         },
         {
             "rank": 2,
@@ -386,15 +386,15 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/bS7xdNrNAuM/hqdefault.jpg",
-            "videoId": "bS7xdNrNAuM"
+            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
+            "videoId": "YEMBk076jGM"
         },
         {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
-            "videoId": "orOgilmiL_4"
+            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
+            "videoId": "y9pELY1qWzM"
         },
         {
             "rank": 6,
@@ -414,8 +414,8 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/E60Wq7K1wyc/hqdefault.jpg",
-            "videoId": "E60Wq7K1wyc"
+            "image": "https://i.ytimg.com/vi/1lWZ97gGFXs/hqdefault.jpg",
+            "videoId": "1lWZ97gGFXs"
         },
         {
             "rank": 9,
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/HdRKxLRoJ3c/hqdefault.jpg",
-            "videoId": "HdRKxLRoJ3c"
+            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
+            "videoId": "VDuDQNkSC6g"
         }
     ],
     "youtube_shorts_global": [
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/8izqmIjVKnY/hqdefault.jpg",
-            "videoId": "8izqmIjVKnY"
+            "image": "https://i.ytimg.com/vi/GhMW0QeFWZE/hqdefault.jpg",
+            "videoId": "GhMW0QeFWZE"
         },
         {
             "rank": 2,
@@ -479,22 +479,22 @@ const rankData = {
             "rank": 7,
             "title": "Big Guy",
             "artist": "Ice Spice",
-            "image": "https://i.ytimg.com/vi/gDb91xKfa4E/hqdefault.jpg",
-            "videoId": "gDb91xKfa4E"
+            "image": "https://i.ytimg.com/vi/YyUQ6vu_pyM/hqdefault.jpg",
+            "videoId": "YyUQ6vu_pyM"
         },
         {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/Bnrqw7q3eUc/hqdefault.jpg",
-            "videoId": "Bnrqw7q3eUc"
+            "image": "https://i.ytimg.com/vi/mRVs2ArYuw8/hqdefault.jpg",
+            "videoId": "mRVs2ArYuw8"
         },
         {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/MQmM4VjDjqE/hqdefault.jpg",
-            "videoId": "MQmM4VjDjqE"
+            "image": "https://i.ytimg.com/vi/vO_ULgb2wHo/hqdefault.jpg",
+            "videoId": "vO_ULgb2wHo"
         },
         {
             "rank": 10,
