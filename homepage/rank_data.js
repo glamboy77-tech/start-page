@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-08-24 08:21:25",
+    "last_updated": "2026-08-25 08:22:53",
     "billboard": [
         {
             "rank": 1,
@@ -40,8 +40,8 @@ const rankData = {
             "rank": 6,
             "title": "I Can't Love You Anymore",
             "artist": "Ella Langley & Morgan Wallen",
-            "image": "https://i.ytimg.com/vi/7-SAw9wgy5I/hqdefault.jpg",
-            "videoId": "7-SAw9wgy5I"
+            "image": "https://i.ytimg.com/vi/A3G_7XgK2B4/hqdefault.jpg",
+            "videoId": "A3G_7XgK2B4"
         },
         {
             "rank": 7,
@@ -54,8 +54,8 @@ const rankData = {
             "rank": 8,
             "title": "Dracula",
             "artist": "Tame Impala & JENNIE",
-            "image": "https://i.ytimg.com/vi/00j9lpQFEQQ/hqdefault.jpg",
-            "videoId": "00j9lpQFEQQ"
+            "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
+            "videoId": "xnP7qKxwzjg"
         },
         {
             "rank": 9,
@@ -77,8 +77,8 @@ const rankData = {
             "rank": 1,
             "title": "Dracula",
             "artist": "Tame Impala & JENNIE",
-            "image": "https://i.ytimg.com/vi/00j9lpQFEQQ/hqdefault.jpg",
-            "videoId": "00j9lpQFEQQ"
+            "image": "https://i.ytimg.com/vi/xnP7qKxwzjg/hqdefault.jpg",
+            "videoId": "xnP7qKxwzjg"
         },
         {
             "rank": 2,
@@ -91,8 +91,8 @@ const rankData = {
             "rank": 3,
             "title": "Loser",
             "artist": "Tame Impala",
-            "image": "https://i.ytimg.com/vi/s3a4OQR-10M/hqdefault.jpg",
-            "videoId": "s3a4OQR-10M"
+            "image": "https://i.ytimg.com/vi/BjmAZ-RJyc8/hqdefault.jpg",
+            "videoId": "BjmAZ-RJyc8"
         },
         {
             "rank": 4,
@@ -170,8 +170,8 @@ const rankData = {
             "rank": 4,
             "title": "REDRED",
             "artist": "CORTIS (코르티스)",
-            "image": "https://i.ytimg.com/vi/oE5LYkqipUk/hqdefault.jpg",
-            "videoId": "oE5LYkqipUk"
+            "image": "https://i.ytimg.com/vi/Q-ItC3Xcl3c/hqdefault.jpg",
+            "videoId": "Q-ItC3Xcl3c"
         },
         {
             "rank": 5,
@@ -212,8 +212,8 @@ const rankData = {
             "rank": 10,
             "title": "It′s Me",
             "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/LsHJodrt-Nw/hqdefault.jpg",
-            "videoId": "LsHJodrt-Nw"
+            "image": "https://i.ytimg.com/vi/we0iGfysR8M/hqdefault.jpg",
+            "videoId": "we0iGfysR8M"
         }
     ],
     "shazam_korea": [
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
-            "videoId": "b6DzYwwS6Ng"
+            "image": "https://i.ytimg.com/vi/GoknbVplQIA/hqdefault.jpg",
+            "videoId": "GoknbVplQIA"
         },
         {
             "rank": 7,
@@ -300,8 +300,8 @@ const rankData = {
             "rank": 2,
             "title": "Jogodo",
             "artist": "Victony & Asake",
-            "image": "https://i.ytimg.com/vi/V9hp88oxJ2Q/hqdefault.jpg",
-            "videoId": "V9hp88oxJ2Q"
+            "image": "https://i.ytimg.com/vi/vp0b_fqPvkM/hqdefault.jpg",
+            "videoId": "vp0b_fqPvkM"
         },
         {
             "rank": 3,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/WgWUJ88fL6s/hqdefault.jpg",
-            "videoId": "WgWUJ88fL6s"
+            "image": "https://i.ytimg.com/vi/j_9LN8x2z3k/hqdefault.jpg",
+            "videoId": "j_9LN8x2z3k"
         },
         {
             "rank": 9,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
-            "videoId": "y9pELY1qWzM"
+            "image": "https://i.ytimg.com/vi/GWm1J08X9Kg/hqdefault.jpg",
+            "videoId": "GWm1J08X9Kg"
         },
         {
             "rank": 6,
@@ -465,8 +465,8 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/E7G9TtjmVrg/hqdefault.jpg",
-            "videoId": "E7G9TtjmVrg"
+            "image": "https://i.ytimg.com/vi/wuFczOLFowk/hqdefault.jpg",
+            "videoId": "wuFczOLFowk"
         },
         {
             "rank": 6,
@@ -479,15 +479,15 @@ const rankData = {
             "rank": 7,
             "title": "Big Guy",
             "artist": "Ice Spice",
-            "image": "https://i.ytimg.com/vi/YyUQ6vu_pyM/hqdefault.jpg",
-            "videoId": "YyUQ6vu_pyM"
+            "image": "https://i.ytimg.com/vi/O78AtA0_4kA/hqdefault.jpg",
+            "videoId": "O78AtA0_4kA"
         },
         {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/mRVs2ArYuw8/hqdefault.jpg",
-            "videoId": "mRVs2ArYuw8"
+            "image": "https://i.ytimg.com/vi/J2hq6dz1WTE/hqdefault.jpg",
+            "videoId": "J2hq6dz1WTE"
         },
         {
             "rank": 9,
