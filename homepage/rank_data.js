@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-08-26 08:26:01",
+    "last_updated": "2026-08-27 13:15:44",
     "billboard": [
         {
             "rank": 1,
@@ -40,15 +40,15 @@ const rankData = {
             "rank": 6,
             "title": "I Can't Love You Anymore",
             "artist": "Ella Langley & Morgan Wallen",
-            "image": "https://i.ytimg.com/vi/A3G_7XgK2B4/hqdefault.jpg",
-            "videoId": "A3G_7XgK2B4"
+            "image": "https://i.ytimg.com/vi/7-SAw9wgy5I/hqdefault.jpg",
+            "videoId": "7-SAw9wgy5I"
         },
         {
             "rank": 7,
             "title": "So Easy (To Fall In Love)",
             "artist": "Olivia Dean",
-            "image": "https://i.ytimg.com/vi/HWgn868c-Hs/hqdefault.jpg",
-            "videoId": "HWgn868c-Hs"
+            "image": "https://i.ytimg.com/vi/3sur4BmjQt8/hqdefault.jpg",
+            "videoId": "3sur4BmjQt8"
         },
         {
             "rank": 8,
@@ -82,17 +82,17 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "Oh Yeah?",
-            "artist": "Steve Lacy",
-            "image": "https://i.ytimg.com/vi/yGHEis32s2Y/hqdefault.jpg",
-            "videoId": "yGHEis32s2Y"
-        },
-        {
-            "rank": 3,
             "title": "Loser",
             "artist": "Tame Impala",
             "image": "https://i.ytimg.com/vi/s3a4OQR-10M/hqdefault.jpg",
             "videoId": "s3a4OQR-10M"
+        },
+        {
+            "rank": 3,
+            "title": "Oh Yeah?",
+            "artist": "Steve Lacy",
+            "image": "https://i.ytimg.com/vi/yGHEis32s2Y/hqdefault.jpg",
+            "videoId": "yGHEis32s2Y"
         },
         {
             "rank": 4,
@@ -110,24 +110,24 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "Homewrecker",
-            "artist": "sombr",
-            "image": "https://i.ytimg.com/vi/mQezde_qeXw/hqdefault.jpg",
-            "videoId": "mQezde_qeXw"
-        },
-        {
-            "rank": 7,
             "title": "Self Aware",
             "artist": "Temper City",
             "image": "https://i.ytimg.com/vi/mh4AQkw4Jjc/hqdefault.jpg",
             "videoId": "mh4AQkw4Jjc"
         },
         {
+            "rank": 7,
+            "title": "Homewrecker",
+            "artist": "sombr",
+            "image": "https://i.ytimg.com/vi/mQezde_qeXw/hqdefault.jpg",
+            "videoId": "mQezde_qeXw"
+        },
+        {
             "rank": 8,
             "title": "Freakin' Out",
             "artist": "Dexter And The Moonrocks",
-            "image": "https://i.ytimg.com/vi/D6HW8jIKlZs/hqdefault.jpg",
-            "videoId": "D6HW8jIKlZs"
+            "image": "https://i.ytimg.com/vi/Sf73y9GrJ4I/hqdefault.jpg",
+            "videoId": "Sf73y9GrJ4I"
         },
         {
             "rank": 9,
@@ -149,8 +149,8 @@ const rankData = {
             "rank": 1,
             "title": "BiiiG",
             "artist": "BIGBANG (빅뱅)",
-            "image": "https://i.ytimg.com/vi/zrMe-75Dz8E/hqdefault.jpg",
-            "videoId": "zrMe-75Dz8E"
+            "image": "https://i.ytimg.com/vi/L8ZnXgbyUuc/hqdefault.jpg",
+            "videoId": "L8ZnXgbyUuc"
         },
         {
             "rank": 2,
@@ -170,8 +170,8 @@ const rankData = {
             "rank": 4,
             "title": "REDRED",
             "artist": "CORTIS (코르티스)",
-            "image": "https://i.ytimg.com/vi/vSdeG-eVg1E/hqdefault.jpg",
-            "videoId": "vSdeG-eVg1E"
+            "image": "https://i.ytimg.com/vi/U6BDbXIah-Y/hqdefault.jpg",
+            "videoId": "U6BDbXIah-Y"
         },
         {
             "rank": 5,
@@ -191,8 +191,8 @@ const rankData = {
             "rank": 7,
             "title": "Deja Vu",
             "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/ZbO9PBdFRdc/hqdefault.jpg",
-            "videoId": "ZbO9PBdFRdc"
+            "image": "https://i.ytimg.com/vi/xvZPSZlkdLM/hqdefault.jpg",
+            "videoId": "xvZPSZlkdLM"
         },
         {
             "rank": 8,
@@ -203,17 +203,17 @@ const rankData = {
         },
         {
             "rank": 9,
+            "title": "It′s Me",
+            "artist": "아일릿(ILLIT)",
+            "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
+            "videoId": "bMhDJ0S0OBA"
+        },
+        {
+            "rank": 10,
             "title": "BAD",
             "artist": "ATEEZ(에이티즈)",
             "image": "https://i.ytimg.com/vi/-q_S27LbNKU/hqdefault.jpg",
             "videoId": "-q_S27LbNKU"
-        },
-        {
-            "rank": 10,
-            "title": "It′s Me",
-            "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/we0iGfysR8M/hqdefault.jpg",
-            "videoId": "we0iGfysR8M"
         }
     ],
     "shazam_korea": [
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
-            "videoId": "b6DzYwwS6Ng"
+            "image": "https://i.ytimg.com/vi/O1Xcx-WH_3Q/hqdefault.jpg",
+            "videoId": "O1Xcx-WH_3Q"
         },
         {
             "rank": 7,
@@ -307,8 +307,8 @@ const rankData = {
             "rank": 3,
             "title": "NO BATIDÃO",
             "artist": "ZXKAI & slxughter",
-            "image": "https://i.ytimg.com/vi/GWm1J08X9Kg/hqdefault.jpg",
-            "videoId": "GWm1J08X9Kg"
+            "image": "https://i.ytimg.com/vi/1GDOndn8BPs/hqdefault.jpg",
+            "videoId": "1GDOndn8BPs"
         },
         {
             "rank": 4,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/5xI1y37Goro/hqdefault.jpg",
-            "videoId": "5xI1y37Goro"
+            "image": "https://i.ytimg.com/vi/jx02BDrW5zg/hqdefault.jpg",
+            "videoId": "jx02BDrW5zg"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/j_9LN8x2z3k/hqdefault.jpg",
-            "videoId": "j_9LN8x2z3k"
+            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
+            "videoId": "yxKA0NnNJeo"
         },
         {
             "rank": 9,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/sPmul8b17AU/hqdefault.jpg",
-            "videoId": "sPmul8b17AU"
+            "image": "https://i.ytimg.com/vi/Xz-_b4Nvn_Q/hqdefault.jpg",
+            "videoId": "Xz-_b4Nvn_Q"
         },
         {
             "rank": 2,
@@ -414,22 +414,22 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/1lWZ97gGFXs/hqdefault.jpg",
-            "videoId": "1lWZ97gGFXs"
+            "image": "https://i.ytimg.com/vi/rhoFJcRjsAE/hqdefault.jpg",
+            "videoId": "rhoFJcRjsAE"
         },
         {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/IHvR_MvM_bE/hqdefault.jpg",
-            "videoId": "IHvR_MvM_bE"
+            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
+            "videoId": "ul0V77Yl78o"
         },
         {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/HdRKxLRoJ3c/hqdefault.jpg",
-            "videoId": "HdRKxLRoJ3c"
+            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
+            "videoId": "VDuDQNkSC6g"
         }
     ],
     "youtube_shorts_global": [
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/Hk48UXa-YN0/hqdefault.jpg",
-            "videoId": "Hk48UXa-YN0"
+            "image": "https://i.ytimg.com/vi/gn1PcD0Bh7o/hqdefault.jpg",
+            "videoId": "gn1PcD0Bh7o"
         },
         {
             "rank": 2,
@@ -451,8 +451,8 @@ const rankData = {
             "rank": 3,
             "title": "PASSO BEM SLOWED (Slowed)",
             "artist": "ATLXG",
-            "image": "https://i.ytimg.com/vi/VyWfUiS4Wdo/hqdefault.jpg",
-            "videoId": "VyWfUiS4Wdo"
+            "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
+            "videoId": "KgayxOF4Y7E"
         },
         {
             "rank": 4,
@@ -465,15 +465,15 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/E7G9TtjmVrg/hqdefault.jpg",
-            "videoId": "E7G9TtjmVrg"
+            "image": "https://i.ytimg.com/vi/w3zuovn3rIc/hqdefault.jpg",
+            "videoId": "w3zuovn3rIc"
         },
         {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/iMIMfBgjJFc/hqdefault.jpg",
-            "videoId": "iMIMfBgjJFc"
+            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
+            "videoId": "1XOJFuKHCck"
         },
         {
             "rank": 7,
@@ -486,15 +486,15 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/boU4oH0_vD4/hqdefault.jpg",
-            "videoId": "boU4oH0_vD4"
+            "image": "https://i.ytimg.com/vi/1_Ks9mvYPy0/hqdefault.jpg",
+            "videoId": "1_Ks9mvYPy0"
         },
         {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/SPBe_Zh_saE/hqdefault.jpg",
-            "videoId": "SPBe_Zh_saE"
+            "image": "https://i.ytimg.com/vi/ajH5AGvBWHw/hqdefault.jpg",
+            "videoId": "ajH5AGvBWHw"
         },
         {
             "rank": 10,
