@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-08-27 13:15:44",
+    "last_updated": "2026-08-28 15:48:03",
     "billboard": [
         {
             "rank": 1,
@@ -40,8 +40,8 @@ const rankData = {
             "rank": 6,
             "title": "I Can't Love You Anymore",
             "artist": "Ella Langley & Morgan Wallen",
-            "image": "https://i.ytimg.com/vi/7-SAw9wgy5I/hqdefault.jpg",
-            "videoId": "7-SAw9wgy5I"
+            "image": "https://i.ytimg.com/vi/A3G_7XgK2B4/hqdefault.jpg",
+            "videoId": "A3G_7XgK2B4"
         },
         {
             "rank": 7,
@@ -191,22 +191,22 @@ const rankData = {
             "rank": 7,
             "title": "Deja Vu",
             "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/xvZPSZlkdLM/hqdefault.jpg",
-            "videoId": "xvZPSZlkdLM"
+            "image": "https://i.ytimg.com/vi/ZbO9PBdFRdc/hqdefault.jpg",
+            "videoId": "ZbO9PBdFRdc"
         },
         {
             "rank": 8,
-            "title": "만찬가",
-            "artist": "태연 (TAEYEON)",
-            "image": "https://i.ytimg.com/vi/VVO05mYGFY8/hqdefault.jpg",
-            "videoId": "VVO05mYGFY8"
-        },
-        {
-            "rank": 9,
             "title": "It′s Me",
             "artist": "아일릿(ILLIT)",
             "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
             "videoId": "bMhDJ0S0OBA"
+        },
+        {
+            "rank": 9,
+            "title": "만찬가",
+            "artist": "태연 (TAEYEON)",
+            "image": "https://i.ytimg.com/vi/VVO05mYGFY8/hqdefault.jpg",
+            "videoId": "VVO05mYGFY8"
         },
         {
             "rank": 10,
@@ -221,8 +221,8 @@ const rankData = {
             "rank": 1,
             "title": "Love Language",
             "artist": "Kim Min Seok",
-            "image": "https://i.ytimg.com/vi/ccbq5l511uU/hqdefault.jpg",
-            "videoId": "ccbq5l511uU"
+            "image": "https://i.ytimg.com/vi/7oHyDoZD9eg/hqdefault.jpg",
+            "videoId": "7oHyDoZD9eg"
         },
         {
             "rank": 2,
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/O1Xcx-WH_3Q/hqdefault.jpg",
-            "videoId": "O1Xcx-WH_3Q"
+            "image": "https://i.ytimg.com/vi/szg6UaCz2yE/hqdefault.jpg",
+            "videoId": "szg6UaCz2yE"
         },
         {
             "rank": 7,
@@ -307,8 +307,8 @@ const rankData = {
             "rank": 3,
             "title": "NO BATIDÃO",
             "artist": "ZXKAI & slxughter",
-            "image": "https://i.ytimg.com/vi/1GDOndn8BPs/hqdefault.jpg",
-            "videoId": "1GDOndn8BPs"
+            "image": "https://i.ytimg.com/vi/fdZ4TNYOMvI/hqdefault.jpg",
+            "videoId": "fdZ4TNYOMvI"
         },
         {
             "rank": 4,
@@ -328,22 +328,22 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/jx02BDrW5zg/hqdefault.jpg",
-            "videoId": "jx02BDrW5zg"
+            "image": "https://i.ytimg.com/vi/5xI1y37Goro/hqdefault.jpg",
+            "videoId": "5xI1y37Goro"
         },
         {
             "rank": 7,
             "title": "Moonwalkin'",
             "artist": "LNGSHOT",
-            "image": "https://i.ytimg.com/vi/HJgdT15UT4k/hqdefault.jpg",
-            "videoId": "HJgdT15UT4k"
+            "image": "https://i.ytimg.com/vi/T1rbV4vawC4/hqdefault.jpg",
+            "videoId": "T1rbV4vawC4"
         },
         {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
-            "videoId": "yxKA0NnNJeo"
+            "image": "https://i.ytimg.com/vi/WgWUJ88fL6s/hqdefault.jpg",
+            "videoId": "WgWUJ88fL6s"
         },
         {
             "rank": 9,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
-            "videoId": "orOgilmiL_4"
+            "image": "https://i.ytimg.com/vi/2-kR94WM2qk/hqdefault.jpg",
+            "videoId": "2-kR94WM2qk"
         },
         {
             "rank": 6,
@@ -414,15 +414,15 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/rhoFJcRjsAE/hqdefault.jpg",
-            "videoId": "rhoFJcRjsAE"
+            "image": "https://i.ytimg.com/vi/C1BLgGXj_dQ/hqdefault.jpg",
+            "videoId": "C1BLgGXj_dQ"
         },
         {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
-            "videoId": "ul0V77Yl78o"
+            "image": "https://i.ytimg.com/vi/IHvR_MvM_bE/hqdefault.jpg",
+            "videoId": "IHvR_MvM_bE"
         },
         {
             "rank": 10,
@@ -437,15 +437,15 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/gn1PcD0Bh7o/hqdefault.jpg",
-            "videoId": "gn1PcD0Bh7o"
+            "image": "https://i.ytimg.com/vi/TYZrdcGWM8g/hqdefault.jpg",
+            "videoId": "TYZrdcGWM8g"
         },
         {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/tA1UwsU4ysM/hqdefault.jpg",
-            "videoId": "tA1UwsU4ysM"
+            "image": "https://i.ytimg.com/vi/QGWPZSpIdzc/hqdefault.jpg",
+            "videoId": "QGWPZSpIdzc"
         },
         {
             "rank": 3,
@@ -465,8 +465,8 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/w3zuovn3rIc/hqdefault.jpg",
-            "videoId": "w3zuovn3rIc"
+            "image": "https://i.ytimg.com/vi/E7G9TtjmVrg/hqdefault.jpg",
+            "videoId": "E7G9TtjmVrg"
         },
         {
             "rank": 6,
@@ -486,8 +486,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/1_Ks9mvYPy0/hqdefault.jpg",
-            "videoId": "1_Ks9mvYPy0"
+            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
+            "videoId": "s8A9qvAnSg0"
         },
         {
             "rank": 9,
