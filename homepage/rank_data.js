@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-09-02 09:52:04",
+    "last_updated": "2026-09-03 09:59:06",
     "billboard": [
         {
             "rank": 1,
@@ -89,17 +89,17 @@ const rankData = {
         },
         {
             "rank": 3,
-            "title": "Oh Yeah?",
-            "artist": "Steve Lacy",
-            "image": "https://i.ytimg.com/vi/yGHEis32s2Y/hqdefault.jpg",
-            "videoId": "yGHEis32s2Y"
-        },
-        {
-            "rank": 4,
             "title": "Babydoll",
             "artist": "Dominic Fike",
             "image": "https://i.ytimg.com/vi/KqMOKCRgvD8/hqdefault.jpg",
             "videoId": "KqMOKCRgvD8"
+        },
+        {
+            "rank": 4,
+            "title": "Oh Yeah?",
+            "artist": "Steve Lacy",
+            "image": "https://i.ytimg.com/vi/006V8rXDezI/hqdefault.jpg",
+            "videoId": "006V8rXDezI"
         },
         {
             "rank": 5,
@@ -110,24 +110,24 @@ const rankData = {
         },
         {
             "rank": 6,
+            "title": "Freakin' Out",
+            "artist": "Dexter And The Moonrocks",
+            "image": "https://i.ytimg.com/vi/Sf73y9GrJ4I/hqdefault.jpg",
+            "videoId": "Sf73y9GrJ4I"
+        },
+        {
+            "rank": 7,
             "title": "Self Aware",
             "artist": "Temper City",
             "image": "https://i.ytimg.com/vi/mh4AQkw4Jjc/hqdefault.jpg",
             "videoId": "mh4AQkw4Jjc"
         },
         {
-            "rank": 7,
+            "rank": 8,
             "title": "Homewrecker",
             "artist": "sombr",
             "image": "https://i.ytimg.com/vi/mQezde_qeXw/hqdefault.jpg",
             "videoId": "mQezde_qeXw"
-        },
-        {
-            "rank": 8,
-            "title": "Freakin' Out",
-            "artist": "Dexter And The Moonrocks",
-            "image": "https://i.ytimg.com/vi/Sf73y9GrJ4I/hqdefault.jpg",
-            "videoId": "Sf73y9GrJ4I"
         },
         {
             "rank": 9,
@@ -228,8 +228,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/wEO1ZPBpq2g/hqdefault.jpg",
+            "videoId": "wEO1ZPBpq2g"
         },
         {
             "rank": 3,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/5xI1y37Goro/hqdefault.jpg",
-            "videoId": "5xI1y37Goro"
+            "image": "https://i.ytimg.com/vi/pHoMeEsfiH0/hqdefault.jpg",
+            "videoId": "pHoMeEsfiH0"
         },
         {
             "rank": 7,
@@ -342,15 +342,15 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/j_9LN8x2z3k/hqdefault.jpg",
-            "videoId": "j_9LN8x2z3k"
+            "image": "https://i.ytimg.com/vi/WgWUJ88fL6s/hqdefault.jpg",
+            "videoId": "WgWUJ88fL6s"
         },
         {
             "rank": 9,
             "title": "Raindance",
             "artist": "Dave & Tems",
-            "image": "https://i.ytimg.com/vi/VKci3FQ935Y/hqdefault.jpg",
-            "videoId": "VKci3FQ935Y"
+            "image": "https://i.ytimg.com/vi/SOJpE1KMUbo/hqdefault.jpg",
+            "videoId": "SOJpE1KMUbo"
         },
         {
             "rank": 10,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
-            "videoId": "y9pELY1qWzM"
+            "image": "https://i.ytimg.com/vi/VWuJmNxbHUw/hqdefault.jpg",
+            "videoId": "VWuJmNxbHUw"
         },
         {
             "rank": 6,
@@ -421,15 +421,15 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/IHvR_MvM_bE/hqdefault.jpg",
-            "videoId": "IHvR_MvM_bE"
+            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
+            "videoId": "ul0V77Yl78o"
         },
         {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
-            "videoId": "VDuDQNkSC6g"
+            "image": "https://i.ytimg.com/vi/HdRKxLRoJ3c/hqdefault.jpg",
+            "videoId": "HdRKxLRoJ3c"
         }
     ],
     "youtube_shorts_global": [
@@ -472,8 +472,8 @@ const rankData = {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/asc9PeaN1S0/hqdefault.jpg",
-            "videoId": "asc9PeaN1S0"
+            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
+            "videoId": "1XOJFuKHCck"
         },
         {
             "rank": 7,
