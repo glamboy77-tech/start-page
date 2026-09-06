@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-09-05 09:39:23",
+    "last_updated": "2026-09-06 09:36:06",
     "billboard": [
         {
             "rank": 1,
@@ -26,8 +26,8 @@ const rankData = {
             "rank": 4,
             "title": "Been By Now",
             "artist": "Morgan Wallen",
-            "image": "https://i.ytimg.com/vi/IpEoDLVEqVw/hqdefault.jpg",
-            "videoId": "IpEoDLVEqVw"
+            "image": "https://i.ytimg.com/vi/ojNrac0xCu0/hqdefault.jpg",
+            "videoId": "ojNrac0xCu0"
         },
         {
             "rank": 5,
@@ -203,17 +203,17 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "만찬가",
-            "artist": "태연 (TAEYEON)",
-            "image": "https://i.ytimg.com/vi/VVO05mYGFY8/hqdefault.jpg",
-            "videoId": "VVO05mYGFY8"
-        },
-        {
-            "rank": 10,
             "title": "It′s Me",
             "artist": "아일릿(ILLIT)",
             "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
             "videoId": "bMhDJ0S0OBA"
+        },
+        {
+            "rank": 10,
+            "title": "만찬가",
+            "artist": "태연 (TAEYEON)",
+            "image": "https://i.ytimg.com/vi/VVO05mYGFY8/hqdefault.jpg",
+            "videoId": "VVO05mYGFY8"
         }
     ],
     "shazam_korea": [
@@ -307,15 +307,15 @@ const rankData = {
             "rank": 3,
             "title": "NO BATIDÃO",
             "artist": "ZXKAI & slxughter",
-            "image": "https://i.ytimg.com/vi/fdZ4TNYOMvI/hqdefault.jpg",
-            "videoId": "fdZ4TNYOMvI"
+            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
+            "videoId": "orOgilmiL_4"
         },
         {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/U5Q2TYIz-TU/hqdefault.jpg",
-            "videoId": "U5Q2TYIz-TU"
+            "image": "https://i.ytimg.com/vi/NKdQyMal1xM/hqdefault.jpg",
+            "videoId": "NKdQyMal1xM"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/Io-alEfCkzU/hqdefault.jpg",
-            "videoId": "Io-alEfCkzU"
+            "image": "https://i.ytimg.com/vi/pHoMeEsfiH0/hqdefault.jpg",
+            "videoId": "pHoMeEsfiH0"
         },
         {
             "rank": 7,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/sPmul8b17AU/hqdefault.jpg",
-            "videoId": "sPmul8b17AU"
+            "image": "https://i.ytimg.com/vi/Xz-_b4Nvn_Q/hqdefault.jpg",
+            "videoId": "Xz-_b4Nvn_Q"
         },
         {
             "rank": 2,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/VWuJmNxbHUw/hqdefault.jpg",
-            "videoId": "VWuJmNxbHUw"
+            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
+            "videoId": "y9pELY1qWzM"
         },
         {
             "rank": 6,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/hsN4nSSDQAE/hqdefault.jpg",
-            "videoId": "hsN4nSSDQAE"
+            "image": "https://i.ytimg.com/vi/qrT6cyFDvy4/hqdefault.jpg",
+            "videoId": "qrT6cyFDvy4"
         },
         {
             "rank": 2,
@@ -451,15 +451,15 @@ const rankData = {
             "rank": 3,
             "title": "PASSO BEM SLOWED (Slowed)",
             "artist": "ATLXG",
-            "image": "https://i.ytimg.com/vi/ol2hJ1pk09s/hqdefault.jpg",
-            "videoId": "ol2hJ1pk09s"
+            "image": "https://i.ytimg.com/vi/EHRWZvlfaBE/hqdefault.jpg",
+            "videoId": "EHRWZvlfaBE"
         },
         {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
-            "videoId": "mPmoojB54xI"
+            "image": "https://i.ytimg.com/vi/vWUHKY4s3Mo/hqdefault.jpg",
+            "videoId": "vWUHKY4s3Mo"
         },
         {
             "rank": 5,
@@ -493,8 +493,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/SPBe_Zh_saE/hqdefault.jpg",
-            "videoId": "SPBe_Zh_saE"
+            "image": "https://i.ytimg.com/vi/6vtc1BLa8uc/hqdefault.jpg",
+            "videoId": "6vtc1BLa8uc"
         },
         {
             "rank": 10,
