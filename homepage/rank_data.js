@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-09-06 09:36:06",
+    "last_updated": "2026-09-07 09:43:27",
     "billboard": [
         {
             "rank": 1,
@@ -26,8 +26,8 @@ const rankData = {
             "rank": 4,
             "title": "Been By Now",
             "artist": "Morgan Wallen",
-            "image": "https://i.ytimg.com/vi/ojNrac0xCu0/hqdefault.jpg",
-            "videoId": "ojNrac0xCu0"
+            "image": "https://i.ytimg.com/vi/IpEoDLVEqVw/hqdefault.jpg",
+            "videoId": "IpEoDLVEqVw"
         },
         {
             "rank": 5,
@@ -182,10 +182,10 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "LEMONADE",
-            "artist": "aespa",
-            "image": "https://i.ytimg.com/vi/83C3TZ4Zm_o/hqdefault.jpg",
-            "videoId": "83C3TZ4Zm_o"
+            "title": "노스탈지아",
+            "artist": "BIG Naughty (서동현)",
+            "image": "https://i.ytimg.com/vi/IbYTmiZw0R4/hqdefault.jpg",
+            "videoId": "IbYTmiZw0R4"
         },
         {
             "rank": 7,
@@ -203,10 +203,10 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "It′s Me",
-            "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
-            "videoId": "bMhDJ0S0OBA"
+            "title": "LEMONADE",
+            "artist": "aespa",
+            "image": "https://i.ytimg.com/vi/83C3TZ4Zm_o/hqdefault.jpg",
+            "videoId": "83C3TZ4Zm_o"
         },
         {
             "rank": 10,
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
-            "videoId": "b6DzYwwS6Ng"
+            "image": "https://i.ytimg.com/vi/_kYgzm-_7pU/hqdefault.jpg",
+            "videoId": "_kYgzm-_7pU"
         },
         {
             "rank": 7,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/NKdQyMal1xM/hqdefault.jpg",
-            "videoId": "NKdQyMal1xM"
+            "image": "https://i.ytimg.com/vi/08avCcjjWR0/hqdefault.jpg",
+            "videoId": "08avCcjjWR0"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/pHoMeEsfiH0/hqdefault.jpg",
-            "videoId": "pHoMeEsfiH0"
+            "image": "https://i.ytimg.com/vi/NujbjN42_fM/hqdefault.jpg",
+            "videoId": "NujbjN42_fM"
         },
         {
             "rank": 7,
@@ -342,8 +342,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/WgWUJ88fL6s/hqdefault.jpg",
-            "videoId": "WgWUJ88fL6s"
+            "image": "https://i.ytimg.com/vi/KRxHaT0bTH8/hqdefault.jpg",
+            "videoId": "KRxHaT0bTH8"
         },
         {
             "rank": 9,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
-            "videoId": "y9pELY1qWzM"
+            "image": "https://i.ytimg.com/vi/VWuJmNxbHUw/hqdefault.jpg",
+            "videoId": "VWuJmNxbHUw"
         },
         {
             "rank": 6,
@@ -421,8 +421,8 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/IHvR_MvM_bE/hqdefault.jpg",
-            "videoId": "IHvR_MvM_bE"
+            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
+            "videoId": "ul0V77Yl78o"
         },
         {
             "rank": 10,
@@ -451,8 +451,8 @@ const rankData = {
             "rank": 3,
             "title": "PASSO BEM SLOWED (Slowed)",
             "artist": "ATLXG",
-            "image": "https://i.ytimg.com/vi/EHRWZvlfaBE/hqdefault.jpg",
-            "videoId": "EHRWZvlfaBE"
+            "image": "https://i.ytimg.com/vi/gmeDqfqPRio/hqdefault.jpg",
+            "videoId": "gmeDqfqPRio"
         },
         {
             "rank": 4,
@@ -493,8 +493,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/6vtc1BLa8uc/hqdefault.jpg",
-            "videoId": "6vtc1BLa8uc"
+            "image": "https://i.ytimg.com/vi/ajH5AGvBWHw/hqdefault.jpg",
+            "videoId": "ajH5AGvBWHw"
         },
         {
             "rank": 10,
