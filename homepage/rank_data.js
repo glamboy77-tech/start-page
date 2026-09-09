@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-09-08 09:56:25",
+    "last_updated": "2026-09-09 10:05:16",
     "billboard": [
         {
             "rank": 1,
@@ -182,24 +182,24 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "노스탈지아",
-            "artist": "BIG Naughty (서동현)",
-            "image": "https://i.ytimg.com/vi/IbYTmiZw0R4/hqdefault.jpg",
-            "videoId": "IbYTmiZw0R4"
-        },
-        {
-            "rank": 7,
             "title": "Deja Vu",
             "artist": "RESCENE (리센느)",
             "image": "https://i.ytimg.com/vi/ZbO9PBdFRdc/hqdefault.jpg",
             "videoId": "ZbO9PBdFRdc"
         },
         {
-            "rank": 8,
+            "rank": 7,
             "title": "BAD",
             "artist": "ATEEZ(에이티즈)",
             "image": "https://i.ytimg.com/vi/-q_S27LbNKU/hqdefault.jpg",
             "videoId": "-q_S27LbNKU"
+        },
+        {
+            "rank": 8,
+            "title": "LEMONADE",
+            "artist": "aespa",
+            "image": "https://i.ytimg.com/vi/83C3TZ4Zm_o/hqdefault.jpg",
+            "videoId": "83C3TZ4Zm_o"
         },
         {
             "rank": 9,
@@ -210,10 +210,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "LEMONADE",
-            "artist": "aespa",
-            "image": "https://i.ytimg.com/vi/83C3TZ4Zm_o/hqdefault.jpg",
-            "videoId": "83C3TZ4Zm_o"
+            "title": "노스탈지아",
+            "artist": "BIG Naughty (서동현)",
+            "image": "https://i.ytimg.com/vi/IbYTmiZw0R4/hqdefault.jpg",
+            "videoId": "IbYTmiZw0R4"
         }
     ],
     "shazam_korea": [
@@ -242,8 +242,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/0u8teXR8VE4/hqdefault.jpg",
-            "videoId": "0u8teXR8VE4"
+            "image": "https://i.ytimg.com/vi/npybPWzu6Vo/hqdefault.jpg",
+            "videoId": "npybPWzu6Vo"
         },
         {
             "rank": 5,
@@ -256,15 +256,15 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
-            "videoId": "b6DzYwwS6Ng"
+            "image": "https://i.ytimg.com/vi/py_P2TI-gNg/hqdefault.jpg",
+            "videoId": "py_P2TI-gNg"
         },
         {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/emdggJnwc2w/hqdefault.jpg",
-            "videoId": "emdggJnwc2w"
+            "image": "https://i.ytimg.com/vi/1lA9UlXnYIQ/hqdefault.jpg",
+            "videoId": "1lA9UlXnYIQ"
         },
         {
             "rank": 8,
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/jQOeOIgrY9Y/hqdefault.jpg",
-            "videoId": "jQOeOIgrY9Y"
+            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
+            "videoId": "oXCXlPJ57rE"
         }
     ],
     "shazam_global": [
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/HNeEAHFMLmI/hqdefault.jpg",
-            "videoId": "HNeEAHFMLmI"
+            "image": "https://i.ytimg.com/vi/5xI1y37Goro/hqdefault.jpg",
+            "videoId": "5xI1y37Goro"
         },
         {
             "rank": 7,
@@ -342,15 +342,15 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/WgWUJ88fL6s/hqdefault.jpg",
-            "videoId": "WgWUJ88fL6s"
+            "image": "https://i.ytimg.com/vi/KRxHaT0bTH8/hqdefault.jpg",
+            "videoId": "KRxHaT0bTH8"
         },
         {
             "rank": 9,
             "title": "Raindance",
             "artist": "Dave & Tems",
-            "image": "https://i.ytimg.com/vi/SOJpE1KMUbo/hqdefault.jpg",
-            "videoId": "SOJpE1KMUbo"
+            "image": "https://i.ytimg.com/vi/VKci3FQ935Y/hqdefault.jpg",
+            "videoId": "VKci3FQ935Y"
         },
         {
             "rank": 10,
@@ -386,15 +386,15 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/Z7OygmQGX-w/hqdefault.jpg",
-            "videoId": "Z7OygmQGX-w"
+            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
+            "videoId": "YEMBk076jGM"
         },
         {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
-            "videoId": "y9pELY1qWzM"
+            "image": "https://i.ytimg.com/vi/VWuJmNxbHUw/hqdefault.jpg",
+            "videoId": "VWuJmNxbHUw"
         },
         {
             "rank": 6,
@@ -437,8 +437,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/HV7HuA-r8Pc/hqdefault.jpg",
-            "videoId": "HV7HuA-r8Pc"
+            "image": "https://i.ytimg.com/vi/bLo8qA7L9tU/hqdefault.jpg",
+            "videoId": "bLo8qA7L9tU"
         },
         {
             "rank": 2,
@@ -451,15 +451,15 @@ const rankData = {
             "rank": 3,
             "title": "PASSO BEM SLOWED (Slowed)",
             "artist": "ATLXG",
-            "image": "https://i.ytimg.com/vi/EHRWZvlfaBE/hqdefault.jpg",
-            "videoId": "EHRWZvlfaBE"
+            "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
+            "videoId": "KgayxOF4Y7E"
         },
         {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/vWUHKY4s3Mo/hqdefault.jpg",
-            "videoId": "vWUHKY4s3Mo"
+            "image": "https://i.ytimg.com/vi/b2DzWd3E2F0/hqdefault.jpg",
+            "videoId": "b2DzWd3E2F0"
         },
         {
             "rank": 5,
@@ -472,8 +472,8 @@ const rankData = {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/iMIMfBgjJFc/hqdefault.jpg",
-            "videoId": "iMIMfBgjJFc"
+            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
+            "videoId": "1XOJFuKHCck"
         },
         {
             "rank": 7,
@@ -486,8 +486,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/mRVs2ArYuw8/hqdefault.jpg",
-            "videoId": "mRVs2ArYuw8"
+            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
+            "videoId": "s8A9qvAnSg0"
         },
         {
             "rank": 9,
