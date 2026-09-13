@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-09-12 09:57:01",
+    "last_updated": "2026-09-13 09:39:31",
     "billboard": [
         {
             "rank": 1,
@@ -154,10 +154,10 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "이 별로부터",
-            "artist": "아이유",
-            "image": "https://i.ytimg.com/vi/3kUy0NtkBZw/hqdefault.jpg",
-            "videoId": "3kUy0NtkBZw"
+            "title": "또또",
+            "artist": "임영웅",
+            "image": "https://i.ytimg.com/vi/cZ-uAwxQ4z8/hqdefault.jpg",
+            "videoId": "cZ-uAwxQ4z8"
         },
         {
             "rank": 3,
@@ -175,45 +175,45 @@ const rankData = {
         },
         {
             "rank": 5,
+            "title": "사랑은 늘 도망가",
+            "artist": "임영웅",
+            "image": "https://i.ytimg.com/vi/LKQ-18LoFQk/hqdefault.jpg",
+            "videoId": "LKQ-18LoFQk"
+        },
+        {
+            "rank": 6,
+            "title": "Pretty Girl",
+            "artist": "RESCENE (리센느)",
+            "image": "https://i.ytimg.com/vi/7DDsEVYWAwc/hqdefault.jpg",
+            "videoId": "7DDsEVYWAwc"
+        },
+        {
+            "rank": 7,
+            "title": "부디 행복해질 것",
+            "artist": "임영웅",
+            "image": "https://i.ytimg.com/vi/29gfOo3w980/hqdefault.jpg",
+            "videoId": "29gfOo3w980"
+        },
+        {
+            "rank": 8,
             "title": "REDRED",
             "artist": "CORTIS (코르티스)",
             "image": "https://i.ytimg.com/vi/U6BDbXIah-Y/hqdefault.jpg",
             "videoId": "U6BDbXIah-Y"
         },
         {
-            "rank": 6,
-            "title": "Pretty Girl",
-            "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/qZlu2j2SiBA/hqdefault.jpg",
-            "videoId": "qZlu2j2SiBA"
-        },
-        {
-            "rank": 7,
-            "title": "Dear my crazy soulmate",
-            "artist": "아이유",
-            "image": "https://i.ytimg.com/vi/RdUV9Ms5GM4/hqdefault.jpg",
-            "videoId": "RdUV9Ms5GM4"
-        },
-        {
-            "rank": 8,
-            "title": "Deja Vu",
-            "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/ZbO9PBdFRdc/hqdefault.jpg",
-            "videoId": "ZbO9PBdFRdc"
-        },
-        {
             "rank": 9,
-            "title": "또또",
-            "artist": "임영웅",
-            "image": "https://i.ytimg.com/vi/cZ-uAwxQ4z8/hqdefault.jpg",
-            "videoId": "cZ-uAwxQ4z8"
+            "title": "이 별로부터",
+            "artist": "아이유",
+            "image": "https://i.ytimg.com/vi/-KOpZXsKs3g/hqdefault.jpg",
+            "videoId": "-KOpZXsKs3g"
         },
         {
             "rank": 10,
-            "title": "만찬가",
-            "artist": "태연 (TAEYEON)",
-            "image": "https://i.ytimg.com/vi/VVO05mYGFY8/hqdefault.jpg",
-            "videoId": "VVO05mYGFY8"
+            "title": "순간을 영원처럼",
+            "artist": "임영웅",
+            "image": "https://i.ytimg.com/vi/sFK89gemgKM/hqdefault.jpg",
+            "videoId": "sFK89gemgKM"
         }
     ],
     "shazam_korea": [
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/fkoP27MJCfU/hqdefault.jpg",
-            "videoId": "fkoP27MJCfU"
+            "image": "https://i.ytimg.com/vi/DPMHgCqxWjY/hqdefault.jpg",
+            "videoId": "DPMHgCqxWjY"
         },
         {
             "rank": 7,
@@ -270,8 +270,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
-            "videoId": "iG2OH4whO5E"
+            "image": "https://i.ytimg.com/vi/Duo96RX_cEs/hqdefault.jpg",
+            "videoId": "Duo96RX_cEs"
         },
         {
             "rank": 9,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/08avCcjjWR0/hqdefault.jpg",
-            "videoId": "08avCcjjWR0"
+            "image": "https://i.ytimg.com/vi/kz5PT_ypvJg/hqdefault.jpg",
+            "videoId": "kz5PT_ypvJg"
         },
         {
             "rank": 5,
@@ -328,8 +328,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/9OuNovL_HIY/hqdefault.jpg",
-            "videoId": "9OuNovL_HIY"
+            "image": "https://i.ytimg.com/vi/ScMkywEH5JM/hqdefault.jpg",
+            "videoId": "ScMkywEH5JM"
         },
         {
             "rank": 7,
@@ -393,8 +393,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/ZjgDbUZ7fRY/hqdefault.jpg",
-            "videoId": "ZjgDbUZ7fRY"
+            "image": "https://i.ytimg.com/vi/VWuJmNxbHUw/hqdefault.jpg",
+            "videoId": "VWuJmNxbHUw"
         },
         {
             "rank": 6,
@@ -414,22 +414,22 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/KRAFmgTECWw/hqdefault.jpg",
-            "videoId": "KRAFmgTECWw"
+            "image": "https://i.ytimg.com/vi/rhoFJcRjsAE/hqdefault.jpg",
+            "videoId": "rhoFJcRjsAE"
         },
         {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/IHvR_MvM_bE/hqdefault.jpg",
-            "videoId": "IHvR_MvM_bE"
+            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
+            "videoId": "ul0V77Yl78o"
         },
         {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
-            "videoId": "VDuDQNkSC6g"
+            "image": "https://i.ytimg.com/vi/HdRKxLRoJ3c/hqdefault.jpg",
+            "videoId": "HdRKxLRoJ3c"
         }
     ],
     "youtube_shorts_global": [
@@ -451,8 +451,8 @@ const rankData = {
             "rank": 3,
             "title": "PASSO BEM SLOWED (Slowed)",
             "artist": "ATLXG",
-            "image": "https://i.ytimg.com/vi/EHRWZvlfaBE/hqdefault.jpg",
-            "videoId": "EHRWZvlfaBE"
+            "image": "https://i.ytimg.com/vi/hnCqLyvPSYw/hqdefault.jpg",
+            "videoId": "hnCqLyvPSYw"
         },
         {
             "rank": 4,
@@ -465,8 +465,8 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/E7G9TtjmVrg/hqdefault.jpg",
-            "videoId": "E7G9TtjmVrg"
+            "image": "https://i.ytimg.com/vi/sHt0OErWYKU/hqdefault.jpg",
+            "videoId": "sHt0OErWYKU"
         },
         {
             "rank": 6,
@@ -486,15 +486,15 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/mRVs2ArYuw8/hqdefault.jpg",
-            "videoId": "mRVs2ArYuw8"
+            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
+            "videoId": "s8A9qvAnSg0"
         },
         {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/MQmM4VjDjqE/hqdefault.jpg",
-            "videoId": "MQmM4VjDjqE"
+            "image": "https://i.ytimg.com/vi/_S04LZNIzj4/hqdefault.jpg",
+            "videoId": "_S04LZNIzj4"
         },
         {
             "rank": 10,
