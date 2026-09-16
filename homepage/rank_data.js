@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-09-15 10:11:32",
+    "last_updated": "2026-09-16 10:08:19",
     "billboard": [
         {
             "rank": 1,
@@ -24,17 +24,17 @@ const rankData = {
         },
         {
             "rank": 4,
-            "title": "Hate That I Made You Love Me",
-            "artist": "Ariana Grande",
-            "image": "https://i.ytimg.com/vi/82-jTNka3uc/hqdefault.jpg",
-            "videoId": "82-jTNka3uc"
-        },
-        {
-            "rank": 5,
             "title": "Been By Now",
             "artist": "Morgan Wallen",
             "image": "https://i.ytimg.com/vi/IpEoDLVEqVw/hqdefault.jpg",
             "videoId": "IpEoDLVEqVw"
+        },
+        {
+            "rank": 5,
+            "title": "Hate That I Made You Love Me",
+            "artist": "Ariana Grande",
+            "image": "https://i.ytimg.com/vi/82-jTNka3uc/hqdefault.jpg",
+            "videoId": "82-jTNka3uc"
         },
         {
             "rank": 6,
@@ -59,17 +59,17 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "Risk It All",
-            "artist": "Bruno Mars",
-            "image": "https://i.ytimg.com/vi/lY5V4hSLWY8/hqdefault.jpg",
-            "videoId": "lY5V4hSLWY8"
-        },
-        {
-            "rank": 10,
             "title": "Be Her",
             "artist": "Ella Langley",
             "image": "https://i.ytimg.com/vi/Dg47eNL_Usw/hqdefault.jpg",
             "videoId": "Dg47eNL_Usw"
+        },
+        {
+            "rank": 10,
+            "title": "BbY WOW",
+            "artist": "Karol G With Judeline & rusowsky",
+            "image": "https://i.ytimg.com/vi/fRIhCiUVaKs/hqdefault.jpg",
+            "videoId": "fRIhCiUVaKs"
         }
     ],
     "billboard_rock": [
@@ -117,24 +117,24 @@ const rankData = {
         },
         {
             "rank": 7,
+            "title": "Bloodstream",
+            "artist": "Alyssa Grace",
+            "image": "https://i.ytimg.com/vi/FOJ4A4wixDg/hqdefault.jpg",
+            "videoId": "FOJ4A4wixDg"
+        },
+        {
+            "rank": 8,
             "title": "Freakin' Out",
             "artist": "Dexter And The Moonrocks",
             "image": "https://i.ytimg.com/vi/Sf73y9GrJ4I/hqdefault.jpg",
             "videoId": "Sf73y9GrJ4I"
         },
         {
-            "rank": 8,
+            "rank": 9,
             "title": "Rein Me In",
             "artist": "Sam Fender & Olivia Dean",
             "image": "https://i.ytimg.com/vi/3triLkS0nq4/hqdefault.jpg",
             "videoId": "3triLkS0nq4"
-        },
-        {
-            "rank": 9,
-            "title": "Bloodstream",
-            "artist": "Alyssa Grace",
-            "image": "https://i.ytimg.com/vi/FOJ4A4wixDg/hqdefault.jpg",
-            "videoId": "FOJ4A4wixDg"
         },
         {
             "rank": 10,
@@ -154,10 +154,10 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "이 별로부터",
-            "artist": "아이유",
-            "image": "https://i.ytimg.com/vi/3kUy0NtkBZw/hqdefault.jpg",
-            "videoId": "3kUy0NtkBZw"
+            "title": "퇴사할게여 (Narr. 기안84)",
+            "artist": "소연 (SOYEON)",
+            "image": "https://i.ytimg.com/vi/sEjhW9cRKkU/hqdefault.jpg",
+            "videoId": "sEjhW9cRKkU"
         },
         {
             "rank": 3,
@@ -168,17 +168,17 @@ const rankData = {
         },
         {
             "rank": 4,
+            "title": "이 별로부터",
+            "artist": "아이유",
+            "image": "https://i.ytimg.com/vi/nP1xjFX86Po/hqdefault.jpg",
+            "videoId": "nP1xjFX86Po"
+        },
+        {
+            "rank": 5,
             "title": "갑자기",
             "artist": "아이오아이 (I.O.I)",
             "image": "https://i.ytimg.com/vi/Jxgbfc89hNI/hqdefault.jpg",
             "videoId": "Jxgbfc89hNI"
-        },
-        {
-            "rank": 5,
-            "title": "Dear my crazy soulmate",
-            "artist": "아이유",
-            "image": "https://i.ytimg.com/vi/RdUV9Ms5GM4/hqdefault.jpg",
-            "videoId": "RdUV9Ms5GM4"
         },
         {
             "rank": 6,
@@ -189,10 +189,10 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "퇴사할게여 (Narr. 기안84)",
-            "artist": "소연 (SOYEON)",
-            "image": "https://i.ytimg.com/vi/7mDDM0eBWR0/hqdefault.jpg",
-            "videoId": "7mDDM0eBWR0"
+            "title": "Dear my crazy soulmate",
+            "artist": "아이유",
+            "image": "https://i.ytimg.com/vi/vBc1B-c8Oyc/hqdefault.jpg",
+            "videoId": "vBc1B-c8Oyc"
         },
         {
             "rank": 8,
@@ -228,15 +228,15 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
             "title": "Moonwalkin'",
             "artist": "LNGSHOT",
-            "image": "https://i.ytimg.com/vi/D7rgV0jAWzY/hqdefault.jpg",
-            "videoId": "D7rgV0jAWzY"
+            "image": "https://i.ytimg.com/vi/HJgdT15UT4k/hqdefault.jpg",
+            "videoId": "HJgdT15UT4k"
         },
         {
             "rank": 4,
@@ -256,8 +256,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/_kYgzm-_7pU/hqdefault.jpg",
-            "videoId": "_kYgzm-_7pU"
+            "image": "https://i.ytimg.com/vi/z0Xc_rzYZV8/hqdefault.jpg",
+            "videoId": "z0Xc_rzYZV8"
         },
         {
             "rank": 7,
@@ -314,8 +314,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/08avCcjjWR0/hqdefault.jpg",
-            "videoId": "08avCcjjWR0"
+            "image": "https://i.ytimg.com/vi/aDwXKAaEZGA/hqdefault.jpg",
+            "videoId": "aDwXKAaEZGA"
         },
         {
             "rank": 5,
@@ -335,8 +335,8 @@ const rankData = {
             "rank": 7,
             "title": "Moonwalkin'",
             "artist": "LNGSHOT",
-            "image": "https://i.ytimg.com/vi/HJgdT15UT4k/hqdefault.jpg",
-            "videoId": "HJgdT15UT4k"
+            "image": "https://i.ytimg.com/vi/xdAbB3sCQH0/hqdefault.jpg",
+            "videoId": "xdAbB3sCQH0"
         },
         {
             "rank": 8,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/sPmul8b17AU/hqdefault.jpg",
-            "videoId": "sPmul8b17AU"
+            "image": "https://i.ytimg.com/vi/Xz-_b4Nvn_Q/hqdefault.jpg",
+            "videoId": "Xz-_b4Nvn_Q"
         },
         {
             "rank": 2,
@@ -386,15 +386,15 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
-            "videoId": "YEMBk076jGM"
+            "image": "https://i.ytimg.com/vi/3OIs5tuYKJQ/hqdefault.jpg",
+            "videoId": "3OIs5tuYKJQ"
         },
         {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/VWuJmNxbHUw/hqdefault.jpg",
-            "videoId": "VWuJmNxbHUw"
+            "image": "https://i.ytimg.com/vi/BZ33IjlfQqg/hqdefault.jpg",
+            "videoId": "BZ33IjlfQqg"
         },
         {
             "rank": 6,
@@ -428,8 +428,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/HdRKxLRoJ3c/hqdefault.jpg",
-            "videoId": "HdRKxLRoJ3c"
+            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
+            "videoId": "VDuDQNkSC6g"
         }
     ],
     "youtube_shorts_global": [
@@ -437,36 +437,36 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/osOu2Yz-JjE/hqdefault.jpg",
-            "videoId": "osOu2Yz-JjE"
+            "image": "https://i.ytimg.com/vi/WA0NvP-MSP0/hqdefault.jpg",
+            "videoId": "WA0NvP-MSP0"
         },
         {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/tA1UwsU4ysM/hqdefault.jpg",
-            "videoId": "tA1UwsU4ysM"
+            "image": "https://i.ytimg.com/vi/QGWPZSpIdzc/hqdefault.jpg",
+            "videoId": "QGWPZSpIdzc"
         },
         {
             "rank": 3,
             "title": "PASSO BEM SLOWED (Slowed)",
             "artist": "ATLXG",
-            "image": "https://i.ytimg.com/vi/VyWfUiS4Wdo/hqdefault.jpg",
-            "videoId": "VyWfUiS4Wdo"
+            "image": "https://i.ytimg.com/vi/NcU2OlxsbtU/hqdefault.jpg",
+            "videoId": "NcU2OlxsbtU"
         },
         {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/vWUHKY4s3Mo/hqdefault.jpg",
-            "videoId": "vWUHKY4s3Mo"
+            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
+            "videoId": "mPmoojB54xI"
         },
         {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/E7G9TtjmVrg/hqdefault.jpg",
-            "videoId": "E7G9TtjmVrg"
+            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
+            "videoId": "DoM3DiFnXxM"
         },
         {
             "rank": 6,
@@ -486,15 +486,15 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/lwUbbnN2x28/hqdefault.jpg",
-            "videoId": "lwUbbnN2x28"
+            "image": "https://i.ytimg.com/vi/G3y7igY7gUk/hqdefault.jpg",
+            "videoId": "G3y7igY7gUk"
         },
         {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/6vtc1BLa8uc/hqdefault.jpg",
-            "videoId": "6vtc1BLa8uc"
+            "image": "https://i.ytimg.com/vi/ajH5AGvBWHw/hqdefault.jpg",
+            "videoId": "ajH5AGvBWHw"
         },
         {
             "rank": 10,
