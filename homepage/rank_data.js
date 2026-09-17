@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-09-16 10:08:19",
+    "last_updated": "2026-09-17 10:07:51",
     "billboard": [
         {
             "rank": 1,
@@ -147,52 +147,52 @@ const rankData = {
     "melon": [
         {
             "rank": 1,
+            "title": "퇴사할게여 (Narr. 기안84)",
+            "artist": "소연 (SOYEON)",
+            "image": "https://i.ytimg.com/vi/RxxJEMuN100/hqdefault.jpg",
+            "videoId": "RxxJEMuN100"
+        },
+        {
+            "rank": 2,
             "title": "LOVE ATTACK",
             "artist": "RESCENE (리센느)",
             "image": "https://i.ytimg.com/vi/9XttLI0oH0I/hqdefault.jpg",
             "videoId": "9XttLI0oH0I"
         },
         {
-            "rank": 2,
-            "title": "퇴사할게여 (Narr. 기안84)",
-            "artist": "소연 (SOYEON)",
-            "image": "https://i.ytimg.com/vi/sEjhW9cRKkU/hqdefault.jpg",
-            "videoId": "sEjhW9cRKkU"
-        },
-        {
             "rank": 3,
-            "title": "BiiiG",
-            "artist": "BIGBANG (빅뱅)",
-            "image": "https://i.ytimg.com/vi/L8ZnXgbyUuc/hqdefault.jpg",
-            "videoId": "L8ZnXgbyUuc"
-        },
-        {
-            "rank": 4,
             "title": "이 별로부터",
             "artist": "아이유",
             "image": "https://i.ytimg.com/vi/nP1xjFX86Po/hqdefault.jpg",
             "videoId": "nP1xjFX86Po"
         },
         {
+            "rank": 4,
+            "title": "BiiiG",
+            "artist": "BIGBANG (빅뱅)",
+            "image": "https://i.ytimg.com/vi/L8ZnXgbyUuc/hqdefault.jpg",
+            "videoId": "L8ZnXgbyUuc"
+        },
+        {
             "rank": 5,
+            "title": "Dear my crazy soulmate",
+            "artist": "아이유",
+            "image": "https://i.ytimg.com/vi/RdUV9Ms5GM4/hqdefault.jpg",
+            "videoId": "RdUV9Ms5GM4"
+        },
+        {
+            "rank": 6,
             "title": "갑자기",
             "artist": "아이오아이 (I.O.I)",
             "image": "https://i.ytimg.com/vi/Jxgbfc89hNI/hqdefault.jpg",
             "videoId": "Jxgbfc89hNI"
         },
         {
-            "rank": 6,
+            "rank": 7,
             "title": "REDRED",
             "artist": "CORTIS (코르티스)",
             "image": "https://i.ytimg.com/vi/U6BDbXIah-Y/hqdefault.jpg",
             "videoId": "U6BDbXIah-Y"
-        },
-        {
-            "rank": 7,
-            "title": "Dear my crazy soulmate",
-            "artist": "아이유",
-            "image": "https://i.ytimg.com/vi/vBc1B-c8Oyc/hqdefault.jpg",
-            "videoId": "vBc1B-c8Oyc"
         },
         {
             "rank": 8,
@@ -210,10 +210,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "만찬가",
-            "artist": "태연 (TAEYEON)",
-            "image": "https://i.ytimg.com/vi/VVO05mYGFY8/hqdefault.jpg",
-            "videoId": "VVO05mYGFY8"
+            "title": "BAD",
+            "artist": "ATEEZ(에이티즈)",
+            "image": "https://i.ytimg.com/vi/-q_S27LbNKU/hqdefault.jpg",
+            "videoId": "-q_S27LbNKU"
         }
     ],
     "shazam_korea": [
@@ -284,8 +284,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/ulUbF-VyxSo/hqdefault.jpg",
-            "videoId": "ulUbF-VyxSo"
+            "image": "https://i.ytimg.com/vi/VBPZvuQoWy8/hqdefault.jpg",
+            "videoId": "VBPZvuQoWy8"
         }
     ],
     "shazam_global": [
@@ -328,22 +328,22 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/8FKMGxQXtTs/hqdefault.jpg",
-            "videoId": "8FKMGxQXtTs"
+            "image": "https://i.ytimg.com/vi/9OuNovL_HIY/hqdefault.jpg",
+            "videoId": "9OuNovL_HIY"
         },
         {
             "rank": 7,
             "title": "Moonwalkin'",
             "artist": "LNGSHOT",
-            "image": "https://i.ytimg.com/vi/xdAbB3sCQH0/hqdefault.jpg",
-            "videoId": "xdAbB3sCQH0"
+            "image": "https://i.ytimg.com/vi/HJgdT15UT4k/hqdefault.jpg",
+            "videoId": "HJgdT15UT4k"
         },
         {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
-            "videoId": "yxKA0NnNJeo"
+            "image": "https://i.ytimg.com/vi/00lHrVvYWPA/hqdefault.jpg",
+            "videoId": "00lHrVvYWPA"
         },
         {
             "rank": 9,
@@ -365,8 +365,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/Xz-_b4Nvn_Q/hqdefault.jpg",
-            "videoId": "Xz-_b4Nvn_Q"
+            "image": "https://i.ytimg.com/vi/sPmul8b17AU/hqdefault.jpg",
+            "videoId": "sPmul8b17AU"
         },
         {
             "rank": 2,
@@ -386,15 +386,15 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/3OIs5tuYKJQ/hqdefault.jpg",
-            "videoId": "3OIs5tuYKJQ"
+            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
+            "videoId": "YEMBk076jGM"
         },
         {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/BZ33IjlfQqg/hqdefault.jpg",
-            "videoId": "BZ33IjlfQqg"
+            "image": "https://i.ytimg.com/vi/VWuJmNxbHUw/hqdefault.jpg",
+            "videoId": "VWuJmNxbHUw"
         },
         {
             "rank": 6,
@@ -437,22 +437,22 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/WA0NvP-MSP0/hqdefault.jpg",
-            "videoId": "WA0NvP-MSP0"
+            "image": "https://i.ytimg.com/vi/Bf2ml3oE2JA/hqdefault.jpg",
+            "videoId": "Bf2ml3oE2JA"
         },
         {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/QGWPZSpIdzc/hqdefault.jpg",
-            "videoId": "QGWPZSpIdzc"
+            "image": "https://i.ytimg.com/vi/tA1UwsU4ysM/hqdefault.jpg",
+            "videoId": "tA1UwsU4ysM"
         },
         {
             "rank": 3,
             "title": "PASSO BEM SLOWED (Slowed)",
             "artist": "ATLXG",
-            "image": "https://i.ytimg.com/vi/NcU2OlxsbtU/hqdefault.jpg",
-            "videoId": "NcU2OlxsbtU"
+            "image": "https://i.ytimg.com/vi/EHRWZvlfaBE/hqdefault.jpg",
+            "videoId": "EHRWZvlfaBE"
         },
         {
             "rank": 4,
@@ -465,8 +465,8 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
-            "videoId": "DoM3DiFnXxM"
+            "image": "https://i.ytimg.com/vi/w3zuovn3rIc/hqdefault.jpg",
+            "videoId": "w3zuovn3rIc"
         },
         {
             "rank": 6,
@@ -486,15 +486,15 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/G3y7igY7gUk/hqdefault.jpg",
-            "videoId": "G3y7igY7gUk"
+            "image": "https://i.ytimg.com/vi/HWpVTbvpcNA/hqdefault.jpg",
+            "videoId": "HWpVTbvpcNA"
         },
         {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/ajH5AGvBWHw/hqdefault.jpg",
-            "videoId": "ajH5AGvBWHw"
+            "image": "https://i.ytimg.com/vi/nuQpSxcHpLs/hqdefault.jpg",
+            "videoId": "nuQpSxcHpLs"
         },
         {
             "rank": 10,
