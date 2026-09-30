@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-09-29 11:30:52",
+    "last_updated": "2026-09-30 10:51:50",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
@@ -19,17 +19,17 @@ const rankData = {
         },
         {
             "rank": 3,
-            "title": "갑자기",
-            "artist": "아이오아이 (I.O.I)",
-            "image": "https://i.ytimg.com/vi/Jxgbfc89hNI/hqdefault.jpg",
-            "videoId": "Jxgbfc89hNI"
-        },
-        {
-            "rank": 4,
             "title": "Deja Vu",
             "artist": "RESCENE (리센느)",
             "image": "https://i.ytimg.com/vi/ZbO9PBdFRdc/hqdefault.jpg",
             "videoId": "ZbO9PBdFRdc"
+        },
+        {
+            "rank": 4,
+            "title": "갑자기",
+            "artist": "아이오아이 (I.O.I)",
+            "image": "https://i.ytimg.com/vi/Jxgbfc89hNI/hqdefault.jpg",
+            "videoId": "Jxgbfc89hNI"
         },
         {
             "rank": 5,
@@ -47,17 +47,17 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "BiiiG",
-            "artist": "BIGBANG (빅뱅)",
-            "image": "https://i.ytimg.com/vi/L8ZnXgbyUuc/hqdefault.jpg",
-            "videoId": "L8ZnXgbyUuc"
-        },
-        {
-            "rank": 8,
             "title": "BAD",
             "artist": "ATEEZ(에이티즈)",
             "image": "https://i.ytimg.com/vi/-q_S27LbNKU/hqdefault.jpg",
             "videoId": "-q_S27LbNKU"
+        },
+        {
+            "rank": 8,
+            "title": "BiiiG",
+            "artist": "BIGBANG (빅뱅)",
+            "image": "https://i.ytimg.com/vi/L8ZnXgbyUuc/hqdefault.jpg",
+            "videoId": "L8ZnXgbyUuc"
         },
         {
             "rank": 9,
@@ -68,10 +68,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "LEMONADE",
-            "artist": "aespa",
-            "image": "https://i.ytimg.com/vi/83C3TZ4Zm_o/hqdefault.jpg",
-            "videoId": "83C3TZ4Zm_o"
+            "title": "이 별로부터",
+            "artist": "아이유",
+            "image": "https://i.ytimg.com/vi/nP1xjFX86Po/hqdefault.jpg",
+            "videoId": "nP1xjFX86Po"
         }
     ],
     "shazam_korea": [
@@ -86,8 +86,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
-            "videoId": "L1rR_smhD78"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -100,8 +100,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/npybPWzu6Vo/hqdefault.jpg",
-            "videoId": "npybPWzu6Vo"
+            "image": "https://i.ytimg.com/vi/0u8teXR8VE4/hqdefault.jpg",
+            "videoId": "0u8teXR8VE4"
         },
         {
             "rank": 5,
@@ -186,8 +186,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/itfqgCFK3kA/hqdefault.jpg",
-            "videoId": "itfqgCFK3kA"
+            "image": "https://i.ytimg.com/vi/BOxOpShsPAU/hqdefault.jpg",
+            "videoId": "BOxOpShsPAU"
         },
         {
             "rank": 7,
@@ -223,8 +223,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
-            "videoId": "VDuDQNkSC6g"
+            "image": "https://i.ytimg.com/vi/5kS7Az8Qz10/hqdefault.jpg",
+            "videoId": "5kS7Az8Qz10"
         },
         {
             "rank": 2,
@@ -251,8 +251,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
-            "videoId": "y9pELY1qWzM"
+            "image": "https://i.ytimg.com/vi/qdpjL6Zpc1k/hqdefault.jpg",
+            "videoId": "qdpjL6Zpc1k"
         },
         {
             "rank": 6,
@@ -295,8 +295,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/vIx2YGdVWqU/hqdefault.jpg",
-            "videoId": "vIx2YGdVWqU"
+            "image": "https://i.ytimg.com/vi/qdpjL6Zpc1k/hqdefault.jpg",
+            "videoId": "qdpjL6Zpc1k"
         },
         {
             "rank": 2,
@@ -309,15 +309,15 @@ const rankData = {
             "rank": 3,
             "title": "PASSO BEM SLOWED (Slowed)",
             "artist": "ATLXG",
-            "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
-            "videoId": "KgayxOF4Y7E"
+            "image": "https://i.ytimg.com/vi/VyWfUiS4Wdo/hqdefault.jpg",
+            "videoId": "VyWfUiS4Wdo"
         },
         {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/h2wPCCPMjoE/hqdefault.jpg",
-            "videoId": "h2wPCCPMjoE"
+            "image": "https://i.ytimg.com/vi/OYGXOC0z0CY/hqdefault.jpg",
+            "videoId": "OYGXOC0z0CY"
         },
         {
             "rank": 5,
@@ -344,15 +344,15 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/cM6Udksw6K0/hqdefault.jpg",
-            "videoId": "cM6Udksw6K0"
+            "image": "https://i.ytimg.com/vi/oLpM2wkr5Bg/hqdefault.jpg",
+            "videoId": "oLpM2wkr5Bg"
         },
         {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/6vtc1BLa8uc/hqdefault.jpg",
-            "videoId": "6vtc1BLa8uc"
+            "image": "https://i.ytimg.com/vi/ajH5AGvBWHw/hqdefault.jpg",
+            "videoId": "ajH5AGvBWHw"
         },
         {
             "rank": 10,
