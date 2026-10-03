@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-10-02 11:02:17",
+    "last_updated": "2026-10-03 10:44:42",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
@@ -42,8 +42,8 @@ const rankData = {
             "rank": 6,
             "title": "REDRED",
             "artist": "CORTIS (코르티스)",
-            "image": "https://i.ytimg.com/vi/U6BDbXIah-Y/hqdefault.jpg",
-            "videoId": "U6BDbXIah-Y"
+            "image": "https://i.ytimg.com/vi/-pp2ndZd__c/hqdefault.jpg",
+            "videoId": "-pp2ndZd__c"
         },
         {
             "rank": 7,
@@ -86,8 +86,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
-            "videoId": "L1rR_smhD78"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -142,8 +142,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
-            "videoId": "oXCXlPJ57rE"
+            "image": "https://i.ytimg.com/vi/jQOeOIgrY9Y/hqdefault.jpg",
+            "videoId": "jQOeOIgrY9Y"
         }
     ],
     "shazam_global": [
@@ -186,8 +186,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/5xI1y37Goro/hqdefault.jpg",
-            "videoId": "5xI1y37Goro"
+            "image": "https://i.ytimg.com/vi/H-F33HuBAIk/hqdefault.jpg",
+            "videoId": "H-F33HuBAIk"
         },
         {
             "rank": 7,
@@ -223,8 +223,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/ChQaa0eqZak/hqdefault.jpg",
-            "videoId": "ChQaa0eqZak"
+            "image": "https://i.ytimg.com/vi/94mwkT9R2hk/hqdefault.jpg",
+            "videoId": "94mwkT9R2hk"
         },
         {
             "rank": 2,
@@ -244,8 +244,8 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
-            "videoId": "YEMBk076jGM"
+            "image": "https://i.ytimg.com/vi/NBSr9ABbt1s/hqdefault.jpg",
+            "videoId": "NBSr9ABbt1s"
         },
         {
             "rank": 5,
@@ -272,8 +272,8 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/7R_yAh5s__A/hqdefault.jpg",
-            "videoId": "7R_yAh5s__A"
+            "image": "https://i.ytimg.com/vi/rhoFJcRjsAE/hqdefault.jpg",
+            "videoId": "rhoFJcRjsAE"
         },
         {
             "rank": 9,
@@ -309,15 +309,15 @@ const rankData = {
             "rank": 3,
             "title": "PASSO BEM SLOWED (Slowed)",
             "artist": "ATLXG",
-            "image": "https://i.ytimg.com/vi/VyWfUiS4Wdo/hqdefault.jpg",
-            "videoId": "VyWfUiS4Wdo"
+            "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
+            "videoId": "KgayxOF4Y7E"
         },
         {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/OYGXOC0z0CY/hqdefault.jpg",
-            "videoId": "OYGXOC0z0CY"
+            "image": "https://i.ytimg.com/vi/h2wPCCPMjoE/hqdefault.jpg",
+            "videoId": "h2wPCCPMjoE"
         },
         {
             "rank": 5,
@@ -330,8 +330,8 @@ const rankData = {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/1ytBfJQnLNI/hqdefault.jpg",
-            "videoId": "1ytBfJQnLNI"
+            "image": "https://i.ytimg.com/vi/37soJxAYudM/hqdefault.jpg",
+            "videoId": "37soJxAYudM"
         },
         {
             "rank": 7,
@@ -344,8 +344,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/1bxBhuF_0eU/hqdefault.jpg",
-            "videoId": "1bxBhuF_0eU"
+            "image": "https://i.ytimg.com/vi/rRFf4tbX8kE/hqdefault.jpg",
+            "videoId": "rRFf4tbX8kE"
         },
         {
             "rank": 9,
