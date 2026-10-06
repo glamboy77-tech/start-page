@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-10-05 10:37:57",
+    "last_updated": "2026-10-06 11:43:03",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
@@ -19,17 +19,17 @@ const rankData = {
         },
         {
             "rank": 3,
-            "title": "갑자기",
-            "artist": "아이오아이 (I.O.I)",
-            "image": "https://i.ytimg.com/vi/Jxgbfc89hNI/hqdefault.jpg",
-            "videoId": "Jxgbfc89hNI"
-        },
-        {
-            "rank": 4,
             "title": "Deja Vu",
             "artist": "RESCENE (리센느)",
             "image": "https://i.ytimg.com/vi/ZbO9PBdFRdc/hqdefault.jpg",
             "videoId": "ZbO9PBdFRdc"
+        },
+        {
+            "rank": 4,
+            "title": "갑자기",
+            "artist": "아이오아이 (I.O.I)",
+            "image": "https://i.ytimg.com/vi/Jxgbfc89hNI/hqdefault.jpg",
+            "videoId": "Jxgbfc89hNI"
         },
         {
             "rank": 5,
@@ -47,17 +47,17 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "BAD",
-            "artist": "ATEEZ(에이티즈)",
-            "image": "https://i.ytimg.com/vi/-q_S27LbNKU/hqdefault.jpg",
-            "videoId": "-q_S27LbNKU"
-        },
-        {
-            "rank": 8,
             "title": "만찬가",
             "artist": "태연 (TAEYEON)",
             "image": "https://i.ytimg.com/vi/VVO05mYGFY8/hqdefault.jpg",
             "videoId": "VVO05mYGFY8"
+        },
+        {
+            "rank": 8,
+            "title": "BAD",
+            "artist": "ATEEZ(에이티즈)",
+            "image": "https://i.ytimg.com/vi/-q_S27LbNKU/hqdefault.jpg",
+            "videoId": "-q_S27LbNKU"
         },
         {
             "rank": 9,
@@ -68,10 +68,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "It′s Me",
-            "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
-            "videoId": "bMhDJ0S0OBA"
+            "title": "LEMONADE",
+            "artist": "aespa",
+            "image": "https://i.ytimg.com/vi/83C3TZ4Zm_o/hqdefault.jpg",
+            "videoId": "83C3TZ4Zm_o"
         }
     ],
     "shazam_korea": [
@@ -114,8 +114,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/Qfw5AqlnBJA/hqdefault.jpg",
-            "videoId": "Qfw5AqlnBJA"
+            "image": "https://i.ytimg.com/vi/DlE5H58cPe0/hqdefault.jpg",
+            "videoId": "DlE5H58cPe0"
         },
         {
             "rank": 7,
@@ -186,8 +186,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/ScMkywEH5JM/hqdefault.jpg",
-            "videoId": "ScMkywEH5JM"
+            "image": "https://i.ytimg.com/vi/oLzdwzMiC9E/hqdefault.jpg",
+            "videoId": "oLzdwzMiC9E"
         },
         {
             "rank": 7,
@@ -214,8 +214,8 @@ const rankData = {
             "rank": 10,
             "title": "B.M.S (by my side)",
             "artist": "jmoney & goyard",
-            "image": "https://i.ytimg.com/vi/DPSGMTknY9s/hqdefault.jpg",
-            "videoId": "DPSGMTknY9s"
+            "image": "https://i.ytimg.com/vi/BFAIDkgrp2M/hqdefault.jpg",
+            "videoId": "BFAIDkgrp2M"
         }
     ],
     "youtube_shorts_korea": [
@@ -223,8 +223,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/NwkRYRhsFpA/hqdefault.jpg",
-            "videoId": "NwkRYRhsFpA"
+            "image": "https://i.ytimg.com/vi/sPmul8b17AU/hqdefault.jpg",
+            "videoId": "sPmul8b17AU"
         },
         {
             "rank": 2,
@@ -244,15 +244,15 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/fx_8kIQFvr4/hqdefault.jpg",
-            "videoId": "fx_8kIQFvr4"
+            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
+            "videoId": "YEMBk076jGM"
         },
         {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
-            "videoId": "y9pELY1qWzM"
+            "image": "https://i.ytimg.com/vi/YgcawFkD-iI/hqdefault.jpg",
+            "videoId": "YgcawFkD-iI"
         },
         {
             "rank": 6,
@@ -279,8 +279,8 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/IHvR_MvM_bE/hqdefault.jpg",
-            "videoId": "IHvR_MvM_bE"
+            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
+            "videoId": "ul0V77Yl78o"
         },
         {
             "rank": 10,
@@ -295,8 +295,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/Bf2ml3oE2JA/hqdefault.jpg",
-            "videoId": "Bf2ml3oE2JA"
+            "image": "https://i.ytimg.com/vi/YgcawFkD-iI/hqdefault.jpg",
+            "videoId": "YgcawFkD-iI"
         },
         {
             "rank": 2,
@@ -344,8 +344,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/VRTFrx7KXz4/hqdefault.jpg",
-            "videoId": "VRTFrx7KXz4"
+            "image": "https://i.ytimg.com/vi/BItKN7KB4_E/hqdefault.jpg",
+            "videoId": "BItKN7KB4_E"
         },
         {
             "rank": 9,
