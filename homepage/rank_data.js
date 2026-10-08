@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-10-07 11:07:07",
+    "last_updated": "2026-10-08 11:32:02",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
@@ -68,10 +68,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "LEMONADE",
-            "artist": "aespa",
-            "image": "https://i.ytimg.com/vi/83C3TZ4Zm_o/hqdefault.jpg",
-            "videoId": "83C3TZ4Zm_o"
+            "title": "꿈꾸던 어른이 되었나요?",
+            "artist": "머무르",
+            "image": "https://i.ytimg.com/vi/uQ_f4Jswwrk/hqdefault.jpg",
+            "videoId": "uQ_f4Jswwrk"
         }
     ],
     "shazam_korea": [
@@ -128,8 +128,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/ghEpW5vgCJc/hqdefault.jpg",
-            "videoId": "ghEpW5vgCJc"
+            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
+            "videoId": "iG2OH4whO5E"
         },
         {
             "rank": 9,
@@ -142,8 +142,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
-            "videoId": "oXCXlPJ57rE"
+            "image": "https://i.ytimg.com/vi/zAJjT9R-ADg/hqdefault.jpg",
+            "videoId": "zAJjT9R-ADg"
         }
     ],
     "shazam_global": [
@@ -186,8 +186,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/oLzdwzMiC9E/hqdefault.jpg",
-            "videoId": "oLzdwzMiC9E"
+            "image": "https://i.ytimg.com/vi/eBiSoM9OMTk/hqdefault.jpg",
+            "videoId": "eBiSoM9OMTk"
         },
         {
             "rank": 7,
@@ -200,8 +200,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/j_9LN8x2z3k/hqdefault.jpg",
-            "videoId": "j_9LN8x2z3k"
+            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
+            "videoId": "yxKA0NnNJeo"
         },
         {
             "rank": 9,
@@ -223,8 +223,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/sPmul8b17AU/hqdefault.jpg",
-            "videoId": "sPmul8b17AU"
+            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
+            "videoId": "VDuDQNkSC6g"
         },
         {
             "rank": 2,
@@ -244,15 +244,15 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
-            "videoId": "YEMBk076jGM"
+            "image": "https://i.ytimg.com/vi/fx_8kIQFvr4/hqdefault.jpg",
+            "videoId": "fx_8kIQFvr4"
         },
         {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/iRSeIleY3xk/hqdefault.jpg",
-            "videoId": "iRSeIleY3xk"
+            "image": "https://i.ytimg.com/vi/vz2CMETs5ZE/hqdefault.jpg",
+            "videoId": "vz2CMETs5ZE"
         },
         {
             "rank": 6,
@@ -295,8 +295,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/pNPZ4199sMg/hqdefault.jpg",
-            "videoId": "pNPZ4199sMg"
+            "image": "https://i.ytimg.com/vi/1INWtuOdt_s/hqdefault.jpg",
+            "videoId": "1INWtuOdt_s"
         },
         {
             "rank": 2,
@@ -316,15 +316,15 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/OYGXOC0z0CY/hqdefault.jpg",
-            "videoId": "OYGXOC0z0CY"
+            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
+            "videoId": "mPmoojB54xI"
         },
         {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/sHt0OErWYKU/hqdefault.jpg",
-            "videoId": "sHt0OErWYKU"
+            "image": "https://i.ytimg.com/vi/E7G9TtjmVrg/hqdefault.jpg",
+            "videoId": "E7G9TtjmVrg"
         },
         {
             "rank": 6,
@@ -344,8 +344,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/PjqbQc0u25c/hqdefault.jpg",
-            "videoId": "PjqbQc0u25c"
+            "image": "https://i.ytimg.com/vi/YiLgYqAFrIU/hqdefault.jpg",
+            "videoId": "YiLgYqAFrIU"
         },
         {
             "rank": 9,
