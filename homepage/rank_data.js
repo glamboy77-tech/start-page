@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-10-08 11:32:02",
+    "last_updated": "2026-10-09 11:48:11",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
@@ -19,17 +19,17 @@ const rankData = {
         },
         {
             "rank": 3,
-            "title": "Deja Vu",
-            "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/ZbO9PBdFRdc/hqdefault.jpg",
-            "videoId": "ZbO9PBdFRdc"
-        },
-        {
-            "rank": 4,
             "title": "갑자기",
             "artist": "아이오아이 (I.O.I)",
             "image": "https://i.ytimg.com/vi/Jxgbfc89hNI/hqdefault.jpg",
             "videoId": "Jxgbfc89hNI"
+        },
+        {
+            "rank": 4,
+            "title": "Deja Vu",
+            "artist": "RESCENE (리센느)",
+            "image": "https://i.ytimg.com/vi/ZbO9PBdFRdc/hqdefault.jpg",
+            "videoId": "ZbO9PBdFRdc"
         },
         {
             "rank": 5,
@@ -47,31 +47,31 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "만찬가",
-            "artist": "태연 (TAEYEON)",
-            "image": "https://i.ytimg.com/vi/VVO05mYGFY8/hqdefault.jpg",
-            "videoId": "VVO05mYGFY8"
-        },
-        {
-            "rank": 8,
             "title": "BAD",
             "artist": "ATEEZ(에이티즈)",
             "image": "https://i.ytimg.com/vi/-q_S27LbNKU/hqdefault.jpg",
             "videoId": "-q_S27LbNKU"
         },
         {
+            "rank": 8,
+            "title": "만찬가",
+            "artist": "태연 (TAEYEON)",
+            "image": "https://i.ytimg.com/vi/VVO05mYGFY8/hqdefault.jpg",
+            "videoId": "VVO05mYGFY8"
+        },
+        {
             "rank": 9,
+            "title": "꿈꾸던 어른이 되었나요?",
+            "artist": "머무르",
+            "image": "https://i.ytimg.com/vi/GxChUrrY4bc/hqdefault.jpg",
+            "videoId": "GxChUrrY4bc"
+        },
+        {
+            "rank": 10,
             "title": "BiiiG",
             "artist": "BIGBANG (빅뱅)",
             "image": "https://i.ytimg.com/vi/L8ZnXgbyUuc/hqdefault.jpg",
             "videoId": "L8ZnXgbyUuc"
-        },
-        {
-            "rank": 10,
-            "title": "꿈꾸던 어른이 되었나요?",
-            "artist": "머무르",
-            "image": "https://i.ytimg.com/vi/uQ_f4Jswwrk/hqdefault.jpg",
-            "videoId": "uQ_f4Jswwrk"
         }
     ],
     "shazam_korea": [
@@ -114,8 +114,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
-            "videoId": "b6DzYwwS6Ng"
+            "image": "https://i.ytimg.com/vi/QGsevnbItdU/hqdefault.jpg",
+            "videoId": "QGsevnbItdU"
         },
         {
             "rank": 7,
@@ -142,8 +142,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/zAJjT9R-ADg/hqdefault.jpg",
-            "videoId": "zAJjT9R-ADg"
+            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
+            "videoId": "oXCXlPJ57rE"
         }
     ],
     "shazam_global": [
@@ -172,8 +172,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/aDwXKAaEZGA/hqdefault.jpg",
-            "videoId": "aDwXKAaEZGA"
+            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
+            "videoId": "oY75OIjru0o"
         },
         {
             "rank": 5,
@@ -186,8 +186,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/eBiSoM9OMTk/hqdefault.jpg",
-            "videoId": "eBiSoM9OMTk"
+            "image": "https://i.ytimg.com/vi/dDY-VyONTJ4/hqdefault.jpg",
+            "videoId": "dDY-VyONTJ4"
         },
         {
             "rank": 7,
@@ -223,8 +223,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
-            "videoId": "VDuDQNkSC6g"
+            "image": "https://i.ytimg.com/vi/ChQaa0eqZak/hqdefault.jpg",
+            "videoId": "ChQaa0eqZak"
         },
         {
             "rank": 2,
@@ -251,8 +251,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/vz2CMETs5ZE/hqdefault.jpg",
-            "videoId": "vz2CMETs5ZE"
+            "image": "https://i.ytimg.com/vi/A8D4yl62ZvU/hqdefault.jpg",
+            "videoId": "A8D4yl62ZvU"
         },
         {
             "rank": 6,
@@ -295,8 +295,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/1INWtuOdt_s/hqdefault.jpg",
-            "videoId": "1INWtuOdt_s"
+            "image": "https://i.ytimg.com/vi/WA0NvP-MSP0/hqdefault.jpg",
+            "videoId": "WA0NvP-MSP0"
         },
         {
             "rank": 2,
@@ -323,15 +323,15 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/E7G9TtjmVrg/hqdefault.jpg",
-            "videoId": "E7G9TtjmVrg"
+            "image": "https://i.ytimg.com/vi/sHt0OErWYKU/hqdefault.jpg",
+            "videoId": "sHt0OErWYKU"
         },
         {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
-            "videoId": "1XOJFuKHCck"
+            "image": "https://i.ytimg.com/vi/14M-rWOCBC0/hqdefault.jpg",
+            "videoId": "14M-rWOCBC0"
         },
         {
             "rank": 7,
@@ -344,8 +344,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/YiLgYqAFrIU/hqdefault.jpg",
-            "videoId": "YiLgYqAFrIU"
+            "image": "https://i.ytimg.com/vi/gZewyEp9ptA/hqdefault.jpg",
+            "videoId": "gZewyEp9ptA"
         },
         {
             "rank": 9,
