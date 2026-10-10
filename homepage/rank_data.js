@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-10-09 11:48:11",
+    "last_updated": "2026-10-10 11:06:07",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
@@ -54,24 +54,24 @@ const rankData = {
         },
         {
             "rank": 8,
+            "title": "꿈꾸던 어른이 되었나요?",
+            "artist": "머무르",
+            "image": "https://i.ytimg.com/vi/uQ_f4Jswwrk/hqdefault.jpg",
+            "videoId": "uQ_f4Jswwrk"
+        },
+        {
+            "rank": 9,
             "title": "만찬가",
             "artist": "태연 (TAEYEON)",
             "image": "https://i.ytimg.com/vi/VVO05mYGFY8/hqdefault.jpg",
             "videoId": "VVO05mYGFY8"
         },
         {
-            "rank": 9,
-            "title": "꿈꾸던 어른이 되었나요?",
-            "artist": "머무르",
-            "image": "https://i.ytimg.com/vi/GxChUrrY4bc/hqdefault.jpg",
-            "videoId": "GxChUrrY4bc"
-        },
-        {
             "rank": 10,
-            "title": "BiiiG",
-            "artist": "BIGBANG (빅뱅)",
-            "image": "https://i.ytimg.com/vi/L8ZnXgbyUuc/hqdefault.jpg",
-            "videoId": "L8ZnXgbyUuc"
+            "title": "It′s Me",
+            "artist": "아일릿(ILLIT)",
+            "image": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg",
+            "videoId": "bMhDJ0S0OBA"
         }
     ],
     "shazam_korea": [
@@ -100,15 +100,15 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/0u8teXR8VE4/hqdefault.jpg",
-            "videoId": "0u8teXR8VE4"
+            "image": "https://i.ytimg.com/vi/npybPWzu6Vo/hqdefault.jpg",
+            "videoId": "npybPWzu6Vo"
         },
         {
             "rank": 5,
             "title": "Good bye",
             "artist": "We Are The Night",
-            "image": "https://i.ytimg.com/vi/aJWGn5-eULc/hqdefault.jpg",
-            "videoId": "aJWGn5-eULc"
+            "image": "https://i.ytimg.com/vi/qucakwuwFOc/hqdefault.jpg",
+            "videoId": "qucakwuwFOc"
         },
         {
             "rank": 6,
@@ -172,8 +172,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
-            "videoId": "oY75OIjru0o"
+            "image": "https://i.ytimg.com/vi/aDwXKAaEZGA/hqdefault.jpg",
+            "videoId": "aDwXKAaEZGA"
         },
         {
             "rank": 5,
@@ -214,8 +214,8 @@ const rankData = {
             "rank": 10,
             "title": "B.M.S (by my side)",
             "artist": "jmoney & goyard",
-            "image": "https://i.ytimg.com/vi/BFAIDkgrp2M/hqdefault.jpg",
-            "videoId": "BFAIDkgrp2M"
+            "image": "https://i.ytimg.com/vi/DPSGMTknY9s/hqdefault.jpg",
+            "videoId": "DPSGMTknY9s"
         }
     ],
     "youtube_shorts_korea": [
@@ -223,8 +223,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/ChQaa0eqZak/hqdefault.jpg",
-            "videoId": "ChQaa0eqZak"
+            "image": "https://i.ytimg.com/vi/U6TbbcnKHXU/hqdefault.jpg",
+            "videoId": "U6TbbcnKHXU"
         },
         {
             "rank": 2,
@@ -251,8 +251,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/A8D4yl62ZvU/hqdefault.jpg",
-            "videoId": "A8D4yl62ZvU"
+            "image": "https://i.ytimg.com/vi/VWuJmNxbHUw/hqdefault.jpg",
+            "videoId": "VWuJmNxbHUw"
         },
         {
             "rank": 6,
@@ -272,8 +272,8 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/rhoFJcRjsAE/hqdefault.jpg",
-            "videoId": "rhoFJcRjsAE"
+            "image": "https://i.ytimg.com/vi/KRAFmgTECWw/hqdefault.jpg",
+            "videoId": "KRAFmgTECWw"
         },
         {
             "rank": 9,
@@ -286,8 +286,8 @@ const rankData = {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
-            "videoId": "VDuDQNkSC6g"
+            "image": "https://i.ytimg.com/vi/HdRKxLRoJ3c/hqdefault.jpg",
+            "videoId": "HdRKxLRoJ3c"
         }
     ],
     "youtube_shorts_global": [
@@ -295,8 +295,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/WA0NvP-MSP0/hqdefault.jpg",
-            "videoId": "WA0NvP-MSP0"
+            "image": "https://i.ytimg.com/vi/QkrOCutcE58/hqdefault.jpg",
+            "videoId": "QkrOCutcE58"
         },
         {
             "rank": 2,
@@ -323,15 +323,15 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/sHt0OErWYKU/hqdefault.jpg",
-            "videoId": "sHt0OErWYKU"
+            "image": "https://i.ytimg.com/vi/E7G9TtjmVrg/hqdefault.jpg",
+            "videoId": "E7G9TtjmVrg"
         },
         {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/14M-rWOCBC0/hqdefault.jpg",
-            "videoId": "14M-rWOCBC0"
+            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
+            "videoId": "1XOJFuKHCck"
         },
         {
             "rank": 7,
@@ -344,8 +344,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/gZewyEp9ptA/hqdefault.jpg",
-            "videoId": "gZewyEp9ptA"
+            "image": "https://i.ytimg.com/vi/Tn-Wn11wm7c/hqdefault.jpg",
+            "videoId": "Tn-Wn11wm7c"
         },
         {
             "rank": 9,
