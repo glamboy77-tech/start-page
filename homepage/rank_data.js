@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-10-19 09:50:18",
+    "last_updated": "2026-10-20 10:36:45",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
@@ -7,8 +7,8 @@ const rankData = {
             "rank": 1,
             "title": "NEON",
             "artist": "A2O",
-            "image": "https://i.ytimg.com/vi/D968qfUZMUE/hqdefault.jpg",
-            "videoId": "D968qfUZMUE"
+            "image": "https://i.ytimg.com/vi/HwSqdIKAqfM/hqdefault.jpg",
+            "videoId": "HwSqdIKAqfM"
         },
         {
             "rank": 2,
@@ -21,8 +21,8 @@ const rankData = {
             "rank": 3,
             "title": "꿈꾸던 어른이 되었나요?",
             "artist": "머무르",
-            "image": "https://i.ytimg.com/vi/6Mez4lRhA5A/hqdefault.jpg",
-            "videoId": "6Mez4lRhA5A"
+            "image": "https://i.ytimg.com/vi/uQ_f4Jswwrk/hqdefault.jpg",
+            "videoId": "uQ_f4Jswwrk"
         },
         {
             "rank": 4,
@@ -61,10 +61,10 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "BAD",
-            "artist": "ATEEZ(에이티즈)",
-            "image": "https://i.ytimg.com/vi/-q_S27LbNKU/hqdefault.jpg",
-            "videoId": "-q_S27LbNKU"
+            "title": "이 밤을 빌려 말해요",
+            "artist": "PLAVE",
+            "image": "https://i.ytimg.com/vi/B3MgeXvWCOo/hqdefault.jpg",
+            "videoId": "B3MgeXvWCOo"
         },
         {
             "rank": 10,
@@ -114,8 +114,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/z0Xc_rzYZV8/hqdefault.jpg",
-            "videoId": "z0Xc_rzYZV8"
+            "image": "https://i.ytimg.com/vi/ikJPkghWsTk/hqdefault.jpg",
+            "videoId": "ikJPkghWsTk"
         },
         {
             "rank": 7,
@@ -142,8 +142,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/9g1YWZxOJh8/hqdefault.jpg",
-            "videoId": "9g1YWZxOJh8"
+            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
+            "videoId": "oXCXlPJ57rE"
         }
     ],
     "shazam_global": [
@@ -151,8 +151,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/IlgVaGyihkU/hqdefault.jpg",
-            "videoId": "IlgVaGyihkU"
+            "image": "https://i.ytimg.com/vi/6QBy_Oa5ZmM/hqdefault.jpg",
+            "videoId": "6QBy_Oa5ZmM"
         },
         {
             "rank": 2,
@@ -186,8 +186,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/aSGeQA5eRqw/hqdefault.jpg",
-            "videoId": "aSGeQA5eRqw"
+            "image": "https://i.ytimg.com/vi/gXWVGlpIH20/hqdefault.jpg",
+            "videoId": "gXWVGlpIH20"
         },
         {
             "rank": 7,
@@ -223,8 +223,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/sPmul8b17AU/hqdefault.jpg",
-            "videoId": "sPmul8b17AU"
+            "image": "https://i.ytimg.com/vi/ChQaa0eqZak/hqdefault.jpg",
+            "videoId": "ChQaa0eqZak"
         },
         {
             "rank": 2,
@@ -251,8 +251,8 @@ const rankData = {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/VWuJmNxbHUw/hqdefault.jpg",
-            "videoId": "VWuJmNxbHUw"
+            "image": "https://i.ytimg.com/vi/9-yPc98zTy8/hqdefault.jpg",
+            "videoId": "9-yPc98zTy8"
         },
         {
             "rank": 6,
@@ -272,8 +272,8 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/rhoFJcRjsAE/hqdefault.jpg",
-            "videoId": "rhoFJcRjsAE"
+            "image": "https://i.ytimg.com/vi/KRAFmgTECWw/hqdefault.jpg",
+            "videoId": "KRAFmgTECWw"
         },
         {
             "rank": 9,
@@ -295,15 +295,15 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/kY2Qz-VyLTE/hqdefault.jpg",
-            "videoId": "kY2Qz-VyLTE"
+            "image": "https://i.ytimg.com/vi/9-yPc98zTy8/hqdefault.jpg",
+            "videoId": "9-yPc98zTy8"
         },
         {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/ty7LMGKq9P4/hqdefault.jpg",
-            "videoId": "ty7LMGKq9P4"
+            "image": "https://i.ytimg.com/vi/tA1UwsU4ysM/hqdefault.jpg",
+            "videoId": "tA1UwsU4ysM"
         },
         {
             "rank": 3,
@@ -323,15 +323,15 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/E7G9TtjmVrg/hqdefault.jpg",
-            "videoId": "E7G9TtjmVrg"
+            "image": "https://i.ytimg.com/vi/w3zuovn3rIc/hqdefault.jpg",
+            "videoId": "w3zuovn3rIc"
         },
         {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/1ytBfJQnLNI/hqdefault.jpg",
-            "videoId": "1ytBfJQnLNI"
+            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
+            "videoId": "1XOJFuKHCck"
         },
         {
             "rank": 7,
@@ -344,15 +344,15 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/YiLgYqAFrIU/hqdefault.jpg",
-            "videoId": "YiLgYqAFrIU"
+            "image": "https://i.ytimg.com/vi/wShDpuVBpyk/hqdefault.jpg",
+            "videoId": "wShDpuVBpyk"
         },
         {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/ajH5AGvBWHw/hqdefault.jpg",
-            "videoId": "ajH5AGvBWHw"
+            "image": "https://i.ytimg.com/vi/QUH0_vbeggQ/hqdefault.jpg",
+            "videoId": "QUH0_vbeggQ"
         },
         {
             "rank": 10,
