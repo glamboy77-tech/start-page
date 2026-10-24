@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-10-23 10:14:10",
+    "last_updated": "2026-10-24 10:23:08",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
@@ -12,17 +12,17 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "꿈꾸던 어른이 되었나요?",
-            "artist": "머무르",
-            "image": "https://i.ytimg.com/vi/uQ_f4Jswwrk/hqdefault.jpg",
-            "videoId": "uQ_f4Jswwrk"
-        },
-        {
-            "rank": 3,
             "title": "퇴사할게여 (Narr. 기안84)",
             "artist": "소연 (SOYEON)",
             "image": "https://i.ytimg.com/vi/7mDDM0eBWR0/hqdefault.jpg",
             "videoId": "7mDDM0eBWR0"
+        },
+        {
+            "rank": 3,
+            "title": "꿈꾸던 어른이 되었나요?",
+            "artist": "머무르",
+            "image": "https://i.ytimg.com/vi/uQ_f4Jswwrk/hqdefault.jpg",
+            "videoId": "uQ_f4Jswwrk"
         },
         {
             "rank": 4,
@@ -61,17 +61,17 @@ const rankData = {
         },
         {
             "rank": 9,
-            "title": "생각을 멈추다 보면",
-            "artist": "최유리",
-            "image": "https://i.ytimg.com/vi/TUDsVaezoKU/hqdefault.jpg",
-            "videoId": "TUDsVaezoKU"
-        },
-        {
-            "rank": 10,
             "title": "이 밤을 빌려 말해요",
             "artist": "PLAVE",
             "image": "https://i.ytimg.com/vi/B3MgeXvWCOo/hqdefault.jpg",
             "videoId": "B3MgeXvWCOo"
+        },
+        {
+            "rank": 10,
+            "title": "BAD",
+            "artist": "ATEEZ(에이티즈)",
+            "image": "https://i.ytimg.com/vi/-q_S27LbNKU/hqdefault.jpg",
+            "videoId": "-q_S27LbNKU"
         }
     ],
     "shazam_korea": [
@@ -114,8 +114,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/hHxcxlZFhnE/hqdefault.jpg",
-            "videoId": "hHxcxlZFhnE"
+            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
+            "videoId": "b6DzYwwS6Ng"
         },
         {
             "rank": 7,
@@ -142,8 +142,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/jQOeOIgrY9Y/hqdefault.jpg",
-            "videoId": "jQOeOIgrY9Y"
+            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
+            "videoId": "oXCXlPJ57rE"
         }
     ],
     "shazam_global": [
@@ -244,15 +244,15 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
-            "videoId": "YEMBk076jGM"
+            "image": "https://i.ytimg.com/vi/Ep-LOQ6P__s/hqdefault.jpg",
+            "videoId": "Ep-LOQ6P__s"
         },
         {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/j33iNBWSDdk/hqdefault.jpg",
-            "videoId": "j33iNBWSDdk"
+            "image": "https://i.ytimg.com/vi/BZ33IjlfQqg/hqdefault.jpg",
+            "videoId": "BZ33IjlfQqg"
         },
         {
             "rank": 6,
@@ -295,8 +295,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/BTp40BYZmfU/hqdefault.jpg",
-            "videoId": "BTp40BYZmfU"
+            "image": "https://i.ytimg.com/vi/1INWtuOdt_s/hqdefault.jpg",
+            "videoId": "1INWtuOdt_s"
         },
         {
             "rank": 2,
@@ -309,15 +309,15 @@ const rankData = {
             "rank": 3,
             "title": "PASSO BEM SLOWED (Slowed)",
             "artist": "ATLXG",
-            "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
-            "videoId": "KgayxOF4Y7E"
+            "image": "https://i.ytimg.com/vi/nsNOPGYaOGI/hqdefault.jpg",
+            "videoId": "nsNOPGYaOGI"
         },
         {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/OYGXOC0z0CY/hqdefault.jpg",
-            "videoId": "OYGXOC0z0CY"
+            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
+            "videoId": "mPmoojB54xI"
         },
         {
             "rank": 5,
@@ -330,8 +330,8 @@ const rankData = {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/37soJxAYudM/hqdefault.jpg",
-            "videoId": "37soJxAYudM"
+            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
+            "videoId": "1XOJFuKHCck"
         },
         {
             "rank": 7,
@@ -344,8 +344,8 @@ const rankData = {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/YiLgYqAFrIU/hqdefault.jpg",
-            "videoId": "YiLgYqAFrIU"
+            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
+            "videoId": "s8A9qvAnSg0"
         },
         {
             "rank": 9,
@@ -358,8 +358,8 @@ const rankData = {
             "rank": 10,
             "title": "Ishq Jalakar - KGF:Chapter 2",
             "artist": "Shahzad Sachdev , Shahzad Ali , ... ",
-            "image": "https://i.ytimg.com/vi/amdOdzmAbSk/hqdefault.jpg",
-            "videoId": "amdOdzmAbSk"
+            "image": "https://i.ytimg.com/vi/lGo-9gfBB70/hqdefault.jpg",
+            "videoId": "lGo-9gfBB70"
         }
     ]
 };
