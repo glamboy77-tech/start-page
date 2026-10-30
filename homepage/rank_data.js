@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-10-29 11:07:21",
+    "last_updated": "2026-10-30 11:26:11",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
@@ -56,8 +56,8 @@ const rankData = {
             "rank": 8,
             "title": "체포하겠어",
             "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/pgseY0flY6I/hqdefault.jpg",
-            "videoId": "pgseY0flY6I"
+            "image": "https://i.ytimg.com/vi/V2V9-9VhYJo/hqdefault.jpg",
+            "videoId": "V2V9-9VhYJo"
         },
         {
             "rank": 9,
@@ -86,8 +86,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/wEO1ZPBpq2g/hqdefault.jpg",
-            "videoId": "wEO1ZPBpq2g"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -100,8 +100,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/6DdRvK836iM/hqdefault.jpg",
-            "videoId": "6DdRvK836iM"
+            "image": "https://i.ytimg.com/vi/HMUDVMiITOU/hqdefault.jpg",
+            "videoId": "HMUDVMiITOU"
         },
         {
             "rank": 5,
@@ -114,8 +114,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/z0Xc_rzYZV8/hqdefault.jpg",
-            "videoId": "z0Xc_rzYZV8"
+            "image": "https://i.ytimg.com/vi/_kYgzm-_7pU/hqdefault.jpg",
+            "videoId": "_kYgzm-_7pU"
         },
         {
             "rank": 7,
@@ -128,8 +128,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/ghEpW5vgCJc/hqdefault.jpg",
-            "videoId": "ghEpW5vgCJc"
+            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
+            "videoId": "iG2OH4whO5E"
         },
         {
             "rank": 9,
@@ -186,8 +186,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/6Ez1Yu-CKOQ/hqdefault.jpg",
-            "videoId": "6Ez1Yu-CKOQ"
+            "image": "https://i.ytimg.com/vi/oK4w-kpwyqY/hqdefault.jpg",
+            "videoId": "oK4w-kpwyqY"
         },
         {
             "rank": 7,
@@ -223,8 +223,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
-            "videoId": "VDuDQNkSC6g"
+            "image": "https://i.ytimg.com/vi/94mwkT9R2hk/hqdefault.jpg",
+            "videoId": "94mwkT9R2hk"
         },
         {
             "rank": 2,
@@ -244,15 +244,15 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
-            "videoId": "YEMBk076jGM"
+            "image": "https://i.ytimg.com/vi/bS7xdNrNAuM/hqdefault.jpg",
+            "videoId": "bS7xdNrNAuM"
         },
         {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/vIx2YGdVWqU/hqdefault.jpg",
-            "videoId": "vIx2YGdVWqU"
+            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
+            "videoId": "y9pELY1qWzM"
         },
         {
             "rank": 6,
@@ -272,15 +272,15 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/rhoFJcRjsAE/hqdefault.jpg",
-            "videoId": "rhoFJcRjsAE"
+            "image": "https://i.ytimg.com/vi/Vre8mMqbQMs/hqdefault.jpg",
+            "videoId": "Vre8mMqbQMs"
         },
         {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
-            "videoId": "ul0V77Yl78o"
+            "image": "https://i.ytimg.com/vi/IHvR_MvM_bE/hqdefault.jpg",
+            "videoId": "IHvR_MvM_bE"
         },
         {
             "rank": 10,
@@ -295,8 +295,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/178s-WC5XHQ/hqdefault.jpg",
-            "videoId": "178s-WC5XHQ"
+            "image": "https://i.ytimg.com/vi/Bf2ml3oE2JA/hqdefault.jpg",
+            "videoId": "Bf2ml3oE2JA"
         },
         {
             "rank": 2,
@@ -330,15 +330,15 @@ const rankData = {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/VuhcYXkBLkM/hqdefault.jpg",
-            "videoId": "VuhcYXkBLkM"
+            "image": "https://i.ytimg.com/vi/37soJxAYudM/hqdefault.jpg",
+            "videoId": "37soJxAYudM"
         },
         {
             "rank": 7,
             "title": "Big Guy",
             "artist": "Ice Spice",
-            "image": "https://i.ytimg.com/vi/7yaU0qXlgbo/hqdefault.jpg",
-            "videoId": "7yaU0qXlgbo"
+            "image": "https://i.ytimg.com/vi/gDb91xKfa4E/hqdefault.jpg",
+            "videoId": "gDb91xKfa4E"
         },
         {
             "rank": 8,
@@ -351,8 +351,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/Cp3ig-Qc2cU/hqdefault.jpg",
-            "videoId": "Cp3ig-Qc2cU"
+            "image": "https://i.ytimg.com/vi/ajH5AGvBWHw/hqdefault.jpg",
+            "videoId": "ajH5AGvBWHw"
         },
         {
             "rank": 10,
