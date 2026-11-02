@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-11-01 10:52:34",
+    "last_updated": "2026-11-02 11:07:22",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
@@ -14,8 +14,8 @@ const rankData = {
             "rank": 2,
             "title": "꿈꾸던 어른이 되었나요?",
             "artist": "머무르",
-            "image": "https://i.ytimg.com/vi/uQ_f4Jswwrk/hqdefault.jpg",
-            "videoId": "uQ_f4Jswwrk"
+            "image": "https://i.ytimg.com/vi/ecrH-LgQ-10/hqdefault.jpg",
+            "videoId": "ecrH-LgQ-10"
         },
         {
             "rank": 3,
@@ -40,38 +40,38 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "Deja Vu",
-            "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/ZbO9PBdFRdc/hqdefault.jpg",
-            "videoId": "ZbO9PBdFRdc"
-        },
-        {
-            "rank": 7,
             "title": "Looks Can Kill",
             "artist": "IVE (아이브)",
             "image": "https://i.ytimg.com/vi/sGi1FIXia4U/hqdefault.jpg",
             "videoId": "sGi1FIXia4U"
         },
         {
-            "rank": 8,
-            "title": "Pretty Girl",
+            "rank": 7,
+            "title": "Deja Vu",
             "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/qZlu2j2SiBA/hqdefault.jpg",
-            "videoId": "qZlu2j2SiBA"
+            "image": "https://i.ytimg.com/vi/ZbO9PBdFRdc/hqdefault.jpg",
+            "videoId": "ZbO9PBdFRdc"
         },
         {
-            "rank": 9,
+            "rank": 8,
             "title": "갑자기",
             "artist": "아이오아이 (I.O.I)",
             "image": "https://i.ytimg.com/vi/Jxgbfc89hNI/hqdefault.jpg",
             "videoId": "Jxgbfc89hNI"
         },
         {
-            "rank": 10,
+            "rank": 9,
             "title": "생각을 멈추다 보면",
             "artist": "최유리",
             "image": "https://i.ytimg.com/vi/TUDsVaezoKU/hqdefault.jpg",
             "videoId": "TUDsVaezoKU"
+        },
+        {
+            "rank": 10,
+            "title": "Pretty Girl",
+            "artist": "RESCENE (리센느)",
+            "image": "https://i.ytimg.com/vi/qZlu2j2SiBA/hqdefault.jpg",
+            "videoId": "qZlu2j2SiBA"
         }
     ],
     "shazam_korea": [
@@ -114,15 +114,15 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/QGsevnbItdU/hqdefault.jpg",
-            "videoId": "QGsevnbItdU"
+            "image": "https://i.ytimg.com/vi/lDjP37-UL1o/hqdefault.jpg",
+            "videoId": "lDjP37-UL1o"
         },
         {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/1lA9UlXnYIQ/hqdefault.jpg",
-            "videoId": "1lA9UlXnYIQ"
+            "image": "https://i.ytimg.com/vi/H0lyEt95e6k/hqdefault.jpg",
+            "videoId": "H0lyEt95e6k"
         },
         {
             "rank": 8,
@@ -142,8 +142,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
-            "videoId": "oXCXlPJ57rE"
+            "image": "https://i.ytimg.com/vi/jztHq1J4rEo/hqdefault.jpg",
+            "videoId": "jztHq1J4rEo"
         }
     ],
     "shazam_global": [
@@ -151,8 +151,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/dtiafgbsQl4/hqdefault.jpg",
-            "videoId": "dtiafgbsQl4"
+            "image": "https://i.ytimg.com/vi/6QBy_Oa5ZmM/hqdefault.jpg",
+            "videoId": "6QBy_Oa5ZmM"
         },
         {
             "rank": 2,
@@ -165,15 +165,15 @@ const rankData = {
             "rank": 3,
             "title": "NO BATIDÃO",
             "artist": "ZXKAI & slxughter",
-            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
-            "videoId": "orOgilmiL_4"
+            "image": "https://i.ytimg.com/vi/Tl4ls2qnRWU/hqdefault.jpg",
+            "videoId": "Tl4ls2qnRWU"
         },
         {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/iUeQmada0mU/hqdefault.jpg",
-            "videoId": "iUeQmada0mU"
+            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
+            "videoId": "oY75OIjru0o"
         },
         {
             "rank": 5,
@@ -244,8 +244,8 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
-            "videoId": "YEMBk076jGM"
+            "image": "https://i.ytimg.com/vi/H8HphXmJcn4/hqdefault.jpg",
+            "videoId": "H8HphXmJcn4"
         },
         {
             "rank": 5,
@@ -295,15 +295,15 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/McwCyvlrUNc/hqdefault.jpg",
-            "videoId": "McwCyvlrUNc"
+            "image": "https://i.ytimg.com/vi/-oQbtwfYDsA/hqdefault.jpg",
+            "videoId": "-oQbtwfYDsA"
         },
         {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/tA1UwsU4ysM/hqdefault.jpg",
-            "videoId": "tA1UwsU4ysM"
+            "image": "https://i.ytimg.com/vi/1C0ImHR5BF4/hqdefault.jpg",
+            "videoId": "1C0ImHR5BF4"
         },
         {
             "rank": 3,
@@ -337,15 +337,15 @@ const rankData = {
             "rank": 7,
             "title": "Big Guy",
             "artist": "Ice Spice",
-            "image": "https://i.ytimg.com/vi/gDb91xKfa4E/hqdefault.jpg",
-            "videoId": "gDb91xKfa4E"
+            "image": "https://i.ytimg.com/vi/7yaU0qXlgbo/hqdefault.jpg",
+            "videoId": "7yaU0qXlgbo"
         },
         {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
-            "videoId": "s8A9qvAnSg0"
+            "image": "https://i.ytimg.com/vi/YiLgYqAFrIU/hqdefault.jpg",
+            "videoId": "YiLgYqAFrIU"
         },
         {
             "rank": 9,
