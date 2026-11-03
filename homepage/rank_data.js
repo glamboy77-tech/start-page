@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-11-02 11:07:22",
+    "last_updated": "2026-11-03 12:51:42",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
@@ -14,8 +14,8 @@ const rankData = {
             "rank": 2,
             "title": "꿈꾸던 어른이 되었나요?",
             "artist": "머무르",
-            "image": "https://i.ytimg.com/vi/ecrH-LgQ-10/hqdefault.jpg",
-            "videoId": "ecrH-LgQ-10"
+            "image": "https://i.ytimg.com/vi/uQ_f4Jswwrk/hqdefault.jpg",
+            "videoId": "uQ_f4Jswwrk"
         },
         {
             "rank": 3,
@@ -35,36 +35,36 @@ const rankData = {
             "rank": 5,
             "title": "체포하겠어",
             "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/V2V9-9VhYJo/hqdefault.jpg",
-            "videoId": "V2V9-9VhYJo"
+            "image": "https://i.ytimg.com/vi/_H043SYWpF4/hqdefault.jpg",
+            "videoId": "_H043SYWpF4"
         },
         {
             "rank": 6,
-            "title": "Looks Can Kill",
-            "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/sGi1FIXia4U/hqdefault.jpg",
-            "videoId": "sGi1FIXia4U"
-        },
-        {
-            "rank": 7,
             "title": "Deja Vu",
             "artist": "RESCENE (리센느)",
             "image": "https://i.ytimg.com/vi/ZbO9PBdFRdc/hqdefault.jpg",
             "videoId": "ZbO9PBdFRdc"
         },
         {
-            "rank": 8,
-            "title": "갑자기",
-            "artist": "아이오아이 (I.O.I)",
-            "image": "https://i.ytimg.com/vi/Jxgbfc89hNI/hqdefault.jpg",
-            "videoId": "Jxgbfc89hNI"
+            "rank": 7,
+            "title": "Looks Can Kill",
+            "artist": "IVE (아이브)",
+            "image": "https://i.ytimg.com/vi/rsNhWkC4neE/hqdefault.jpg",
+            "videoId": "rsNhWkC4neE"
         },
         {
-            "rank": 9,
+            "rank": 8,
             "title": "생각을 멈추다 보면",
             "artist": "최유리",
             "image": "https://i.ytimg.com/vi/TUDsVaezoKU/hqdefault.jpg",
             "videoId": "TUDsVaezoKU"
+        },
+        {
+            "rank": 9,
+            "title": "갑자기",
+            "artist": "아이오아이 (I.O.I)",
+            "image": "https://i.ytimg.com/vi/Jxgbfc89hNI/hqdefault.jpg",
+            "videoId": "Jxgbfc89hNI"
         },
         {
             "rank": 10,
@@ -86,8 +86,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
-            "videoId": "L1rR_smhD78"
+            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
+            "videoId": "ty_3ox-peHg"
         },
         {
             "rank": 3,
@@ -114,8 +114,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/lDjP37-UL1o/hqdefault.jpg",
-            "videoId": "lDjP37-UL1o"
+            "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
+            "videoId": "yebNIHKAC4A"
         },
         {
             "rank": 7,
@@ -142,8 +142,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/jztHq1J4rEo/hqdefault.jpg",
-            "videoId": "jztHq1J4rEo"
+            "image": "https://i.ytimg.com/vi/VBPZvuQoWy8/hqdefault.jpg",
+            "videoId": "VBPZvuQoWy8"
         }
     ],
     "shazam_global": [
@@ -165,8 +165,8 @@ const rankData = {
             "rank": 3,
             "title": "NO BATIDÃO",
             "artist": "ZXKAI & slxughter",
-            "image": "https://i.ytimg.com/vi/Tl4ls2qnRWU/hqdefault.jpg",
-            "videoId": "Tl4ls2qnRWU"
+            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
+            "videoId": "orOgilmiL_4"
         },
         {
             "rank": 4,
@@ -200,8 +200,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
-            "videoId": "yxKA0NnNJeo"
+            "image": "https://i.ytimg.com/vi/rHhv-euN6MQ/hqdefault.jpg",
+            "videoId": "rHhv-euN6MQ"
         },
         {
             "rank": 9,
@@ -244,8 +244,8 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/H8HphXmJcn4/hqdefault.jpg",
-            "videoId": "H8HphXmJcn4"
+            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
+            "videoId": "YEMBk076jGM"
         },
         {
             "rank": 5,
@@ -279,15 +279,15 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/IHvR_MvM_bE/hqdefault.jpg",
-            "videoId": "IHvR_MvM_bE"
+            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
+            "videoId": "ul0V77Yl78o"
         },
         {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/HdRKxLRoJ3c/hqdefault.jpg",
-            "videoId": "HdRKxLRoJ3c"
+            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
+            "videoId": "VDuDQNkSC6g"
         }
     ],
     "youtube_shorts_global": [
@@ -295,15 +295,15 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/-oQbtwfYDsA/hqdefault.jpg",
-            "videoId": "-oQbtwfYDsA"
+            "image": "https://i.ytimg.com/vi/P6lJ1-JIHEM/hqdefault.jpg",
+            "videoId": "P6lJ1-JIHEM"
         },
         {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/1C0ImHR5BF4/hqdefault.jpg",
-            "videoId": "1C0ImHR5BF4"
+            "image": "https://i.ytimg.com/vi/m60g46I1ZhM/hqdefault.jpg",
+            "videoId": "m60g46I1ZhM"
         },
         {
             "rank": 3,
@@ -337,15 +337,15 @@ const rankData = {
             "rank": 7,
             "title": "Big Guy",
             "artist": "Ice Spice",
-            "image": "https://i.ytimg.com/vi/7yaU0qXlgbo/hqdefault.jpg",
-            "videoId": "7yaU0qXlgbo"
+            "image": "https://i.ytimg.com/vi/gDb91xKfa4E/hqdefault.jpg",
+            "videoId": "gDb91xKfa4E"
         },
         {
             "rank": 8,
             "title": "VOCÊ NA MIRA",
             "artist": "MC PH, Hwungli & DJ YGKT",
-            "image": "https://i.ytimg.com/vi/YiLgYqAFrIU/hqdefault.jpg",
-            "videoId": "YiLgYqAFrIU"
+            "image": "https://i.ytimg.com/vi/s8A9qvAnSg0/hqdefault.jpg",
+            "videoId": "s8A9qvAnSg0"
         },
         {
             "rank": 9,
