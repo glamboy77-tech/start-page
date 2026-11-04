@@ -1,28 +1,28 @@
 const rankData = {
-    "last_updated": "2026-11-03 12:51:42",
+    "last_updated": "2026-11-04 11:56:30",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
         {
             "rank": 1,
+            "title": "With",
+            "artist": "RESCENE (리센느)",
+            "image": "https://i.ytimg.com/vi/pey3E47eSc8/hqdefault.jpg",
+            "videoId": "pey3E47eSc8"
+        },
+        {
+            "rank": 2,
             "title": "NEON",
             "artist": "A2O",
             "image": "https://i.ytimg.com/vi/D968qfUZMUE/hqdefault.jpg",
             "videoId": "D968qfUZMUE"
         },
         {
-            "rank": 2,
+            "rank": 3,
             "title": "꿈꾸던 어른이 되었나요?",
             "artist": "머무르",
-            "image": "https://i.ytimg.com/vi/uQ_f4Jswwrk/hqdefault.jpg",
-            "videoId": "uQ_f4Jswwrk"
-        },
-        {
-            "rank": 3,
-            "title": "퇴사할게여 (Narr. 기안84)",
-            "artist": "소연 (SOYEON)",
-            "image": "https://i.ytimg.com/vi/7mDDM0eBWR0/hqdefault.jpg",
-            "videoId": "7mDDM0eBWR0"
+            "image": "https://i.ytimg.com/vi/KoPwPPe2pf0/hqdefault.jpg",
+            "videoId": "KoPwPPe2pf0"
         },
         {
             "rank": 4,
@@ -33,45 +33,45 @@ const rankData = {
         },
         {
             "rank": 5,
-            "title": "체포하겠어",
-            "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/_H043SYWpF4/hqdefault.jpg",
-            "videoId": "_H043SYWpF4"
+            "title": "백화요란 (Inside Out)",
+            "artist": "RESCENE (리센느)",
+            "image": "https://i.ytimg.com/vi/3Lt91AHYEtY/hqdefault.jpg",
+            "videoId": "3Lt91AHYEtY"
         },
         {
             "rank": 6,
+            "title": "퇴사할게여 (Narr. 기안84)",
+            "artist": "소연 (SOYEON)",
+            "image": "https://i.ytimg.com/vi/7mDDM0eBWR0/hqdefault.jpg",
+            "videoId": "7mDDM0eBWR0"
+        },
+        {
+            "rank": 7,
+            "title": "Finest Thing",
+            "artist": "RESCENE (리센느)",
+            "image": "https://i.ytimg.com/vi/pey3E47eSc8/hqdefault.jpg",
+            "videoId": "pey3E47eSc8"
+        },
+        {
+            "rank": 8,
             "title": "Deja Vu",
             "artist": "RESCENE (리센느)",
             "image": "https://i.ytimg.com/vi/ZbO9PBdFRdc/hqdefault.jpg",
             "videoId": "ZbO9PBdFRdc"
         },
         {
-            "rank": 7,
-            "title": "Looks Can Kill",
-            "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/rsNhWkC4neE/hqdefault.jpg",
-            "videoId": "rsNhWkC4neE"
-        },
-        {
-            "rank": 8,
-            "title": "생각을 멈추다 보면",
-            "artist": "최유리",
-            "image": "https://i.ytimg.com/vi/TUDsVaezoKU/hqdefault.jpg",
-            "videoId": "TUDsVaezoKU"
-        },
-        {
             "rank": 9,
-            "title": "갑자기",
-            "artist": "아이오아이 (I.O.I)",
-            "image": "https://i.ytimg.com/vi/Jxgbfc89hNI/hqdefault.jpg",
-            "videoId": "Jxgbfc89hNI"
+            "title": "체포하겠어",
+            "artist": "아일릿(ILLIT)",
+            "image": "https://i.ytimg.com/vi/V2V9-9VhYJo/hqdefault.jpg",
+            "videoId": "V2V9-9VhYJo"
         },
         {
             "rank": 10,
-            "title": "Pretty Girl",
+            "title": "MEME",
             "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/qZlu2j2SiBA/hqdefault.jpg",
-            "videoId": "qZlu2j2SiBA"
+            "image": "https://i.ytimg.com/vi/uGM5hvD6ku4/hqdefault.jpg",
+            "videoId": "uGM5hvD6ku4"
         }
     ],
     "shazam_korea": [
@@ -100,8 +100,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/0u8teXR8VE4/hqdefault.jpg",
-            "videoId": "0u8teXR8VE4"
+            "image": "https://i.ytimg.com/vi/1e8bYACRBzQ/hqdefault.jpg",
+            "videoId": "1e8bYACRBzQ"
         },
         {
             "rank": 5,
@@ -114,36 +114,36 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg",
-            "videoId": "yebNIHKAC4A"
+            "image": "https://i.ytimg.com/vi/z0Xc_rzYZV8/hqdefault.jpg",
+            "videoId": "z0Xc_rzYZV8"
         },
         {
             "rank": 7,
             "title": "Remember",
             "artist": "Yura",
-            "image": "https://i.ytimg.com/vi/H0lyEt95e6k/hqdefault.jpg",
-            "videoId": "H0lyEt95e6k"
+            "image": "https://i.ytimg.com/vi/1lA9UlXnYIQ/hqdefault.jpg",
+            "videoId": "1lA9UlXnYIQ"
         },
         {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
-            "videoId": "iG2OH4whO5E"
+            "image": "https://i.ytimg.com/vi/3G6XhM3W4Uo/hqdefault.jpg",
+            "videoId": "3G6XhM3W4Uo"
         },
         {
             "rank": 9,
             "title": "影ぼうし 開拓者",
             "artist": "B. Mars groov",
-            "image": "https://i.ytimg.com/vi/U9dE9oanmFE/hqdefault.jpg",
-            "videoId": "U9dE9oanmFE"
+            "image": "https://i.ytimg.com/vi/EBea8guUqxc/hqdefault.jpg",
+            "videoId": "EBea8guUqxc"
         },
         {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/VBPZvuQoWy8/hqdefault.jpg",
-            "videoId": "VBPZvuQoWy8"
+            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
+            "videoId": "oXCXlPJ57rE"
         }
     ],
     "shazam_global": [
@@ -172,8 +172,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
-            "videoId": "oY75OIjru0o"
+            "image": "https://i.ytimg.com/vi/aDwXKAaEZGA/hqdefault.jpg",
+            "videoId": "aDwXKAaEZGA"
         },
         {
             "rank": 5,
@@ -186,8 +186,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/5xI1y37Goro/hqdefault.jpg",
-            "videoId": "5xI1y37Goro"
+            "image": "https://i.ytimg.com/vi/4KY_ykoLPV4/hqdefault.jpg",
+            "videoId": "4KY_ykoLPV4"
         },
         {
             "rank": 7,
@@ -223,8 +223,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
-            "videoId": "VDuDQNkSC6g"
+            "image": "https://i.ytimg.com/vi/sPmul8b17AU/hqdefault.jpg",
+            "videoId": "sPmul8b17AU"
         },
         {
             "rank": 2,
@@ -279,15 +279,15 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
-            "videoId": "ul0V77Yl78o"
+            "image": "https://i.ytimg.com/vi/IHvR_MvM_bE/hqdefault.jpg",
+            "videoId": "IHvR_MvM_bE"
         },
         {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
-            "videoId": "VDuDQNkSC6g"
+            "image": "https://i.ytimg.com/vi/HdRKxLRoJ3c/hqdefault.jpg",
+            "videoId": "HdRKxLRoJ3c"
         }
     ],
     "youtube_shorts_global": [
@@ -295,15 +295,15 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/P6lJ1-JIHEM/hqdefault.jpg",
-            "videoId": "P6lJ1-JIHEM"
+            "image": "https://i.ytimg.com/vi/2I9lcEEa8s0/hqdefault.jpg",
+            "videoId": "2I9lcEEa8s0"
         },
         {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/m60g46I1ZhM/hqdefault.jpg",
-            "videoId": "m60g46I1ZhM"
+            "image": "https://i.ytimg.com/vi/tA1UwsU4ysM/hqdefault.jpg",
+            "videoId": "tA1UwsU4ysM"
         },
         {
             "rank": 3,
@@ -330,15 +330,15 @@ const rankData = {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
-            "videoId": "1XOJFuKHCck"
+            "image": "https://i.ytimg.com/vi/37soJxAYudM/hqdefault.jpg",
+            "videoId": "37soJxAYudM"
         },
         {
             "rank": 7,
             "title": "Big Guy",
             "artist": "Ice Spice",
-            "image": "https://i.ytimg.com/vi/gDb91xKfa4E/hqdefault.jpg",
-            "videoId": "gDb91xKfa4E"
+            "image": "https://i.ytimg.com/vi/7yaU0qXlgbo/hqdefault.jpg",
+            "videoId": "7yaU0qXlgbo"
         },
         {
             "rank": 8,
