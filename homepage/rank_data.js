@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-11-05 12:10:03",
+    "last_updated": "2026-11-06 12:11:16",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
@@ -35,8 +35,8 @@ const rankData = {
             "rank": 5,
             "title": "백화요란 (Inside Out)",
             "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/3Lt91AHYEtY/hqdefault.jpg",
-            "videoId": "3Lt91AHYEtY"
+            "image": "https://i.ytimg.com/vi/tLmKZpuJdvY/hqdefault.jpg",
+            "videoId": "tLmKZpuJdvY"
         },
         {
             "rank": 6,
@@ -70,8 +70,8 @@ const rankData = {
             "rank": 10,
             "title": "Finest Thing",
             "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/pey3E47eSc8/hqdefault.jpg",
-            "videoId": "pey3E47eSc8"
+            "image": "https://i.ytimg.com/vi/V_kzqTam8lQ/hqdefault.jpg",
+            "videoId": "V_kzqTam8lQ"
         }
     ],
     "shazam_korea": [
@@ -100,8 +100,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/npybPWzu6Vo/hqdefault.jpg",
-            "videoId": "npybPWzu6Vo"
+            "image": "https://i.ytimg.com/vi/i1TUtpNu_fo/hqdefault.jpg",
+            "videoId": "i1TUtpNu_fo"
         },
         {
             "rank": 5,
@@ -114,8 +114,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
-            "videoId": "b6DzYwwS6Ng"
+            "image": "https://i.ytimg.com/vi/dbvU0YzCZFg/hqdefault.jpg",
+            "videoId": "dbvU0YzCZFg"
         },
         {
             "rank": 7,
@@ -142,8 +142,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/jQOeOIgrY9Y/hqdefault.jpg",
-            "videoId": "jQOeOIgrY9Y"
+            "image": "https://i.ytimg.com/vi/VBPZvuQoWy8/hqdefault.jpg",
+            "videoId": "VBPZvuQoWy8"
         }
     ],
     "shazam_global": [
@@ -186,8 +186,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/AiMAYShMKKc/hqdefault.jpg",
-            "videoId": "AiMAYShMKKc"
+            "image": "https://i.ytimg.com/vi/5xI1y37Goro/hqdefault.jpg",
+            "videoId": "5xI1y37Goro"
         },
         {
             "rank": 7,
@@ -200,8 +200,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
-            "videoId": "yxKA0NnNJeo"
+            "image": "https://i.ytimg.com/vi/lpEtNxfSxdk/hqdefault.jpg",
+            "videoId": "lpEtNxfSxdk"
         },
         {
             "rank": 9,
@@ -223,8 +223,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/sPmul8b17AU/hqdefault.jpg",
-            "videoId": "sPmul8b17AU"
+            "image": "https://i.ytimg.com/vi/ChQaa0eqZak/hqdefault.jpg",
+            "videoId": "ChQaa0eqZak"
         },
         {
             "rank": 2,
@@ -244,8 +244,8 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/F55kOtlBSkI/hqdefault.jpg",
-            "videoId": "F55kOtlBSkI"
+            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
+            "videoId": "YEMBk076jGM"
         },
         {
             "rank": 5,
@@ -295,8 +295,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/j33iNBWSDdk/hqdefault.jpg",
-            "videoId": "j33iNBWSDdk"
+            "image": "https://i.ytimg.com/vi/LEzxBmtobtE/hqdefault.jpg",
+            "videoId": "LEzxBmtobtE"
         },
         {
             "rank": 2,
@@ -351,8 +351,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/ajH5AGvBWHw/hqdefault.jpg",
-            "videoId": "ajH5AGvBWHw"
+            "image": "https://i.ytimg.com/vi/QUH0_vbeggQ/hqdefault.jpg",
+            "videoId": "QUH0_vbeggQ"
         },
         {
             "rank": 10,
