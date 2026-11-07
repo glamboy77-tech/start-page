@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-11-06 12:11:16",
+    "last_updated": "2026-11-07 11:33:10",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
@@ -21,8 +21,8 @@ const rankData = {
             "rank": 3,
             "title": "꿈꾸던 어른이 되었나요?",
             "artist": "머무르",
-            "image": "https://i.ytimg.com/vi/GxChUrrY4bc/hqdefault.jpg",
-            "videoId": "GxChUrrY4bc"
+            "image": "https://i.ytimg.com/vi/R0oUmyV9_1o/hqdefault.jpg",
+            "videoId": "R0oUmyV9_1o"
         },
         {
             "rank": 4,
@@ -33,31 +33,31 @@ const rankData = {
         },
         {
             "rank": 5,
-            "title": "백화요란 (Inside Out)",
-            "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/tLmKZpuJdvY/hqdefault.jpg",
-            "videoId": "tLmKZpuJdvY"
-        },
-        {
-            "rank": 6,
             "title": "퇴사할게여 (Narr. 기안84)",
             "artist": "소연 (SOYEON)",
             "image": "https://i.ytimg.com/vi/7mDDM0eBWR0/hqdefault.jpg",
             "videoId": "7mDDM0eBWR0"
         },
         {
-            "rank": 7,
-            "title": "Deja Vu",
+            "rank": 6,
+            "title": "백화요란 (Inside Out)",
             "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/ZbO9PBdFRdc/hqdefault.jpg",
-            "videoId": "ZbO9PBdFRdc"
+            "image": "https://i.ytimg.com/vi/tLmKZpuJdvY/hqdefault.jpg",
+            "videoId": "tLmKZpuJdvY"
         },
         {
-            "rank": 8,
+            "rank": 7,
             "title": "체포하겠어",
             "artist": "아일릿(ILLIT)",
             "image": "https://i.ytimg.com/vi/V2V9-9VhYJo/hqdefault.jpg",
             "videoId": "V2V9-9VhYJo"
+        },
+        {
+            "rank": 8,
+            "title": "Deja Vu",
+            "artist": "RESCENE (리센느)",
+            "image": "https://i.ytimg.com/vi/ZbO9PBdFRdc/hqdefault.jpg",
+            "videoId": "ZbO9PBdFRdc"
         },
         {
             "rank": 9,
@@ -68,10 +68,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "Finest Thing",
-            "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/V_kzqTam8lQ/hqdefault.jpg",
-            "videoId": "V_kzqTam8lQ"
+            "title": "Looks Can Kill",
+            "artist": "IVE (아이브)",
+            "image": "https://i.ytimg.com/vi/rsNhWkC4neE/hqdefault.jpg",
+            "videoId": "rsNhWkC4neE"
         }
     ],
     "shazam_korea": [
@@ -100,8 +100,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/i1TUtpNu_fo/hqdefault.jpg",
-            "videoId": "i1TUtpNu_fo"
+            "image": "https://i.ytimg.com/vi/-hzlk1-Ir94/hqdefault.jpg",
+            "videoId": "-hzlk1-Ir94"
         },
         {
             "rank": 5,
@@ -114,8 +114,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/dbvU0YzCZFg/hqdefault.jpg",
-            "videoId": "dbvU0YzCZFg"
+            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
+            "videoId": "b6DzYwwS6Ng"
         },
         {
             "rank": 7,
@@ -142,8 +142,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/VBPZvuQoWy8/hqdefault.jpg",
-            "videoId": "VBPZvuQoWy8"
+            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
+            "videoId": "oXCXlPJ57rE"
         }
     ],
     "shazam_global": [
@@ -151,8 +151,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/6QBy_Oa5ZmM/hqdefault.jpg",
-            "videoId": "6QBy_Oa5ZmM"
+            "image": "https://i.ytimg.com/vi/72zXataH1H8/hqdefault.jpg",
+            "videoId": "72zXataH1H8"
         },
         {
             "rank": 2,
@@ -186,8 +186,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/5xI1y37Goro/hqdefault.jpg",
-            "videoId": "5xI1y37Goro"
+            "image": "https://i.ytimg.com/vi/8FKMGxQXtTs/hqdefault.jpg",
+            "videoId": "8FKMGxQXtTs"
         },
         {
             "rank": 7,
@@ -200,8 +200,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/lpEtNxfSxdk/hqdefault.jpg",
-            "videoId": "lpEtNxfSxdk"
+            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
+            "videoId": "yxKA0NnNJeo"
         },
         {
             "rank": 9,
@@ -223,8 +223,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/ChQaa0eqZak/hqdefault.jpg",
-            "videoId": "ChQaa0eqZak"
+            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
+            "videoId": "VDuDQNkSC6g"
         },
         {
             "rank": 2,
@@ -244,8 +244,8 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
-            "videoId": "YEMBk076jGM"
+            "image": "https://i.ytimg.com/vi/3OIs5tuYKJQ/hqdefault.jpg",
+            "videoId": "3OIs5tuYKJQ"
         },
         {
             "rank": 5,
@@ -279,8 +279,8 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
-            "videoId": "ul0V77Yl78o"
+            "image": "https://i.ytimg.com/vi/IHvR_MvM_bE/hqdefault.jpg",
+            "videoId": "IHvR_MvM_bE"
         },
         {
             "rank": 10,
@@ -295,8 +295,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/LEzxBmtobtE/hqdefault.jpg",
-            "videoId": "LEzxBmtobtE"
+            "image": "https://i.ytimg.com/vi/Bf2ml3oE2JA/hqdefault.jpg",
+            "videoId": "Bf2ml3oE2JA"
         },
         {
             "rank": 2,
