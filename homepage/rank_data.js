@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-11-07 11:33:10",
+    "last_updated": "2026-11-08 11:03:58",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
@@ -21,8 +21,8 @@ const rankData = {
             "rank": 3,
             "title": "꿈꾸던 어른이 되었나요?",
             "artist": "머무르",
-            "image": "https://i.ytimg.com/vi/R0oUmyV9_1o/hqdefault.jpg",
-            "videoId": "R0oUmyV9_1o"
+            "image": "https://i.ytimg.com/vi/uQ_f4Jswwrk/hqdefault.jpg",
+            "videoId": "uQ_f4Jswwrk"
         },
         {
             "rank": 4,
@@ -42,8 +42,8 @@ const rankData = {
             "rank": 6,
             "title": "백화요란 (Inside Out)",
             "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/tLmKZpuJdvY/hqdefault.jpg",
-            "videoId": "tLmKZpuJdvY"
+            "image": "https://i.ytimg.com/vi/C7vNpNTv7fQ/hqdefault.jpg",
+            "videoId": "C7vNpNTv7fQ"
         },
         {
             "rank": 7,
@@ -68,10 +68,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "Looks Can Kill",
-            "artist": "IVE (아이브)",
-            "image": "https://i.ytimg.com/vi/rsNhWkC4neE/hqdefault.jpg",
-            "videoId": "rsNhWkC4neE"
+            "title": "Finest Thing",
+            "artist": "RESCENE (리센느)",
+            "image": "https://i.ytimg.com/vi/IFQYgQ6LEh4/hqdefault.jpg",
+            "videoId": "IFQYgQ6LEh4"
         }
     ],
     "shazam_korea": [
@@ -114,8 +114,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
-            "videoId": "b6DzYwwS6Ng"
+            "image": "https://i.ytimg.com/vi/z0Xc_rzYZV8/hqdefault.jpg",
+            "videoId": "z0Xc_rzYZV8"
         },
         {
             "rank": 7,
@@ -151,8 +151,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/72zXataH1H8/hqdefault.jpg",
-            "videoId": "72zXataH1H8"
+            "image": "https://i.ytimg.com/vi/6QBy_Oa5ZmM/hqdefault.jpg",
+            "videoId": "6QBy_Oa5ZmM"
         },
         {
             "rank": 2,
@@ -172,8 +172,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
-            "videoId": "oY75OIjru0o"
+            "image": "https://i.ytimg.com/vi/unIW6KRNoZY/hqdefault.jpg",
+            "videoId": "unIW6KRNoZY"
         },
         {
             "rank": 5,
@@ -186,8 +186,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/8FKMGxQXtTs/hqdefault.jpg",
-            "videoId": "8FKMGxQXtTs"
+            "image": "https://i.ytimg.com/vi/f50TOhiHJ60/hqdefault.jpg",
+            "videoId": "f50TOhiHJ60"
         },
         {
             "rank": 7,
@@ -207,8 +207,8 @@ const rankData = {
             "rank": 9,
             "title": "Raindance",
             "artist": "Dave & Tems",
-            "image": "https://i.ytimg.com/vi/SOJpE1KMUbo/hqdefault.jpg",
-            "videoId": "SOJpE1KMUbo"
+            "image": "https://i.ytimg.com/vi/Vpn2w7w8j3c/hqdefault.jpg",
+            "videoId": "Vpn2w7w8j3c"
         },
         {
             "rank": 10,
@@ -223,8 +223,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
-            "videoId": "VDuDQNkSC6g"
+            "image": "https://i.ytimg.com/vi/Xz-_b4Nvn_Q/hqdefault.jpg",
+            "videoId": "Xz-_b4Nvn_Q"
         },
         {
             "rank": 2,
@@ -244,8 +244,8 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/3OIs5tuYKJQ/hqdefault.jpg",
-            "videoId": "3OIs5tuYKJQ"
+            "image": "https://i.ytimg.com/vi/Q4RMbM9pSTU/hqdefault.jpg",
+            "videoId": "Q4RMbM9pSTU"
         },
         {
             "rank": 5,
@@ -295,8 +295,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/Bf2ml3oE2JA/hqdefault.jpg",
-            "videoId": "Bf2ml3oE2JA"
+            "image": "https://i.ytimg.com/vi/6bCXtkizvog/hqdefault.jpg",
+            "videoId": "6bCXtkizvog"
         },
         {
             "rank": 2,
@@ -323,8 +323,8 @@ const rankData = {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/E7G9TtjmVrg/hqdefault.jpg",
-            "videoId": "E7G9TtjmVrg"
+            "image": "https://i.ytimg.com/vi/DoM3DiFnXxM/hqdefault.jpg",
+            "videoId": "DoM3DiFnXxM"
         },
         {
             "rank": 6,
@@ -351,8 +351,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/QUH0_vbeggQ/hqdefault.jpg",
-            "videoId": "QUH0_vbeggQ"
+            "image": "https://i.ytimg.com/vi/ajH5AGvBWHw/hqdefault.jpg",
+            "videoId": "ajH5AGvBWHw"
         },
         {
             "rank": 10,
