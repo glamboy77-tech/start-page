@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-11-09 11:22:58",
+    "last_updated": "2026-11-10 13:31:38",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
@@ -40,17 +40,17 @@ const rankData = {
         },
         {
             "rank": 6,
-            "title": "퇴사할게여 (Narr. 기안84)",
-            "artist": "소연 (SOYEON)",
-            "image": "https://i.ytimg.com/vi/7mDDM0eBWR0/hqdefault.jpg",
-            "videoId": "7mDDM0eBWR0"
-        },
-        {
-            "rank": 7,
             "title": "Deja Vu",
             "artist": "RESCENE (리센느)",
             "image": "https://i.ytimg.com/vi/ZbO9PBdFRdc/hqdefault.jpg",
             "videoId": "ZbO9PBdFRdc"
+        },
+        {
+            "rank": 7,
+            "title": "퇴사할게여 (Narr. 기안84)",
+            "artist": "소연 (SOYEON)",
+            "image": "https://i.ytimg.com/vi/7mDDM0eBWR0/hqdefault.jpg",
+            "videoId": "7mDDM0eBWR0"
         },
         {
             "rank": 8,
@@ -68,10 +68,10 @@ const rankData = {
         },
         {
             "rank": 10,
-            "title": "생각을 멈추다 보면",
-            "artist": "최유리",
-            "image": "https://i.ytimg.com/vi/TUDsVaezoKU/hqdefault.jpg",
-            "videoId": "TUDsVaezoKU"
+            "title": "연애의 조건 (Love Options)",
+            "artist": "베스티",
+            "image": "https://i.ytimg.com/vi/qE-KYFwMoOc/hqdefault.jpg",
+            "videoId": "qE-KYFwMoOc"
         }
     ],
     "shazam_korea": [
@@ -86,8 +86,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -142,8 +142,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/jQOeOIgrY9Y/hqdefault.jpg",
-            "videoId": "jQOeOIgrY9Y"
+            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
+            "videoId": "oXCXlPJ57rE"
         }
     ],
     "shazam_global": [
@@ -186,8 +186,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/f50TOhiHJ60/hqdefault.jpg",
-            "videoId": "f50TOhiHJ60"
+            "image": "https://i.ytimg.com/vi/5KVeff94Zt8/hqdefault.jpg",
+            "videoId": "5KVeff94Zt8"
         },
         {
             "rank": 7,
@@ -223,8 +223,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
-            "videoId": "VDuDQNkSC6g"
+            "image": "https://i.ytimg.com/vi/sPmul8b17AU/hqdefault.jpg",
+            "videoId": "sPmul8b17AU"
         },
         {
             "rank": 2,
@@ -244,8 +244,8 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/qkCvD9UyXG0/hqdefault.jpg",
-            "videoId": "qkCvD9UyXG0"
+            "image": "https://i.ytimg.com/vi/Sm0DcfFdIfE/hqdefault.jpg",
+            "videoId": "Sm0DcfFdIfE"
         },
         {
             "rank": 5,
@@ -279,15 +279,15 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
-            "videoId": "ul0V77Yl78o"
+            "image": "https://i.ytimg.com/vi/K1OItOH3yHw/hqdefault.jpg",
+            "videoId": "K1OItOH3yHw"
         },
         {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/o8fzQ1e01UE/hqdefault.jpg",
-            "videoId": "o8fzQ1e01UE"
+            "image": "https://i.ytimg.com/vi/HdRKxLRoJ3c/hqdefault.jpg",
+            "videoId": "HdRKxLRoJ3c"
         }
     ],
     "youtube_shorts_global": [
@@ -295,8 +295,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/j33iNBWSDdk/hqdefault.jpg",
-            "videoId": "j33iNBWSDdk"
+            "image": "https://i.ytimg.com/vi/vIx2YGdVWqU/hqdefault.jpg",
+            "videoId": "vIx2YGdVWqU"
         },
         {
             "rank": 2,
@@ -330,15 +330,15 @@ const rankData = {
             "rank": 6,
             "title": "فصله",
             "artist": "Flipperachi",
-            "image": "https://i.ytimg.com/vi/1XOJFuKHCck/hqdefault.jpg",
-            "videoId": "1XOJFuKHCck"
+            "image": "https://i.ytimg.com/vi/VuhcYXkBLkM/hqdefault.jpg",
+            "videoId": "VuhcYXkBLkM"
         },
         {
             "rank": 7,
             "title": "Big Guy",
             "artist": "Ice Spice",
-            "image": "https://i.ytimg.com/vi/gDb91xKfa4E/hqdefault.jpg",
-            "videoId": "gDb91xKfa4E"
+            "image": "https://i.ytimg.com/vi/7yaU0qXlgbo/hqdefault.jpg",
+            "videoId": "7yaU0qXlgbo"
         },
         {
             "rank": 8,
