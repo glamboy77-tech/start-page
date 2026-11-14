@@ -1,21 +1,21 @@
 const rankData = {
-    "last_updated": "2026-11-13 12:09:50",
+    "last_updated": "2026-11-14 11:55:47",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
         {
             "rank": 1,
-            "title": "With",
-            "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/pey3E47eSc8/hqdefault.jpg",
-            "videoId": "pey3E47eSc8"
+            "title": "꿈꾸던 어른이 되었나요?",
+            "artist": "머무르",
+            "image": "https://i.ytimg.com/vi/lI5LoWDlmMQ/hqdefault.jpg",
+            "videoId": "lI5LoWDlmMQ"
         },
         {
             "rank": 2,
-            "title": "꿈꾸던 어른이 되었나요?",
-            "artist": "머무르",
-            "image": "https://i.ytimg.com/vi/GxChUrrY4bc/hqdefault.jpg",
-            "videoId": "GxChUrrY4bc"
+            "title": "With",
+            "artist": "RESCENE (리센느)",
+            "image": "https://i.ytimg.com/vi/jmlBMoCn0Ec/hqdefault.jpg",
+            "videoId": "jmlBMoCn0Ec"
         },
         {
             "rank": 3,
@@ -33,38 +33,38 @@ const rankData = {
         },
         {
             "rank": 5,
-            "title": "백화요란 (Inside Out)",
-            "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/C7vNpNTv7fQ/hqdefault.jpg",
-            "videoId": "C7vNpNTv7fQ"
-        },
-        {
-            "rank": 6,
-            "title": "체포하겠어",
-            "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/V2V9-9VhYJo/hqdefault.jpg",
-            "videoId": "V2V9-9VhYJo"
-        },
-        {
-            "rank": 7,
             "title": "퇴사할게여 (Narr. 기안84)",
             "artist": "소연 (SOYEON)",
             "image": "https://i.ytimg.com/vi/7mDDM0eBWR0/hqdefault.jpg",
             "videoId": "7mDDM0eBWR0"
         },
         {
+            "rank": 6,
+            "title": "체포하겠어",
+            "artist": "아일릿(ILLIT)",
+            "image": "https://i.ytimg.com/vi/3VwercQ_aDM/hqdefault.jpg",
+            "videoId": "3VwercQ_aDM"
+        },
+        {
+            "rank": 7,
+            "title": "백화요란 (Inside Out)",
+            "artist": "RESCENE (리센느)",
+            "image": "https://i.ytimg.com/vi/C7vNpNTv7fQ/hqdefault.jpg",
+            "videoId": "C7vNpNTv7fQ"
+        },
+        {
             "rank": 8,
+            "title": "연애의 조건 (Love Options)",
+            "artist": "베스티",
+            "image": "https://i.ytimg.com/vi/InaRJ8kI8qE/hqdefault.jpg",
+            "videoId": "InaRJ8kI8qE"
+        },
+        {
+            "rank": 9,
             "title": "Deja Vu",
             "artist": "RESCENE (리센느)",
             "image": "https://i.ytimg.com/vi/ZbO9PBdFRdc/hqdefault.jpg",
             "videoId": "ZbO9PBdFRdc"
-        },
-        {
-            "rank": 9,
-            "title": "연애의 조건 (Love Options)",
-            "artist": "베스티",
-            "image": "https://i.ytimg.com/vi/NPqtL1dtrlA/hqdefault.jpg",
-            "videoId": "NPqtL1dtrlA"
         },
         {
             "rank": 10,
@@ -86,8 +86,8 @@ const rankData = {
             "rank": 2,
             "title": "Daydream",
             "artist": "WENDY",
-            "image": "https://i.ytimg.com/vi/ty_3ox-peHg/hqdefault.jpg",
-            "videoId": "ty_3ox-peHg"
+            "image": "https://i.ytimg.com/vi/L1rR_smhD78/hqdefault.jpg",
+            "videoId": "L1rR_smhD78"
         },
         {
             "rank": 3,
@@ -100,8 +100,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/efWLhEQiB2o/hqdefault.jpg",
-            "videoId": "efWLhEQiB2o"
+            "image": "https://i.ytimg.com/vi/-hzlk1-Ir94/hqdefault.jpg",
+            "videoId": "-hzlk1-Ir94"
         },
         {
             "rank": 5,
@@ -135,15 +135,15 @@ const rankData = {
             "rank": 9,
             "title": "影ぼうし 開拓者",
             "artist": "B. Mars groov",
-            "image": "https://i.ytimg.com/vi/U9dE9oanmFE/hqdefault.jpg",
-            "videoId": "U9dE9oanmFE"
+            "image": "https://i.ytimg.com/vi/lduBgrNYnUk/hqdefault.jpg",
+            "videoId": "lduBgrNYnUk"
         },
         {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/jQOeOIgrY9Y/hqdefault.jpg",
-            "videoId": "jQOeOIgrY9Y"
+            "image": "https://i.ytimg.com/vi/9g1YWZxOJh8/hqdefault.jpg",
+            "videoId": "9g1YWZxOJh8"
         }
     ],
     "shazam_global": [
@@ -186,8 +186,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/fG26QAaQj4c/hqdefault.jpg",
-            "videoId": "fG26QAaQj4c"
+            "image": "https://i.ytimg.com/vi/pUuUXstMviU/hqdefault.jpg",
+            "videoId": "pUuUXstMviU"
         },
         {
             "rank": 7,
@@ -200,8 +200,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
-            "videoId": "yxKA0NnNJeo"
+            "image": "https://i.ytimg.com/vi/G04NYZ0Lt6M/hqdefault.jpg",
+            "videoId": "G04NYZ0Lt6M"
         },
         {
             "rank": 9,
@@ -223,8 +223,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
-            "videoId": "VDuDQNkSC6g"
+            "image": "https://i.ytimg.com/vi/sPmul8b17AU/hqdefault.jpg",
+            "videoId": "sPmul8b17AU"
         },
         {
             "rank": 2,
@@ -244,15 +244,15 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg",
-            "videoId": "YEMBk076jGM"
+            "image": "https://i.ytimg.com/vi/hu3rJeS__HA/hqdefault.jpg",
+            "videoId": "hu3rJeS__HA"
         },
         {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/vz2CMETs5ZE/hqdefault.jpg",
-            "videoId": "vz2CMETs5ZE"
+            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
+            "videoId": "y9pELY1qWzM"
         },
         {
             "rank": 6,
@@ -272,15 +272,15 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/KRAFmgTECWw/hqdefault.jpg",
-            "videoId": "KRAFmgTECWw"
+            "image": "https://i.ytimg.com/vi/Tyl2LKrQ2g8/hqdefault.jpg",
+            "videoId": "Tyl2LKrQ2g8"
         },
         {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
-            "videoId": "ul0V77Yl78o"
+            "image": "https://i.ytimg.com/vi/IHvR_MvM_bE/hqdefault.jpg",
+            "videoId": "IHvR_MvM_bE"
         },
         {
             "rank": 10,
@@ -316,15 +316,15 @@ const rankData = {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/MdEhuORt8dk/hqdefault.jpg",
-            "videoId": "MdEhuORt8dk"
+            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
+            "videoId": "mPmoojB54xI"
         },
         {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/sHt0OErWYKU/hqdefault.jpg",
-            "videoId": "sHt0OErWYKU"
+            "image": "https://i.ytimg.com/vi/E7G9TtjmVrg/hqdefault.jpg",
+            "videoId": "E7G9TtjmVrg"
         },
         {
             "rank": 6,
@@ -337,8 +337,8 @@ const rankData = {
             "rank": 7,
             "title": "Big Guy",
             "artist": "Ice Spice",
-            "image": "https://i.ytimg.com/vi/7yaU0qXlgbo/hqdefault.jpg",
-            "videoId": "7yaU0qXlgbo"
+            "image": "https://i.ytimg.com/vi/gDb91xKfa4E/hqdefault.jpg",
+            "videoId": "gDb91xKfa4E"
         },
         {
             "rank": 8,
