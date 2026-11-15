@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-11-14 11:55:47",
+    "last_updated": "2026-11-15 11:24:47",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
@@ -7,22 +7,22 @@ const rankData = {
             "rank": 1,
             "title": "꿈꾸던 어른이 되었나요?",
             "artist": "머무르",
-            "image": "https://i.ytimg.com/vi/lI5LoWDlmMQ/hqdefault.jpg",
-            "videoId": "lI5LoWDlmMQ"
+            "image": "https://i.ytimg.com/vi/-chq2WY2yeg/hqdefault.jpg",
+            "videoId": "-chq2WY2yeg"
         },
         {
             "rank": 2,
-            "title": "With",
-            "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/jmlBMoCn0Ec/hqdefault.jpg",
-            "videoId": "jmlBMoCn0Ec"
-        },
-        {
-            "rank": 3,
             "title": "NEON",
             "artist": "A2O",
             "image": "https://i.ytimg.com/vi/D968qfUZMUE/hqdefault.jpg",
             "videoId": "D968qfUZMUE"
+        },
+        {
+            "rank": 3,
+            "title": "With",
+            "artist": "RESCENE (리센느)",
+            "image": "https://i.ytimg.com/vi/pey3E47eSc8/hqdefault.jpg",
+            "videoId": "pey3E47eSc8"
         },
         {
             "rank": 4,
@@ -33,17 +33,17 @@ const rankData = {
         },
         {
             "rank": 5,
+            "title": "체포하겠어",
+            "artist": "아일릿(ILLIT)",
+            "image": "https://i.ytimg.com/vi/V2V9-9VhYJo/hqdefault.jpg",
+            "videoId": "V2V9-9VhYJo"
+        },
+        {
+            "rank": 6,
             "title": "퇴사할게여 (Narr. 기안84)",
             "artist": "소연 (SOYEON)",
             "image": "https://i.ytimg.com/vi/7mDDM0eBWR0/hqdefault.jpg",
             "videoId": "7mDDM0eBWR0"
-        },
-        {
-            "rank": 6,
-            "title": "체포하겠어",
-            "artist": "아일릿(ILLIT)",
-            "image": "https://i.ytimg.com/vi/3VwercQ_aDM/hqdefault.jpg",
-            "videoId": "3VwercQ_aDM"
         },
         {
             "rank": 7,
@@ -100,8 +100,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/-hzlk1-Ir94/hqdefault.jpg",
-            "videoId": "-hzlk1-Ir94"
+            "image": "https://i.ytimg.com/vi/0u8teXR8VE4/hqdefault.jpg",
+            "videoId": "0u8teXR8VE4"
         },
         {
             "rank": 5,
@@ -135,15 +135,15 @@ const rankData = {
             "rank": 9,
             "title": "影ぼうし 開拓者",
             "artist": "B. Mars groov",
-            "image": "https://i.ytimg.com/vi/lduBgrNYnUk/hqdefault.jpg",
-            "videoId": "lduBgrNYnUk"
+            "image": "https://i.ytimg.com/vi/U9dE9oanmFE/hqdefault.jpg",
+            "videoId": "U9dE9oanmFE"
         },
         {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/9g1YWZxOJh8/hqdefault.jpg",
-            "videoId": "9g1YWZxOJh8"
+            "image": "https://i.ytimg.com/vi/jQOeOIgrY9Y/hqdefault.jpg",
+            "videoId": "jQOeOIgrY9Y"
         }
     ],
     "shazam_global": [
@@ -172,8 +172,8 @@ const rankData = {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
-            "videoId": "oY75OIjru0o"
+            "image": "https://i.ytimg.com/vi/Hiua_ZUAkoU/hqdefault.jpg",
+            "videoId": "Hiua_ZUAkoU"
         },
         {
             "rank": 5,
@@ -186,8 +186,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/pUuUXstMviU/hqdefault.jpg",
-            "videoId": "pUuUXstMviU"
+            "image": "https://i.ytimg.com/vi/SSnVYyeH8sU/hqdefault.jpg",
+            "videoId": "SSnVYyeH8sU"
         },
         {
             "rank": 7,
@@ -200,8 +200,8 @@ const rankData = {
             "rank": 8,
             "title": "STAY HERE 4 LIFE",
             "artist": "Alec Benjamin",
-            "image": "https://i.ytimg.com/vi/G04NYZ0Lt6M/hqdefault.jpg",
-            "videoId": "G04NYZ0Lt6M"
+            "image": "https://i.ytimg.com/vi/yxKA0NnNJeo/hqdefault.jpg",
+            "videoId": "yxKA0NnNJeo"
         },
         {
             "rank": 9,
@@ -244,15 +244,15 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/hu3rJeS__HA/hqdefault.jpg",
-            "videoId": "hu3rJeS__HA"
+            "image": "https://i.ytimg.com/vi/vvRZtEgobQw/hqdefault.jpg",
+            "videoId": "vvRZtEgobQw"
         },
         {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
-            "videoId": "y9pELY1qWzM"
+            "image": "https://i.ytimg.com/vi/vz2CMETs5ZE/hqdefault.jpg",
+            "videoId": "vz2CMETs5ZE"
         },
         {
             "rank": 6,
@@ -272,8 +272,8 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/Tyl2LKrQ2g8/hqdefault.jpg",
-            "videoId": "Tyl2LKrQ2g8"
+            "image": "https://i.ytimg.com/vi/rhoFJcRjsAE/hqdefault.jpg",
+            "videoId": "rhoFJcRjsAE"
         },
         {
             "rank": 9,
@@ -309,8 +309,8 @@ const rankData = {
             "rank": 3,
             "title": "PASSO BEM SLOWED (Slowed)",
             "artist": "ATLXG",
-            "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
-            "videoId": "KgayxOF4Y7E"
+            "image": "https://i.ytimg.com/vi/VyWfUiS4Wdo/hqdefault.jpg",
+            "videoId": "VyWfUiS4Wdo"
         },
         {
             "rank": 4,
@@ -337,8 +337,8 @@ const rankData = {
             "rank": 7,
             "title": "Big Guy",
             "artist": "Ice Spice",
-            "image": "https://i.ytimg.com/vi/gDb91xKfa4E/hqdefault.jpg",
-            "videoId": "gDb91xKfa4E"
+            "image": "https://i.ytimg.com/vi/7yaU0qXlgbo/hqdefault.jpg",
+            "videoId": "7yaU0qXlgbo"
         },
         {
             "rank": 8,
@@ -351,8 +351,8 @@ const rankData = {
             "rank": 9,
             "title": "GOZALO",
             "artist": "Aris",
-            "image": "https://i.ytimg.com/vi/ajH5AGvBWHw/hqdefault.jpg",
-            "videoId": "ajH5AGvBWHw"
+            "image": "https://i.ytimg.com/vi/mwJG7REdCzs/hqdefault.jpg",
+            "videoId": "mwJG7REdCzs"
         },
         {
             "rank": 10,
