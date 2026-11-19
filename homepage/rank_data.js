@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-11-18 13:02:51",
+    "last_updated": "2026-11-19 12:59:44",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
@@ -12,17 +12,17 @@ const rankData = {
         },
         {
             "rank": 2,
-            "title": "With",
-            "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/pey3E47eSc8/hqdefault.jpg",
-            "videoId": "pey3E47eSc8"
-        },
-        {
-            "rank": 3,
             "title": "NEON",
             "artist": "A2O",
             "image": "https://i.ytimg.com/vi/D968qfUZMUE/hqdefault.jpg",
             "videoId": "D968qfUZMUE"
+        },
+        {
+            "rank": 3,
+            "title": "With",
+            "artist": "RESCENE (리센느)",
+            "image": "https://i.ytimg.com/vi/pey3E47eSc8/hqdefault.jpg",
+            "videoId": "pey3E47eSc8"
         },
         {
             "rank": 4,
@@ -42,8 +42,8 @@ const rankData = {
             "rank": 6,
             "title": "연애의 조건 (Love Options)",
             "artist": "베스티",
-            "image": "https://i.ytimg.com/vi/NPqtL1dtrlA/hqdefault.jpg",
-            "videoId": "NPqtL1dtrlA"
+            "image": "https://i.ytimg.com/vi/YKx9tvDiTXc/hqdefault.jpg",
+            "videoId": "YKx9tvDiTXc"
         },
         {
             "rank": 7,
@@ -100,8 +100,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/t1tjQqWqqAA/hqdefault.jpg",
-            "videoId": "t1tjQqWqqAA"
+            "image": "https://i.ytimg.com/vi/1e8bYACRBzQ/hqdefault.jpg",
+            "videoId": "1e8bYACRBzQ"
         },
         {
             "rank": 5,
@@ -114,8 +114,8 @@ const rankData = {
             "rank": 6,
             "title": "We're done (Male Version)",
             "artist": "SEOUL",
-            "image": "https://i.ytimg.com/vi/b6DzYwwS6Ng/hqdefault.jpg",
-            "videoId": "b6DzYwwS6Ng"
+            "image": "https://i.ytimg.com/vi/z0Xc_rzYZV8/hqdefault.jpg",
+            "videoId": "z0Xc_rzYZV8"
         },
         {
             "rank": 7,
@@ -128,8 +128,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/3vzHc2OpDsg/hqdefault.jpg",
-            "videoId": "3vzHc2OpDsg"
+            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
+            "videoId": "iG2OH4whO5E"
         },
         {
             "rank": 9,
@@ -142,8 +142,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
-            "videoId": "oXCXlPJ57rE"
+            "image": "https://i.ytimg.com/vi/9g1YWZxOJh8/hqdefault.jpg",
+            "videoId": "9g1YWZxOJh8"
         }
     ],
     "shazam_global": [
@@ -186,8 +186,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/NPrCMD1nudY/hqdefault.jpg",
-            "videoId": "NPrCMD1nudY"
+            "image": "https://i.ytimg.com/vi/fAB8d-6tFLg/hqdefault.jpg",
+            "videoId": "fAB8d-6tFLg"
         },
         {
             "rank": 7,
@@ -223,8 +223,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/34_QJoz6zaQ/hqdefault.jpg",
-            "videoId": "34_QJoz6zaQ"
+            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
+            "videoId": "VDuDQNkSC6g"
         },
         {
             "rank": 2,
@@ -244,15 +244,15 @@ const rankData = {
             "rank": 4,
             "title": "So Cute",
             "artist": "김선환",
-            "image": "https://i.ytimg.com/vi/hu3rJeS__HA/hqdefault.jpg",
-            "videoId": "hu3rJeS__HA"
+            "image": "https://i.ytimg.com/vi/2jJGIDtku0w/hqdefault.jpg",
+            "videoId": "2jJGIDtku0w"
         },
         {
             "rank": 5,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "ZX&J & Slxughter",
-            "image": "https://i.ytimg.com/vi/1gQ_Q5r_eRw/hqdefault.jpg",
-            "videoId": "1gQ_Q5r_eRw"
+            "image": "https://i.ytimg.com/vi/y9pELY1qWzM/hqdefault.jpg",
+            "videoId": "y9pELY1qWzM"
         },
         {
             "rank": 6,
@@ -279,15 +279,15 @@ const rankData = {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
-            "videoId": "ul0V77Yl78o"
+            "image": "https://i.ytimg.com/vi/K1OItOH3yHw/hqdefault.jpg",
+            "videoId": "K1OItOH3yHw"
         },
         {
             "rank": 10,
             "title": "King Hamada",
             "artist": "Kingo Hamada",
-            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
-            "videoId": "VDuDQNkSC6g"
+            "image": "https://i.ytimg.com/vi/HdRKxLRoJ3c/hqdefault.jpg",
+            "videoId": "HdRKxLRoJ3c"
         }
     ],
     "youtube_shorts_global": [
@@ -295,8 +295,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/vIx2YGdVWqU/hqdefault.jpg",
-            "videoId": "vIx2YGdVWqU"
+            "image": "https://i.ytimg.com/vi/1INWtuOdt_s/hqdefault.jpg",
+            "videoId": "1INWtuOdt_s"
         },
         {
             "rank": 2,
@@ -309,22 +309,22 @@ const rankData = {
             "rank": 3,
             "title": "PASSO BEM SLOWED (Slowed)",
             "artist": "ATLXG",
-            "image": "https://i.ytimg.com/vi/PO34kvz4rrs/hqdefault.jpg",
-            "videoId": "PO34kvz4rrs"
+            "image": "https://i.ytimg.com/vi/KgayxOF4Y7E/hqdefault.jpg",
+            "videoId": "KgayxOF4Y7E"
         },
         {
             "rank": 4,
             "title": "Friendships (feat. Tony)",
             "artist": "Pascal Letoublon",
-            "image": "https://i.ytimg.com/vi/_4FAcs-3iY0/hqdefault.jpg",
-            "videoId": "_4FAcs-3iY0"
+            "image": "https://i.ytimg.com/vi/mPmoojB54xI/hqdefault.jpg",
+            "videoId": "mPmoojB54xI"
         },
         {
             "rank": 5,
             "title": "Mensagem Miau",
             "artist": "Lenar",
-            "image": "https://i.ytimg.com/vi/M_pTIy3HEJ0/hqdefault.jpg",
-            "videoId": "M_pTIy3HEJ0"
+            "image": "https://i.ytimg.com/vi/E7G9TtjmVrg/hqdefault.jpg",
+            "videoId": "E7G9TtjmVrg"
         },
         {
             "rank": 6,
@@ -337,8 +337,8 @@ const rankData = {
             "rank": 7,
             "title": "Big Guy",
             "artist": "Ice Spice",
-            "image": "https://i.ytimg.com/vi/gDb91xKfa4E/hqdefault.jpg",
-            "videoId": "gDb91xKfa4E"
+            "image": "https://i.ytimg.com/vi/7yaU0qXlgbo/hqdefault.jpg",
+            "videoId": "7yaU0qXlgbo"
         },
         {
             "rank": 8,
