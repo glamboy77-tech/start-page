@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-11-25 14:14:51",
+    "last_updated": "2026-11-26 13:43:46",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
@@ -100,8 +100,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/1e8bYACRBzQ/hqdefault.jpg",
-            "videoId": "1e8bYACRBzQ"
+            "image": "https://i.ytimg.com/vi/L5SDqi1F2cA/hqdefault.jpg",
+            "videoId": "L5SDqi1F2cA"
         },
         {
             "rank": 5,
@@ -142,8 +142,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/ulUbF-VyxSo/hqdefault.jpg",
-            "videoId": "ulUbF-VyxSo"
+            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
+            "videoId": "oXCXlPJ57rE"
         }
     ],
     "shazam_global": [
@@ -151,8 +151,8 @@ const rankData = {
             "rank": 1,
             "title": "papatuai(mix)",
             "artist": "wnxx",
-            "image": "https://i.ytimg.com/vi/3INvnuPMmds/hqdefault.jpg",
-            "videoId": "3INvnuPMmds"
+            "image": "https://i.ytimg.com/vi/6QBy_Oa5ZmM/hqdefault.jpg",
+            "videoId": "6QBy_Oa5ZmM"
         },
         {
             "rank": 2,
@@ -165,15 +165,15 @@ const rankData = {
             "rank": 3,
             "title": "NO BATIDÃO",
             "artist": "ZXKAI & slxughter",
-            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
-            "videoId": "orOgilmiL_4"
+            "image": "https://i.ytimg.com/vi/q1zhnxUR4pg/hqdefault.jpg",
+            "videoId": "q1zhnxUR4pg"
         },
         {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/vez3ZaH04nU/hqdefault.jpg",
-            "videoId": "vez3ZaH04nU"
+            "image": "https://i.ytimg.com/vi/S6sHuJg3py8/hqdefault.jpg",
+            "videoId": "S6sHuJg3py8"
         },
         {
             "rank": 5,
@@ -223,8 +223,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
-            "videoId": "VDuDQNkSC6g"
+            "image": "https://i.ytimg.com/vi/vSPdlLqAQh8/hqdefault.jpg",
+            "videoId": "vSPdlLqAQh8"
         },
         {
             "rank": 2,
@@ -272,8 +272,8 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/Vre8mMqbQMs/hqdefault.jpg",
-            "videoId": "Vre8mMqbQMs"
+            "image": "https://i.ytimg.com/vi/KRAFmgTECWw/hqdefault.jpg",
+            "videoId": "KRAFmgTECWw"
         },
         {
             "rank": 9,
@@ -302,15 +302,15 @@ const rankData = {
             "rank": 2,
             "title": "Dil Ne Tera Naam Liya 2.0 (Track)",
             "artist": "Aman Yadav",
-            "image": "https://i.ytimg.com/vi/hAz8jtSxCz4/hqdefault.jpg",
-            "videoId": "hAz8jtSxCz4"
+            "image": "https://i.ytimg.com/vi/tA1UwsU4ysM/hqdefault.jpg",
+            "videoId": "tA1UwsU4ysM"
         },
         {
             "rank": 3,
             "title": "PASSO BEM SLOWED (Slowed)",
             "artist": "ATLXG",
-            "image": "https://i.ytimg.com/vi/PO34kvz4rrs/hqdefault.jpg",
-            "videoId": "PO34kvz4rrs"
+            "image": "https://i.ytimg.com/vi/S7Ci-PAxa9o/hqdefault.jpg",
+            "videoId": "S7Ci-PAxa9o"
         },
         {
             "rank": 4,
