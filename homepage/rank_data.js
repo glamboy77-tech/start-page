@@ -1,5 +1,5 @@
 const rankData = {
-    "last_updated": "2026-11-26 13:43:46",
+    "last_updated": "2026-11-27 13:48:21",
     "billboard": [],
     "billboard_rock": [],
     "melon": [
@@ -7,15 +7,15 @@ const rankData = {
             "rank": 1,
             "title": "꿈꾸던 어른이 되었나요?",
             "artist": "머무르",
-            "image": "https://i.ytimg.com/vi/FrewppwPJq8/hqdefault.jpg",
-            "videoId": "FrewppwPJq8"
+            "image": "https://i.ytimg.com/vi/GxChUrrY4bc/hqdefault.jpg",
+            "videoId": "GxChUrrY4bc"
         },
         {
             "rank": 2,
             "title": "With",
             "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/pey3E47eSc8/hqdefault.jpg",
-            "videoId": "pey3E47eSc8"
+            "image": "https://i.ytimg.com/vi/Tv6ZjJWA0_k/hqdefault.jpg",
+            "videoId": "Tv6ZjJWA0_k"
         },
         {
             "rank": 3,
@@ -35,8 +35,8 @@ const rankData = {
             "rank": 5,
             "title": "연애의 조건 (Love Options)",
             "artist": "베스티",
-            "image": "https://i.ytimg.com/vi/NPqtL1dtrlA/hqdefault.jpg",
-            "videoId": "NPqtL1dtrlA"
+            "image": "https://i.ytimg.com/vi/iVUTvsSFG3A/hqdefault.jpg",
+            "videoId": "iVUTvsSFG3A"
         },
         {
             "rank": 6,
@@ -47,17 +47,17 @@ const rankData = {
         },
         {
             "rank": 7,
-            "title": "백화요란 (Inside Out)",
-            "artist": "RESCENE (리센느)",
-            "image": "https://i.ytimg.com/vi/C7vNpNTv7fQ/hqdefault.jpg",
-            "videoId": "C7vNpNTv7fQ"
-        },
-        {
-            "rank": 8,
             "title": "퇴사할게여 (Narr. 기안84)",
             "artist": "소연 (SOYEON)",
             "image": "https://i.ytimg.com/vi/7mDDM0eBWR0/hqdefault.jpg",
             "videoId": "7mDDM0eBWR0"
+        },
+        {
+            "rank": 8,
+            "title": "백화요란 (Inside Out)",
+            "artist": "RESCENE (리센느)",
+            "image": "https://i.ytimg.com/vi/C7vNpNTv7fQ/hqdefault.jpg",
+            "videoId": "C7vNpNTv7fQ"
         },
         {
             "rank": 9,
@@ -100,8 +100,8 @@ const rankData = {
             "rank": 4,
             "title": "Round and Round",
             "artist": "DISC JOCKEY",
-            "image": "https://i.ytimg.com/vi/L5SDqi1F2cA/hqdefault.jpg",
-            "videoId": "L5SDqi1F2cA"
+            "image": "https://i.ytimg.com/vi/1e8bYACRBzQ/hqdefault.jpg",
+            "videoId": "1e8bYACRBzQ"
         },
         {
             "rank": 5,
@@ -128,8 +128,8 @@ const rankData = {
             "rank": 8,
             "title": "A Cicada Sings",
             "artist": "JOOHNT",
-            "image": "https://i.ytimg.com/vi/iG2OH4whO5E/hqdefault.jpg",
-            "videoId": "iG2OH4whO5E"
+            "image": "https://i.ytimg.com/vi/3vzHc2OpDsg/hqdefault.jpg",
+            "videoId": "3vzHc2OpDsg"
         },
         {
             "rank": 9,
@@ -142,8 +142,8 @@ const rankData = {
             "rank": 10,
             "title": "I love you",
             "artist": "Seung-Hee Lee",
-            "image": "https://i.ytimg.com/vi/oXCXlPJ57rE/hqdefault.jpg",
-            "videoId": "oXCXlPJ57rE"
+            "image": "https://i.ytimg.com/vi/ulUbF-VyxSo/hqdefault.jpg",
+            "videoId": "ulUbF-VyxSo"
         }
     ],
     "shazam_global": [
@@ -165,15 +165,15 @@ const rankData = {
             "rank": 3,
             "title": "NO BATIDÃO",
             "artist": "ZXKAI & slxughter",
-            "image": "https://i.ytimg.com/vi/q1zhnxUR4pg/hqdefault.jpg",
-            "videoId": "q1zhnxUR4pg"
+            "image": "https://i.ytimg.com/vi/orOgilmiL_4/hqdefault.jpg",
+            "videoId": "orOgilmiL_4"
         },
         {
             "rank": 4,
             "title": "Ozone",
             "artist": "oogarsas",
-            "image": "https://i.ytimg.com/vi/S6sHuJg3py8/hqdefault.jpg",
-            "videoId": "S6sHuJg3py8"
+            "image": "https://i.ytimg.com/vi/oY75OIjru0o/hqdefault.jpg",
+            "videoId": "oY75OIjru0o"
         },
         {
             "rank": 5,
@@ -186,8 +186,8 @@ const rankData = {
             "rank": 6,
             "title": "TIKI TIKI (Slowed)",
             "artist": "Adzilik",
-            "image": "https://i.ytimg.com/vi/LIhbJQtheXQ/hqdefault.jpg",
-            "videoId": "LIhbJQtheXQ"
+            "image": "https://i.ytimg.com/vi/E7HOvV481gM/hqdefault.jpg",
+            "videoId": "E7HOvV481gM"
         },
         {
             "rank": 7,
@@ -223,8 +223,8 @@ const rankData = {
             "rank": 1,
             "title": "I want you to get a Kingo Hamada",
             "artist": "HappyPLaceBread",
-            "image": "https://i.ytimg.com/vi/vSPdlLqAQh8/hqdefault.jpg",
-            "videoId": "vSPdlLqAQh8"
+            "image": "https://i.ytimg.com/vi/VDuDQNkSC6g/hqdefault.jpg",
+            "videoId": "VDuDQNkSC6g"
         },
         {
             "rank": 2,
@@ -272,15 +272,15 @@ const rankData = {
             "rank": 8,
             "title": "Beautiful Pain GANGNAM...",
             "artist": "LIGHTSUM",
-            "image": "https://i.ytimg.com/vi/KRAFmgTECWw/hqdefault.jpg",
-            "videoId": "KRAFmgTECWw"
+            "image": "https://i.ytimg.com/vi/Vre8mMqbQMs/hqdefault.jpg",
+            "videoId": "Vre8mMqbQMs"
         },
         {
             "rank": 9,
             "title": "丘丘",
             "artist": "回春丹",
-            "image": "https://i.ytimg.com/vi/IHvR_MvM_bE/hqdefault.jpg",
-            "videoId": "IHvR_MvM_bE"
+            "image": "https://i.ytimg.com/vi/ul0V77Yl78o/hqdefault.jpg",
+            "videoId": "ul0V77Yl78o"
         },
         {
             "rank": 10,
@@ -295,8 +295,8 @@ const rankData = {
             "rank": 1,
             "title": "NO BATIDÃO (SLOWED)",
             "artist": "Zxrc, Doughty",
-            "image": "https://i.ytimg.com/vi/j33iNBWSDdk/hqdefault.jpg",
-            "videoId": "j33iNBWSDdk"
+            "image": "https://i.ytimg.com/vi/OsdWh1fvKhE/hqdefault.jpg",
+            "videoId": "OsdWh1fvKhE"
         },
         {
             "rank": 2,
